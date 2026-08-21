@@ -81,6 +81,7 @@ def main() -> None:
         "top25": top_rows,
     }
     output = ROOT / "build" / "final-audit.json"
+    output.parent.mkdir(parents=True, exist_ok=True)
     output.write_text(json.dumps(report, indent=2) + "\n", encoding="utf-8")
     print(json.dumps({key: value for key, value in report.items() if key != "top25"}, indent=2))
     if issues:
