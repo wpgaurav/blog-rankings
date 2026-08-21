@@ -1,0 +1,42 @@
+schema_version: 1
+categories:
+  - slug: technology
+    name: Technology
+    description: Reporting, analysis, reviews, and teaching about software, devices, AI, security, and the systems shaping technology.
+    subcategories: [consumer-technology, software, artificial-intelligence, cybersecurity, wordpress]
+  - slug: business
+    name: Business and Entrepreneurship
+    description: Practical publishing about companies, startups, SaaS, leadership, operations, and creator businesses.
+    subcategories: [startups, saas, leadership, operations, creator-business]
+  - slug: marketing-seo
+    name: Marketing and SEO
+    description: Evidence-led publishing about search, content, copywriting, distribution, analytics, and paid acquisition.
+    subcategories: [seo, content-marketing, copywriting, social-media, paid-media, analytics]
+  - slug: personal-finance
+    name: Personal Finance
+    description: Educational publishing about saving, investing, debt, tax, financial planning, and financial independence.
+    subcategories: [saving, investing, debt, tax, financial-independence]
+  - slug: science
+    name: Science
+    description: Research communication and analysis across the physical, life, earth, space, and environmental sciences.
+    subcategories: [space, physics, biology, climate, research]
+  - slug: education
+    name: Education
+    description: Publishing about teaching, learning science, higher education, curriculum, and study practice.
+    subcategories: [teaching, learning-science, higher-education, curriculum, study-skills]
+  - slug: health
+    name: Health and Wellness
+    description: Evidence-aware publishing about public health, fitness, nutrition, mental health, and sustainable wellbeing.
+    subcategories: [public-health, fitness, nutrition, mental-health, wellbeing]
+  - slug: travel
+    name: Travel
+    description: Original destination reporting, practical travel guidance, and experience-led cultural coverage.
+    subcategories: [budget, luxury, family, solo, destination-reporting]
+  - slug: food
+    name: Food
+    description: Recipes, culinary technique, restaurant culture, food history, and food science.
+    subcategories: [recipes, technique, restaurants, food-culture, food-science]
+  - slug: culture-entertainment
+    name: Culture and Entertainment
+    description: Criticism, reporting, and analysis about books, film, television, music, games, and popular culture.
+    subcategories: [books, film, television, music, gaming, criticism]

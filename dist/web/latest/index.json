@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "project": "Gatilab Blog Rankings",
+  "edition": "2026-09",
+  "generated_at": "2026-08-21T12:00:00Z",
+  "categories": [
+    {
+      "slug": "marketing-seo",
+      "name": "Marketing and SEO",
+      "description": "Evidence-led publishing about search, content, copywriting, distribution, analytics, and paid acquisition.",
+      "edition": "2026-09",
+      "status": "beta",
+      "endpoint": "marketing-seo.json"
+    },
+    {
+      "slug": "technology",
+      "name": "Technology",
+      "description": "Reporting, analysis, reviews, and teaching about software, devices, AI, security, and the systems shaping technology.",
+      "edition": "2026-09",
+      "status": "beta",
+      "endpoint": "technology.json"
+    }
+  ]
+}

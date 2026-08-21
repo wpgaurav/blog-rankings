@@ -1,0 +1,17 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/wpgaurav/blog-rankings/schema/web-payload.schema.json",
+  "title": "Gatilab Blog Rankings web payload",
+  "type": "object",
+  "required": ["schema_version", "project", "edition", "status", "generated_at", "category", "tracks", "links"],
+  "properties": {
+    "schema_version": {"const": 1},
+    "project": {"const": "Gatilab Blog Rankings"},
+    "edition": {"type": "string"},
+    "status": {"enum": ["beta", "final"]},
+    "generated_at": {"type": "string"},
+    "category": {"type": "object", "required": ["slug", "name", "description"]},
+    "tracks": {"type": "object", "required": ["independent", "publisher_company"]},
+    "links": {"type": "object", "required": ["repository", "methodology", "independent_markdown", "publisher_company_markdown"]}
+  }
+}

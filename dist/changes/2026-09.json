@@ -1,0 +1,214 @@
+{
+  "marketing-seo": {
+    "independent": [
+      {
+        "id": "seths-blog",
+        "rank": 1,
+        "movement": "new"
+      },
+      {
+        "id": "seofomo",
+        "rank": 2,
+        "movement": "new"
+      },
+      {
+        "id": "growth-memo",
+        "rank": 3,
+        "movement": "new"
+      },
+      {
+        "id": "detailed",
+        "rank": 4,
+        "movement": "new"
+      },
+      {
+        "id": "marketing-examples",
+        "rank": 5,
+        "movement": "new"
+      },
+      {
+        "id": "why-we-buy",
+        "rank": 6,
+        "movement": "new"
+      },
+      {
+        "id": "julian-shapiro",
+        "rank": 7,
+        "movement": "new"
+      },
+      {
+        "id": "ross-simmonds",
+        "rank": 8,
+        "movement": "new"
+      },
+      {
+        "id": "tom-critchlow",
+        "rank": 9,
+        "movement": "new"
+      },
+      {
+        "id": "brian-balfour",
+        "rank": 10,
+        "movement": "new"
+      }
+    ],
+    "publisher_company": [
+      {
+        "id": "ahrefs-blog",
+        "rank": 1,
+        "movement": "new"
+      },
+      {
+        "id": "semrush-blog",
+        "rank": 2,
+        "movement": "new"
+      },
+      {
+        "id": "search-engine-land",
+        "rank": 3,
+        "movement": "new"
+      },
+      {
+        "id": "hubspot-blog",
+        "rank": 4,
+        "movement": "new"
+      },
+      {
+        "id": "buffer-resources",
+        "rank": 5,
+        "movement": "new"
+      },
+      {
+        "id": "moz-blog",
+        "rank": 6,
+        "movement": "new"
+      },
+      {
+        "id": "content-marketing-institute",
+        "rank": 7,
+        "movement": "new"
+      },
+      {
+        "id": "cxl-blog",
+        "rank": 8,
+        "movement": "new"
+      },
+      {
+        "id": "marketingprofs",
+        "rank": 9,
+        "movement": "new"
+      },
+      {
+        "id": "copyblogger",
+        "rank": 10,
+        "movement": "new"
+      }
+    ]
+  },
+  "technology": {
+    "independent": [
+      {
+        "id": "stratechery",
+        "rank": 1,
+        "movement": "new"
+      },
+      {
+        "id": "simon-willison",
+        "rank": 2,
+        "movement": "new"
+      },
+      {
+        "id": "pragmatic-engineer",
+        "rank": 3,
+        "movement": "new"
+      },
+      {
+        "id": "daring-fireball",
+        "rank": 4,
+        "movement": "new"
+      },
+      {
+        "id": "krebs-security",
+        "rank": 5,
+        "movement": "new"
+      },
+      {
+        "id": "schneier-security",
+        "rank": 6,
+        "movement": "new"
+      },
+      {
+        "id": "404-media",
+        "rank": 7,
+        "movement": "new"
+      },
+      {
+        "id": "platformer",
+        "rank": 8,
+        "movement": "new"
+      },
+      {
+        "id": "benedict-evans",
+        "rank": 9,
+        "movement": "new"
+      },
+      {
+        "id": "tedium",
+        "rank": 10,
+        "movement": "new"
+      }
+    ],
+    "publisher_company": [
+      {
+        "id": "wired",
+        "rank": 1,
+        "movement": "new"
+      },
+      {
+        "id": "ars-technica",
+        "rank": 2,
+        "movement": "new"
+      },
+      {
+        "id": "the-verge",
+        "rank": 3,
+        "movement": "new"
+      },
+      {
+        "id": "mit-technology-review",
+        "rank": 4,
+        "movement": "new"
+      },
+      {
+        "id": "ieee-spectrum",
+        "rank": 5,
+        "movement": "new"
+      },
+      {
+        "id": "toms-hardware",
+        "rank": 6,
+        "movement": "new"
+      },
+      {
+        "id": "techcrunch",
+        "rank": 7,
+        "movement": "new"
+      },
+      {
+        "id": "android-authority",
+        "rank": 8,
+        "movement": "new"
+      },
+      {
+        "id": "engadget",
+        "rank": 9,
+        "movement": "new"
+      },
+      {
+        "id": "nine-to-five-mac",
+        "rank": 10,
+        "movement": "new"
+      }
+    ]
+  }
+}

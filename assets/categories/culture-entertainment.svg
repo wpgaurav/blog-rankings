@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-labelledby="gbr-culture-entertainment-title gbr-culture-entertainment-desc">
+  <title id="gbr-culture-entertainment-title">Culture and Entertainment Blog Rankings</title>
+  <desc id="gbr-culture-entertainment-desc">Gatilab category header for Culture and Entertainment, showing separate Independent and Publisher and Company tracks and a public Top 100.</desc>
+  <defs>
+    <pattern id="gbr-culture-entertainment-dots" width="32" height="32" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="2" fill="#d8cec5" opacity="0.55"/>
+    </pattern>
+  </defs>
+  <rect width="1600" height="900" fill="#faf7f2"/>
+  <rect x="32" y="32" width="1536" height="836" rx="30" fill="url(#gbr-culture-entertainment-dots)" stroke="#d8cec5" stroke-width="2"/>
+  <g id="category-copy">
+    <text x="96" y="132" font-family="'Google Sans Flex','Google Sans',system-ui,sans-serif" font-size="54" font-weight="700" fill="#b94720">GATILAB BLOG RANKINGS</text>
+    <text x="96" y="250" font-family="'Google Sans Flex','Google Sans',system-ui,sans-serif" font-size="90" font-weight="700" fill="#171717"><tspan x="96" dy="0">Culture and</tspan><tspan x="96" dy="100">Entertainment</tspan></text>
+    <text x="96" y="390" font-family="'Google Sans Flex','Google Sans',system-ui,sans-serif" font-size="52" font-weight="400" fill="#4b5563"><tspan x="96" dy="0">Criticism, reporting, and analysis about</tspan><tspan x="96" dy="64">books, film, television, music, games,</tspan><tspan x="96" dy="64">and popular culture.</tspan></text>
+    <path d="M96 632 H904" stroke="#cfc4ba" stroke-width="3"/>
+    <text x="96" y="696" font-family="'Google Sans Flex','Google Sans',system-ui,sans-serif" font-size="48" font-weight="600" fill="#1f2937">Independent Blogs</text>
+    <text x="96" y="758" font-family="'Google Sans Flex','Google Sans',system-ui,sans-serif" font-size="48" font-weight="600" fill="#1f2937">Publisher and Company Blogs</text>
+    <text x="96" y="834" font-family="'Google Sans Flex','Google Sans',system-ui,sans-serif" font-size="48" font-weight="400" fill="#6b7280">Top 10 on Gatilab. Full Top 100 in GitHub.</text>
+  </g>
+  <g id="category-visual" transform="translate(1120 180)">
+    <rect x="0" y="0" width="352" height="352" rx="26" fill="#ffffff" stroke="#d8cec5" stroke-width="2"/>
+    <g id="category-symbol" transform="translate(110 70)"><path d="M66 6 L82 44 L124 48 L92 76 L102 118 L66 96 L30 118 L40 76 L8 48 L50 44 Z" fill="none" stroke="#b94720" stroke-width="8" stroke-linejoin="round"/><circle cx="66" cy="66" r="20" fill="none" stroke="#1f2937" stroke-width="7"/></g>
+    <path d="M76 260 H276" stroke="#d8cec5" stroke-width="3"/>
+    <text x="176" y="326" text-anchor="middle" font-family="'Google Sans Flex','Google Sans',system-ui,sans-serif" font-size="54" font-weight="700" fill="#1f2937">TOP 100</text>
+  </g>
+  <g id="edition" transform="translate(1120 600)">
+    <path d="M0 0 H352" stroke="#1f2937" stroke-width="3"/>
+    <text x="0" y="74" font-family="'Google Sans Flex','Google Sans',system-ui,sans-serif" font-size="48" font-weight="600" fill="#b94720">MONTHLY EDITION</text>
+    <text x="0" y="132" font-family="'Google Sans Flex','Google Sans',system-ui,sans-serif" font-size="48" font-weight="400" fill="#4b5563"><tspan x="0" dy="0">Public method</tspan><tspan x="0" dy="58">Open corrections</tspan></text>
+  </g>
+</svg>

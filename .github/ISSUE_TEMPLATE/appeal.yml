@@ -1,0 +1,37 @@
+name: Appeal a ranking decision
+description: Request review of an eligibility, track, category, suspension, or ranking decision.
+title: "Appeal: "
+labels: [appeal]
+body:
+  - type: input
+    id: publication
+    attributes:
+      label: Publication and ranking URL
+    validations:
+      required: true
+  - type: dropdown
+    id: decision
+    attributes:
+      label: Decision being appealed
+      options:
+        - Eligibility
+        - Track
+        - Category
+        - Suspension or removal
+        - Component score
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: basis
+    attributes:
+      label: Evidence-based reason for review
+    validations:
+      required: true
+  - type: checkboxes
+    id: disclosure
+    attributes:
+      label: Disclosure
+      options:
+        - label: I have disclosed any material relationship with the publication.
+          required: true

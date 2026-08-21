@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-labelledby="gbr-flow-title gbr-flow-desc">
+  <title id="gbr-flow-title">Gatilab Blog Rankings monthly release flow</title>
+  <desc id="gbr-flow-desc">Six steps move nominations through automated checks, editorial review, a draft pull request, a tagged edition, and the Gatilab refresh.</desc>
+  <defs>
+    <pattern id="gbr-flow-dots" width="32" height="32" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="2" fill="#d8cec5" opacity="0.55"/>
+    </pattern>
+  </defs>
+  <rect width="1600" height="900" fill="#0f0f0f"/>
+  <text x="88" y="126" font-family="'Google Sans Flex','Google Sans',system-ui,sans-serif" font-size="54" font-weight="700" fill="#e8836f">MONTHLY RELEASE FLOW</text>
+  <text x="88" y="220" font-family="'Google Sans Flex','Google Sans',system-ui,sans-serif" font-size="76" font-weight="700" fill="#fafafa"><tspan x="88" dy="0">Automation prepares.</tspan><tspan x="88" dy="88">A human publishes.</tspan></text>
+  <g id="flow-1">
+    <circle cx="130" cy="462" r="40" fill="#b94720"/>
+    <text x="130" y="477" text-anchor="middle" font-family="'Google Sans Flex','Google Sans',system-ui,sans-serif" font-size="48" font-weight="700" fill="#ffffff">1</text>
+    <text x="192" y="476" font-family="'Google Sans Flex','Google Sans',system-ui,sans-serif" font-size="48" font-weight="600" fill="#f4f4f5">Nominations</text>
+  </g>
+  <g id="flow-2">
+    <circle cx="620" cy="462" r="40" fill="#b94720"/>
+    <text x="620" y="477" text-anchor="middle" font-family="'Google Sans Flex','Google Sans',system-ui,sans-serif" font-size="48" font-weight="700" fill="#ffffff">2</text>
+    <text x="682" y="476" font-family="'Google Sans Flex','Google Sans',system-ui,sans-serif" font-size="48" font-weight="600" fill="#f4f4f5">Data checks</text>
+  </g>
+  <g id="flow-3">
+    <circle cx="1110" cy="462" r="40" fill="#b94720"/>
+    <text x="1110" y="477" text-anchor="middle" font-family="'Google Sans Flex','Google Sans',system-ui,sans-serif" font-size="48" font-weight="700" fill="#ffffff">3</text>
+    <text x="1172" y="476" font-family="'Google Sans Flex','Google Sans',system-ui,sans-serif" font-size="48" font-weight="600" fill="#f4f4f5">Editorial review</text>
+  </g>
+  <g id="flow-4">
+    <circle cx="130" cy="662" r="40" fill="#b94720"/>
+    <text x="130" y="677" text-anchor="middle" font-family="'Google Sans Flex','Google Sans',system-ui,sans-serif" font-size="48" font-weight="700" fill="#ffffff">4</text>
+    <text x="192" y="676" font-family="'Google Sans Flex','Google Sans',system-ui,sans-serif" font-size="48" font-weight="600" fill="#f4f4f5">Draft PR</text>
+  </g>
+  <g id="flow-5">
+    <circle cx="620" cy="662" r="40" fill="#b94720"/>
+    <text x="620" y="677" text-anchor="middle" font-family="'Google Sans Flex','Google Sans',system-ui,sans-serif" font-size="48" font-weight="700" fill="#ffffff">5</text>
+    <text x="682" y="676" font-family="'Google Sans Flex','Google Sans',system-ui,sans-serif" font-size="48" font-weight="600" fill="#f4f4f5">Tagged edition</text>
+  </g>
+  <g id="flow-6">
+    <circle cx="1110" cy="662" r="40" fill="#b94720"/>
+    <text x="1110" y="677" text-anchor="middle" font-family="'Google Sans Flex','Google Sans',system-ui,sans-serif" font-size="48" font-weight="700" fill="#ffffff">6</text>
+    <text x="1172" y="676" font-family="'Google Sans Flex','Google Sans',system-ui,sans-serif" font-size="48" font-weight="600" fill="#f4f4f5">Gatilab refresh</text>
+  </g>
+  <text x="88" y="842" font-family="'Google Sans Flex','Google Sans',system-ui,sans-serif" font-size="48" font-weight="400" fill="#a1a1aa">Invalid data never replaces the last-known-good edition.</text>
+</svg>

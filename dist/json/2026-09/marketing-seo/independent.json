@@ -1,0 +1,195 @@
+{
+  "schema_version": 1,
+  "edition": "2026-09",
+  "status": "beta",
+  "category": {
+    "slug": "marketing-seo",
+    "name": "Marketing and SEO",
+    "description": "Evidence-led publishing about search, content, copywriting, distribution, analytics, and paid acquisition.",
+    "subcategories": [
+      "seo",
+      "content-marketing",
+      "copywriting",
+      "social-media",
+      "paid-media",
+      "analytics"
+    ]
+  },
+  "track": {
+    "slug": "independent",
+    "label": "Independent Blogs"
+  },
+  "count": 10,
+  "items": [
+    {
+      "rank": 1,
+      "id": "seths-blog",
+      "name": "Seth's Blog",
+      "url": "https://seths.blog/",
+      "country": "US",
+      "score": 93.6,
+      "movement": "new",
+      "best_for": "concise marketing judgment, positioning, and creative practice",
+      "reason": "Seth Godin uses short observations and durable mental models to connect marketing decisions with trust, attention, and the work of serving a specific audience.",
+      "limitation": "The compact essays rarely provide step-by-step implementation or current channel data.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://seths.blog/"
+      ]
+    },
+    {
+      "rank": 2,
+      "id": "seofomo",
+      "name": "SEOFOMO",
+      "url": "https://seofomo.co/",
+      "country": "ES",
+      "score": 90.2,
+      "movement": "new",
+      "best_for": "curated SEO changes, resources, jobs, and industry discussion",
+      "reason": "Aleyda Solis filters a noisy search industry into a consistent, practical briefing with strong source selection and international coverage.",
+      "limitation": "The newsletter format prioritizes curation over long-form original analysis on every topic.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://www.seofomo.co/"
+      ]
+    },
+    {
+      "rank": 3,
+      "id": "growth-memo",
+      "name": "Growth Memo",
+      "url": "https://growth-memo.com/",
+      "country": "US",
+      "score": 89.3,
+      "movement": "new",
+      "best_for": "strategic SEO, growth systems, and market interpretation",
+      "reason": "Kevin Indig combines search data, product thinking, and executive-level analysis to explain why growth patterns change rather than only reporting that they changed.",
+      "limitation": "The strategic register assumes familiarity with SEO and product-growth fundamentals.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://www.growth-memo.com/"
+      ]
+    },
+    {
+      "rank": 4,
+      "id": "detailed",
+      "name": "Detailed",
+      "url": "https://detailed.com/",
+      "country": "GB",
+      "score": 89.0,
+      "movement": "new",
+      "best_for": "advanced SEO analysis, competitive research, and publishing strategy",
+      "reason": "Glen Allsopp publishes unusually detailed, source-backed investigations into search results, affiliate publishing, media ownership, and competitive SEO patterns.",
+      "limitation": "The deliberately selective publishing schedule offers fewer routine updates than a daily SEO news source.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://detailed.com/"
+      ]
+    },
+    {
+      "rank": 5,
+      "id": "marketing-examples",
+      "name": "Marketing Examples",
+      "url": "https://marketingexamples.com/",
+      "country": "GB",
+      "score": 85.8,
+      "movement": "new",
+      "best_for": "concise examples of copywriting, landing pages, and distribution",
+      "reason": "Harry Dry teaches marketing through specific examples and visual breakdowns, making the useful difference between weak and effective execution easy to inspect.",
+      "limitation": "The compressed format can simplify context that matters when applying an example in a different market.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://marketingexamples.com/"
+      ]
+    },
+    {
+      "rank": 6,
+      "id": "why-we-buy",
+      "name": "Why We Buy",
+      "url": "https://learnwhywebuy.com/",
+      "country": "CA",
+      "score": 85.7,
+      "movement": "new",
+      "best_for": "buyer psychology, customer research, and message design",
+      "reason": "Katelyn Bourgoin translates behavioral science and customer research into concrete marketing decisions without stripping away the conditions and biases that shape them.",
+      "limitation": "The newsletter concentrates on buyer behavior rather than the full marketing operating system.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://learnwhywebuy.com/"
+      ]
+    },
+    {
+      "rank": 7,
+      "id": "julian-shapiro",
+      "name": "Julian Shapiro",
+      "url": "https://julian.com/",
+      "country": "US",
+      "score": 84.9,
+      "movement": "new",
+      "best_for": "growth strategy, writing, and compact learning guides",
+      "reason": "Julian Shapiro turns complex growth and writing concepts into structured, visual guides that make assumptions and decision paths unusually clear.",
+      "limitation": "The guide library is selective and does not function as a frequent industry-news publication.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://www.julian.com/"
+      ]
+    },
+    {
+      "rank": 8,
+      "id": "ross-simmonds",
+      "name": "Ross Simmonds",
+      "url": "https://rosssimmonds.com/",
+      "country": "CA",
+      "score": 84.2,
+      "movement": "new",
+      "best_for": "content distribution, B2B marketing, and repurposing systems",
+      "reason": "Ross Simmonds explains how content earns distribution and business value after publication, with practical frameworks for teams that overinvest in creation alone.",
+      "limitation": "Some material naturally leads toward agency services and broader promotional programs.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://rosssimmonds.com/"
+      ]
+    },
+    {
+      "rank": 9,
+      "id": "tom-critchlow",
+      "name": "Tom Critchlow",
+      "url": "https://tomcritchlow.com/",
+      "country": "US",
+      "score": 83.3,
+      "movement": "new",
+      "best_for": "independent consulting, strategy, and organizational change",
+      "reason": "Tom Critchlow writes openly about consulting practice, strategic influence, career design, and the organizational reality around marketing work.",
+      "limitation": "The personal essay format is less useful for readers seeking a complete tactical SEO curriculum.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://tomcritchlow.com/"
+      ]
+    },
+    {
+      "rank": 10,
+      "id": "brian-balfour",
+      "name": "Brian Balfour",
+      "url": "https://brianbalfour.com/",
+      "country": "US",
+      "score": 82.2,
+      "movement": "new",
+      "best_for": "growth models, retention, product-market fit, and team systems",
+      "reason": "Brian Balfour's essays frame growth as an interacting system of loops, channels, product behavior, and organizational choices rather than a bag of acquisition tactics.",
+      "limitation": "The archive is valuable but publishes less frequently than active growth newsletters.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://brianbalfour.com/"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,194 @@
+{
+  "schema_version": 1,
+  "edition": "2026-09",
+  "status": "beta",
+  "category": {
+    "slug": "technology",
+    "name": "Technology",
+    "description": "Reporting, analysis, reviews, and teaching about software, devices, AI, security, and the systems shaping technology.",
+    "subcategories": [
+      "consumer-technology",
+      "software",
+      "artificial-intelligence",
+      "cybersecurity",
+      "wordpress"
+    ]
+  },
+  "track": {
+    "slug": "independent",
+    "label": "Independent Blogs"
+  },
+  "count": 10,
+  "items": [
+    {
+      "rank": 1,
+      "id": "stratechery",
+      "name": "Stratechery",
+      "url": "https://stratechery.com/",
+      "country": "US",
+      "score": 91.0,
+      "movement": "new",
+      "best_for": "technology strategy and platform business analysis",
+      "reason": "Ben Thompson connects product decisions, distribution, market structure, and platform power in a consistent analytical framework.",
+      "limitation": "Much of the complete analysis and archive access requires a paid subscription.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://stratechery.com/"
+      ]
+    },
+    {
+      "rank": 2,
+      "id": "simon-willison",
+      "name": "Simon Willison's Weblog",
+      "url": "https://simonwillison.net/",
+      "country": "US",
+      "score": 90.8,
+      "movement": "new",
+      "best_for": "hands-on AI, Python, data, and open-source experiments",
+      "reason": "Simon Willison publishes reproducible technical notes, code, demos, and source links quickly enough to make a fast-moving field inspectable.",
+      "limitation": "The chronological notebook format can require more reader context than a structured beginner guide.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://simonwillison.net/"
+      ]
+    },
+    {
+      "rank": 3,
+      "id": "pragmatic-engineer",
+      "name": "The Pragmatic Engineer",
+      "url": "https://newsletter.pragmaticengineer.com/",
+      "country": "NL",
+      "score": 90.3,
+      "movement": "new",
+      "best_for": "software engineering careers, teams, and industry practice",
+      "reason": "Gergely Orosz turns engineering-management reporting, interviews, and operator evidence into practical explanations for working developers.",
+      "limitation": "Many complete reports and deep dives are available only to paid subscribers.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://newsletter.pragmaticengineer.com/"
+      ]
+    },
+    {
+      "rank": 4,
+      "id": "daring-fireball",
+      "name": "Daring Fireball",
+      "url": "https://daringfireball.net/",
+      "country": "US",
+      "score": 90.2,
+      "movement": "new",
+      "best_for": "Apple, interface, and technology-industry commentary",
+      "reason": "John Gruber combines close product observation with a distinctive editorial position and a long, searchable record of corrections and follow-up.",
+      "limitation": "The Apple-centered lens and link-blog format are narrower than a general technology publication.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://daringfireball.net/"
+      ]
+    },
+    {
+      "rank": 5,
+      "id": "krebs-security",
+      "name": "Krebs on Security",
+      "url": "https://krebsonsecurity.com/",
+      "country": "US",
+      "score": 89.2,
+      "movement": "new",
+      "best_for": "cybercrime investigations and security incident reporting",
+      "reason": "Brian Krebs produces original reporting on breaches, fraud networks, identity crime, and the people and infrastructure behind security incidents.",
+      "limitation": "The investigative focus is deliberately narrower than enterprise-security training or broad product coverage.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://krebsonsecurity.com/"
+      ]
+    },
+    {
+      "rank": 6,
+      "id": "schneier-security",
+      "name": "Schneier on Security",
+      "url": "https://schneier.com/",
+      "country": "US",
+      "score": 89.2,
+      "movement": "new",
+      "best_for": "security policy, cryptography, risk, and public-interest analysis",
+      "reason": "Bruce Schneier pairs technical security knowledge with policy context, primary links, and a durable archive that helps readers follow long-running issues.",
+      "limitation": "The site mixes short linked commentary with longer analysis, so depth varies by post.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://www.schneier.com/"
+      ]
+    },
+    {
+      "rank": 7,
+      "id": "404-media",
+      "name": "404 Media",
+      "url": "https://404media.co/",
+      "country": "US",
+      "score": 88.2,
+      "movement": "new",
+      "best_for": "original investigations into technology, surveillance, and internet culture",
+      "reason": "The worker-owned newsroom regularly produces source-led investigations that larger technology outlets follow and cite.",
+      "limitation": "Some complete articles and community features are limited to paid members.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://www.404media.co/"
+      ]
+    },
+    {
+      "rank": 8,
+      "id": "platformer",
+      "name": "Platformer",
+      "url": "https://platformer.news/",
+      "country": "US",
+      "score": 87.8,
+      "movement": "new",
+      "best_for": "social platforms, policy, moderation, and technology power",
+      "reason": "Platformer reports on the decisions and institutions governing large online platforms, with a clear distinction between reporting and analysis.",
+      "limitation": "Full access to some reporting and community discussions requires a subscription.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://www.platformer.news/"
+      ]
+    },
+    {
+      "rank": 9,
+      "id": "benedict-evans",
+      "name": "Benedict Evans",
+      "url": "https://ben-evans.com/",
+      "country": "GB",
+      "score": 85.9,
+      "movement": "new",
+      "best_for": "technology trends, market shifts, and strategic synthesis",
+      "reason": "Benedict Evans uses market data, historical comparison, and compact models to separate durable platform shifts from short-term technology noise.",
+      "limitation": "The high-level strategic view offers fewer implementation details for readers seeking tutorials.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://www.ben-evans.com/"
+      ]
+    },
+    {
+      "rank": 10,
+      "id": "tedium",
+      "name": "Tedium",
+      "url": "https://tedium.co/",
+      "country": "US",
+      "score": 82.2,
+      "movement": "new",
+      "best_for": "overlooked technology history and internet culture",
+      "reason": "Ernie Smith researches ordinary technologies and forgotten web history deeply enough to make apparently minor subjects useful and memorable.",
+      "limitation": "The deliberately eclectic subject selection is less useful for readers tracking one narrow industry beat.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://tedium.co/"
+      ]
+    }
+  ]
+}

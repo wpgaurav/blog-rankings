@@ -1,0 +1,117 @@
+schema_version: 1
+edition: 2026-09
+published_at: 2026-08-21T12:00:00Z
+status: beta
+category: technology
+track: publisher_company
+entries:
+  - id: wired
+    name: WIRED
+    canonical_url: https://www.wired.com/
+    country: US
+    best_for: technology reporting with science, business, and cultural context
+    reason: WIRED combines original reporting, investigations, product coverage, and long-form analysis across technology's social and commercial consequences.
+    limitation: The broad remit and subscription model make depth and access uneven across sections.
+    confidence: provisional
+    reviewed_at: 2026-08-21
+    evidence_urls: [https://www.wired.com/]
+    scores: {editorial_quality: 95, trust: 91, reach: 96, freshness: 96, ux: 78, impact: 96}
+  - id: ars-technica
+    name: Ars Technica
+    canonical_url: https://arstechnica.com/
+    country: US
+    best_for: technically literate reporting on computing, policy, science, and security
+    reason: Ars Technica explains mechanisms and consequences with more technical depth than most general technology publications while maintaining a strong reporting desk.
+    limitation: Its detail and assumed background can feel dense for casual readers.
+    confidence: provisional
+    reviewed_at: 2026-08-21
+    evidence_urls: [https://arstechnica.com/]
+    scores: {editorial_quality: 96, trust: 93, reach: 90, freshness: 95, ux: 82, impact: 94}
+  - id: the-verge
+    name: The Verge
+    canonical_url: https://www.theverge.com/
+    country: US
+    best_for: consumer technology, platforms, policy, and product culture
+    reason: The Verge pairs fast reporting with strong visual storytelling, product expertise, and analysis of how technology changes everyday behavior.
+    limitation: Its editorial voice and high publishing volume can produce uneven depth across individual stories.
+    confidence: provisional
+    reviewed_at: 2026-08-21
+    evidence_urls: [https://www.theverge.com/]
+    scores: {editorial_quality: 92, trust: 88, reach: 95, freshness: 98, ux: 83, impact: 94}
+  - id: mit-technology-review
+    name: MIT Technology Review
+    canonical_url: https://www.technologyreview.com/
+    country: US
+    best_for: emerging technology, AI, climate, biotechnology, and policy
+    reason: MIT Technology Review connects research and industry developments to public consequences with specialist reporting and an unusually clear evidence boundary.
+    limitation: A subscription is required for much of the complete reporting.
+    confidence: provisional
+    reviewed_at: 2026-08-21
+    evidence_urls: [https://www.technologyreview.com/]
+    scores: {editorial_quality: 96, trust: 95, reach: 86, freshness: 91, ux: 84, impact: 92}
+  - id: techcrunch
+    name: TechCrunch
+    canonical_url: https://techcrunch.com/
+    country: US
+    best_for: startups, venture capital, product launches, and technology business news
+    reason: TechCrunch maintains one of the broadest active reporting networks for startup funding, company changes, product announcements, and venture markets.
+    limitation: The speed and volume of coverage leave less room for depth in many daily stories.
+    confidence: provisional
+    reviewed_at: 2026-08-21
+    evidence_urls: [https://techcrunch.com/]
+    scores: {editorial_quality: 86, trust: 86, reach: 94, freshness: 98, ux: 78, impact: 93}
+  - id: ieee-spectrum
+    name: IEEE Spectrum
+    canonical_url: https://spectrum.ieee.org/
+    country: US
+    best_for: engineering, robotics, electronics, energy, and applied research
+    reason: IEEE Spectrum covers working technologies through engineers, specialist reporters, technical diagrams, and close attention to how systems are built.
+    limitation: Its engineering focus is narrower than general consumer or startup coverage.
+    confidence: provisional
+    reviewed_at: 2026-08-21
+    evidence_urls: [https://spectrum.ieee.org/]
+    scores: {editorial_quality: 94, trust: 95, reach: 81, freshness: 89, ux: 83, impact: 88}
+  - id: toms-hardware
+    name: Tom's Hardware
+    canonical_url: https://www.tomshardware.com/
+    country: US
+    best_for: PC hardware testing, components, benchmarks, and buying decisions
+    reason: Tom's Hardware combines a deep testing archive with current component news, benchmark methodology, and practical system-building coverage.
+    limitation: Commercial buying coverage can overwhelm readers who want broader technology analysis.
+    confidence: provisional
+    reviewed_at: 2026-08-21
+    evidence_urls: [https://www.tomshardware.com/]
+    scores: {editorial_quality: 89, trust: 88, reach: 91, freshness: 96, ux: 77, impact: 87}
+  - id: android-authority
+    name: Android Authority
+    canonical_url: https://www.androidauthority.com/
+    country: US
+    best_for: Android devices, mobile software, testing, and buying guidance
+    reason: Android Authority combines a focused mobile beat with product testing, explainers, opinion, and a large archive of practical device guidance.
+    limitation: The consumer-device focus leaves limited room for broader software and technology policy.
+    confidence: provisional
+    reviewed_at: 2026-08-21
+    evidence_urls: [https://www.androidauthority.com/]
+    scores: {editorial_quality: 86, trust: 84, reach: 91, freshness: 98, ux: 76, impact: 84}
+  - id: engadget
+    name: Engadget
+    canonical_url: https://www.engadget.com/
+    country: US
+    best_for: consumer electronics news, reviews, and major industry events
+    reason: Engadget maintains broad daily consumer-technology coverage with experienced reviewers and useful event reporting.
+    limitation: High publishing volume and commercial coverage make individual article depth inconsistent.
+    confidence: provisional
+    reviewed_at: 2026-08-21
+    evidence_urls: [https://www.engadget.com/]
+    scores: {editorial_quality: 84, trust: 84, reach: 90, freshness: 98, ux: 77, impact: 86}
+  - id: nine-to-five-mac
+    name: 9to5Mac
+    canonical_url: https://9to5mac.com/
+    country: US
+    best_for: Apple news, software releases, devices, and ecosystem reporting
+    reason: 9to5Mac follows Apple products and software continuously, often surfacing release details and ecosystem changes before general outlets catch up.
+    limitation: Its narrow Apple focus and fast news cycle produce less value outside that ecosystem.
+    confidence: provisional
+    reviewed_at: 2026-08-21
+    evidence_urls: [https://9to5mac.com/]
+    scores: {editorial_quality: 84, trust: 83, reach: 88, freshness: 99, ux: 78, impact: 84}
