@@ -1,0 +1,10 @@
+{
+  "name": "gatilab-blog-rankings",
+  "private": true,
+  "scripts": {
+    "render:graphics": "node scripts/render_png_graphics.mjs"
+  },
+  "devDependencies": {
+    "playwright": "1.62.1"
+  }
+}

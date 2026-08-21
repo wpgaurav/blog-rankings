@@ -11,7 +11,8 @@ if ( ! defined( 'ABSPATH' ) ) {
 }
 
 get_header();
-$categories = gatilab_br_categories();
+$categories  = gatilab_br_categories();
+$hub_graphic = gatilab_br_featured_graphic_url();
 ?>
 <main id="content" class="gbr gbr-hub">
 	<header class="gbr-hero" aria-labelledby="gbr-title">
@@ -26,11 +27,10 @@ $categories = gatilab_br_categories();
 				</div>
 				<p class="gbr-hero__meta"><?php esc_html_e( '10 categories. 2 separate tracks. Updated through reviewed monthly releases.', 'md-new' ); ?></p>
 			</div>
-			<div class="gbr-hero__visual" aria-label="<?php esc_attr_e( 'Three rising ranking bars connected by a measured movement line.', 'md-new' ); ?>">
-				<span class="gbr-hero__bar gbr-hero__bar--one"></span>
-				<span class="gbr-hero__bar gbr-hero__bar--two"></span>
-				<span class="gbr-hero__bar gbr-hero__bar--three"></span>
-				<svg viewBox="0 0 300 190" aria-hidden="true" focusable="false"><path d="M44 146 L150 92 L256 30"/><circle cx="44" cy="146" r="7"/><circle cx="150" cy="92" r="7"/><circle cx="256" cy="30" r="7"/></svg>
+			<div class="gbr-hero__visual gbr-hero__visual--graphic">
+				<?php if ( $hub_graphic ) : ?>
+					<img src="<?php echo esc_url( $hub_graphic ); ?>" alt="<?php esc_attr_e( 'Gatilab Blog Rankings award directory with 10 topics, two separate tracks, and complete Top 100 lists.', 'md-new' ); ?>" width="1600" height="900" fetchpriority="high" decoding="async">
+				<?php endif; ?>
 			</div>
 		</div>
 	</header>

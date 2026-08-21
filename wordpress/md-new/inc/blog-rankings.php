@@ -64,6 +64,37 @@ function gatilab_br_categories() {
 }
 
 /**
+ * Return the full-size featured graphic for a ranking page.
+ *
+ * @param int $post_id Optional page ID.
+ * @return string
+ */
+function gatilab_br_featured_graphic_url( $post_id = 0 ) {
+	$post_id = $post_id ? absint( $post_id ) : get_queried_object_id();
+	$url     = get_the_post_thumbnail_url( $post_id, 'full' );
+
+	return $url ? esc_url_raw( $url ) : '';
+}
+
+/**
+ * Return the media-library URL for a podium rank badge.
+ *
+ * @param int $rank Rank from 1 through 3.
+ * @return string
+ */
+function gatilab_br_rank_badge_url( $rank ) {
+	$rank = absint( $rank );
+	if ( $rank < 1 || $rank > 3 ) {
+		return '';
+	}
+
+	$urls = get_option( 'gatilab_br_rank_badge_urls', array() );
+	$url  = is_array( $urls ) ? ( $urls[ $rank ] ?? '' ) : '';
+
+	return esc_url_raw( (string) $url, array( 'https' ) );
+}
+
+/**
  * Return the configured raw-data base URL.
  *
  * @return string
@@ -455,8 +486,13 @@ function gatilab_br_render_track( $track, $track_slug ) {
 
 		<div class="gbr-podium" role="list">
 			<?php foreach ( array_slice( $items, 0, 3 ) as $item ) : ?>
+				<?php $rank_badge_url = gatilab_br_rank_badge_url( $item['rank'] ); ?>
 				<article class="gbr-podium__item" role="listitem">
-					<div class="gbr-rank" aria-label="<?php /* translators: %d: Ranking position. */ echo esc_attr( sprintf( __( 'Rank %d', 'md-new' ), $item['rank'] ) ); ?>"><?php echo esc_html( $item['rank'] ); ?></div>
+					<?php if ( $rank_badge_url ) : ?>
+						<img class="gbr-rank-badge" src="<?php echo esc_url( $rank_badge_url ); ?>" alt="<?php /* translators: %d: Ranking position. */ echo esc_attr( sprintf( __( 'Rank %d laurel badge', 'md-new' ), $item['rank'] ) ); ?>" width="128" height="128" loading="lazy" decoding="async">
+					<?php else : ?>
+						<div class="gbr-rank" aria-label="<?php /* translators: %d: Ranking position. */ echo esc_attr( sprintf( __( 'Rank %d', 'md-new' ), $item['rank'] ) ); ?>"><?php echo esc_html( $item['rank'] ); ?></div>
+					<?php endif; ?>
 					<div class="gbr-podium__copy">
 						<h3><a href="<?php echo esc_url( $item['url'] ); ?>" rel="nofollow noopener"><?php echo esc_html( $item['name'] ); ?></a></h3>
 						<p class="gbr-best-for"><strong><?php esc_html_e( 'Best for:', 'md-new' ); ?></strong> <?php echo esc_html( $item['best_for'] ); ?></p>

@@ -1,0 +1,118 @@
+{
+  "format": "png",
+  "compression": "pngquant 78-95, stripped",
+  "assets": [
+    {
+      "path": "assets/png-graphics/categories/business.png",
+      "dimensions": "1600x900",
+      "channels": "srgb  4.0",
+      "original_bytes": 109163,
+      "compressed_bytes": 35775,
+      "sha256": "ff12e0b9517960dac596be0104ceb934bcc6cc35545eb12d251241bb45da8a07"
+    },
+    {
+      "path": "assets/png-graphics/categories/culture-entertainment.png",
+      "dimensions": "1600x900",
+      "channels": "srgb  4.0",
+      "original_bytes": 108995,
+      "compressed_bytes": 34994,
+      "sha256": "5f3b471c5495bf6ccdfe97fe946fd2a0b6973b1f71116fed9233cdff999b67dd"
+    },
+    {
+      "path": "assets/png-graphics/categories/education.png",
+      "dimensions": "1600x900",
+      "channels": "srgb  4.0",
+      "original_bytes": 108349,
+      "compressed_bytes": 35292,
+      "sha256": "cac2a8b5d87ed033c332455a3088437be6c4f4f4440368033d0008efd3041842"
+    },
+    {
+      "path": "assets/png-graphics/categories/food.png",
+      "dimensions": "1600x900",
+      "channels": "srgb  4.0",
+      "original_bytes": 98120,
+      "compressed_bytes": 31128,
+      "sha256": "01522dae4a3accfa174310b1437f7af1991798b174c1a0d79048d4d8c43b9f7d"
+    },
+    {
+      "path": "assets/png-graphics/categories/health.png",
+      "dimensions": "1600x900",
+      "channels": "srgb  4.0",
+      "original_bytes": 111533,
+      "compressed_bytes": 36609,
+      "sha256": "dfc796a3989c55d96369d01705730603328e4f8fb81762055352535612327202"
+    },
+    {
+      "path": "assets/png-graphics/categories/marketing-seo.png",
+      "dimensions": "1600x900",
+      "channels": "srgb  4.0",
+      "original_bytes": 110605,
+      "compressed_bytes": 35365,
+      "sha256": "f8877f7c251658ad6f255e6533099968c63cbcd2d09713516b6b9f3c539dab90"
+    },
+    {
+      "path": "assets/png-graphics/categories/personal-finance.png",
+      "dimensions": "1600x900",
+      "channels": "srgb  4.0",
+      "original_bytes": 108959,
+      "compressed_bytes": 35018,
+      "sha256": "717bf776e6f973f8ca85ff705fa4aba79d145a1ea6eabb56936f73b1cdeebce2"
+    },
+    {
+      "path": "assets/png-graphics/categories/science.png",
+      "dimensions": "1600x900",
+      "channels": "srgb  4.0",
+      "original_bytes": 106336,
+      "compressed_bytes": 34787,
+      "sha256": "cd12b885618f6cf6992af31e59e53facf9f2c7f4a72c4a2288f1e3c62e22b1a4"
+    },
+    {
+      "path": "assets/png-graphics/categories/technology.png",
+      "dimensions": "1600x900",
+      "channels": "srgb  4.0",
+      "original_bytes": 101813,
+      "compressed_bytes": 32424,
+      "sha256": "6f48132af09747c073937b13fc59cb3192b5dc1acec959e13ad6a9add52837cd"
+    },
+    {
+      "path": "assets/png-graphics/categories/travel.png",
+      "dimensions": "1600x900",
+      "channels": "srgb  4.0",
+      "original_bytes": 102481,
+      "compressed_bytes": 33071,
+      "sha256": "adfc3b679d0e130767f41942552dd87ee39f2a20671d21a36adfe2c43f5bfd3b"
+    },
+    {
+      "path": "assets/png-graphics/hub.png",
+      "dimensions": "1600x900",
+      "channels": "srgb  4.0",
+      "original_bytes": 147891,
+      "compressed_bytes": 47571,
+      "sha256": "5bdaec7d96c0e127c45becb3a82992e48fcebc69d4079b60d945ffcafdc9f557"
+    },
+    {
+      "path": "assets/png-graphics/rank-badges/rank-1.png",
+      "dimensions": "512x512",
+      "channels": "srgba 5.0",
+      "original_bytes": 103258,
+      "compressed_bytes": 34512,
+      "sha256": "a4b5b471a587fc5e00a2fd0c79532b357c62f48848ef86fe6fb03f06c7ead1b4"
+    },
+    {
+      "path": "assets/png-graphics/rank-badges/rank-2.png",
+      "dimensions": "512x512",
+      "channels": "srgba 5.0",
+      "original_bytes": 99388,
+      "compressed_bytes": 31437,
+      "sha256": "3f28d5b0a598566b1db2a178476b661317781226f8f3db58d4b171cfb9f22aed"
+    },
+    {
+      "path": "assets/png-graphics/rank-badges/rank-3.png",
+      "dimensions": "512x512",
+      "channels": "srgba 5.0",
+      "original_bytes": 105365,
+      "compressed_bytes": 31827,
+      "sha256": "cf7008227b35679c71e8e58f5f1fb77bf1d39e2687bb6e45d5fc5ffa5fdd634f"
+    }
+  ]
+}

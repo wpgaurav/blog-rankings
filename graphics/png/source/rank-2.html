@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en" class="antialiased">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=1080">
+<title>Rank 2 laurel badge</title>
+<script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+<style>
+
+@font-face { font-family:'Valley Sans'; src:url('file:///Library/Fonts/ValleySans%5Bwght%5D.ttf') format('truetype'); font-weight:100 900; font-style:normal; font-display:block; }
+@font-face { font-family:'Really Sans Large'; src:url('file:///Users/gauravtiwari/Library/Fonts/ReallySansLarge-Regular.otf') format('opentype'); font-weight:400; font-style:normal; }
+@font-face { font-family:'Really Sans Large'; src:url('file:///Users/gauravtiwari/Library/Fonts/ReallySansLarge-Semibold.otf') format('opentype'); font-weight:600; font-style:normal; }
+@font-face { font-family:'Really Sans Large'; src:url('file:///Users/gauravtiwari/Library/Fonts/ReallySansLarge-Bold.otf') format('opentype'); font-weight:700; font-style:normal; }
+
+
+:root { --accent:#dc2626; --ink:#0a0a0a; --soft:#52525b; --faint:#71717a; --wash:#f4f5f7; --surface:#ffffff; --line:#d9dce2; }
+* { box-sizing:border-box; }
+html, body { margin:0; min-height:100%; }
+html { font-family:'Valley Sans',sans-serif; letter-spacing:0; }
+h1, h2, h3, .heading { font-family:'Really Sans Large',sans-serif; letter-spacing:0!important; }
+.canvas-grid { background-color:var(--wash); background-image:linear-gradient(var(--line) 1px,transparent 1px),linear-gradient(90deg,var(--line) 1px,transparent 1px); background-size:24px 24px; }
+.safe { padding:28px 32px; }
+.eyebrow { color:var(--accent); font-size:12px; font-weight:750; line-height:1; text-transform:uppercase; }
+.muted { color:var(--soft); }
+.tabular { font-variant-numeric:tabular-nums; }
+
+body { background:transparent; }
+
+.badge { --edge:#68707a; --metal:#bfc5ce; --shine:#f5f7fa; --shade:#7f8791; position:relative; width:256px; height:256px; background:transparent; }
+.laurel { position:absolute; inset:0; }
+.leaf { position:absolute; width:23px; height:45px; border:1px solid var(--edge); border-radius:100% 0 100% 0; background:linear-gradient(135deg,var(--shine) 0%,var(--metal) 48%,var(--shade) 100%); box-shadow:inset 2px 2px 4px rgba(255,255,255,.42),inset -2px -2px 4px rgba(0,0,0,.18); }
+.stem-left,.stem-right { position:absolute; top:74px; width:2px; height:124px; border-radius:99px; background:linear-gradient(var(--shine),var(--shade)); transform-origin:50% 100%; }
+.stem-left { left:66px; transform:rotate(-24deg); }
+.stem-right { right:66px; transform:rotate(24deg); }
+.medallion { position:absolute; left:50%; top:50%; width:118px; height:118px; transform:translate(-50%,-50%); border:3px solid var(--edge); border-radius:999px; background:radial-gradient(circle at 34% 27%,var(--shine) 0 16%,var(--metal) 42%,var(--shade) 100%); box-shadow:0 7px 16px rgba(10,10,10,.22),inset 0 0 0 5px color-mix(in srgb,var(--shine) 56%,transparent),inset 0 0 0 8px color-mix(in srgb,var(--edge) 72%,transparent); }
+.number { color:#20252b; font-family:'Really Sans Large',sans-serif; font-size:72px; font-weight:700; line-height:1; text-shadow:0 1px 0 rgba(255,255,255,.28); }
+
+</style>
+</head>
+<body>
+<main class="badge relative h-[256px] w-[256px] overflow-hidden" data-min-font-size="11" data-min-text-padding="8" aria-label="Rank 2 laurel badge">
+  <div class="laurel" aria-hidden="true">
+    <span class="stem-left"></span><span class="stem-right"></span><span class="leaf" style="left:65px;top:82px;transform:translate(-50%,-50%) rotate(-62deg) scaleX(-1);"></span><span class="leaf" style="left:52px;top:110px;transform:translate(-50%,-50%) rotate(-42deg) scaleX(-1);"></span><span class="leaf" style="left:49px;top:142px;transform:translate(-50%,-50%) rotate(-24deg) scaleX(-1);"></span><span class="leaf" style="left:58px;top:173px;transform:translate(-50%,-50%) rotate(-6deg) scaleX(-1);"></span><span class="leaf" style="left:75px;top:200px;transform:translate(-50%,-50%) rotate(12deg) scaleX(-1);"></span><span class="leaf" style="left:67px;top:220px;transform:translate(-50%,-50%) rotate(28deg) scaleX(-1);"></span><span class="leaf" style="left:191px;top:82px;transform:translate(-50%,-50%) rotate(62deg) scaleX(1);"></span><span class="leaf" style="left:204px;top:110px;transform:translate(-50%,-50%) rotate(42deg) scaleX(1);"></span><span class="leaf" style="left:207px;top:142px;transform:translate(-50%,-50%) rotate(24deg) scaleX(1);"></span><span class="leaf" style="left:198px;top:173px;transform:translate(-50%,-50%) rotate(6deg) scaleX(1);"></span><span class="leaf" style="left:181px;top:200px;transform:translate(-50%,-50%) rotate(-12deg) scaleX(1);"></span><span class="leaf" style="left:189px;top:220px;transform:translate(-50%,-50%) rotate(-28deg) scaleX(1);"></span>
+  </div>
+  <div class="medallion flex items-center justify-center"><span class="number tabular">2</span></div>
+</main>
+</body>
+</html>
