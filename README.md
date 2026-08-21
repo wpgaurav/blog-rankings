@@ -29,8 +29,9 @@ Read [METHODOLOGY.md](METHODOLOGY.md) before interpreting a rank or submitting a
 data/                  Human-edited ranking sources
 dist/                  Generated Markdown and JSON
 schema/                Machine-readable contracts
-scripts/               Build, validation, and asset tools
-assets/                Editable identity, badge, category, and social SVGs
+scripts/               Build, validation, rendering, compression, and publishing tools
+assets/                SVG masters plus compressed production PNG graphics
+graphics/png/source/   Tailwind HTML sources for hub, category, and rank graphics
 wordpress/md-new/      Gatilab child-theme integration
 .github/               Validation, release, nomination, correction, and appeal flows
 ```
@@ -46,6 +47,22 @@ python3 -m venv .venv
 ```
 
 Generated files in `dist/` are committed, but must not be edited by hand.
+
+## PNG Graphics
+
+The production graphic family follows the Gatilab Everyday Evidence system: a neutral structured grid, one restrained red accent, familiar award/reference-sheet frames, and real ranking relationships. The hub and category graphics render at 1600×900. The gold, silver, and bronze rank laurels render at 512×512 with transparent outer pixels.
+
+The HTML sources use Tailwind CSS v4 and the Gatilab display/body font roles. Regenerate them after the reviewed ranking data changes, then compress the PNGs before uploading them to WordPress:
+
+```bash
+python3 scripts/build_png_graphics.py
+npm install
+npx playwright install chromium
+npm run render:graphics
+python3 scripts/compress_png_graphics.py
+```
+
+The compression manifest records dimensions, color channels, byte sizes, and SHA-256 hashes. Keep the transparent rank badges in the WordPress media library; the child theme reads their URLs from `gatilab_br_rank_badge_urls` and reads the hub/category art from each page's featured image.
 
 ## Public URLs
 

@@ -10,9 +10,10 @@ if ( ! defined( 'ABSPATH' ) ) {
 	exit;
 }
 
-$category   = gatilab_br_page_category();
-$categories = gatilab_br_categories();
-$payload    = $category ? gatilab_br_get_payload( $category ) : null;
+$category         = gatilab_br_page_category();
+$categories       = gatilab_br_categories();
+$payload          = $category ? gatilab_br_get_payload( $category ) : null;
+$category_graphic = gatilab_br_featured_graphic_url();
 
 get_header();
 ?>
@@ -39,7 +40,7 @@ get_header();
 					</p>
 				</div>
 				<div class="gbr-hero__visual gbr-hero__visual--category">
-					<img src="<?php echo esc_url( MD_CHILD_URL . 'assets/images/blog-rankings/' . $category . '.svg' ); ?>" alt="<?php /* translators: %s: Ranking category name. */ echo esc_attr( sprintf( __( '%s Blog Rankings category graphic', 'md-new' ), $payload['category']['name'] ) ); ?>" width="800" height="450">
+					<img src="<?php echo esc_url( $category_graphic ? $category_graphic : MD_CHILD_URL . 'assets/images/blog-rankings/' . $category . '.svg' ); ?>" alt="<?php /* translators: %s: Ranking category name. */ echo esc_attr( sprintf( __( '%s Blog Rankings showing the Top 3 publications in both ranking tracks.', 'md-new' ), $payload['category']['name'] ) ); ?>" width="1600" height="900" fetchpriority="high" decoding="async">
 				</div>
 			</div>
 		</header>
