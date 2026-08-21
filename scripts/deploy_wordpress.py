@@ -137,6 +137,16 @@ def install_server_cron(wp_root: str, backup: str, env: dict[str, str]) -> bool:
 def main() -> None:
     parser = argparse.ArgumentParser()
     parser.add_argument("--source-ref", required=True, help="Immutable Git commit used for preview JSON")
+    parser.add_argument(
+        "--preserve-source",
+        action="store_true",
+        help="Keep the currently configured ranking feed instead of pinning it to --source-ref",
+    )
+    parser.add_argument(
+        "--skip-provision",
+        action="store_true",
+        help="Deploy theme files without creating or modifying ranking pages",
+    )
     parser.add_argument("--output", type=Path, default=ROOT / "build" / "wordpress-deploy.json")
     args = parser.parse_args()
 
@@ -194,20 +204,36 @@ def main() -> None:
         )
     remote_run(" && ".join(install_commands), env)
 
-    source_base = f"https://raw.githubusercontent.com/wpgaurav/blog-rankings/{args.source_ref}/dist/web/latest/"
-    wp_command(["option", "update", "gatilab_br_source_base", source_base, "--autoload=no"], env)
-    provision = wp_command(["eval-file", f"{remote_temp}/provision-pages.php"], env)
-    refresh = wp_command(["eval", "$result = gatilab_br_refresh_all(); echo wp_json_encode($result);"], env)
-    server_cron = install_server_cron(wp_root, backup, env)
-    wp_command(["cache", "flush"], env)
+    try:
+        if args.preserve_source:
+            source_base = wp_command(["option", "get", "gatilab_br_source_base"], env)
+            if not source_base.startswith("https://"):
+                raise RuntimeError("The existing ranking feed is not a valid HTTPS URL")
+        else:
+            source_base = f"https://raw.githubusercontent.com/wpgaurav/blog-rankings/{args.source_ref}/dist/web/latest/"
+            wp_command(["option", "update", "gatilab_br_source_base", source_base, "--autoload=no"], env)
 
-    verification = wp_command(
-        [
-            "eval",
-            "$out=array('active'=>get_stylesheet(),'source'=>get_option('gatilab_br_source_base'),'technology'=>get_option('gatilab_br_payload_technology'),'marketing'=>get_option('gatilab_br_payload_marketing-seo')); echo wp_json_encode(array('active'=>$out['active'],'source'=>$out['source'],'technology_edition'=>$out['technology']['payload']['edition']??null,'marketing_edition'=>$out['marketing']['payload']['edition']??null));",
-        ],
-        env,
-    )
+        if args.skip_provision:
+            provision = {"skipped": True, "reason": "published-theme-update"}
+        else:
+            provision = json.loads(wp_command(["eval-file", f"{remote_temp}/provision-pages.php"], env))
+
+        refresh = json.loads(wp_command(["eval", "$result = gatilab_br_refresh_all(); echo wp_json_encode($result);"], env))
+        server_cron = install_server_cron(wp_root, backup, env)
+        wp_command(["cache", "flush"], env)
+
+        verification = json.loads(
+            wp_command(
+                [
+                    "eval",
+                    "$out=array('active'=>get_stylesheet(),'source'=>get_option('gatilab_br_source_base'),'technology'=>get_option('gatilab_br_payload_technology'),'marketing'=>get_option('gatilab_br_payload_marketing-seo')); echo wp_json_encode(array('active'=>$out['active'],'source'=>$out['source'],'technology_edition'=>$out['technology']['payload']['edition']??null,'marketing_edition'=>$out['marketing']['payload']['edition']??null));",
+                ],
+                env,
+            )
+        )
+    except Exception:
+        remote_run(f"rm -r {shlex.quote(remote_temp)}", env)
+        raise
 
     remote_run(f"rm -r {shlex.quote(remote_temp)}", env)
     report = {
@@ -216,10 +242,10 @@ def main() -> None:
         "source_base": source_base,
         "backup": backup,
         "active_theme": active,
-        "provision": json.loads(provision),
-        "refresh": json.loads(refresh),
+        "provision": provision,
+        "refresh": refresh,
         "server_cron": server_cron,
-        "verification": json.loads(verification),
+        "verification": verification,
     }
     args.output.parent.mkdir(parents=True, exist_ok=True)
     args.output.write_text(json.dumps(report, indent=2) + "\n", encoding="utf-8")
