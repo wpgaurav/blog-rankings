@@ -1,0 +1,59 @@
+name: Nominate a blog
+description: Suggest an eligible publication for a future edition.
+title: "Nomination: "
+labels: [nomination]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Publication name
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: Canonical URL
+      placeholder: https://example.com/
+    validations:
+      required: true
+  - type: dropdown
+    id: track
+    attributes:
+      label: Proposed track
+      options:
+        - Independent Blog
+        - Publisher and Company Blog
+        - Unsure
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Primary category
+      options:
+        - Technology
+        - Business and Entrepreneurship
+        - Marketing and SEO
+        - Personal Finance
+        - Science
+        - Education
+        - Health and Wellness
+        - Travel
+        - Food
+        - Culture and Entertainment
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Why it belongs
+      description: Link to representative work and explain what the publication adds.
+    validations:
+      required: true
+  - type: checkboxes
+    id: disclosure
+    attributes:
+      label: Disclosure
+      options:
+        - label: I have disclosed any employment, ownership, client, affiliate, financial, or personal relationship with this publication.
+          required: true

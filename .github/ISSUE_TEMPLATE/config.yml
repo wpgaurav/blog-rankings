@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Read the methodology first
+    url: https://github.com/wpgaurav/blog-rankings/blob/main/METHODOLOGY.md
+    about: Eligibility, scoring, tracks, corrections, and commercial separation.

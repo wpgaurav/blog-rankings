@@ -1,0 +1,2063 @@
+schema_version: 1
+edition: 2026-09
+published_at: '2026-08-21T12:00:00Z'
+status: final
+category: marketing-seo
+track: publisher_company
+entries:
+- id: contentmarketinginstitute-com
+  name: Content Marketing Institute
+  canonical_url: https://contentmarketinginstitute.com/
+  country: XX
+  best_for: content operations, editorial strategy, teams, and measurement
+  reason: Content Marketing Institute covers the organizational and operational work around content, not only writing and
+    promotion tactics.
+  limitation: Some coverage is shaped around events, vendors, and enterprise content programs.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://contentmarketinginstitute.com/
+  - https://contentmarketinginstitute.com/author/content-marketing-institute-team
+  scores:
+    editorial_quality: 93
+    trust: 92
+    reach: 91
+    freshness: 92
+    ux: 91
+    impact: 92
+- id: cxl-com
+  name: CXL Blog
+  canonical_url: https://cxl.com/blog/
+  country: XX
+  best_for: experimentation, conversion optimization, analytics, and growth practice
+  reason: CXL publishes specialist guidance with a strong testing and evidence orientation, especially where conversion work
+    crosses research and analytics.
+  limitation: The advanced practitioner focus and training-business context make it less accessible to beginners.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://cxl.com/blog/
+  - https://cxl.com/institute/live-course/ai-systems-operations-workshop/
+  scores:
+    editorial_quality: 91
+    trust: 90
+    reach: 89
+    freshness: 90
+    ux: 89
+    impact: 90
+- id: copyblogger-com
+  name: Copyblogger
+  canonical_url: https://copyblogger.com/
+  country: XX
+  best_for: content marketing, persuasive writing, and audience-led online business
+  reason: Copyblogger's long archive connects writing, audience trust, offers, and digital products in a coherent content-business
+    model.
+  limitation: Older foundational material remains influential, but current publishing is less dominant than during the site's
+    peak.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://copyblogger.com/
+  - https://copyblogger.com/comments/feed/
+  - https://copyblogger.com/about/
+  scores:
+    editorial_quality: 90
+    trust: 89
+    reach: 88
+    freshness: 89
+    ux: 88
+    impact: 89
+- id: searchengineland-com
+  name: Search Engine Land
+  canonical_url: https://searchengineland.com/
+  country: XX
+  best_for: search-industry news, platform changes, and practitioner analysis
+  reason: Search Engine Land follows Google, Microsoft, paid search, retail media, and SEO changes quickly with named specialist
+    contributors and daily coverage.
+  limitation: The fast news cycle leaves less room for complete implementation guidance in many stories.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://searchengineland.com/
+  - https://searchengineland.com/feed
+  - https://searchengineland.com/guide/ai-overviews-vs-featured-snippets
+  scores:
+    editorial_quality: 95
+    trust: 94
+    reach: 93
+    freshness: 94
+    ux: 93
+    impact: 94
+- id: moz-com
+  name: Moz Blog
+  canonical_url: https://moz.com/blog/
+  country: XX
+  best_for: established SEO education, research, and practitioner perspectives
+  reason: Moz combines a long educational archive with industry research, practitioner contributions, and durable explanations
+    of search fundamentals.
+  limitation: Publication cadence and depth vary across guest contributions and product-led pieces.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://moz.com/blog/
+  - https://moz.com/feeds/blog.atom
+  - https://moz.com/about
+  scores:
+    editorial_quality: 96
+    trust: 95
+    reach: 94
+    freshness: 95
+    ux: 94
+    impact: 95
+- id: semrush-com
+  name: Semrush Blog
+  canonical_url: https://www.semrush.com/blog/
+  country: XX
+  best_for: SEO, competitive research, content, and digital-marketing workflows
+  reason: Semrush publishes current search guidance, original datasets, and product-linked tutorials across a wider digital-marketing
+    scope than most SEO vendors.
+  limitation: High publishing volume and product alignment make editorial depth inconsistent.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://www.semrush.com/blog/
+  - https://www.semrush.com/company/
+  scores:
+    editorial_quality: 97
+    trust: 96
+    reach: 95
+    freshness: 96
+    ux: 95
+    impact: 96
+- id: blog-hubspot-com
+  name: HubSpot Blog
+  canonical_url: https://blog.hubspot.com/
+  country: XX
+  best_for: broad marketing, sales, service, and operations education
+  reason: HubSpot maintains a large practical library across marketing and revenue operations, with templates and beginner
+    guidance for most common business questions.
+  limitation: Breadth and search scale create uneven depth and originality across individual articles.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://blog.hubspot.com/
+  - https://blog.hubspot.com/website/rss.xml
+  scores:
+    editorial_quality: 98
+    trust: 97
+    reach: 96
+    freshness: 97
+    ux: 96
+    impact: 97
+- id: ahrefs-com
+  name: Ahrefs Blog
+  canonical_url: https://ahrefs.com/blog/
+  country: XX
+  best_for: SEO research, content strategy, and search-led growth
+  reason: Ahrefs combines product data, experiments, clear examples, and experienced practitioners to make SEO advice more
+    testable than generic search tutorials.
+  limitation: The editorial lens naturally favors organic search and the Ahrefs product ecosystem.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://ahrefs.com/blog/
+  scores:
+    editorial_quality: 99
+    trust: 98
+    reach: 97
+    freshness: 98
+    ux: 97
+    impact: 98
+- id: marketingprofs-com
+  name: MarketingProfs
+  canonical_url: https://www.marketingprofs.com/
+  country: XX
+  best_for: B2B marketing education, research, writing, and professional development
+  reason: MarketingProfs connects experienced contributors, training, research, and practical B2B guidance in a library built
+    for working marketers.
+  limitation: Registration and membership boundaries limit access to portions of the archive.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://www.marketingprofs.com/
+  - https://www.marketingprofs.com/about/contact/
+  scores:
+    editorial_quality: 94
+    trust: 93
+    reach: 92
+    freshness: 93
+    ux: 92
+    impact: 93
+- id: buffer-com
+  name: Buffer Resources
+  canonical_url: https://buffer.com/resources/
+  country: XX
+  best_for: social-media practice, creator workflows, and transparent company lessons
+  reason: Buffer mixes practical platform guidance with public experiments and company-operating lessons, giving its educational
+    content a useful first-party layer.
+  limitation: The publication naturally concentrates on social media and the Buffer product context.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://buffer.com/resources/
+  scores:
+    editorial_quality: 92
+    trust: 91
+    reach: 90
+    freshness: 91
+    ux: 90
+    impact: 91
+- id: seerinteractive-com
+  name: Seer Interactive
+  canonical_url: https://seerinteractive.com/
+  country: XX
+  best_for: SEO and search-led growth
+  reason: Seer Interactive concentrates on SEO and search-led growth, with a discoverable feed, a visible article archive
+    that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://seerinteractive.com/
+  - https://www.seerinteractive.com/insights/rss.xml
+  - https://www.seerinteractive.com/insights#
+  scores:
+    editorial_quality: 76
+    trust: 87
+    reach: 87
+    freshness: 89
+    ux: 84
+    impact: 86
+- id: mailchimp-com
+  name: Mailchimp
+  canonical_url: https://mailchimp.com/
+  country: XX
+  best_for: marketing strategy and audience growth
+  reason: Mailchimp concentrates on marketing strategy and audience growth, with a visible article archive, clear ownership
+    context that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://mailchimp.com/
+  - https://mailchimp.com/about/security/
+  scores:
+    editorial_quality: 71
+    trust: 87
+    reach: 89
+    freshness: 66
+    ux: 84
+    impact: 89
+- id: reachfirst-com
+  name: Reach First Inc.
+  canonical_url: https://reachfirst.com/
+  country: XX
+  best_for: SEO and search-led growth
+  reason: Reach First Inc. concentrates on SEO and search-led growth, with clear ownership context that makes its current
+    publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://reachfirst.com/
+  - https://www.reachfirst.com/about-us/
+  scores:
+    editorial_quality: 63
+    trust: 87
+    reach: 68
+    freshness: 45
+    ux: 84
+    impact: 75
+- id: bluethings-co
+  name: Bluethings
+  canonical_url: https://bluethings.co/
+  country: XX
+  best_for: SEO and search-led growth
+  reason: Bluethings concentrates on SEO and search-led growth, with clear ownership context that makes its current publishing
+    work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://bluethings.co/
+  - https://www.bluethings.co/about
+  scores:
+    editorial_quality: 61
+    trust: 80
+    reach: 55
+    freshness: 58
+    ux: 84
+    impact: 56
+- id: npdigital-com
+  name: NPD Global
+  canonical_url: https://npdigital.com/
+  country: XX
+  best_for: marketing strategy and audience growth
+  reason: NPD Global concentrates on marketing strategy and audience growth, with a discoverable feed, clear ownership context
+    that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://npdigital.com/
+  - https://npdigital.com/feed/
+  - https://npdigital.com/about/
+  scores:
+    editorial_quality: 66
+    trust: 87
+    reach: 89
+    freshness: 89
+    ux: 84
+    impact: 89
+- id: digiday-com
+  name: Digiday
+  canonical_url: https://digiday.com/
+  country: XX
+  best_for: marketing strategy and audience growth
+  reason: Digiday concentrates on marketing strategy and audience growth, with a discoverable feed, named authorship that
+    makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://digiday.com/
+  - https://digiday.com/marketing/feed/
+  - https://digiday.com/masthead/
+  scores:
+    editorial_quality: 66
+    trust: 87
+    reach: 89
+    freshness: 89
+    ux: 84
+    impact: 89
+- id: awai-com
+  name: American Writers & Artists Institute
+  canonical_url: https://awai.com/
+  country: XX
+  best_for: copywriting and persuasive communication
+  reason: American Writers & Artists Institute concentrates on copywriting and persuasive communication, with a discoverable
+    feed, clear ownership context that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://awai.com/
+  - https://www.awai.com/rss/main/rss.xml
+  - https://www.awai.com/about/
+  scores:
+    editorial_quality: 66
+    trust: 87
+    reach: 86
+    freshness: 89
+    ux: 84
+    impact: 86
+- id: chaosmap-com
+  name: AI Automation | Digital Advertising Agency | Los Angeles, CA
+  canonical_url: https://chaosmap.com/
+  country: XX
+  best_for: SEO and search-led growth
+  reason: AI Automation | Digital Advertising Agency | Los Angeles, CA concentrates on SEO and search-led growth, with a discoverable
+    feed, a visible article archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://chaosmap.com/
+  - https://chaosmap.com/comments/feed/
+  - https://chaosmap.com/about/
+  scores:
+    editorial_quality: 74
+    trust: 89
+    reach: 51
+    freshness: 78
+    ux: 84
+    impact: 54
+- id: forrester-com
+  name: Forrester
+  canonical_url: https://forrester.com/
+  country: XX
+  best_for: SEO and search-led growth
+  reason: Forrester concentrates on SEO and search-led growth, with clear ownership context that makes its current publishing
+    work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://forrester.com/
+  - https://www.forrester.com/about-us/forrester-awards/
+  scores:
+    editorial_quality: 61
+    trust: 87
+    reach: 89
+    freshness: 58
+    ux: 84
+    impact: 89
+- id: contentwriters-com
+  name: Content Writing Agency
+  canonical_url: https://contentwriters.com/
+  country: XX
+  best_for: copywriting and persuasive communication
+  reason: Content Writing Agency concentrates on copywriting and persuasive communication, with named authorship that makes
+    its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://contentwriters.com/
+  - https://contentwriters.com/team
+  scores:
+    editorial_quality: 61
+    trust: 87
+    reach: 85
+    freshness: 58
+    ux: 84
+    impact: 84
+- id: alaafiaafrc-org
+  name: Alaafia African Family Center
+  canonical_url: https://alaafiaafrc.org/
+  country: XX
+  best_for: SEO and search-led growth
+  reason: Alaafia African Family Center concentrates on SEO and search-led growth, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://alaafiaafrc.org/
+  - https://alaafiaafrc.org/adtc/12-must-read-social-media-blogs-for-marketers/feed/
+  - https://alaafiaafrc.org/adtc/about/
+  scores:
+    editorial_quality: 72
+    trust: 87
+    reach: 54
+    freshness: 78
+    ux: 84
+    impact: 51
+- id: buzzency-com
+  name: Buzzency
+  canonical_url: https://buzzency.com/
+  country: XX
+  best_for: SEO and search-led growth
+  reason: Buzzency concentrates on SEO and search-led growth, with a discoverable feed, clear ownership context that makes
+    its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://buzzency.com/
+  - https://www.buzzency.com/comments/feed/
+  - https://www.buzzency.com/about-buzzency/
+  scores:
+    editorial_quality: 70
+    trust: 87
+    reach: 41
+    freshness: 88
+    ux: 84
+    impact: 47
+- id: referralcandy-com
+  name: ReferralCandy
+  canonical_url: https://referralcandy.com/
+  country: XX
+  best_for: content strategy and distribution
+  reason: ReferralCandy concentrates on content strategy and distribution, with a visible article archive, clear ownership
+    context that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://referralcandy.com/
+  - https://referralcandy.com/about
+  scores:
+    editorial_quality: 69
+    trust: 87
+    reach: 89
+    freshness: 66
+    ux: 84
+    impact: 89
+- id: marketermilk-com
+  name: 'Marketer Milk: Stay ahead in marketing'
+  canonical_url: https://marketermilk.com/
+  country: XX
+  best_for: SEO and search-led growth
+  reason: 'Marketer Milk: Stay ahead in marketing concentrates on SEO and search-led growth, with clear ownership context
+    that makes its current publishing work easier to evaluate.'
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://marketermilk.com/
+  - https://www.marketermilk.com/blog/rss.xml
+  - https://www.marketermilk.com/about
+  scores:
+    editorial_quality: 67
+    trust: 80
+    reach: 87
+    freshness: 89
+    ux: 84
+    impact: 67
+- id: blogmutt-com
+  name: Verblio
+  canonical_url: https://blogmutt.com/
+  country: XX
+  best_for: copywriting and persuasive communication
+  reason: Verblio concentrates on copywriting and persuasive communication, with a discoverable feed, a visible article archive
+    that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://blogmutt.com/
+  - https://www.verblio.com/comments/feed
+  - https://www.verblio.com/join-our-writing-team
+  scores:
+    editorial_quality: 70
+    trust: 87
+    reach: 44
+    freshness: 45
+    ux: 84
+    impact: 64
+- id: blog-hootsuite-com
+  name: Social Media Marketing & Management Dashboard
+  canonical_url: https://blog.hootsuite.com/
+  country: XX
+  best_for: social-media strategy and publishing
+  reason: Social Media Marketing & Management Dashboard concentrates on social-media strategy and publishing, with a visible
+    article archive, named authorship that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://blog.hootsuite.com/
+  - https://blog.hootsuite.com/#
+  scores:
+    editorial_quality: 75
+    trust: 87
+    reach: 89
+    freshness: 66
+    ux: 84
+    impact: 89
+- id: socialmediaexaminer-com
+  name: Social Media Examiner
+  canonical_url: https://socialmediaexaminer.com/
+  country: XX
+  best_for: social-media strategy and publishing
+  reason: Social Media Examiner concentrates on social-media strategy and publishing, with a discoverable feed, a visible
+    article archive that makes its current publishing work easier to evaluate.
+  limitation: Some complete material may require registration, membership, or a paid subscription.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://socialmediaexaminer.com/
+  - https://www.socialmediaexaminer.com/comments/feed/
+  - https://www.socialmediaexaminer.com/about/
+  scores:
+    editorial_quality: 80
+    trust: 87
+    reach: 89
+    freshness: 89
+    ux: 84
+    impact: 89
+- id: constant-content-com
+  name: Buy Unique Articles & Website Content > Constant Content
+  canonical_url: https://constant-content.com/
+  country: XX
+  best_for: copywriting and persuasive communication
+  reason: Buy Unique Articles & Website Content > Constant Content concentrates on copywriting and persuasive communication,
+    with named authorship, clear ownership context that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://constant-content.com/
+  - https://www.constant-content.com:443/area/registerauthor.htm
+  scores:
+    editorial_quality: 61
+    trust: 89
+    reach: 79
+    freshness: 58
+    ux: 84
+    impact: 75
+- id: content-whale-com
+  name: Best Content Writing Services
+  canonical_url: https://content-whale.com/
+  country: XX
+  best_for: SEO and search-led growth
+  reason: Best Content Writing Services concentrates on SEO and search-led growth, with clear ownership context that makes
+    its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://content-whale.com/
+  - https://content-whale.com/about-us
+  scores:
+    editorial_quality: 61
+    trust: 82
+    reach: 68
+    freshness: 58
+    ux: 84
+    impact: 63
+- id: growthrocks-com
+  name: GrowthRocks
+  canonical_url: https://growthrocks.com/
+  country: XX
+  best_for: content strategy and distribution
+  reason: GrowthRocks concentrates on content strategy and distribution, with a discoverable feed, a visible article archive
+    that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://growthrocks.com/
+  - https://growthrocks.com/comments/feed/
+  - https://growthrocks.com/team/
+  scores:
+    editorial_quality: 74
+    trust: 87
+    reach: 70
+    freshness: 62
+    ux: 84
+    impact: 66
+- id: searchenginewatch-com
+  name: Search Engine Watch
+  canonical_url: https://searchenginewatch.com/
+  country: XX
+  best_for: SEO and search-led growth
+  reason: Search Engine Watch concentrates on SEO and search-led growth, with a discoverable feed, a visible article archive
+    that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://searchenginewatch.com/
+  - https://searchenginewatch.com/comments/feed/
+  - https://searchenginewatch.com/about-us/
+  scores:
+    editorial_quality: 74
+    trust: 87
+    reach: 89
+    freshness: 89
+    ux: 84
+    impact: 89
+- id: toprankblog-com
+  name: TopRank® Marketing
+  canonical_url: https://toprankblog.com/
+  country: XX
+  best_for: SEO and search-led growth
+  reason: TopRank® Marketing concentrates on SEO and search-led growth, with a visible article archive, named authorship that
+    makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://toprankblog.com/
+  - https://www.toprankmarketing.com/about-us/
+  scores:
+    editorial_quality: 73
+    trust: 87
+    reach: 56
+    freshness: 62
+    ux: 84
+    impact: 89
+- id: brimcove-com
+  name: BrimCove
+  canonical_url: https://brimcove.com/
+  country: XX
+  best_for: SEO and search-led growth
+  reason: BrimCove concentrates on SEO and search-led growth, with a discoverable feed, a visible article archive that makes
+    its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://brimcove.com/
+  - https://brimcove.com/comments/feed/
+  - https://brimcove.com/about
+  scores:
+    editorial_quality: 70
+    trust: 87
+    reach: 51
+    freshness: 89
+    ux: 84
+    impact: 48
+- id: toprankmarketing-com
+  name: TopRank® Marketing
+  canonical_url: https://toprankmarketing.com/
+  country: XX
+  best_for: SEO and search-led growth
+  reason: TopRank® Marketing concentrates on SEO and search-led growth, with named authorship, clear ownership context that
+    makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://toprankmarketing.com/
+  - https://www.toprankmarketing.com/about-us/
+  scores:
+    editorial_quality: 67
+    trust: 87
+    reach: 85
+    freshness: 62
+    ux: 84
+    impact: 85
+- id: benchmarkone-com
+  name: BenchmarkONE
+  canonical_url: https://benchmarkone.com/
+  country: XX
+  best_for: social-media strategy and publishing
+  reason: BenchmarkONE concentrates on social-media strategy and publishing, with clear ownership context that makes its current
+    publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://benchmarkone.com/
+  - https://www.benchmarkone.com/about/
+  scores:
+    editorial_quality: 61
+    trust: 87
+    reach: 75
+    freshness: 45
+    ux: 84
+    impact: 71
+- id: searchenginejournal-com
+  name: Search Engine Journal
+  canonical_url: https://searchenginejournal.com/
+  country: XX
+  best_for: SEO and search-led growth
+  reason: Search Engine Journal concentrates on SEO and search-led growth, with a discoverable feed, a visible article archive
+    that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://searchenginejournal.com/
+  - https://www.searchenginejournal.com/category/cms/wp/feed/atom/
+  - https://www.searchenginejournal.com/about/
+  scores:
+    editorial_quality: 82
+    trust: 89
+    reach: 89
+    freshness: 89
+    ux: 84
+    impact: 89
+- id: heyorca-com
+  name: HeyOrca
+  canonical_url: https://heyorca.com/
+  country: XX
+  best_for: social-media strategy and publishing
+  reason: HeyOrca concentrates on social-media strategy and publishing, with clear ownership context that makes its current
+    publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://heyorca.com/
+  - https://www.heyorca.com/about
+  scores:
+    editorial_quality: 61
+    trust: 87
+    reach: 78
+    freshness: 58
+    ux: 84
+    impact: 70
+- id: marketful-com
+  name: Marketful
+  canonical_url: https://marketful.com/
+  country: XX
+  best_for: SEO and search-led growth
+  reason: Marketful concentrates on SEO and search-led growth, with a discoverable feed, a visible article archive that makes
+    its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://marketful.com/
+  - https://marketful.com/feed
+  scores:
+    editorial_quality: 74
+    trust: 83
+    reach: 59
+    freshness: 89
+    ux: 84
+    impact: 61
+- id: smartinsights-com
+  name: Smart Insights
+  canonical_url: https://smartinsights.com/
+  country: XX
+  best_for: marketing strategy and audience growth
+  reason: Smart Insights concentrates on marketing strategy and audience growth, with a discoverable feed, clear ownership
+    context that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://smartinsights.com/
+  - https://www.smartinsights.com/comments/feed/
+  - https://www.smartinsights.com/about/
+  scores:
+    editorial_quality: 68
+    trust: 82
+    reach: 89
+    freshness: 45
+    ux: 84
+    impact: 87
+- id: dailyblogtips-com
+  name: DailyBlogTips.com
+  canonical_url: https://dailyblogtips.com/
+  country: XX
+  best_for: SEO and search-led growth
+  reason: DailyBlogTips.com concentrates on SEO and search-led growth, with a discoverable feed, a visible article archive
+    that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://dailyblogtips.com/
+  - https://dailyblogtips.com/web-stories/feed/
+  - https://dailyblogtips.com/about/
+  scores:
+    editorial_quality: 70
+    trust: 89
+    reach: 77
+    freshness: 62
+    ux: 84
+    impact: 89
+- id: theyardstickagency-co-uk
+  name: The Yardstick Agency
+  canonical_url: https://theyardstickagency.co.uk/
+  country: GB
+  best_for: social-media strategy and publishing
+  reason: The Yardstick Agency concentrates on social-media strategy and publishing, with a visible article archive, named
+    authorship that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://theyardstickagency.co.uk/
+  - https://theyardstickagency.co.uk/about-us
+  scores:
+    editorial_quality: 67
+    trust: 82
+    reach: 79
+    freshness: 45
+    ux: 84
+    impact: 88
+- id: statista-com
+  name: Statista
+  canonical_url: https://statista.com/
+  country: XX
+  best_for: SEO and search-led growth
+  reason: Statista concentrates on SEO and search-led growth, with a visible article archive, named authorship that makes
+    its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://statista.com/
+  - https://www.statista.com/business/about-us/
+  scores:
+    editorial_quality: 65
+    trust: 89
+    reach: 89
+    freshness: 88
+    ux: 84
+    impact: 89
+- id: madx-digital
+  name: Search Agency for SaaS
+  canonical_url: https://madx.digital/
+  country: XX
+  best_for: SEO and search-led growth
+  reason: Search Agency for SaaS concentrates on SEO and search-led growth, with named authorship, clear ownership context
+    that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://madx.digital/
+  - https://www.madx.digital/learn/rss.xml
+  - https://www.madx.digital/about
+  scores:
+    editorial_quality: 63
+    trust: 89
+    reach: 65
+    freshness: 89
+    ux: 84
+    impact: 63
+- id: aidastory-com
+  name: Aida Story
+  canonical_url: https://aidastory.com/
+  country: XX
+  best_for: marketing strategy and audience growth
+  reason: Aida Story concentrates on marketing strategy and audience growth, with a discoverable feed, a visible article archive
+    that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://aidastory.com/
+  - https://aidastory.com/10-marketing-newsletters-you-must-follow/feed/
+  - https://aidastory.com/about-us/
+  scores:
+    editorial_quality: 70
+    trust: 80
+    reach: 47
+    freshness: 45
+    ux: 84
+    impact: 49
+- id: seodesignchicago-com
+  name: SEO Design Chicago
+  canonical_url: https://seodesignchicago.com/
+  country: XX
+  best_for: SEO and search-led growth
+  reason: SEO Design Chicago concentrates on SEO and search-led growth, with a discoverable feed, clear ownership context
+    that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://seodesignchicago.com/
+  - https://seodesignchicago.com/comments/feed/
+  - https://seodesignchicago.com/about/
+  scores:
+    editorial_quality: 68
+    trust: 82
+    reach: 82
+    freshness: 89
+    ux: 84
+    impact: 73
+- id: sciencesays-com
+  name: Science-based AI and marketing insights
+  canonical_url: https://sciencesays.com/
+  country: XX
+  best_for: SEO and search-led growth
+  reason: Science-based AI and marketing insights concentrates on SEO and search-led growth, with clear ownership context
+    that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://sciencesays.com/
+  - https://www.sciencesays.com/about
+  scores:
+    editorial_quality: 63
+    trust: 82
+    reach: 71
+    freshness: 58
+    ux: 84
+    impact: 69
+- id: elenaverna-com
+  name: Elena's Growth Scoop
+  canonical_url: https://elenaverna.com/
+  country: XX
+  best_for: marketing strategy and audience growth
+  reason: Elena's Growth Scoop concentrates on marketing strategy and audience growth, with a discoverable feed that makes
+    its current publishing work easier to evaluate.
+  limitation: Authorship and editorial-policy information is less visible than on higher-ranked publications.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://elenaverna.com/
+  - https://www.elenaverna.com/feed
+  scores:
+    editorial_quality: 68
+    trust: 62
+    reach: 60
+    freshness: 89
+    ux: 84
+    impact: 74
+- id: blog-robly-com
+  name: Robly Blog
+  canonical_url: https://blog.robly.com/
+  country: XX
+  best_for: social-media strategy and publishing
+  reason: Robly Blog concentrates on social-media strategy and publishing, with clear ownership context that makes its current
+    publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://blog.robly.com/
+  - https://blog.robly.com/why-email-engagement-drops-every-summer
+  scores:
+    editorial_quality: 61
+    trust: 82
+    reach: 51
+    freshness: 88
+    ux: 84
+    impact: 50
+- id: widewail-com
+  name: Widewail
+  canonical_url: https://widewail.com/
+  country: XX
+  best_for: marketing strategy and audience growth
+  reason: Widewail concentrates on marketing strategy and audience growth, with clear ownership context that makes its current
+    publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://widewail.com/
+  - https://www.widewail.com/company/about
+  scores:
+    editorial_quality: 61
+    trust: 75
+    reach: 75
+    freshness: 58
+    ux: 84
+    impact: 61
+- id: growthsprints-co
+  name: AEO, SEO & Content Marketing Agency | Growth Sprints
+  canonical_url: https://growthsprints.co/
+  country: XX
+  best_for: SEO and search-led growth
+  reason: AEO, SEO & Content Marketing Agency | Growth Sprints concentrates on SEO and search-led growth, with a discoverable
+    feed that makes its current publishing work easier to evaluate.
+  limitation: Authorship and editorial-policy information is less visible than on higher-ranked publications.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://growthsprints.co/
+  - https://growthsprints.co/comments/feed/
+  scores:
+    editorial_quality: 72
+    trust: 55
+    reach: 49
+    freshness: 70
+    ux: 84
+    impact: 65
+- id: ariyh-com
+  name: Science-based AI and marketing insights
+  canonical_url: https://ariyh.com/
+  country: XX
+  best_for: SEO and search-led growth
+  reason: Science-based AI and marketing insights concentrates on SEO and search-led growth, with clear ownership context
+    that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://ariyh.com/
+  - https://www.sciencesays.com/about
+  scores:
+    editorial_quality: 63
+    trust: 82
+    reach: 46
+    freshness: 58
+    ux: 84
+    impact: 68
+- id: kieranflanagan-io
+  name: Kieran’s Substack
+  canonical_url: https://kieranflanagan.io/
+  country: XX
+  best_for: marketing strategy and audience growth
+  reason: Kieran’s Substack concentrates on marketing strategy and audience growth, with a discoverable feed that makes its
+    current publishing work easier to evaluate.
+  limitation: Authorship and editorial-policy information is less visible than on higher-ranked publications.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://kieranflanagan.io/
+  - https://www.kieranflanagan.io/feed
+  scores:
+    editorial_quality: 66
+    trust: 62
+    reach: 45
+    freshness: 70
+    ux: 84
+    impact: 59
+- id: hawksem-com
+  name: HawkSEM
+  canonical_url: https://hawksem.com/
+  country: XX
+  best_for: SEO and search-led growth
+  reason: HawkSEM concentrates on SEO and search-led growth, with a discoverable feed, clear ownership context that makes
+    its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://hawksem.com/
+  - https://hawksem.com/feed/
+  - https://hawksem.com/about-us/
+  scores:
+    editorial_quality: 70
+    trust: 82
+    reach: 79
+    freshness: 89
+    ux: 84
+    impact: 69
+- id: sixthcitymarketing-com
+  name: Sixth City Marketing
+  canonical_url: https://sixthcitymarketing.com/
+  country: XX
+  best_for: SEO and search-led growth
+  reason: Sixth City Marketing concentrates on SEO and search-led growth, with a discoverable feed, named authorship that
+    makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://sixthcitymarketing.com/
+  - https://www.sixthcitymarketing.com/comments/feed/
+  - https://www.sixthcitymarketing.com/about-sixth-city-marketing/case-studies/
+  scores:
+    editorial_quality: 68
+    trust: 87
+    reach: 77
+    freshness: 70
+    ux: 84
+    impact: 76
+- id: towermarketing-net
+  name: Tower Marketing
+  canonical_url: https://towermarketing.net/
+  country: XX
+  best_for: SEO and search-led growth
+  reason: Tower Marketing concentrates on SEO and search-led growth, with a discoverable feed, a visible article archive that
+    makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://towermarketing.net/
+  - https://www.towermarketing.net/comments/feed/
+  - https://www.towermarketing.net/about/
+  scores:
+    editorial_quality: 72
+    trust: 87
+    reach: 67
+    freshness: 78
+    ux: 84
+    impact: 59
+- id: chatterbuzzmedia-com
+  name: Chatter Buzz Media
+  canonical_url: https://chatterbuzzmedia.com/
+  country: XX
+  best_for: SEO and search-led growth
+  reason: Chatter Buzz Media concentrates on SEO and search-led growth, with a visible article archive that makes its current
+    publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://chatterbuzzmedia.com/
+  - https://www.chatterbuzzmedia.com/company/
+  scores:
+    editorial_quality: 65
+    trust: 80
+    reach: 73
+    freshness: 66
+    ux: 84
+    impact: 67
+- id: dupple-com
+  name: Dupple
+  canonical_url: https://dupple.com/
+  country: XX
+  best_for: marketing strategy and audience growth
+  reason: Dupple concentrates on marketing strategy and audience growth, with clear ownership context that makes its current
+    publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://dupple.com/
+  - https://dupple.com/about
+  scores:
+    editorial_quality: 61
+    trust: 87
+    reach: 78
+    freshness: 58
+    ux: 84
+    impact: 64
+- id: succeedingsmall-co
+  name: Succeeding Small
+  canonical_url: https://succeedingsmall.co/
+  country: XX
+  best_for: SEO and search-led growth
+  reason: Succeeding Small concentrates on SEO and search-led growth, with named authorship, clear ownership context that
+    makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://succeedingsmall.co/
+  - https://succeedingsmall.co/about-us/
+  scores:
+    editorial_quality: 63
+    trust: 87
+    reach: 70
+    freshness: 45
+    ux: 84
+    impact: 70
+- id: themarketingfix-substack-com
+  name: Marketing Fix
+  canonical_url: https://themarketingfix.substack.com/
+  country: XX
+  best_for: marketing strategy and audience growth
+  reason: Marketing Fix concentrates on marketing strategy and audience growth, with a discoverable feed that makes its current
+    publishing work easier to evaluate.
+  limitation: Authorship and editorial-policy information is less visible than on higher-ranked publications.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://themarketingfix.substack.com/
+  - https://themarketingfix.substack.com/feed
+  scores:
+    editorial_quality: 68
+    trust: 62
+    reach: 44
+    freshness: 89
+    ux: 84
+    impact: 62
+- id: thesocialjuice-substack-com
+  name: The Social Juice
+  canonical_url: https://thesocialjuice.substack.com/
+  country: XX
+  best_for: marketing strategy and audience growth
+  reason: The Social Juice concentrates on marketing strategy and audience growth, with a discoverable feed that makes its
+    current publishing work easier to evaluate.
+  limitation: Authorship and editorial-policy information is less visible than on higher-ranked publications.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://thesocialjuice.substack.com/
+  - https://thesocialjuice.substack.com/feed
+  scores:
+    editorial_quality: 66
+    trust: 62
+    reach: 52
+    freshness: 89
+    ux: 84
+    impact: 60
+- id: growthinreverse-substack-com
+  name: Growth In Reverse
+  canonical_url: https://growthinreverse.substack.com/
+  country: XX
+  best_for: marketing strategy and audience growth
+  reason: Growth In Reverse concentrates on marketing strategy and audience growth, with a discoverable feed that makes its
+    current publishing work easier to evaluate.
+  limitation: Authorship and editorial-policy information is less visible than on higher-ranked publications.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://growthinreverse.substack.com/
+  - https://growthinreverse.substack.com/feed
+  scores:
+    editorial_quality: 66
+    trust: 62
+    reach: 43
+    freshness: 88
+    ux: 84
+    impact: 56
+- id: pmstarter-substack-com
+  name: Product Marketing Starter
+  canonical_url: https://pmstarter.substack.com/
+  country: XX
+  best_for: marketing strategy and audience growth
+  reason: Product Marketing Starter concentrates on marketing strategy and audience growth, with a discoverable feed that
+    makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://pmstarter.substack.com/
+  - https://pmstarter.substack.com/feed
+  scores:
+    editorial_quality: 66
+    trust: 62
+    reach: 41
+    freshness: 45
+    ux: 84
+    impact: 55
+- id: pierreherubel-substack-com
+  name: Pierre's Content Guides
+  canonical_url: https://pierreherubel.substack.com/
+  country: XX
+  best_for: content strategy and distribution
+  reason: Pierre's Content Guides concentrates on content strategy and distribution, with a discoverable feed that makes its
+    current publishing work easier to evaluate.
+  limitation: Authorship and editorial-policy information is less visible than on higher-ranked publications.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://pierreherubel.substack.com/
+  - https://pierreherubel.substack.com/feed
+  scores:
+    editorial_quality: 68
+    trust: 62
+    reach: 56
+    freshness: 89
+    ux: 84
+    impact: 69
+- id: rohitsrivastav-substack-com
+  name: Rohit Srivastav
+  canonical_url: https://rohitsrivastav.substack.com/
+  country: XX
+  best_for: marketing strategy and audience growth
+  reason: Rohit Srivastav concentrates on marketing strategy and audience growth, with a discoverable feed that makes its
+    current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://rohitsrivastav.substack.com/
+  - https://rohitsrivastav.substack.com/feed
+  scores:
+    editorial_quality: 68
+    trust: 62
+    reach: 40
+    freshness: 45
+    ux: 84
+    impact: 55
+- id: blog-copify-com
+  name: blog.copify.com
+  canonical_url: https://blog.copify.com/
+  country: XX
+  best_for: SEO and search-led growth
+  reason: blog.copify.com concentrates on SEO and search-led growth, with a discoverable feed, a visible article archive that
+    makes its current publishing work easier to evaluate.
+  limitation: Authorship and editorial-policy information is less visible than on higher-ranked publications.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://blog.copify.com/
+  - https://blog.copify.com/comments/feed
+  scores:
+    editorial_quality: 76
+    trust: 55
+    reach: 52
+    freshness: 78
+    ux: 84
+    impact: 61
+- id: buildfire-com
+  name: Buildfire
+  canonical_url: https://buildfire.com/
+  country: XX
+  best_for: content strategy and distribution
+  reason: Buildfire concentrates on content strategy and distribution, with a discoverable feed, named authorship that makes
+    its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://buildfire.com/
+  - https://buildfire.com/comments/feed/
+  - https://buildfire.com/sports-team-apps/
+  scores:
+    editorial_quality: 68
+    trust: 75
+    reach: 86
+    freshness: 70
+    ux: 84
+    impact: 76
+- id: later-com
+  name: 'Later: Influencer Marketing and Social Media Management'
+  canonical_url: https://later.com/
+  country: XX
+  best_for: social-media strategy and publishing
+  reason: 'Later: Influencer Marketing and Social Media Management concentrates on social-media strategy and publishing, with
+    a discoverable feed, clear ownership context that makes its current publishing work easier to evaluate.'
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://later.com/
+  - https://later.com/rss.xml
+  - https://later.com/blog/the-full-funnel-creator-what-youtube-sharkninja-and-adam-w-revealed-about-the-future-of-creator-led-marketing/
+  scores:
+    editorial_quality: 72
+    trust: 75
+    reach: 89
+    freshness: 89
+    ux: 84
+    impact: 89
+- id: digitalauthority-me
+  name: Digital Authority Partners
+  canonical_url: https://digitalauthority.me/
+  country: XX
+  best_for: SEO and search-led growth
+  reason: Digital Authority Partners concentrates on SEO and search-led growth, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://digitalauthority.me/
+  - https://www.digitalauthority.me/comments/feed/
+  - https://www.digitalauthority.me/about/
+  scores:
+    editorial_quality: 74
+    trust: 89
+    reach: 73
+    freshness: 88
+    ux: 84
+    impact: 72
+- id: theedigital-com
+  name: TheeDigital
+  canonical_url: https://theedigital.com/
+  country: XX
+  best_for: SEO and search-led growth
+  reason: TheeDigital concentrates on SEO and search-led growth, with a visible article archive, named authorship that makes
+    its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://theedigital.com/
+  - https://www.theedigital.com/about
+  scores:
+    editorial_quality: 67
+    trust: 89
+    reach: 86
+    freshness: 89
+    ux: 76
+    impact: 84
+- id: procopywriters-co-uk
+  name: ProCopywriters | the Alliance of Commercial Writers
+  canonical_url: https://procopywriters.co.uk/
+  country: GB
+  best_for: copywriting and persuasive communication
+  reason: ProCopywriters | the Alliance of Commercial Writers concentrates on copywriting and persuasive communication, with
+    a discoverable feed, clear ownership context that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://procopywriters.co.uk/
+  - https://www.procopywriters.co.uk/feed/atom/
+  - https://www.procopywriters.co.uk/about-us
+  scores:
+    editorial_quality: 68
+    trust: 89
+    reach: 82
+    freshness: 88
+    ux: 84
+    impact: 82
+- id: colorlib-com
+  name: Colorlib
+  canonical_url: https://colorlib.com/
+  country: XX
+  best_for: copywriting and persuasive communication
+  reason: Colorlib concentrates on copywriting and persuasive communication, with a discoverable feed, a visible article archive
+    that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://colorlib.com/
+  - https://colorlib.com/wp/comments/feed/
+  - https://colorlib.com/wp/about/
+  scores:
+    editorial_quality: 68
+    trust: 82
+    reach: 89
+    freshness: 89
+    ux: 84
+    impact: 86
+- id: interodigital-com
+  name: Intero Digital
+  canonical_url: https://interodigital.com/
+  country: XX
+  best_for: content strategy and distribution
+  reason: Intero Digital concentrates on content strategy and distribution, with a visible article archive, clear ownership
+    context that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://interodigital.com/
+  - https://www.interodigital.com/about/
+  scores:
+    editorial_quality: 65
+    trust: 75
+    reach: 77
+    freshness: 88
+    ux: 84
+    impact: 71
+- id: cotasks-com
+  name: CoTask IT Solutions
+  canonical_url: https://cotasks.com/
+  country: XX
+  best_for: SEO and search-led growth
+  reason: CoTask IT Solutions concentrates on SEO and search-led growth, with a visible article archive, clear ownership context
+    that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://cotasks.com/
+  - https://cotasks.com/about-us
+  scores:
+    editorial_quality: 71
+    trust: 82
+    reach: 52
+    freshness: 66
+    ux: 84
+    impact: 66
+- id: advanced-npdigital-com
+  name: NPD Global
+  canonical_url: https://advanced.npdigital.com/
+  country: XX
+  best_for: marketing strategy and audience growth
+  reason: NPD Global concentrates on marketing strategy and audience growth, with a discoverable feed, clear ownership context
+    that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://advanced.npdigital.com/
+  - https://advanced.npdigital.com/comments/feed/
+  scores:
+    editorial_quality: 66
+    trust: 76
+    reach: 58
+    freshness: 89
+    ux: 84
+    impact: 78
+- id: seotonic-com
+  name: SEOTonic
+  canonical_url: https://seotonic.com/
+  country: XX
+  best_for: SEO and search-led growth
+  reason: SEOTonic concentrates on SEO and search-led growth, with a visible article archive, named authorship that makes
+    its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://seotonic.com/
+  scores:
+    editorial_quality: 67
+    trust: 76
+    reach: 52
+    freshness: 89
+    ux: 84
+    impact: 59
+- id: deepmind-com
+  name: Google DeepMind
+  canonical_url: https://deepmind.com/
+  country: XX
+  best_for: SEO and search-led growth
+  reason: Google DeepMind concentrates on SEO and search-led growth, with a visible article archive, clear ownership context
+    that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://deepmind.com/
+  - https://deepmind.google/about/
+  scores:
+    editorial_quality: 65
+    trust: 75
+    reach: 57
+    freshness: 88
+    ux: 84
+    impact: 87
+- id: blog-skyvia-com
+  name: Skyvia Blog
+  canonical_url: https://blog.skyvia.com/
+  country: XX
+  best_for: analytics, experimentation, and conversion
+  reason: Skyvia Blog concentrates on analytics, experimentation, and conversion, with a discoverable feed, named authorship
+    that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://blog.skyvia.com/
+  - https://skyvia.com/blog/comments/feed/
+  - https://skyvia.com/company/
+  scores:
+    editorial_quality: 66
+    trust: 82
+    reach: 46
+    freshness: 89
+    ux: 84
+    impact: 63
+- id: amsivedigital-com
+  name: Amsive
+  canonical_url: https://amsivedigital.com/
+  country: XX
+  best_for: marketing strategy and audience growth
+  reason: Amsive concentrates on marketing strategy and audience growth, with a discoverable feed, clear ownership context
+    that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://amsivedigital.com/
+  - https://www.amsive.com/feed/
+  - https://www.amsive.com/about/
+  scores:
+    editorial_quality: 66
+    trust: 82
+    reach: 47
+    freshness: 89
+    ux: 84
+    impact: 68
+- id: campaigndonut-com
+  name: Campaign Donut
+  canonical_url: https://campaigndonut.com/
+  country: XX
+  best_for: copywriting and persuasive communication
+  reason: Campaign Donut concentrates on copywriting and persuasive communication, with a discoverable feed that makes its
+    current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://campaigndonut.com/
+  - https://campaigndonut.com/comments/feed/
+  scores:
+    editorial_quality: 70
+    trust: 62
+    reach: 58
+    freshness: 45
+    ux: 84
+    impact: 54
+- id: clevercopywritingschool-com
+  name: The Clever Copywriting School
+  canonical_url: https://clevercopywritingschool.com/
+  country: XX
+  best_for: copywriting and persuasive communication
+  reason: The Clever Copywriting School concentrates on copywriting and persuasive communication, with a discoverable feed,
+    a visible article archive that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://clevercopywritingschool.com/
+  - https://www.clevercopywritingschool.com/becoming-a-confident-copywriter-with-emma-mcmillan-chat/feed/
+  scores:
+    editorial_quality: 70
+    trust: 69
+    reach: 53
+    freshness: 45
+    ux: 84
+    impact: 68
+- id: contently-com
+  name: Contently
+  canonical_url: https://contently.com/
+  country: XX
+  best_for: analytics, experimentation, and conversion
+  reason: Contently concentrates on analytics, experimentation, and conversion, with a discoverable feed, clear ownership
+    context that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://contently.com/
+  - https://contently.com/feed/
+  - https://contently.com/ask-a-content-strategist/
+  scores:
+    editorial_quality: 66
+    trust: 75
+    reach: 80
+    freshness: 89
+    ux: 84
+    impact: 89
+- id: digitalmarketinginstitute-com
+  name: Digital Marketing Certification Online
+  canonical_url: https://digitalmarketinginstitute.com/
+  country: XX
+  best_for: SEO and search-led growth
+  reason: Digital Marketing Certification Online concentrates on SEO and search-led growth, with named authorship, clear ownership
+    context that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://digitalmarketinginstitute.com/
+  scores:
+    editorial_quality: 71
+    trust: 83
+    reach: 89
+    freshness: 58
+    ux: 76
+    impact: 89
+- id: brafton-com
+  name: Brafton
+  canonical_url: https://brafton.com/
+  country: XX
+  best_for: content strategy and distribution
+  reason: Brafton concentrates on content strategy and distribution, with a discoverable feed, a visible article archive that
+    makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://brafton.com/
+  - https://www.brafton.com/feed/
+  - https://www.brafton.com/about/
+  scores:
+    editorial_quality: 76
+    trust: 89
+    reach: 89
+    freshness: 89
+    ux: 84
+    impact: 89
+- id: sendible-com
+  name: 'Sendible: Social Media Management Tool with Unlimited Users'
+  canonical_url: https://sendible.com/
+  country: XX
+  best_for: content strategy and distribution
+  reason: 'Sendible: Social Media Management Tool with Unlimited Users concentrates on content strategy and distribution,
+    with named authorship, clear ownership context that makes its current publishing work easier to evaluate.'
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://sendible.com/
+  - https://www.sendible.com/features/client-connect?hsLang=en
+  scores:
+    editorial_quality: 63
+    trust: 89
+    reach: 87
+    freshness: 58
+    ux: 84
+    impact: 74
+- id: neilpatel-com
+  name: Neil Patel
+  canonical_url: https://neilpatel.com/
+  country: XX
+  best_for: SEO and search-led growth
+  reason: Neil Patel concentrates on SEO and search-led growth, with a visible article archive that makes its current publishing
+    work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://neilpatel.com/
+  - https://neilpatel.com/blog/chatgpt-query-source-preferences/
+  scores:
+    editorial_quality: 81
+    trust: 75
+    reach: 89
+    freshness: 89
+    ux: 84
+    impact: 89
+- id: embryo-com
+  name: Embryo
+  canonical_url: https://embryo.com/
+  country: XX
+  best_for: SEO and search-led growth
+  reason: Embryo concentrates on SEO and search-led growth, with a discoverable feed that makes its current publishing work
+    easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://embryo.com/
+  - https://embryo.com/feed/
+  - https://embryo.com/who-we-are/
+  scores:
+    editorial_quality: 72
+    trust: 75
+    reach: 80
+    freshness: 89
+    ux: 84
+    impact: 77
+- id: mediatraining-ltd-uk
+  name: Media Training Ltd
+  canonical_url: https://mediatraining.ltd.uk/
+  country: GB
+  best_for: copywriting and persuasive communication
+  reason: Media Training Ltd concentrates on copywriting and persuasive communication, with a visible article archive, named
+    authorship that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://mediatraining.ltd.uk/
+  - https://mediatraining.ltd.uk/team-training
+  scores:
+    editorial_quality: 67
+    trust: 82
+    reach: 66
+    freshness: 88
+    ux: 84
+    impact: 54
+- id: careerfoundry-com
+  name: CareerFoundry
+  canonical_url: https://careerfoundry.com/
+  country: XX
+  best_for: content strategy and distribution
+  reason: CareerFoundry concentrates on content strategy and distribution, with a discoverable feed that makes its current
+    publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://careerfoundry.com/
+  - https://careerfoundry.com/en/feed/
+  - https://careerfoundry.com/en/blog/digital-marketing/digital-marketing-blog/#digital-marketing-blog-seo
+  scores:
+    editorial_quality: 68
+    trust: 68
+    reach: 89
+    freshness: 45
+    ux: 84
+    impact: 73
+- id: econsultancy-com
+  name: Econsultancy
+  canonical_url: https://econsultancy.com/
+  country: XX
+  best_for: marketing strategy and audience growth
+  reason: Econsultancy concentrates on marketing strategy and audience growth, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://econsultancy.com/
+  - https://econsultancy.com/comments/feed/
+  - https://econsultancy.com/team-engagement/
+  scores:
+    editorial_quality: 78
+    trust: 89
+    reach: 84
+    freshness: 88
+    ux: 84
+    impact: 89
+- id: socialpilot-co
+  name: SocialPilot
+  canonical_url: https://socialpilot.co/
+  country: XX
+  best_for: social-media strategy and publishing
+  reason: SocialPilot concentrates on social-media strategy and publishing, with a discoverable feed, named authorship that
+    makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://socialpilot.co/
+  - https://www.socialpilot.co/feed
+  - https://www.socialpilot.co/features/teams-management
+  scores:
+    editorial_quality: 72
+    trust: 89
+    reach: 89
+    freshness: 89
+    ux: 84
+    impact: 89
+- id: contentmarketingworld-com
+  name: Content Marketing World
+  canonical_url: https://contentmarketingworld.com/
+  country: XX
+  best_for: content strategy and distribution
+  reason: Content Marketing World concentrates on content strategy and distribution, with a discoverable feed, named authorship
+    that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://contentmarketingworld.com/
+  - https://www.contentmarketingworld.com/comments/feed/
+  - https://www.contentmarketingworld.com/bring-your-team-multiply-your-impact/
+  scores:
+    editorial_quality: 68
+    trust: 89
+    reach: 71
+    freshness: 89
+    ux: 84
+    impact: 82
+- id: swordandthescript-com
+  name: Sword and the Script
+  canonical_url: https://swordandthescript.com/
+  country: XX
+  best_for: social-media strategy and publishing
+  reason: Sword and the Script concentrates on social-media strategy and publishing, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://swordandthescript.com/
+  - https://www.swordandthescript.com/comments/feed/
+  scores:
+    editorial_quality: 72
+    trust: 89
+    reach: 66
+    freshness: 89
+    ux: 84
+    impact: 73
+- id: contentmarketinguniversity-com
+  name: Content Marketing University
+  canonical_url: https://contentmarketinguniversity.com/
+  country: XX
+  best_for: content strategy and distribution
+  reason: Content Marketing University concentrates on content strategy and distribution, with a discoverable feed, named
+    authorship that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://contentmarketinguniversity.com/
+  - https://contentmarketinguniversity.com/comments/feed/
+  scores:
+    editorial_quality: 68
+    trust: 83
+    reach: 62
+    freshness: 88
+    ux: 84
+    impact: 80
+- id: contentmarketingawards-com
+  name: Content Marketing Awards
+  canonical_url: https://contentmarketingawards.com/
+  country: XX
+  best_for: content strategy and distribution
+  reason: Content Marketing Awards concentrates on content strategy and distribution, with a discoverable feed, clear ownership
+    context that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://contentmarketingawards.com/
+  - https://contentmarketingawards.com/comments/feed/
+  scores:
+    editorial_quality: 68
+    trust: 76
+    reach: 67
+    freshness: 89
+    ux: 84
+    impact: 78
+- id: joepulizzi-com
+  name: Joe Pulizzi
+  canonical_url: https://joepulizzi.com/
+  country: XX
+  best_for: content strategy and distribution
+  reason: Joe Pulizzi concentrates on content strategy and distribution, with a discoverable feed, a visible article archive
+    that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://joepulizzi.com/
+  - https://www.joepulizzi.com/feed/
+  - https://www.joepulizzi.com/about/
+  scores:
+    editorial_quality: 72
+    trust: 75
+    reach: 63
+    freshness: 78
+    ux: 84
+    impact: 78
+- id: tippingpointlabs-com
+  name: Tippingpoint Labs
+  canonical_url: https://tippingpointlabs.com/
+  country: XX
+  best_for: SEO and search-led growth
+  reason: Tippingpoint Labs concentrates on SEO and search-led growth, with a discoverable feed, a visible article archive
+    that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://tippingpointlabs.com/
+  - https://www.tippingpointlabs.com/comments/feed/
+  - https://www.tippingpointlabs.com/about/
+  scores:
+    editorial_quality: 74
+    trust: 75
+    reach: 55
+    freshness: 45
+    ux: 84
+    impact: 67
+- id: oncrawl-com
+  name: Oncrawl - Technical SEO Data
+  canonical_url: https://oncrawl.com/
+  country: XX
+  best_for: SEO and search-led growth
+  reason: Oncrawl - Technical SEO Data concentrates on SEO and search-led growth, with a clearly defined editorial focus that
+    makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://oncrawl.com/
+  scores:
+    editorial_quality: 61
+    trust: 69
+    reach: 70
+    freshness: 58
+    ux: 84
+    impact: 76
+- id: backlinko-com
+  name: Backlinko
+  canonical_url: https://backlinko.com/
+  country: XX
+  best_for: SEO and search-led growth
+  reason: Backlinko concentrates on SEO and search-led growth, with named authorship, clear ownership context that makes its
+    current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://backlinko.com/
+  - https://backlinko.com/audience-research
+  scores:
+    editorial_quality: 75
+    trust: 89
+    reach: 89
+    freshness: 45
+    ux: 84
+    impact: 89
+- id: moosend-com
+  name: The Easiest Email Marketing Platform
+  canonical_url: https://moosend.com/
+  country: XX
+  best_for: SEO and search-led growth
+  reason: The Easiest Email Marketing Platform concentrates on SEO and search-led growth, with a discoverable feed that makes
+    its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://moosend.com/
+  - https://moosend.com/comments/feed/
+  scores:
+    editorial_quality: 76
+    trust: 76
+    reach: 89
+    freshness: 89
+    ux: 84
+    impact: 83
+- id: engagecoders-com
+  name: Engage Coders | Bridging The Gap
+  canonical_url: https://engagecoders.com/
+  country: XX
+  best_for: SEO and search-led growth
+  reason: Engage Coders | Bridging The Gap concentrates on SEO and search-led growth, with a discoverable feed, a visible
+    article archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://engagecoders.com/
+  - https://www.engagecoders.com/social-media-marketing-blogs/feed/
+  - https://www.engagecoders.com/about-us/
+  scores:
+    editorial_quality: 78
+    trust: 82
+    reach: 71
+    freshness: 89
+    ux: 84
+    impact: 55

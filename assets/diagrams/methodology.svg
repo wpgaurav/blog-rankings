@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-labelledby="gbr-method-title gbr-method-desc">
+  <title id="gbr-method-title">Gatilab Blog Rankings scoring method</title>
+  <desc id="gbr-method-desc">Six weighted components total 100 points, led by editorial quality at 30 percent.</desc>
+  <defs>
+    <pattern id="gbr-method-dots" width="32" height="32" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="2" fill="#d8cec5" opacity="0.55"/>
+    </pattern>
+  </defs>
+  <rect width="1600" height="900" fill="#faf7f2"/>
+  <rect x="32" y="32" width="1536" height="836" rx="30" fill="url(#gbr-method-dots)" stroke="#d8cec5" stroke-width="2"/>
+  <text x="88" y="128" font-family="'Google Sans Flex','Google Sans',system-ui,sans-serif" font-size="54" font-weight="700" fill="#b94720">HOW THE SCORE IS BUILT</text>
+  <text x="88" y="214" font-family="'Google Sans Flex','Google Sans',system-ui,sans-serif" font-size="82" font-weight="700" fill="#171717"><tspan x="88" dy="0">100 points.</tspan><tspan x="88" dy="88">6 visible components.</tspan></text>
+  <g id="weight-0">
+    <text x="88" y="382" font-family="'Google Sans Flex','Google Sans',system-ui,sans-serif" font-size="48" font-weight="600" fill="#1f2937">Editorial quality</text>
+    <rect x="458" y="336" width="390" height="64" rx="8" fill="#b94720"/>
+    <text x="868" y="382" font-family="'Google Sans Flex','Google Sans',system-ui,sans-serif" font-size="48" font-weight="700" fill="#1f2937">30%</text>
+  </g>
+  <g id="weight-1">
+    <text x="88" y="454" font-family="'Google Sans Flex','Google Sans',system-ui,sans-serif" font-size="48" font-weight="600" fill="#1f2937">Trust</text>
+    <rect x="458" y="408" width="260" height="64" rx="8" fill="#1f2937"/>
+    <text x="738" y="454" font-family="'Google Sans Flex','Google Sans',system-ui,sans-serif" font-size="48" font-weight="700" fill="#1f2937">20%</text>
+  </g>
+  <g id="weight-2">
+    <text x="88" y="526" font-family="'Google Sans Flex','Google Sans',system-ui,sans-serif" font-size="48" font-weight="600" fill="#1f2937">Reach</text>
+    <rect x="458" y="480" width="260" height="64" rx="8" fill="#374151"/>
+    <text x="738" y="526" font-family="'Google Sans Flex','Google Sans',system-ui,sans-serif" font-size="48" font-weight="700" fill="#1f2937">20%</text>
+  </g>
+  <g id="weight-3">
+    <text x="88" y="598" font-family="'Google Sans Flex','Google Sans',system-ui,sans-serif" font-size="48" font-weight="600" fill="#1f2937">Freshness</text>
+    <rect x="458" y="552" width="195" height="64" rx="8" fill="#6b7280"/>
+    <text x="673" y="598" font-family="'Google Sans Flex','Google Sans',system-ui,sans-serif" font-size="48" font-weight="700" fill="#1f2937">15%</text>
+  </g>
+  <g id="weight-4">
+    <text x="88" y="670" font-family="'Google Sans Flex','Google Sans',system-ui,sans-serif" font-size="48" font-weight="600" fill="#1f2937">UX</text>
+    <rect x="458" y="624" width="130" height="64" rx="8" fill="#2f855a"/>
+    <text x="608" y="670" font-family="'Google Sans Flex','Google Sans',system-ui,sans-serif" font-size="48" font-weight="700" fill="#1f2937">10%</text>
+  </g>
+  <g id="weight-5">
+    <text x="88" y="742" font-family="'Google Sans Flex','Google Sans',system-ui,sans-serif" font-size="48" font-weight="600" fill="#1f2937">Impact</text>
+    <rect x="458" y="696" width="65" height="64" rx="8" fill="#2563eb"/>
+    <text x="543" y="742" font-family="'Google Sans Flex','Google Sans',system-ui,sans-serif" font-size="48" font-weight="700" fill="#1f2937">5%</text>
+  </g>
+  <text x="88" y="786" font-family="'Google Sans Flex','Google Sans',system-ui,sans-serif" font-size="48" font-weight="400" fill="#4b5563"><tspan x="88" dy="0">Public signals monitor candidates.</tspan><tspan x="88" dy="54">Human review sets the final order.</tspan></text>
+</svg>

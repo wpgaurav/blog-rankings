@@ -1,0 +1,1853 @@
+{
+  "schema_version": 1,
+  "edition": "2026-09",
+  "status": "final",
+  "category": {
+    "slug": "culture-entertainment",
+    "name": "Culture and Entertainment",
+    "description": "Criticism, reporting, and analysis about books, film, television, music, games, and popular culture.",
+    "subcategories": [
+      "books",
+      "film",
+      "television",
+      "music",
+      "gaming",
+      "criticism"
+    ]
+  },
+  "track": {
+    "slug": "independent",
+    "label": "Independent Blogs"
+  },
+  "count": 100,
+  "items": [
+    {
+      "rank": 1,
+      "id": "austinkleon-com",
+      "name": "Austin Kleon",
+      "url": "https://austinkleon.com/",
+      "country": "XX",
+      "score": 98.0,
+      "movement": "new",
+      "best_for": "books, literature, and reading culture",
+      "reason": "Austin Kleon concentrates on books, literature, and reading culture, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://austinkleon.com/",
+        "https://austinkleon.com/comments/feed/",
+        "https://austinkleon.com/about/"
+      ]
+    },
+    {
+      "rank": 2,
+      "id": "atwoodmagazine-com",
+      "name": "Atwood Magazine",
+      "url": "https://atwoodmagazine.com/",
+      "country": "XX",
+      "score": 97.0,
+      "movement": "new",
+      "best_for": "music criticism, discovery, and industry context",
+      "reason": "Atwood Magazine concentrates on music criticism, discovery, and industry context, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://atwoodmagazine.com/",
+        "https://atwoodmagazine.com/comments/feed/",
+        "https://atwoodmagazine.com/about/"
+      ]
+    },
+    {
+      "rank": 3,
+      "id": "jerryjenkins-com",
+      "name": "Jerry Jenkins | Proven Writing Tips",
+      "url": "https://jerryjenkins.com/",
+      "country": "XX",
+      "score": 96.0,
+      "movement": "new",
+      "best_for": "culture, criticism, and entertainment analysis",
+      "reason": "Jerry Jenkins | Proven Writing Tips concentrates on culture, criticism, and entertainment analysis, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://jerryjenkins.com/",
+        "https://jerryjenkins.com/comments/feed/",
+        "https://jerryjenkins.com/about/"
+      ]
+    },
+    {
+      "rank": 4,
+      "id": "noamkroll-com",
+      "name": "Noam Kroll",
+      "url": "https://noamkroll.com/",
+      "country": "XX",
+      "score": 95.0,
+      "movement": "new",
+      "best_for": "books, literature, and reading culture",
+      "reason": "Noam Kroll concentrates on books, literature, and reading culture, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://noamkroll.com/",
+        "https://noamkroll.com/the-7-filmmaking-blogs-you-should-be-reading-bookmarking-today/feed/",
+        "https://noamkroll.com/about-noam/"
+      ]
+    },
+    {
+      "rank": 5,
+      "id": "eclecticmusiclover-com",
+      "name": "ECLECTIC MUSIC LOVER",
+      "url": "https://eclecticmusiclover.com/",
+      "country": "XX",
+      "score": 94.0,
+      "movement": "new",
+      "best_for": "music criticism, discovery, and industry context",
+      "reason": "ECLECTIC MUSIC LOVER concentrates on music criticism, discovery, and industry context, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://eclecticmusiclover.com/",
+        "https://eclecticmusiclover.com/about/feed/",
+        "https://eclecticmusiclover.com/about/#content"
+      ]
+    },
+    {
+      "rank": 6,
+      "id": "stackedbooks-org",
+      "name": "STACKED",
+      "url": "https://stackedbooks.org/",
+      "country": "XX",
+      "score": 93.0,
+      "movement": "new",
+      "best_for": "books, literature, and reading culture",
+      "reason": "STACKED concentrates on books, literature, and reading culture, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://stackedbooks.org/",
+        "https://stackedbooks.org/comments/feed/"
+      ]
+    },
+    {
+      "rank": 7,
+      "id": "arpegi-wordpress-com",
+      "name": "NekoJonez's Gaming Blog",
+      "url": "https://arpegi.wordpress.com/",
+      "country": "XX",
+      "score": 92.0,
+      "movement": "new",
+      "best_for": "games, criticism, and gaming culture",
+      "reason": "NekoJonez's Gaming Blog concentrates on games, criticism, and gaming culture, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://arpegi.wordpress.com/",
+        "https://arpegi.wordpress.com/comments/feed/",
+        "https://arpegi.wordpress.com/about-me/"
+      ]
+    },
+    {
+      "rank": 8,
+      "id": "bohemianbibliophile-com",
+      "name": "Bohemian Bibliophile",
+      "url": "https://bohemianbibliophile.com/",
+      "country": "XX",
+      "score": 91.0,
+      "movement": "new",
+      "best_for": "books, literature, and reading culture",
+      "reason": "Bohemian Bibliophile concentrates on books, literature, and reading culture, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://bohemianbibliophile.com/",
+        "https://bohemianbibliophile.com/comments/feed/",
+        "https://bohemianbibliophile.com/about-bohemian-bibliophile/"
+      ]
+    },
+    {
+      "rank": 9,
+      "id": "thatartsyreadergirl-com",
+      "name": "That Artsy Reader Girl",
+      "url": "https://thatartsyreadergirl.com/",
+      "country": "XX",
+      "score": 90.0,
+      "movement": "new",
+      "best_for": "books, literature, and reading culture",
+      "reason": "That Artsy Reader Girl concentrates on books, literature, and reading culture, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://thatartsyreadergirl.com/",
+        "https://www.thatartsyreadergirl.com/comments/feed/",
+        "https://www.thatartsyreadergirl.com/about-jana/"
+      ]
+    },
+    {
+      "rank": 10,
+      "id": "bookwyrmshoard-com",
+      "name": "The Bookwyrm's Hoard",
+      "url": "https://bookwyrmshoard.com/",
+      "country": "XX",
+      "score": 89.0,
+      "movement": "new",
+      "best_for": "books, literature, and reading culture",
+      "reason": "The Bookwyrm's Hoard concentrates on books, literature, and reading culture, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://bookwyrmshoard.com/",
+        "https://bookwyrmshoard.com/comments/feed/",
+        "https://bookwyrmshoard.com/about-review-policy-contact/"
+      ]
+    },
+    {
+      "rank": 11,
+      "id": "digitalspy-com",
+      "name": "Digital Spy",
+      "url": "https://digitalspy.com/",
+      "country": "XX",
+      "score": 83.6,
+      "movement": "new",
+      "best_for": "film criticism and cinema culture",
+      "reason": "Digital Spy concentrates on film criticism and cinema culture, with a discoverable feed, named authorship that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://digitalspy.com/",
+        "https://www.digitalspy.com/rss/all.xml",
+        "https://www.digitalspy.com/tv/ustv/a73435303/reacher-alan-ritchson-viewers-shocking-season-4/"
+      ]
+    },
+    {
+      "rank": 12,
+      "id": "cosmopolitan-com",
+      "name": "Cosmopolitan",
+      "url": "https://cosmopolitan.com/",
+      "country": "XX",
+      "score": 80.7,
+      "movement": "new",
+      "best_for": "television and popular entertainment",
+      "reason": "Cosmopolitan concentrates on television and popular entertainment, with named authorship, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://cosmopolitan.com/",
+        "https://www.cosmopolitan.com/about/a26950060/about-us-contact-information-masthead/"
+      ]
+    },
+    {
+      "rank": 13,
+      "id": "complex-com",
+      "name": "Complex",
+      "url": "https://complex.com/",
+      "country": "XX",
+      "score": 79.9,
+      "movement": "new",
+      "best_for": "books, literature, and reading culture",
+      "reason": "Complex concentrates on books, literature, and reading culture, with a visible article archive, named authorship that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://complex.com/",
+        "https://www.complex.com:443/music/a/esperanza-rosenbaum/enhypen-the-sin-bliss-ep-interview"
+      ]
+    },
+    {
+      "rank": 14,
+      "id": "raindance-org",
+      "name": "Raindance",
+      "url": "https://raindance.org/",
+      "country": "XX",
+      "score": 78.0,
+      "movement": "new",
+      "best_for": "film criticism and cinema culture",
+      "reason": "Raindance concentrates on film criticism and cinema culture, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://raindance.org/",
+        "https://raindance.org/upcoming_events",
+        "https://raindance.org/festival/about/"
+      ]
+    },
+    {
+      "rank": 15,
+      "id": "coveteur-com",
+      "name": "Coveteur",
+      "url": "https://coveteur.com/",
+      "country": "XX",
+      "score": 77.2,
+      "movement": "new",
+      "best_for": "culture, criticism, and entertainment analysis",
+      "reason": "Coveteur concentrates on culture, criticism, and entertainment analysis, with a discoverable feed, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://coveteur.com/",
+        "https://coveteur.com/rss/all.xml",
+        "https://coveteur.com/louvelle-fashion-rentals"
+      ]
+    },
+    {
+      "rank": 16,
+      "id": "ideo-com",
+      "name": "IDEO",
+      "url": "https://ideo.com/",
+      "country": "XX",
+      "score": 77.2,
+      "movement": "new",
+      "best_for": "culture, criticism, and entertainment analysis",
+      "reason": "IDEO concentrates on culture, criticism, and entertainment analysis, with clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://ideo.com/",
+        "https://www.ideo.com/about"
+      ]
+    },
+    {
+      "rank": 17,
+      "id": "crooksbooks-blog",
+      "name": "Becky's Book Blog",
+      "url": "https://crooksbooks.blog/",
+      "country": "XX",
+      "score": 76.0,
+      "movement": "new",
+      "best_for": "books, literature, and reading culture",
+      "reason": "Becky's Book Blog concentrates on books, literature, and reading culture, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://crooksbooks.blog/",
+        "https://crooksbooks.blog/comments/feed/",
+        "https://crooksbooks.blog/about-me/"
+      ]
+    },
+    {
+      "rank": 18,
+      "id": "imlovingbooks-com",
+      "name": "I'm Loving Books",
+      "url": "https://imlovingbooks.com/",
+      "country": "XX",
+      "score": 75.8,
+      "movement": "new",
+      "best_for": "books, literature, and reading culture",
+      "reason": "I'm Loving Books concentrates on books, literature, and reading culture, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://imlovingbooks.com/",
+        "https://imlovingbooks.com/comments/feed/",
+        "https://imlovingbooks.com/about/"
+      ]
+    },
+    {
+      "rank": 19,
+      "id": "letsgotothemovies-com",
+      "name": "Let's Go To The Movies",
+      "url": "https://letsgotothemovies.com/",
+      "country": "XX",
+      "score": 75.2,
+      "movement": "new",
+      "best_for": "film criticism and cinema culture",
+      "reason": "Let's Go To The Movies concentrates on film criticism and cinema culture, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Authorship and editorial-policy information is less visible than on higher-ranked publications.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://letsgotothemovies.com/",
+        "https://letsgotothemovies.com/comments/feed/",
+        "https://letsgotothemovies.com/about/"
+      ]
+    },
+    {
+      "rank": 20,
+      "id": "lukeharkness-com",
+      "name": "Luke’s Blog",
+      "url": "https://lukeharkness.com/",
+      "country": "XX",
+      "score": 75.2,
+      "movement": "new",
+      "best_for": "books, literature, and reading culture",
+      "reason": "Luke’s Blog concentrates on books, literature, and reading culture, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://lukeharkness.com/",
+        "https://www.lukeharkness.com/comments/feed/",
+        "https://www.lukeharkness.com/contact/"
+      ]
+    },
+    {
+      "rank": 21,
+      "id": "filmcomment-com",
+      "name": "Film Comment",
+      "url": "https://filmcomment.com/",
+      "country": "XX",
+      "score": 75.1,
+      "movement": "new",
+      "best_for": "books, literature, and reading culture",
+      "reason": "Film Comment concentrates on books, literature, and reading culture, with a visible article archive, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://filmcomment.com/",
+        "https://www.filmcomment.com/article/locarno-2026-life-during-wartime/"
+      ]
+    },
+    {
+      "rank": 22,
+      "id": "johnrieber-wordpress-com",
+      "name": "johnrieber",
+      "url": "https://johnrieber.wordpress.com/",
+      "country": "XX",
+      "score": 74.5,
+      "movement": "new",
+      "best_for": "books, literature, and reading culture",
+      "reason": "johnrieber concentrates on books, literature, and reading culture, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://johnrieber.wordpress.com/",
+        "https://johnrieber.com/comments/feed/",
+        "https://johnrieber.com/about/"
+      ]
+    },
+    {
+      "rank": 23,
+      "id": "filmindependent-org",
+      "name": "Film Independent",
+      "url": "https://filmindependent.org/",
+      "country": "XX",
+      "score": 74.5,
+      "movement": "new",
+      "best_for": "film criticism and cinema culture",
+      "reason": "Film Independent concentrates on film criticism and cinema culture, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://filmindependent.org/",
+        "https://www.filmindependent.org/film-independent-home/feed/",
+        "https://www.filmindependent.org/about/"
+      ]
+    },
+    {
+      "rank": 24,
+      "id": "communizine-com",
+      "name": "Communizine",
+      "url": "https://communizine.com/",
+      "country": "XX",
+      "score": 74.5,
+      "movement": "new",
+      "best_for": "film criticism and cinema culture",
+      "reason": "Communizine concentrates on film criticism and cinema culture, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://communizine.com/",
+        "https://www.communizine.com/comments/feed/",
+        "https://www.communizine.com/about/"
+      ]
+    },
+    {
+      "rank": 25,
+      "id": "theblackbookblogg-com",
+      "name": "The Black Book Blog",
+      "url": "https://theblackbookblogg.com/",
+      "country": "XX",
+      "score": 73.9,
+      "movement": "new",
+      "best_for": "books, literature, and reading culture",
+      "reason": "The Black Book Blog concentrates on books, literature, and reading culture, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://theblackbookblogg.com/",
+        "https://theblackbookblogg.com/comments/feed/",
+        "https://theblackbookblogg.com/about/"
+      ]
+    },
+    {
+      "rank": 26,
+      "id": "inmyopinionflicks-com",
+      "name": "In My Opinion Flicks",
+      "url": "https://inmyopinionflicks.com/",
+      "country": "XX",
+      "score": 73.8,
+      "movement": "new",
+      "best_for": "film criticism and cinema culture",
+      "reason": "In My Opinion Flicks concentrates on film criticism and cinema culture, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://inmyopinionflicks.com/",
+        "https://inmyopinionflicks.com/comments/feed/",
+        "https://inmyopinionflicks.com/about/"
+      ]
+    },
+    {
+      "rank": 27,
+      "id": "jeanbooknerd-com",
+      "name": "JeanBookNerd",
+      "url": "https://jeanbooknerd.com/",
+      "country": "XX",
+      "score": 73.5,
+      "movement": "new",
+      "best_for": "books, literature, and reading culture",
+      "reason": "JeanBookNerd concentrates on books, literature, and reading culture, with a discoverable feed, named authorship that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://jeanbooknerd.com/",
+        "https://www.jeanbooknerd.com/feeds/posts/default?alt=rss",
+        "https://www.jeanbooknerd.com/p/about-me.html"
+      ]
+    },
+    {
+      "rank": 28,
+      "id": "magculture-com",
+      "name": "magCulture",
+      "url": "https://magculture.com/",
+      "country": "XX",
+      "score": 73.0,
+      "movement": "new",
+      "best_for": "music criticism, discovery, and industry context",
+      "reason": "magCulture concentrates on music criticism, discovery, and industry context, with a visible article archive, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://magculture.com/",
+        "https://magculture.com/pages/about"
+      ]
+    },
+    {
+      "rank": 29,
+      "id": "publishersweekly-com",
+      "name": "PublishersWeekly.com",
+      "url": "https://publishersweekly.com/",
+      "country": "XX",
+      "score": 72.9,
+      "movement": "new",
+      "best_for": "books, literature, and reading culture",
+      "reason": "PublishersWeekly.com concentrates on books, literature, and reading culture, with named authorship, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://publishersweekly.com/"
+      ]
+    },
+    {
+      "rank": 30,
+      "id": "blog-eduonix-com",
+      "name": "Eduonix Blog",
+      "url": "https://blog.eduonix.com/",
+      "country": "XX",
+      "score": 72.8,
+      "movement": "new",
+      "best_for": "games, criticism, and gaming culture",
+      "reason": "Eduonix Blog concentrates on games, criticism, and gaming culture, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://blog.eduonix.com/",
+        "https://blog.eduonix.com/comments/feed/",
+        "https://blog.eduonix.com/2026/08/react-router-v7-remix-v2-remix-3-what-production-teams-should-actually-do/"
+      ]
+    },
+    {
+      "rank": 31,
+      "id": "thecreativemuggle-com",
+      "name": "The Creative Muggle",
+      "url": "https://thecreativemuggle.com/",
+      "country": "XX",
+      "score": 72.7,
+      "movement": "new",
+      "best_for": "books, literature, and reading culture",
+      "reason": "The Creative Muggle concentrates on books, literature, and reading culture, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://thecreativemuggle.com/",
+        "https://www.thecreativemuggle.com/web-stories/feed/",
+        "https://www.thecreativemuggle.com/about/"
+      ]
+    },
+    {
+      "rank": 32,
+      "id": "annehelen-substack-com",
+      "name": "Culture Study",
+      "url": "https://annehelen.substack.com/",
+      "country": "XX",
+      "score": 72.7,
+      "movement": "new",
+      "best_for": "culture, criticism, and entertainment analysis",
+      "reason": "Culture Study concentrates on culture, criticism, and entertainment analysis, with a discoverable feed that makes its current publishing work easier to evaluate.",
+      "limitation": "Authorship and editorial-policy information is less visible than on higher-ranked publications.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://annehelen.substack.com/",
+        "https://annehelen.substack.com/feed"
+      ]
+    },
+    {
+      "rank": 33,
+      "id": "sorryiambooked-wordpress-com",
+      "name": "Sorry, I'm Booked",
+      "url": "https://sorryiambooked.wordpress.com/",
+      "country": "XX",
+      "score": 71.5,
+      "movement": "new",
+      "best_for": "books, literature, and reading culture",
+      "reason": "Sorry, I'm Booked concentrates on books, literature, and reading culture, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://sorryiambooked.wordpress.com/",
+        "https://sorryiambooked.wordpress.com/comments/feed/",
+        "https://sorryiambooked.wordpress.com/about/"
+      ]
+    },
+    {
+      "rank": 34,
+      "id": "refind-com",
+      "name": "Refind",
+      "url": "https://refind.com/",
+      "country": "XX",
+      "score": 71.5,
+      "movement": "new",
+      "best_for": "culture, criticism, and entertainment analysis",
+      "reason": "Refind concentrates on culture, criticism, and entertainment analysis, with clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://refind.com/",
+        "https://refind.com/about"
+      ]
+    },
+    {
+      "rank": 35,
+      "id": "refinery29-com",
+      "name": "Refinery29",
+      "url": "https://refinery29.com/",
+      "country": "XX",
+      "score": 71.2,
+      "movement": "new",
+      "best_for": "music criticism, discovery, and industry context",
+      "reason": "Refinery29 concentrates on music criticism, discovery, and industry context, with a clearly defined editorial focus that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://refinery29.com/",
+        "https://www.refinery29.com/en-us/katseye-interview-dream-collaborations"
+      ]
+    },
+    {
+      "rank": 36,
+      "id": "winsbooks-blog",
+      "name": "Win's Books | Live to write. Love to read. Laugh at mistakes.",
+      "url": "https://winsbooks.blog/",
+      "country": "XX",
+      "score": 71.0,
+      "movement": "new",
+      "best_for": "books, literature, and reading culture",
+      "reason": "Win's Books | Live to write. Love to read. Laugh at mistakes. concentrates on books, literature, and reading culture, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://winsbooks.blog/",
+        "https://winsbooks.blog/five-book-blogs-you-should-follow-and-interact-with/feed/",
+        "https://winsbooks.blog/about-me/"
+      ]
+    },
+    {
+      "rank": 37,
+      "id": "audiohype-io",
+      "name": "Audiohype",
+      "url": "https://audiohype.io/",
+      "country": "XX",
+      "score": 70.5,
+      "movement": "new",
+      "best_for": "music criticism, discovery, and industry context",
+      "reason": "Audiohype concentrates on music criticism, discovery, and industry context, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://audiohype.io/",
+        "https://audiohype.io/comments/feed/",
+        "https://audiohype.io/about/"
+      ]
+    },
+    {
+      "rank": 38,
+      "id": "betterallies-com",
+      "name": "Better Allies®",
+      "url": "https://betterallies.com/",
+      "country": "XX",
+      "score": 70.5,
+      "movement": "new",
+      "best_for": "culture, criticism, and entertainment analysis",
+      "reason": "Better Allies® concentrates on culture, criticism, and entertainment analysis, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://betterallies.com/",
+        "https://betterallies.com/comments/feed/"
+      ]
+    },
+    {
+      "rank": 39,
+      "id": "whatcathyreadnext-co-uk",
+      "name": "What Cathy Read Next...",
+      "url": "https://whatcathyreadnext.co.uk/",
+      "country": "GB",
+      "score": 70.5,
+      "movement": "new",
+      "best_for": "books, literature, and reading culture",
+      "reason": "What Cathy Read Next... concentrates on books, literature, and reading culture, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://whatcathyreadnext.co.uk/",
+        "https://whatcathyreadnext.co.uk/comments/feed/"
+      ]
+    },
+    {
+      "rank": 40,
+      "id": "rafalreyzer-com",
+      "name": "Rafal Reyzer",
+      "url": "https://rafalreyzer.com/",
+      "country": "XX",
+      "score": 70.5,
+      "movement": "new",
+      "best_for": "books, literature, and reading culture",
+      "reason": "Rafal Reyzer concentrates on books, literature, and reading culture, with a visible article archive, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://rafalreyzer.com/",
+        "https://rafalreyzer.com/about-rafal-reyzer/"
+      ]
+    },
+    {
+      "rank": 41,
+      "id": "haleynahman-substack-com",
+      "name": "Maybe Baby",
+      "url": "https://haleynahman.substack.com/",
+      "country": "XX",
+      "score": 70.2,
+      "movement": "new",
+      "best_for": "culture, criticism, and entertainment analysis",
+      "reason": "Maybe Baby concentrates on culture, criticism, and entertainment analysis, with a discoverable feed that makes its current publishing work easier to evaluate.",
+      "limitation": "Authorship and editorial-policy information is less visible than on higher-ranked publications.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://haleynahman.substack.com/",
+        "https://haleynahman.substack.com/feed"
+      ]
+    },
+    {
+      "rank": 42,
+      "id": "cravemusicmagazine-com",
+      "name": "Crave Music Magazine",
+      "url": "https://cravemusicmagazine.com/",
+      "country": "XX",
+      "score": 70.0,
+      "movement": "new",
+      "best_for": "music criticism, discovery, and industry context",
+      "reason": "Crave Music Magazine concentrates on music criticism, discovery, and industry context, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://cravemusicmagazine.com/",
+        "https://cravemusicmagazine.com/comments/feed/"
+      ]
+    },
+    {
+      "rank": 43,
+      "id": "filmgeeky-com",
+      "name": "Film Geeky | Movie Reviews | New Movie Releases",
+      "url": "https://filmgeeky.com/",
+      "country": "XX",
+      "score": 69.8,
+      "movement": "new",
+      "best_for": "film criticism and cinema culture",
+      "reason": "Film Geeky | Movie Reviews | New Movie Releases concentrates on film criticism and cinema culture, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://filmgeeky.com/",
+        "https://filmgeeky.com/comments/feed/"
+      ]
+    },
+    {
+      "rank": 44,
+      "id": "melovebooks-wordpress-com",
+      "name": "It's All About Books",
+      "url": "https://melovebooks.wordpress.com/",
+      "country": "XX",
+      "score": 69.8,
+      "movement": "new",
+      "best_for": "books, literature, and reading culture",
+      "reason": "It's All About Books concentrates on books, literature, and reading culture, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://melovebooks.wordpress.com/",
+        "https://melovebooks.wordpress.com/2014/07/17/recommended-book-blogs/feed/",
+        "https://melovebooks.wordpress.com/category/about/"
+      ]
+    },
+    {
+      "rank": 45,
+      "id": "bagfullofbooks-com",
+      "name": "Bag Full Of Books",
+      "url": "https://bagfullofbooks.com/",
+      "country": "XX",
+      "score": 69.6,
+      "movement": "new",
+      "best_for": "books, literature, and reading culture",
+      "reason": "Bag Full Of Books concentrates on books, literature, and reading culture, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://bagfullofbooks.com/",
+        "https://bagfullofbooks.com/comments/feed/"
+      ]
+    },
+    {
+      "rank": 46,
+      "id": "1morefilmblog-com",
+      "name": "1More Film Blog",
+      "url": "https://1morefilmblog.com/",
+      "country": "XX",
+      "score": 69.5,
+      "movement": "new",
+      "best_for": "film criticism and cinema culture",
+      "reason": "1More Film Blog concentrates on film criticism and cinema culture, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://1morefilmblog.com/",
+        "https://1morefilmblog.com/comments/feed/"
+      ]
+    },
+    {
+      "rank": 47,
+      "id": "thefilm-blog",
+      "name": "The Film Blog",
+      "url": "https://thefilm.blog/",
+      "country": "XX",
+      "score": 69.5,
+      "movement": "new",
+      "best_for": "film criticism and cinema culture",
+      "reason": "The Film Blog concentrates on film criticism and cinema culture, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://thefilm.blog/",
+        "https://thefilm.blog/comments/feed/"
+      ]
+    },
+    {
+      "rank": 48,
+      "id": "nextchapters-com",
+      "name": "Next Chapters",
+      "url": "https://nextchapters.com/",
+      "country": "XX",
+      "score": 69.3,
+      "movement": "new",
+      "best_for": "books, literature, and reading culture",
+      "reason": "Next Chapters concentrates on books, literature, and reading culture, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://nextchapters.com/",
+        "https://nextchapters.com/feed/"
+      ]
+    },
+    {
+      "rank": 49,
+      "id": "cultcelebrities-com",
+      "name": "Cult Celebrities",
+      "url": "https://cultcelebrities.com/",
+      "country": "XX",
+      "score": 69.2,
+      "movement": "new",
+      "best_for": "film criticism and cinema culture",
+      "reason": "Cult Celebrities concentrates on film criticism and cinema culture, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://cultcelebrities.com/",
+        "https://www.cultcelebrities.com/comments/feed/"
+      ]
+    },
+    {
+      "rank": 50,
+      "id": "decentfilms-com",
+      "name": "Decent Films",
+      "url": "https://decentfilms.com/",
+      "country": "XX",
+      "score": 69.2,
+      "movement": "new",
+      "best_for": "film criticism and cinema culture",
+      "reason": "Decent Films concentrates on film criticism and cinema culture, with clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://decentfilms.com/"
+      ]
+    },
+    {
+      "rank": 51,
+      "id": "sayyes-com",
+      "name": "Say Yes",
+      "url": "https://sayyes.com/",
+      "country": "XX",
+      "score": 69.0,
+      "movement": "new",
+      "best_for": "culture, criticism, and entertainment analysis",
+      "reason": "Say Yes concentrates on culture, criticism, and entertainment analysis, with a discoverable feed, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://sayyes.com/",
+        "https://sayyes.com/feed"
+      ]
+    },
+    {
+      "rank": 52,
+      "id": "booksandpals-blogspot-com",
+      "name": "BigAl's Books and Pals",
+      "url": "https://booksandpals.blogspot.com/",
+      "country": "XX",
+      "score": 68.7,
+      "movement": "new",
+      "best_for": "books, literature, and reading culture",
+      "reason": "BigAl's Books and Pals concentrates on books, literature, and reading culture, with a discoverable feed, named authorship that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://booksandpals.blogspot.com/",
+        "https://booksandpals.blogspot.com/feeds/posts/default?alt=rss"
+      ]
+    },
+    {
+      "rank": 53,
+      "id": "lairofbooksblog-com",
+      "name": "LairOfBooks",
+      "url": "https://lairofbooksblog.com/",
+      "country": "XX",
+      "score": 68.5,
+      "movement": "new",
+      "best_for": "books, literature, and reading culture",
+      "reason": "LairOfBooks concentrates on books, literature, and reading culture, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://lairofbooksblog.com/",
+        "https://lairofbooksblog.com/comments/feed/"
+      ]
+    },
+    {
+      "rank": 54,
+      "id": "filmreviews7-wordpress-com",
+      "name": "Let's Go To The Movies",
+      "url": "https://filmreviews7.wordpress.com/",
+      "country": "XX",
+      "score": 68.4,
+      "movement": "new",
+      "best_for": "film criticism and cinema culture",
+      "reason": "Let's Go To The Movies concentrates on film criticism and cinema culture, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Authorship and editorial-policy information is less visible than on higher-ranked publications.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://filmreviews7.wordpress.com/",
+        "https://letsgotothemovies.com/comments/feed/"
+      ]
+    },
+    {
+      "rank": 55,
+      "id": "blogroll-org",
+      "name": "Blogroll",
+      "url": "https://blogroll.org/",
+      "country": "XX",
+      "score": 68.3,
+      "movement": "new",
+      "best_for": "culture, criticism, and entertainment analysis",
+      "reason": "Blogroll concentrates on culture, criticism, and entertainment analysis, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://blogroll.org/",
+        "https://blogroll.org/feed"
+      ]
+    },
+    {
+      "rank": 56,
+      "id": "eaterofbooks-blogspot-com",
+      "name": "The Eater of Books!",
+      "url": "https://eaterofbooks.blogspot.com/",
+      "country": "XX",
+      "score": 68.3,
+      "movement": "new",
+      "best_for": "books, literature, and reading culture",
+      "reason": "The Eater of Books! concentrates on books, literature, and reading culture, with a discoverable feed, named authorship that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://eaterofbooks.blogspot.com/",
+        "https://eaterofbooks.blogspot.com/feeds/posts/default?alt=rss"
+      ]
+    },
+    {
+      "rank": 57,
+      "id": "ministryofpopculture-substack-com",
+      "name": "Ministry of Pop Culture",
+      "url": "https://ministryofpopculture.substack.com/",
+      "country": "XX",
+      "score": 68.2,
+      "movement": "new",
+      "best_for": "film criticism and cinema culture",
+      "reason": "Ministry of Pop Culture concentrates on film criticism and cinema culture, with a discoverable feed that makes its current publishing work easier to evaluate.",
+      "limitation": "Authorship and editorial-policy information is less visible than on higher-ranked publications.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://ministryofpopculture.substack.com/",
+        "https://ministryofpopculture.substack.com/feed"
+      ]
+    },
+    {
+      "rank": 58,
+      "id": "blog-writingacademy-com",
+      "name": "Writing Academy Blog",
+      "url": "https://blog.writingacademy.com/",
+      "country": "XX",
+      "score": 68.1,
+      "movement": "new",
+      "best_for": "books, literature, and reading culture",
+      "reason": "Writing Academy Blog concentrates on books, literature, and reading culture, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Authorship and editorial-policy information is less visible than on higher-ranked publications.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://blog.writingacademy.com/",
+        "https://blog.writingacademy.com/comments/feed/"
+      ]
+    },
+    {
+      "rank": 59,
+      "id": "richardrabil-com",
+      "name": "Richard Rabil, Jr.",
+      "url": "https://richardrabil.com/",
+      "country": "XX",
+      "score": 68.0,
+      "movement": "new",
+      "best_for": "books, literature, and reading culture",
+      "reason": "Richard Rabil, Jr. concentrates on books, literature, and reading culture, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://richardrabil.com/",
+        "https://richardrabil.com/comments/feed/"
+      ]
+    },
+    {
+      "rank": 60,
+      "id": "upcontent-com",
+      "name": "UpContent",
+      "url": "https://upcontent.com/",
+      "country": "XX",
+      "score": 68.0,
+      "movement": "new",
+      "best_for": "books, literature, and reading culture",
+      "reason": "UpContent concentrates on books, literature, and reading culture, with a visible article archive, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://upcontent.com/"
+      ]
+    },
+    {
+      "rank": 61,
+      "id": "cult-machine-com",
+      "name": "CULT MACHINE",
+      "url": "https://cult-machine.com/",
+      "country": "XX",
+      "score": 67.8,
+      "movement": "new",
+      "best_for": "music criticism, discovery, and industry context",
+      "reason": "CULT MACHINE concentrates on music criticism, discovery, and industry context, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://cult-machine.com/",
+        "https://cult-machine.com/comments/feed/"
+      ]
+    },
+    {
+      "rank": 62,
+      "id": "headfullofbooks-blogspot-com",
+      "name": "My Head Is Full of Books",
+      "url": "https://headfullofbooks.blogspot.com/",
+      "country": "XX",
+      "score": 67.8,
+      "movement": "new",
+      "best_for": "books, literature, and reading culture",
+      "reason": "My Head Is Full of Books concentrates on books, literature, and reading culture, with a discoverable feed, named authorship that makes its current publishing work easier to evaluate.",
+      "limitation": "Authorship and editorial-policy information is less visible than on higher-ranked publications.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://headfullofbooks.blogspot.com/",
+        "https://headfullofbooks.blogspot.com/feeds/posts/default?alt=rss"
+      ]
+    },
+    {
+      "rank": 63,
+      "id": "writing-ie",
+      "name": "Writing.ie",
+      "url": "https://writing.ie/",
+      "country": "IE",
+      "score": 67.8,
+      "movement": "new",
+      "best_for": "culture, criticism, and entertainment analysis",
+      "reason": "Writing.ie concentrates on culture, criticism, and entertainment analysis, with a visible article archive, named authorship that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://writing.ie/"
+      ]
+    },
+    {
+      "rank": 64,
+      "id": "creativelivesinprogress-com",
+      "name": "Creative Lives In Progress",
+      "url": "https://creativelivesinprogress.com/",
+      "country": "XX",
+      "score": 67.7,
+      "movement": "new",
+      "best_for": "music criticism, discovery, and industry context",
+      "reason": "Creative Lives In Progress concentrates on music criticism, discovery, and industry context, with named authorship, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://creativelivesinprogress.com/"
+      ]
+    },
+    {
+      "rank": 65,
+      "id": "thevoiceoffashion-com",
+      "name": "Indian Fashion Magazine",
+      "url": "https://thevoiceoffashion.com/",
+      "country": "XX",
+      "score": 67.6,
+      "movement": "new",
+      "best_for": "culture, criticism, and entertainment analysis",
+      "reason": "Indian Fashion Magazine concentrates on culture, criticism, and entertainment analysis, with named authorship, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://thevoiceoffashion.com/"
+      ]
+    },
+    {
+      "rank": 66,
+      "id": "briarsreviews-wordpress-com",
+      "name": "Briar's Reviews",
+      "url": "https://briarsreviews.wordpress.com/",
+      "country": "XX",
+      "score": 67.5,
+      "movement": "new",
+      "best_for": "books, literature, and reading culture",
+      "reason": "Briar's Reviews concentrates on books, literature, and reading culture, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://briarsreviews.wordpress.com/",
+        "https://briarsreviews.wordpress.com/comments/feed/"
+      ]
+    },
+    {
+      "rank": 67,
+      "id": "thebookblog-in",
+      "name": "The Book Blog",
+      "url": "https://thebookblog.in/",
+      "country": "IN",
+      "score": 67.5,
+      "movement": "new",
+      "best_for": "books, literature, and reading culture",
+      "reason": "The Book Blog concentrates on books, literature, and reading culture, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://thebookblog.in/",
+        "https://thebookblog.in/book-blog-home/feed/"
+      ]
+    },
+    {
+      "rank": 68,
+      "id": "scribophile-com",
+      "name": "Scribophile",
+      "url": "https://scribophile.com/",
+      "country": "XX",
+      "score": 67.5,
+      "movement": "new",
+      "best_for": "culture, criticism, and entertainment analysis",
+      "reason": "Scribophile concentrates on culture, criticism, and entertainment analysis, with a clearly defined editorial focus that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://scribophile.com/"
+      ]
+    },
+    {
+      "rank": 69,
+      "id": "girlonguy-net",
+      "name": "Girl On Guy",
+      "url": "https://girlonguy.net/",
+      "country": "XX",
+      "score": 67.4,
+      "movement": "new",
+      "best_for": "film criticism and cinema culture",
+      "reason": "Girl On Guy concentrates on film criticism and cinema culture, with a discoverable feed, named authorship that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://girlonguy.net/",
+        "https://www.girlonguy.net/feed/"
+      ]
+    },
+    {
+      "rank": 70,
+      "id": "davy-substack-com",
+      "name": "Around the World Show Notes",
+      "url": "https://davy.substack.com/",
+      "country": "XX",
+      "score": 67.3,
+      "movement": "new",
+      "best_for": "music criticism, discovery, and industry context",
+      "reason": "Around the World Show Notes concentrates on music criticism, discovery, and industry context, with a discoverable feed that makes its current publishing work easier to evaluate.",
+      "limitation": "Authorship and editorial-policy information is less visible than on higher-ranked publications.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://davy.substack.com/",
+        "https://davy.substack.com/feed"
+      ]
+    },
+    {
+      "rank": 71,
+      "id": "roaringbookworm-wordpress-com",
+      "name": "The Roaring Bookworm",
+      "url": "https://roaringbookworm.wordpress.com/",
+      "country": "XX",
+      "score": 67.2,
+      "movement": "new",
+      "best_for": "books, literature, and reading culture",
+      "reason": "The Roaring Bookworm concentrates on books, literature, and reading culture, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://roaringbookworm.wordpress.com/",
+        "https://roaringbookworm.wordpress.com/comments/feed/"
+      ]
+    },
+    {
+      "rank": 72,
+      "id": "topfilmmagazine-com",
+      "name": "TOP FILM",
+      "url": "https://topfilmmagazine.com/",
+      "country": "XX",
+      "score": 67.0,
+      "movement": "new",
+      "best_for": "film criticism and cinema culture",
+      "reason": "TOP FILM concentrates on film criticism and cinema culture, with a visible article archive, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://topfilmmagazine.com/"
+      ]
+    },
+    {
+      "rank": 73,
+      "id": "thecreativeindependent-com",
+      "name": "The Creative Independent",
+      "url": "https://thecreativeindependent.com/",
+      "country": "XX",
+      "score": 67.0,
+      "movement": "new",
+      "best_for": "culture, criticism, and entertainment analysis",
+      "reason": "The Creative Independent concentrates on culture, criticism, and entertainment analysis, with named authorship, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://thecreativeindependent.com/"
+      ]
+    },
+    {
+      "rank": 74,
+      "id": "kellysue-tumblr-com",
+      "name": "Digital Baubles",
+      "url": "https://kellysue.tumblr.com/",
+      "country": "XX",
+      "score": 66.8,
+      "movement": "new",
+      "best_for": "books, literature, and reading culture",
+      "reason": "Digital Baubles concentrates on books, literature, and reading culture, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Authorship and editorial-policy information is less visible than on higher-ranked publications.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://kellysue.tumblr.com/",
+        "https://kellysue.tumblr.com/rss"
+      ]
+    },
+    {
+      "rank": 75,
+      "id": "girlplusbook-com",
+      "name": "Girl Plus Book",
+      "url": "https://girlplusbook.com/",
+      "country": "XX",
+      "score": 66.8,
+      "movement": "new",
+      "best_for": "books, literature, and reading culture",
+      "reason": "Girl Plus Book concentrates on books, literature, and reading culture, with a discoverable feed, named authorship that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://girlplusbook.com/",
+        "https://girlplusbook.com/comments/feed/"
+      ]
+    },
+    {
+      "rank": 76,
+      "id": "cutline-com",
+      "name": "Cutline Communications",
+      "url": "https://cutline.com/",
+      "country": "XX",
+      "score": 66.8,
+      "movement": "new",
+      "best_for": "culture, criticism, and entertainment analysis",
+      "reason": "Cutline Communications concentrates on culture, criticism, and entertainment analysis, with a visible article archive, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://cutline.com/"
+      ]
+    },
+    {
+      "rank": 77,
+      "id": "emmameade-com",
+      "name": "Emma's Ramblings on Supernatural Fiction",
+      "url": "https://emmameade.com/",
+      "country": "XX",
+      "score": 66.7,
+      "movement": "new",
+      "best_for": "books, literature, and reading culture",
+      "reason": "Emma's Ramblings on Supernatural Fiction concentrates on books, literature, and reading culture, with a discoverable feed, named authorship that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://emmameade.com/",
+        "https://emmameade.com/comments/feed/"
+      ]
+    },
+    {
+      "rank": 78,
+      "id": "nancydurrant-substack-com",
+      "name": "The London Culture Edit",
+      "url": "https://nancydurrant.substack.com/",
+      "country": "XX",
+      "score": 66.6,
+      "movement": "new",
+      "best_for": "books, literature, and reading culture",
+      "reason": "The London Culture Edit concentrates on books, literature, and reading culture, with a discoverable feed that makes its current publishing work easier to evaluate.",
+      "limitation": "Authorship and editorial-policy information is less visible than on higher-ranked publications.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://nancydurrant.substack.com/",
+        "https://nancydurrant.substack.com/feed",
+        "https://nancydurrant.substack.com/about"
+      ]
+    },
+    {
+      "rank": 79,
+      "id": "ampleroad-substack-com",
+      "name": "A Broad and Ample Road",
+      "url": "https://ampleroad.substack.com/",
+      "country": "XX",
+      "score": 66.6,
+      "movement": "new",
+      "best_for": "culture, criticism, and entertainment analysis",
+      "reason": "A Broad and Ample Road concentrates on culture, criticism, and entertainment analysis, with a discoverable feed that makes its current publishing work easier to evaluate.",
+      "limitation": "Authorship and editorial-policy information is less visible than on higher-ranked publications.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://ampleroad.substack.com/",
+        "https://ampleroad.substack.com/feed"
+      ]
+    },
+    {
+      "rank": 80,
+      "id": "thebookbloglife-com",
+      "name": "the book blog life",
+      "url": "https://thebookbloglife.com/",
+      "country": "XX",
+      "score": 66.5,
+      "movement": "new",
+      "best_for": "books, literature, and reading culture",
+      "reason": "the book blog life concentrates on books, literature, and reading culture, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Authorship and editorial-policy information is less visible than on higher-ranked publications.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://thebookbloglife.com/",
+        "https://thebookbloglife.com/comments/feed/"
+      ]
+    },
+    {
+      "rank": 81,
+      "id": "theindependentcritic-com",
+      "name": "The Independent Critic",
+      "url": "https://theindependentcritic.com/",
+      "country": "XX",
+      "score": 66.3,
+      "movement": "new",
+      "best_for": "books, literature, and reading culture",
+      "reason": "The Independent Critic concentrates on books, literature, and reading culture, with a discoverable feed that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://theindependentcritic.com/",
+        "https://theindependentcritic.com/inc/blog?blog=15102"
+      ]
+    },
+    {
+      "rank": 82,
+      "id": "meandinkblog-wordpress-com",
+      "name": "Me & Ink",
+      "url": "https://meandinkblog.wordpress.com/",
+      "country": "XX",
+      "score": 66.0,
+      "movement": "new",
+      "best_for": "books, literature, and reading culture",
+      "reason": "Me & Ink concentrates on books, literature, and reading culture, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://meandinkblog.wordpress.com/",
+        "https://meandinkblog.wordpress.com/2019/10/19/blogs-to-follow/feed/",
+        "https://meandinkblog.wordpress.com/about-me/"
+      ]
+    },
+    {
+      "rank": 83,
+      "id": "onthescreenreviews-com",
+      "name": "On the Screen Reviews",
+      "url": "https://onthescreenreviews.com/",
+      "country": "XX",
+      "score": 66.0,
+      "movement": "new",
+      "best_for": "film criticism and cinema culture",
+      "reason": "On the Screen Reviews concentrates on film criticism and cinema culture, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://onthescreenreviews.com/",
+        "https://onthescreenreviews.com/2016/09/26/10-movie-bloggers-you-should-be-following/feed/"
+      ]
+    },
+    {
+      "rank": 84,
+      "id": "hardlyrevolutionary-substack-com",
+      "name": "Hardly Revolutionary",
+      "url": "https://hardlyrevolutionary.substack.com/",
+      "country": "XX",
+      "score": 66.0,
+      "movement": "new",
+      "best_for": "culture, criticism, and entertainment analysis",
+      "reason": "Hardly Revolutionary concentrates on culture, criticism, and entertainment analysis, with a discoverable feed that makes its current publishing work easier to evaluate.",
+      "limitation": "Authorship and editorial-policy information is less visible than on higher-ranked publications.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://hardlyrevolutionary.substack.com/",
+        "https://hardlyrevolutionary.substack.com/feed"
+      ]
+    },
+    {
+      "rank": 85,
+      "id": "fallingletters-ca",
+      "name": "Falling Letters",
+      "url": "https://fallingletters.ca/",
+      "country": "CA",
+      "score": 65.9,
+      "movement": "new",
+      "best_for": "books, literature, and reading culture",
+      "reason": "Falling Letters concentrates on books, literature, and reading culture, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://fallingletters.ca/",
+        "https://fallingletters.ca/2019/12/6-blogs-reviews-learn-from-blogger-reflections.html/feed",
+        "https://fallingletters.ca/about-falling-letters"
+      ]
+    },
+    {
+      "rank": 86,
+      "id": "cheapgames-ca",
+      "name": "CheapGames.ca",
+      "url": "https://cheapgames.ca/",
+      "country": "CA",
+      "score": 65.7,
+      "movement": "new",
+      "best_for": "games, criticism, and gaming culture",
+      "reason": "CheapGames.ca concentrates on games, criticism, and gaming culture, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://cheapgames.ca/",
+        "https://cheapgames.ca/comments/feed/",
+        "https://cheapgames.ca/about/"
+      ]
+    },
+    {
+      "rank": 87,
+      "id": "wiseinkblog-com",
+      "name": "The Wise Ink Blog",
+      "url": "https://wiseinkblog.com/",
+      "country": "XX",
+      "score": 65.5,
+      "movement": "new",
+      "best_for": "books, literature, and reading culture",
+      "reason": "The Wise Ink Blog concentrates on books, literature, and reading culture, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://wiseinkblog.com/",
+        "https://www.wiseinkblog.com/comments/feed/",
+        "https://www.wiseinkblog.com/our-story/"
+      ]
+    },
+    {
+      "rank": 88,
+      "id": "culturalreads-substack-com",
+      "name": "Cultural Reads Newsletter",
+      "url": "https://culturalreads.substack.com/",
+      "country": "XX",
+      "score": 65.3,
+      "movement": "new",
+      "best_for": "books, literature, and reading culture",
+      "reason": "Cultural Reads Newsletter concentrates on books, literature, and reading culture, with a discoverable feed that makes its current publishing work easier to evaluate.",
+      "limitation": "Authorship and editorial-policy information is less visible than on higher-ranked publications.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://culturalreads.substack.com/",
+        "https://culturalreads.substack.com/feed"
+      ]
+    },
+    {
+      "rank": 89,
+      "id": "izvorista-substack-com",
+      "name": "Izvorišta",
+      "url": "https://izvorista.substack.com/",
+      "country": "XX",
+      "score": 64.6,
+      "movement": "new",
+      "best_for": "music criticism, discovery, and industry context",
+      "reason": "Izvorišta concentrates on music criticism, discovery, and industry context, with a discoverable feed that makes its current publishing work easier to evaluate.",
+      "limitation": "Authorship and editorial-policy information is less visible than on higher-ranked publications.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://izvorista.substack.com/",
+        "https://izvorista.substack.com/feed"
+      ]
+    },
+    {
+      "rank": 90,
+      "id": "bookramblerblog-wordpress-com",
+      "name": "Book Rambler",
+      "url": "https://bookramblerblog.wordpress.com/",
+      "country": "XX",
+      "score": 64.5,
+      "movement": "new",
+      "best_for": "books, literature, and reading culture",
+      "reason": "Book Rambler concentrates on books, literature, and reading culture, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://bookramblerblog.wordpress.com/",
+        "https://bookramblerblog.wordpress.com/comments/feed/",
+        "https://bookramblerblog.wordpress.com/2020/12/20/netflix-adaptations-and-me-lets-talk-about-the-upcoming-adaptation-of-julia-quinns-the-duke-and-i/"
+      ]
+    },
+    {
+      "rank": 91,
+      "id": "politicsandfashionblog-com",
+      "name": "Politics & Fashion",
+      "url": "https://politicsandfashionblog.com/",
+      "country": "XX",
+      "score": 64.2,
+      "movement": "new",
+      "best_for": "culture, criticism, and entertainment analysis",
+      "reason": "Politics & Fashion concentrates on culture, criticism, and entertainment analysis, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://politicsandfashionblog.com/",
+        "https://politicsandfashionblog.com/comments/feed/",
+        "https://politicsandfashionblog.com/about-2/"
+      ]
+    },
+    {
+      "rank": 92,
+      "id": "booknerdalie-com",
+      "name": "BookNerdalie",
+      "url": "https://booknerdalie.com/",
+      "country": "XX",
+      "score": 62.9,
+      "movement": "new",
+      "best_for": "books, literature, and reading culture",
+      "reason": "BookNerdalie concentrates on books, literature, and reading culture, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Authorship and editorial-policy information is less visible than on higher-ranked publications.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://booknerdalie.com/",
+        "https://booknerdalie.com/comments/feed/"
+      ]
+    },
+    {
+      "rank": 93,
+      "id": "distractedbyfilms-wordpress-com",
+      "name": "Distracted by Films",
+      "url": "https://distractedbyfilms.wordpress.com/",
+      "country": "XX",
+      "score": 62.1,
+      "movement": "new",
+      "best_for": "film criticism and cinema culture",
+      "reason": "Distracted by Films concentrates on film criticism and cinema culture, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://distractedbyfilms.wordpress.com/",
+        "https://distractedbyfilms.wordpress.com/comments/feed/",
+        "https://distractedbyfilms.wordpress.com/about-me/"
+      ]
+    },
+    {
+      "rank": 94,
+      "id": "fenalibabariya-wordpress-com",
+      "name": "fenalibabariya",
+      "url": "https://fenalibabariya.wordpress.com/",
+      "country": "XX",
+      "score": 61.8,
+      "movement": "new",
+      "best_for": "books, literature, and reading culture",
+      "reason": "fenalibabariya concentrates on books, literature, and reading culture, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Authorship and editorial-policy information is less visible than on higher-ranked publications.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://fenalibabariya.wordpress.com/",
+        "https://fenalibabariya.wordpress.com/comments/feed/"
+      ]
+    },
+    {
+      "rank": 95,
+      "id": "linksiwouldgchatyou-substack-com",
+      "name": "Links I Would Gchat You If We Were Friends",
+      "url": "https://linksiwouldgchatyou.substack.com/",
+      "country": "XX",
+      "score": 61.8,
+      "movement": "new",
+      "best_for": "culture, criticism, and entertainment analysis",
+      "reason": "Links I Would Gchat You If We Were Friends concentrates on culture, criticism, and entertainment analysis, with a discoverable feed that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://linksiwouldgchatyou.substack.com/",
+        "https://linksiwouldgchatyou.substack.com/feed?sectionId=111480"
+      ]
+    },
+    {
+      "rank": 96,
+      "id": "booksaremylove-blogspot-com",
+      "name": "Books make great lovers!",
+      "url": "https://booksaremylove.blogspot.com/",
+      "country": "XX",
+      "score": 60.2,
+      "movement": "new",
+      "best_for": "books, literature, and reading culture",
+      "reason": "Books make great lovers! concentrates on books, literature, and reading culture, with a discoverable feed that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://booksaremylove.blogspot.com/",
+        "https://booksaremylove.blogspot.com/feeds/posts/default?alt=rss"
+      ]
+    },
+    {
+      "rank": 97,
+      "id": "freespiritbooks-blogspot-com",
+      "name": "Free Spirit Books",
+      "url": "https://freespiritbooks.blogspot.com/",
+      "country": "XX",
+      "score": 60.1,
+      "movement": "new",
+      "best_for": "books, literature, and reading culture",
+      "reason": "Free Spirit Books concentrates on books, literature, and reading culture, with a discoverable feed, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://freespiritbooks.blogspot.com/",
+        "https://freespiritbooks.blogspot.com/feeds/posts/default?alt=rss",
+        "https://freespiritbooks.blogspot.com/search/label/Thinking%20About%20Thursday"
+      ]
+    },
+    {
+      "rank": 98,
+      "id": "foreverdream21-blogspot-com",
+      "name": "Read, travel and dream",
+      "url": "https://foreverdream21.blogspot.com/",
+      "country": "XX",
+      "score": 59.2,
+      "movement": "new",
+      "best_for": "books, literature, and reading culture",
+      "reason": "Read, travel and dream concentrates on books, literature, and reading culture, with a discoverable feed, named authorship that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://foreverdream21.blogspot.com/",
+        "https://foreverdream21.blogspot.com/feeds/posts/default?alt=rss",
+        "https://foreverdream21.blogspot.com/p/travel.html"
+      ]
+    },
+    {
+      "rank": 99,
+      "id": "annacodrearado-substack-com",
+      "name": "A-Mail",
+      "url": "https://annacodrearado.substack.com/",
+      "country": "XX",
+      "score": 58.9,
+      "movement": "new",
+      "best_for": "culture, criticism, and entertainment analysis",
+      "reason": "A-Mail concentrates on culture, criticism, and entertainment analysis, with a discoverable feed that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://annacodrearado.substack.com/",
+        "https://annacodrearado.substack.com/feed"
+      ]
+    },
+    {
+      "rank": 100,
+      "id": "indielitfic-wordpress-com",
+      "name": "The Independent Literary Fiction Blog",
+      "url": "https://indielitfic.wordpress.com/",
+      "country": "XX",
+      "score": 57.7,
+      "movement": "new",
+      "best_for": "culture, criticism, and entertainment analysis",
+      "reason": "The Independent Literary Fiction Blog concentrates on culture, criticism, and entertainment analysis, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://indielitfic.wordpress.com/",
+        "https://indielitfic.wordpress.com/comments/feed/"
+      ]
+    }
+  ]
+}

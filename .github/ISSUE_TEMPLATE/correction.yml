@@ -1,0 +1,31 @@
+name: Report a correction
+description: Correct a factual record, URL, category, track, or status.
+title: "Correction: "
+labels: [correction]
+body:
+  - type: input
+    id: publication
+    attributes:
+      label: Publication and current ranking URL
+    validations:
+      required: true
+  - type: textarea
+    id: correction
+    attributes:
+      label: What is incorrect?
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Public evidence
+      description: Provide the canonical source supporting the correction.
+    validations:
+      required: true
+  - type: checkboxes
+    id: disclosure
+    attributes:
+      label: Disclosure
+      options:
+        - label: I have disclosed any material relationship with the publication.
+          required: true

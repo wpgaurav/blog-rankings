@@ -1,0 +1,1877 @@
+{
+  "schema_version": 1,
+  "edition": "2026-09",
+  "status": "final",
+  "category": {
+    "slug": "personal-finance",
+    "name": "Personal Finance",
+    "description": "Educational publishing about saving, investing, debt, tax, financial planning, and financial independence.",
+    "subcategories": [
+      "saving",
+      "investing",
+      "debt",
+      "tax",
+      "financial-independence"
+    ]
+  },
+  "track": {
+    "slug": "independent",
+    "label": "Independent Blogs"
+  },
+  "count": 100,
+  "items": [
+    {
+      "rank": 1,
+      "id": "jlcollinsnh-com",
+      "name": "JLCollinsnh",
+      "url": "https://jlcollinsnh.com/",
+      "country": "XX",
+      "score": 98.0,
+      "movement": "new",
+      "best_for": "practical personal-finance decisions",
+      "reason": "JLCollinsnh concentrates on practical personal-finance decisions, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://jlcollinsnh.com/",
+        "https://jlcollinsnh.com/comments/feed/",
+        "https://jlcollinsnh.com/about/"
+      ]
+    },
+    {
+      "rank": 2,
+      "id": "budgetsaresexy-com",
+      "name": "Budgets Are Sexy",
+      "url": "https://budgetsaresexy.com/",
+      "country": "XX",
+      "score": 97.0,
+      "movement": "new",
+      "best_for": "financial independence and early retirement",
+      "reason": "Budgets Are Sexy concentrates on financial independence and early retirement, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://budgetsaresexy.com/",
+        "https://budgetsaresexy.com/comments/feed/",
+        "https://budgetsaresexy.com/about/"
+      ]
+    },
+    {
+      "rank": 3,
+      "id": "affordanything-com",
+      "name": "Afford Anything",
+      "url": "https://affordanything.com/",
+      "country": "XX",
+      "score": 96.0,
+      "movement": "new",
+      "best_for": "investing and long-term wealth decisions",
+      "reason": "Afford Anything concentrates on investing and long-term wealth decisions, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://affordanything.com/",
+        "https://affordanything.com/comments/feed/",
+        "https://affordanything.com/about/"
+      ]
+    },
+    {
+      "rank": 4,
+      "id": "financialsamurai-com",
+      "name": "Financial Samurai",
+      "url": "https://financialsamurai.com/",
+      "country": "XX",
+      "score": 95.0,
+      "movement": "new",
+      "best_for": "investing and long-term wealth decisions",
+      "reason": "Financial Samurai concentrates on investing and long-term wealth decisions, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Authorship and editorial-policy information is less visible than on higher-ranked publications.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://financialsamurai.com/",
+        "https://www.financialsamurai.com/comments/feed/",
+        "https://www.financialsamurai.com/about/"
+      ]
+    },
+    {
+      "rank": 5,
+      "id": "mrmoneymustache-com",
+      "name": "Mr. Money Mustache",
+      "url": "https://mrmoneymustache.com/",
+      "country": "XX",
+      "score": 94.0,
+      "movement": "new",
+      "best_for": "practical personal-finance decisions",
+      "reason": "Mr. Money Mustache concentrates on practical personal-finance decisions, with a clearly defined editorial focus that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://mrmoneymustache.com/"
+      ]
+    },
+    {
+      "rank": 6,
+      "id": "awealthofcommonsense-com",
+      "name": "A Wealth of Common Sense",
+      "url": "https://awealthofcommonsense.com/",
+      "country": "XX",
+      "score": 93.0,
+      "movement": "new",
+      "best_for": "investing and long-term wealth decisions",
+      "reason": "A Wealth of Common Sense concentrates on investing and long-term wealth decisions, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://awealthofcommonsense.com/",
+        "https://awealthofcommonsense.com/comments/feed/",
+        "https://awealthofcommonsense.com/about-2/"
+      ]
+    },
+    {
+      "rank": 7,
+      "id": "thehappysaver-com",
+      "name": "The Happy Saver",
+      "url": "https://thehappysaver.com/",
+      "country": "XX",
+      "score": 92.0,
+      "movement": "new",
+      "best_for": "investing and long-term wealth decisions",
+      "reason": "The Happy Saver concentrates on investing and long-term wealth decisions, with clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://thehappysaver.com/"
+      ]
+    },
+    {
+      "rank": 8,
+      "id": "earlyretirementnow-com",
+      "name": "Early Retirement Now",
+      "url": "https://earlyretirementnow.com/",
+      "country": "XX",
+      "score": 91.0,
+      "movement": "new",
+      "best_for": "investing and long-term wealth decisions",
+      "reason": "Early Retirement Now concentrates on investing and long-term wealth decisions, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://earlyretirementnow.com/",
+        "https://earlyretirementnow.com/comments/feed/"
+      ]
+    },
+    {
+      "rank": 9,
+      "id": "millennialmoney-com",
+      "name": "Millennial Money",
+      "url": "https://millennialmoney.com/",
+      "country": "XX",
+      "score": 90.0,
+      "movement": "new",
+      "best_for": "investing and long-term wealth decisions",
+      "reason": "Millennial Money concentrates on investing and long-term wealth decisions, with a visible article archive, named authorship that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://millennialmoney.com/",
+        "https://millennialmoney.com/fipreneur-webinar/"
+      ]
+    },
+    {
+      "rank": 10,
+      "id": "boomerandecho-com",
+      "name": "Boomer & Echo",
+      "url": "https://boomerandecho.com/",
+      "country": "XX",
+      "score": 89.0,
+      "movement": "new",
+      "best_for": "financial independence and early retirement",
+      "reason": "Boomer & Echo concentrates on financial independence and early retirement, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://boomerandecho.com/",
+        "https://boomerandecho.com/comments/feed/",
+        "https://boomerandecho.com/about/"
+      ]
+    },
+    {
+      "rank": 11,
+      "id": "wallethacks-com",
+      "name": "Best Wallet Hacks",
+      "url": "https://wallethacks.com/",
+      "country": "XX",
+      "score": 82.6,
+      "movement": "new",
+      "best_for": "financial independence and early retirement",
+      "reason": "Best Wallet Hacks concentrates on financial independence and early retirement, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://wallethacks.com/",
+        "https://wallethacks.com/feed/smartnews-article-wallethacks",
+        "https://wallethacks.com/about-jim/"
+      ]
+    },
+    {
+      "rank": 12,
+      "id": "choosefi-com",
+      "name": "ChooseFI",
+      "url": "https://choosefi.com/",
+      "country": "XX",
+      "score": 81.6,
+      "movement": "new",
+      "best_for": "investing and long-term wealth decisions",
+      "reason": "ChooseFI concentrates on investing and long-term wealth decisions, with a visible article archive, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://choosefi.com/",
+        "https://choosefi.com/about"
+      ]
+    },
+    {
+      "rank": 13,
+      "id": "20somethingfinance-com",
+      "name": "20somethingfinance.com",
+      "url": "https://20somethingfinance.com/",
+      "country": "XX",
+      "score": 80.7,
+      "movement": "new",
+      "best_for": "practical personal-finance decisions",
+      "reason": "20somethingfinance.com concentrates on practical personal-finance decisions, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://20somethingfinance.com/",
+        "https://20somethingfinance.com/comments/feed/",
+        "https://20somethingfinance.com/about/"
+      ]
+    },
+    {
+      "rank": 14,
+      "id": "milliondollarjourney-com",
+      "name": "Million Dollar Journey",
+      "url": "https://milliondollarjourney.com/",
+      "country": "XX",
+      "score": 79.7,
+      "movement": "new",
+      "best_for": "investing and long-term wealth decisions",
+      "reason": "Million Dollar Journey concentrates on investing and long-term wealth decisions, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://milliondollarjourney.com/",
+        "https://milliondollarjourney.com/comments/feed",
+        "https://milliondollarjourney.com/about"
+      ]
+    },
+    {
+      "rank": 15,
+      "id": "moneybliss-org",
+      "name": "Money Bliss",
+      "url": "https://moneybliss.org/",
+      "country": "XX",
+      "score": 79.0,
+      "movement": "new",
+      "best_for": "budgeting, saving, and practical money habits",
+      "reason": "Money Bliss concentrates on budgeting, saving, and practical money habits, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://moneybliss.org/",
+        "https://moneybliss.org/comments/feed/"
+      ]
+    },
+    {
+      "rank": 16,
+      "id": "wallstreetsurvivor-com",
+      "name": "Wall Street Survivor",
+      "url": "https://wallstreetsurvivor.com/",
+      "country": "XX",
+      "score": 78.0,
+      "movement": "new",
+      "best_for": "investing and long-term wealth decisions",
+      "reason": "Wall Street Survivor concentrates on investing and long-term wealth decisions, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://wallstreetsurvivor.com/",
+        "https://www.wallstreetsurvivor.com/comments/feed/"
+      ]
+    },
+    {
+      "rank": 17,
+      "id": "altindex-com",
+      "name": "Alternative Data for Investing",
+      "url": "https://altindex.com/",
+      "country": "XX",
+      "score": 78.0,
+      "movement": "new",
+      "best_for": "investing and long-term wealth decisions",
+      "reason": "Alternative Data for Investing concentrates on investing and long-term wealth decisions, with a discoverable feed that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://altindex.com/",
+        "https://altindex.com/rss.xml",
+        "https://altindex.com/news/walmart-consumer-warning-stock-data"
+      ]
+    },
+    {
+      "rank": 18,
+      "id": "savingk-com",
+      "name": "SavingK",
+      "url": "https://savingk.com/",
+      "country": "XX",
+      "score": 77.8,
+      "movement": "new",
+      "best_for": "budgeting, saving, and practical money habits",
+      "reason": "SavingK concentrates on budgeting, saving, and practical money habits, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://savingk.com/",
+        "https://savingk.com/comments/feed/"
+      ]
+    },
+    {
+      "rank": 19,
+      "id": "moneyning-com",
+      "name": "MoneyNing",
+      "url": "https://moneyning.com/",
+      "country": "XX",
+      "score": 77.5,
+      "movement": "new",
+      "best_for": "investing and long-term wealth decisions",
+      "reason": "MoneyNing concentrates on investing and long-term wealth decisions, with a discoverable feed, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Authorship and editorial-policy information is less visible than on higher-ranked publications.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://moneyning.com/",
+        "https://feeds.feedburner.com/MoneyNing",
+        "https://moneyning.com/about/"
+      ]
+    },
+    {
+      "rank": 20,
+      "id": "esimoney-com",
+      "name": "ESI Money",
+      "url": "https://esimoney.com/",
+      "country": "XX",
+      "score": 77.2,
+      "movement": "new",
+      "best_for": "practical personal-finance decisions",
+      "reason": "ESI Money concentrates on practical personal-finance decisions, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://esimoney.com/",
+        "https://esimoney.com/comments/feed/",
+        "https://esimoney.com/about/"
+      ]
+    },
+    {
+      "rank": 21,
+      "id": "thepersonalfinancepodcast-com",
+      "name": "The Personal Finance Podcast",
+      "url": "https://thepersonalfinancepodcast.com/",
+      "country": "XX",
+      "score": 77.2,
+      "movement": "new",
+      "best_for": "investing and long-term wealth decisions",
+      "reason": "The Personal Finance Podcast concentrates on investing and long-term wealth decisions, with a discoverable feed, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://thepersonalfinancepodcast.com/",
+        "https://feeds.megaphone.fm/LLL5449685314",
+        "https://www.thepersonalfinancepodcast.com/about/"
+      ]
+    },
+    {
+      "rank": 22,
+      "id": "dollarsanity-com",
+      "name": "Dollarsanity",
+      "url": "https://dollarsanity.com/",
+      "country": "XX",
+      "score": 76.7,
+      "movement": "new",
+      "best_for": "investing and long-term wealth decisions",
+      "reason": "Dollarsanity concentrates on investing and long-term wealth decisions, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://dollarsanity.com/",
+        "https://dollarsanity.com/comments/feed/"
+      ]
+    },
+    {
+      "rank": 23,
+      "id": "fdic-gov",
+      "name": "FDIC: Federal Deposit Insurance Corporation Follow the FDIC on X",
+      "url": "https://fdic.gov/",
+      "country": "XX",
+      "score": 76.5,
+      "movement": "new",
+      "best_for": "practical personal-finance decisions",
+      "reason": "FDIC: Federal Deposit Insurance Corporation Follow the FDIC on X concentrates on practical personal-finance decisions, with a visible article archive, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://fdic.gov/",
+        "https://www.fdic.gov/about"
+      ]
+    },
+    {
+      "rank": 24,
+      "id": "investor-fm",
+      "name": "The Intellectual Investor - Value Investing by Vitaliy Katsenelson",
+      "url": "https://investor.fm/",
+      "country": "XX",
+      "score": 76.3,
+      "movement": "new",
+      "best_for": "investing and long-term wealth decisions",
+      "reason": "The Intellectual Investor - Value Investing by Vitaliy Katsenelson concentrates on investing and long-term wealth decisions, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://investor.fm/",
+        "https://investor.fm/feed/",
+        "https://investor.fm/about/"
+      ]
+    },
+    {
+      "rank": 25,
+      "id": "tawcan-com",
+      "name": "Tawcan",
+      "url": "https://tawcan.com/",
+      "country": "XX",
+      "score": 75.8,
+      "movement": "new",
+      "best_for": "investing and long-term wealth decisions",
+      "reason": "Tawcan concentrates on investing and long-term wealth decisions, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://tawcan.com/",
+        "https://tawcan.com/comments/feed/",
+        "https://tawcan.com/about/"
+      ]
+    },
+    {
+      "rank": 26,
+      "id": "moneythumb-com",
+      "name": "MoneyThumb",
+      "url": "https://moneythumb.com/",
+      "country": "XX",
+      "score": 75.7,
+      "movement": "new",
+      "best_for": "financial independence and early retirement",
+      "reason": "MoneyThumb concentrates on financial independence and early retirement, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://moneythumb.com/",
+        "https://www.moneythumb.com/comments/feed/",
+        "https://www.moneythumb.com/about-us/"
+      ]
+    },
+    {
+      "rank": 27,
+      "id": "investmentmoats-com",
+      "name": "Investment Moats",
+      "url": "https://investmentmoats.com/",
+      "country": "XX",
+      "score": 75.5,
+      "movement": "new",
+      "best_for": "investing and long-term wealth decisions",
+      "reason": "Investment Moats concentrates on investing and long-term wealth decisions, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://investmentmoats.com/",
+        "https://investmentmoats.com/comments/feed/",
+        "https://investmentmoats.com/about/"
+      ]
+    },
+    {
+      "rank": 28,
+      "id": "taxgirl-com",
+      "name": "Taxgirl | Tax News, IRS Updates, Scams & Financial Crime",
+      "url": "https://taxgirl.com/",
+      "country": "XX",
+      "score": 75.3,
+      "movement": "new",
+      "best_for": "tax and retirement planning",
+      "reason": "Taxgirl | Tax News, IRS Updates, Scams & Financial Crime concentrates on tax and retirement planning, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://taxgirl.com/",
+        "https://www.taxgirl.com/feed/",
+        "https://www.taxgirl.com/about-taxgirl/"
+      ]
+    },
+    {
+      "rank": 29,
+      "id": "ramseysolutions-com",
+      "name": "Ramsey Solutions",
+      "url": "https://ramseysolutions.com/",
+      "country": "XX",
+      "score": 75.0,
+      "movement": "new",
+      "best_for": "debt, credit, and financial recovery",
+      "reason": "Ramsey Solutions concentrates on debt, credit, and financial recovery, with a visible article archive, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://ramseysolutions.com/",
+        "https://www.ramseysolutions.com/debt/the-truth-about-car-payments"
+      ]
+    },
+    {
+      "rank": 30,
+      "id": "jessicamoorhouse-com",
+      "name": "Jessica Moorhouse",
+      "url": "https://jessicamoorhouse.com/",
+      "country": "XX",
+      "score": 75.0,
+      "movement": "new",
+      "best_for": "practical personal-finance decisions",
+      "reason": "Jessica Moorhouse concentrates on practical personal-finance decisions, with a discoverable feed, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://jessicamoorhouse.com/",
+        "https://jessicamoorhouse.com/comments/feed/",
+        "https://jessicamoorhouse.com/about"
+      ]
+    },
+    {
+      "rank": 31,
+      "id": "christianpf-com",
+      "name": "SeedTime: Financial Freedom for Eternal Impact",
+      "url": "https://christianpf.com/",
+      "country": "XX",
+      "score": 74.8,
+      "movement": "new",
+      "best_for": "practical personal-finance decisions",
+      "reason": "SeedTime: Financial Freedom for Eternal Impact concentrates on practical personal-finance decisions, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://christianpf.com/",
+        "https://seedtime.com/comments/feed/",
+        "https://seedtime.com/about/"
+      ]
+    },
+    {
+      "rank": 32,
+      "id": "seedtime-com",
+      "name": "SeedTime: Financial Freedom for Eternal Impact",
+      "url": "https://seedtime.com/",
+      "country": "XX",
+      "score": 74.7,
+      "movement": "new",
+      "best_for": "debt, credit, and financial recovery",
+      "reason": "SeedTime: Financial Freedom for Eternal Impact concentrates on debt, credit, and financial recovery, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://seedtime.com/",
+        "https://seedtime.com/debt-success-story/feed/",
+        "https://seedtime.com/about/"
+      ]
+    },
+    {
+      "rank": 33,
+      "id": "spaceship-com-au",
+      "name": "Spaceship",
+      "url": "https://spaceship.com.au/",
+      "country": "AU",
+      "score": 74.7,
+      "movement": "new",
+      "best_for": "investing and long-term wealth decisions",
+      "reason": "Spaceship concentrates on investing and long-term wealth decisions, with a discoverable feed, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://spaceship.com.au/",
+        "https://www.spaceship.com.au:443/learn/rss.xml",
+        "https://www.spaceship.com.au:443/about/"
+      ]
+    },
+    {
+      "rank": 34,
+      "id": "financialfreedomcountdown-com",
+      "name": "Financial Freedom Countdown",
+      "url": "https://financialfreedomcountdown.com/",
+      "country": "XX",
+      "score": 74.6,
+      "movement": "new",
+      "best_for": "practical personal-finance decisions",
+      "reason": "Financial Freedom Countdown concentrates on practical personal-finance decisions, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://financialfreedomcountdown.com/",
+        "https://financialfreedomcountdown.com/web-stories/feed/",
+        "https://financialfreedomcountdown.com/about/"
+      ]
+    },
+    {
+      "rank": 35,
+      "id": "captainfi-com",
+      "name": "Captain FI",
+      "url": "https://captainfi.com/",
+      "country": "XX",
+      "score": 74.3,
+      "movement": "new",
+      "best_for": "investing and long-term wealth decisions",
+      "reason": "Captain FI concentrates on investing and long-term wealth decisions, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://captainfi.com/",
+        "https://captainfi.com/finance-blogs/feed/",
+        "https://captainfi.com/about/"
+      ]
+    },
+    {
+      "rank": 36,
+      "id": "theretirementmanifesto-com",
+      "name": "The Retirement Manifesto",
+      "url": "https://theretirementmanifesto.com/",
+      "country": "XX",
+      "score": 74.3,
+      "movement": "new",
+      "best_for": "financial independence and early retirement",
+      "reason": "The Retirement Manifesto concentrates on financial independence and early retirement, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://theretirementmanifesto.com/",
+        "https://www.theretirementmanifesto.com/comments/feed/",
+        "https://www.theretirementmanifesto.com/about/"
+      ]
+    },
+    {
+      "rank": 37,
+      "id": "fitaxguy-com",
+      "name": "The FI Tax Guy",
+      "url": "https://fitaxguy.com/",
+      "country": "XX",
+      "score": 74.2,
+      "movement": "new",
+      "best_for": "financial independence and early retirement",
+      "reason": "The FI Tax Guy concentrates on financial independence and early retirement, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://fitaxguy.com/",
+        "https://fitaxguy.com/comments/feed/",
+        "https://fitaxguy.com/about-me/"
+      ]
+    },
+    {
+      "rank": 38,
+      "id": "wallstreetzen-com",
+      "name": "Stock market analysis for the serious part-time investor",
+      "url": "https://wallstreetzen.com/",
+      "country": "XX",
+      "score": 73.5,
+      "movement": "new",
+      "best_for": "investing and long-term wealth decisions",
+      "reason": "Stock market analysis for the serious part-time investor concentrates on investing and long-term wealth decisions, with clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://wallstreetzen.com/",
+        "https://www.wallstreetzen.com/about"
+      ]
+    },
+    {
+      "rank": 39,
+      "id": "letsreachsuccess-com",
+      "name": "Let's Reach Success",
+      "url": "https://letsreachsuccess.com/",
+      "country": "XX",
+      "score": 73.4,
+      "movement": "new",
+      "best_for": "practical personal-finance decisions",
+      "reason": "Let's Reach Success concentrates on practical personal-finance decisions, with a visible article archive, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://letsreachsuccess.com/",
+        "https://letsreachsuccess.com/about/"
+      ]
+    },
+    {
+      "rank": 40,
+      "id": "howtofire-com",
+      "name": "How To FIRE",
+      "url": "https://howtofire.com/",
+      "country": "XX",
+      "score": 73.1,
+      "movement": "new",
+      "best_for": "financial independence and early retirement",
+      "reason": "How To FIRE concentrates on financial independence and early retirement, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://howtofire.com/",
+        "https://www.howtofire.com/fire-movement/feed/",
+        "https://www.howtofire.com/about/"
+      ]
+    },
+    {
+      "rank": 41,
+      "id": "refind-com",
+      "name": "Refind",
+      "url": "https://refind.com/",
+      "country": "XX",
+      "score": 73.1,
+      "movement": "new",
+      "best_for": "investing and long-term wealth decisions",
+      "reason": "Refind concentrates on investing and long-term wealth decisions, with clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://refind.com/",
+        "https://refind.com/about"
+      ]
+    },
+    {
+      "rank": 42,
+      "id": "wealthyaccountant-com",
+      "name": "The Wealthy Accountant",
+      "url": "https://wealthyaccountant.com/",
+      "country": "XX",
+      "score": 73.0,
+      "movement": "new",
+      "best_for": "financial independence and early retirement",
+      "reason": "The Wealthy Accountant concentrates on financial independence and early retirement, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://wealthyaccountant.com/",
+        "https://www.wealthyaccountant.com/web-stories/feed/",
+        "https://www.wealthyaccountant.com/tax-planning/"
+      ]
+    },
+    {
+      "rank": 43,
+      "id": "myownadvisor-ca",
+      "name": "My Own Advisor",
+      "url": "https://myownadvisor.ca/",
+      "country": "CA",
+      "score": 73.0,
+      "movement": "new",
+      "best_for": "investing and long-term wealth decisions",
+      "reason": "My Own Advisor concentrates on investing and long-term wealth decisions, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://myownadvisor.ca/",
+        "https://www.myownadvisor.ca/comments/feed/"
+      ]
+    },
+    {
+      "rank": 44,
+      "id": "apurplelife-com",
+      "name": "A Purple Life",
+      "url": "https://apurplelife.com/",
+      "country": "XX",
+      "score": 72.8,
+      "movement": "new",
+      "best_for": "financial independence and early retirement",
+      "reason": "A Purple Life concentrates on financial independence and early retirement, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://apurplelife.com/",
+        "https://apurplelife.com/comments/feed/"
+      ]
+    },
+    {
+      "rank": 45,
+      "id": "moneywithkatie-com",
+      "name": "Moneywithkatie",
+      "url": "https://moneywithkatie.com/",
+      "country": "XX",
+      "score": 72.7,
+      "movement": "new",
+      "best_for": "financial independence and early retirement",
+      "reason": "Moneywithkatie concentrates on financial independence and early retirement, with clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://moneywithkatie.com/",
+        "https://moneywithkatie.com/comments/feed/",
+        "https://moneywithkatie.com/about"
+      ]
+    },
+    {
+      "rank": 46,
+      "id": "financeaid-net",
+      "name": "My Blog",
+      "url": "https://financeaid.net/",
+      "country": "XX",
+      "score": 72.2,
+      "movement": "new",
+      "best_for": "investing and long-term wealth decisions",
+      "reason": "My Blog concentrates on investing and long-term wealth decisions, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://financeaid.net/",
+        "https://financeaid.net/comments/feed/",
+        "https://financeaid.net/about-us/"
+      ]
+    },
+    {
+      "rank": 47,
+      "id": "guidancefs-com-au",
+      "name": "Guidance Financial Services",
+      "url": "https://guidancefs.com.au/",
+      "country": "AU",
+      "score": 71.9,
+      "movement": "new",
+      "best_for": "investing and long-term wealth decisions",
+      "reason": "Guidance Financial Services concentrates on investing and long-term wealth decisions, with a visible article archive, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://guidancefs.com.au/",
+        "https://www.guidancefs.com.au/blog?format=rss",
+        "https://www.guidancefs.com.au/about-us"
+      ]
+    },
+    {
+      "rank": 48,
+      "id": "investmentzen-com",
+      "name": "InvestmentZen",
+      "url": "https://investmentzen.com/",
+      "country": "XX",
+      "score": 71.7,
+      "movement": "new",
+      "best_for": "investing and long-term wealth decisions",
+      "reason": "InvestmentZen concentrates on investing and long-term wealth decisions, with a discoverable feed, named authorship that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://investmentzen.com/",
+        "https://www.investmentzen.com/blog/home/feed",
+        "https://investmentzen.com/about"
+      ]
+    },
+    {
+      "rank": 49,
+      "id": "vitaldollar-com",
+      "name": "Vital Dollar",
+      "url": "https://vitaldollar.com/",
+      "country": "XX",
+      "score": 71.5,
+      "movement": "new",
+      "best_for": "investing and long-term wealth decisions",
+      "reason": "Vital Dollar concentrates on investing and long-term wealth decisions, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://vitaldollar.com/",
+        "https://vitaldollar.com/personal-finance-blogs-to-follow/feed/",
+        "https://vitaldollar.com/about/"
+      ]
+    },
+    {
+      "rank": 50,
+      "id": "quietlysaving-co-uk",
+      "name": "Quietly Saving",
+      "url": "https://quietlysaving.co.uk/",
+      "country": "GB",
+      "score": 71.5,
+      "movement": "new",
+      "best_for": "investing and long-term wealth decisions",
+      "reason": "Quietly Saving concentrates on investing and long-term wealth decisions, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://quietlysaving.co.uk/",
+        "https://quietlysaving.co.uk/comments/feed/",
+        "https://quietlysaving.co.uk/about-me/"
+      ]
+    },
+    {
+      "rank": 51,
+      "id": "creditcanada-com",
+      "name": "Non-Profit Debt Consolidation & Credit Counselling",
+      "url": "https://creditcanada.com/",
+      "country": "XX",
+      "score": 71.2,
+      "movement": "new",
+      "best_for": "debt, credit, and financial recovery",
+      "reason": "Non-Profit Debt Consolidation & Credit Counselling concentrates on debt, credit, and financial recovery, with a clearly defined editorial focus that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://creditcanada.com/",
+        "https://www.creditcanada.com/who-we-are"
+      ]
+    },
+    {
+      "rank": 52,
+      "id": "ruleoneinvesting-com",
+      "name": "Rule #1 Investing",
+      "url": "https://ruleoneinvesting.com/",
+      "country": "XX",
+      "score": 70.8,
+      "movement": "new",
+      "best_for": "investing and long-term wealth decisions",
+      "reason": "Rule #1 Investing concentrates on investing and long-term wealth decisions, with clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://ruleoneinvesting.com/",
+        "https://ruleoneinvesting.com/#meet-our-experts"
+      ]
+    },
+    {
+      "rank": 53,
+      "id": "obliviousinvestor-com",
+      "name": "Oblivious Investor",
+      "url": "https://obliviousinvestor.com/",
+      "country": "XX",
+      "score": 70.7,
+      "movement": "new",
+      "best_for": "investing and long-term wealth decisions",
+      "reason": "Oblivious Investor concentrates on investing and long-term wealth decisions, with a discoverable feed, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://obliviousinvestor.com/",
+        "https://obliviousinvestor.com/comments/feed/",
+        "https://obliviousinvestor.com/about/"
+      ]
+    },
+    {
+      "rank": 54,
+      "id": "philrosen-blog",
+      "name": "Phil Rosen's Blog",
+      "url": "https://philrosen.blog/",
+      "country": "XX",
+      "score": 70.6,
+      "movement": "new",
+      "best_for": "investing and long-term wealth decisions",
+      "reason": "Phil Rosen's Blog concentrates on investing and long-term wealth decisions, with a discoverable feed that makes its current publishing work easier to evaluate.",
+      "limitation": "Authorship and editorial-policy information is less visible than on higher-ranked publications.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://philrosen.blog/",
+        "https://www.philrosen.blog/feed"
+      ]
+    },
+    {
+      "rank": 55,
+      "id": "inboxreads-co",
+      "name": "InboxReads",
+      "url": "https://inboxreads.co/",
+      "country": "XX",
+      "score": 70.5,
+      "movement": "new",
+      "best_for": "practical personal-finance decisions",
+      "reason": "InboxReads concentrates on practical personal-finance decisions, with a visible article archive, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Some complete material may require registration, membership, or a paid subscription.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://inboxreads.co/",
+        "https://inboxreads.co/changelog/message-multiple-newsletters-at-once"
+      ]
+    },
+    {
+      "rank": 56,
+      "id": "thefioneers-com",
+      "name": "The Fioneers",
+      "url": "https://thefioneers.com/",
+      "country": "XX",
+      "score": 70.3,
+      "movement": "new",
+      "best_for": "financial independence and early retirement",
+      "reason": "The Fioneers concentrates on financial independence and early retirement, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://thefioneers.com/",
+        "https://thefioneers.com/comments/feed/",
+        "https://thefioneers.com/about/"
+      ]
+    },
+    {
+      "rank": 57,
+      "id": "jackiebeck-com",
+      "name": "JackieBeck.com",
+      "url": "https://jackiebeck.com/",
+      "country": "XX",
+      "score": 69.9,
+      "movement": "new",
+      "best_for": "debt, credit, and financial recovery",
+      "reason": "JackieBeck.com concentrates on debt, credit, and financial recovery, with a discoverable feed, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://jackiebeck.com/",
+        "https://www.jackiebeck.com/12-truths-about-getting-out-of-debt/feed/",
+        "https://www.jackiebeck.com/12-truths-about-getting-out-of-debt/#comment-14652"
+      ]
+    },
+    {
+      "rank": 58,
+      "id": "startamomblog-com",
+      "name": "Start a Mom Blog",
+      "url": "https://startamomblog.com/",
+      "country": "XX",
+      "score": 69.5,
+      "movement": "new",
+      "best_for": "financial independence and early retirement",
+      "reason": "Start a Mom Blog concentrates on financial independence and early retirement, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://startamomblog.com/",
+        "https://startamomblog.com/teacher-blogs/feed/",
+        "https://startamomblog.com/who-is-suzi-whitford/"
+      ]
+    },
+    {
+      "rank": 59,
+      "id": "twinsmommy-com",
+      "name": "Twins Mommy",
+      "url": "https://twinsmommy.com/",
+      "country": "XX",
+      "score": 69.5,
+      "movement": "new",
+      "best_for": "practical personal-finance decisions",
+      "reason": "Twins Mommy concentrates on practical personal-finance decisions, with clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://twinsmommy.com/",
+        "https://twinsmommy.com/about/"
+      ]
+    },
+    {
+      "rank": 60,
+      "id": "moneyletter-com",
+      "name": "MoneyLetter",
+      "url": "https://moneyletter.com/",
+      "country": "XX",
+      "score": 68.8,
+      "movement": "new",
+      "best_for": "practical personal-finance decisions",
+      "reason": "MoneyLetter concentrates on practical personal-finance decisions, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Authorship and editorial-policy information is less visible than on higher-ranked publications.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://moneyletter.com/",
+        "https://moneyletter.com/comments/feed/"
+      ]
+    },
+    {
+      "rank": 61,
+      "id": "hulbertratings-com",
+      "name": "From Mark Hulbert and Hulbert Financial Digest",
+      "url": "https://hulbertratings.com/",
+      "country": "XX",
+      "score": 68.8,
+      "movement": "new",
+      "best_for": "practical personal-finance decisions",
+      "reason": "From Mark Hulbert and Hulbert Financial Digest concentrates on practical personal-finance decisions, with a discoverable feed, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://hulbertratings.com/",
+        "https://hulbertratings.com/feed/",
+        "https://hulbertratings.com/about/"
+      ]
+    },
+    {
+      "rank": 62,
+      "id": "aussiefirebug-com",
+      "name": "Aussie Firebug",
+      "url": "https://aussiefirebug.com/",
+      "country": "XX",
+      "score": 68.2,
+      "movement": "new",
+      "best_for": "investing and long-term wealth decisions",
+      "reason": "Aussie Firebug concentrates on investing and long-term wealth decisions, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://aussiefirebug.com/",
+        "https://www.aussiefirebug.com/australia-fire-survey-results-2020/feed/",
+        "https://www.aussiefirebug.com/about/"
+      ]
+    },
+    {
+      "rank": 63,
+      "id": "snippet-finance",
+      "name": "Snippet Finance",
+      "url": "https://snippet.finance/",
+      "country": "XX",
+      "score": 68.2,
+      "movement": "new",
+      "best_for": "investing and long-term wealth decisions",
+      "reason": "Snippet Finance concentrates on investing and long-term wealth decisions, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://snippet.finance/",
+        "https://snippet.finance/comments/feed/",
+        "https://snippet.finance/about/"
+      ]
+    },
+    {
+      "rank": 64,
+      "id": "ignitespot-com",
+      "name": "Outsourced Accounting, Bookkeeping, and CFO Services",
+      "url": "https://ignitespot.com/",
+      "country": "XX",
+      "score": 68.2,
+      "movement": "new",
+      "best_for": "tax and retirement planning",
+      "reason": "Outsourced Accounting, Bookkeeping, and CFO Services concentrates on tax and retirement planning, with clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://ignitespot.com/",
+        "https://www.ignitespot.com/about-us"
+      ]
+    },
+    {
+      "rank": 65,
+      "id": "educatorfi-com",
+      "name": "Educator FI",
+      "url": "https://educatorfi.com/",
+      "country": "XX",
+      "score": 68.1,
+      "movement": "new",
+      "best_for": "financial independence and early retirement",
+      "reason": "Educator FI concentrates on financial independence and early retirement, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://educatorfi.com/",
+        "https://educatorfi.com/lifestyle-inflation/feed/",
+        "https://educatorfi.com/about/"
+      ]
+    },
+    {
+      "rank": 66,
+      "id": "ourlifeonfire-com",
+      "name": "Our Life On FIRE",
+      "url": "https://ourlifeonfire.com/",
+      "country": "XX",
+      "score": 68.0,
+      "movement": "new",
+      "best_for": "financial independence and early retirement",
+      "reason": "Our Life On FIRE concentrates on financial independence and early retirement, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://ourlifeonfire.com/",
+        "https://ourlifeonfire.com/comments/feed/",
+        "https://ourlifeonfire.com/category/about/"
+      ]
+    },
+    {
+      "rank": 67,
+      "id": "thenationalnews-com",
+      "name": "The National",
+      "url": "https://thenationalnews.com/",
+      "country": "XX",
+      "score": 67.8,
+      "movement": "new",
+      "best_for": "financial independence and early retirement",
+      "reason": "The National concentrates on financial independence and early retirement, with a visible article archive, named authorship that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://thenationalnews.com/",
+        "https://www.thenationalnews.com:443/about-us/"
+      ]
+    },
+    {
+      "rank": 68,
+      "id": "subs-ft-com",
+      "name": "Subscribe to the Financial Times",
+      "url": "https://subs.ft.com/",
+      "country": "XX",
+      "score": 67.5,
+      "movement": "new",
+      "best_for": "practical personal-finance decisions",
+      "reason": "Subscribe to the Financial Times concentrates on practical personal-finance decisions, with clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Some complete material may require registration, membership, or a paid subscription.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://subs.ft.com/"
+      ]
+    },
+    {
+      "rank": 69,
+      "id": "mailbrew-com",
+      "name": "Mailbrew",
+      "url": "https://mailbrew.com/",
+      "country": "XX",
+      "score": 67.3,
+      "movement": "new",
+      "best_for": "debt, credit, and financial recovery",
+      "reason": "Mailbrew concentrates on debt, credit, and financial recovery, with a discoverable feed that makes its current publishing work easier to evaluate.",
+      "limitation": "Authorship and editorial-policy information is less visible than on higher-ranked publications.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://mailbrew.com/",
+        "https://mailbrew.com/rss.xml"
+      ]
+    },
+    {
+      "rank": 70,
+      "id": "screwtheaverage-com",
+      "name": "ScrewTheAverage.com",
+      "url": "https://screwtheaverage.com/",
+      "country": "XX",
+      "score": 67.2,
+      "movement": "new",
+      "best_for": "financial independence and early retirement",
+      "reason": "ScrewTheAverage.com concentrates on financial independence and early retirement, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://screwtheaverage.com/",
+        "https://www.screwtheaverage.com/blog?format=rss",
+        "https://www.screwtheaverage.com/about-us"
+      ]
+    },
+    {
+      "rank": 71,
+      "id": "snacks-robinhood-com",
+      "name": "Sherwood News",
+      "url": "https://snacks.robinhood.com/",
+      "country": "XX",
+      "score": 67.0,
+      "movement": "new",
+      "best_for": "practical personal-finance decisions",
+      "reason": "Sherwood News concentrates on practical personal-finance decisions, with a discoverable feed that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://snacks.robinhood.com/",
+        "https://sherwood.news/rss.xml"
+      ]
+    },
+    {
+      "rank": 72,
+      "id": "engineerseekingfire-com",
+      "name": "Engineer Seeking FIRE",
+      "url": "https://engineerseekingfire.com/",
+      "country": "XX",
+      "score": 66.8,
+      "movement": "new",
+      "best_for": "financial independence and early retirement",
+      "reason": "Engineer Seeking FIRE concentrates on financial independence and early retirement, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://engineerseekingfire.com/",
+        "https://engineerseekingfire.com/your-plan-to-achieve-financial-independence/feed/",
+        "https://engineerseekingfire.com/about-me/"
+      ]
+    },
+    {
+      "rank": 73,
+      "id": "catchinguptofi-com",
+      "name": "Catching up to FI",
+      "url": "https://catchinguptofi.com/",
+      "country": "XX",
+      "score": 66.7,
+      "movement": "new",
+      "best_for": "financial independence and early retirement",
+      "reason": "Catching up to FI concentrates on financial independence and early retirement, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://catchinguptofi.com/",
+        "https://catchinguptofi.com/feed/",
+        "https://catchinguptofi.com/about/"
+      ]
+    },
+    {
+      "rank": 74,
+      "id": "twentyfree-co",
+      "name": "lifestyle design + financial independence for twenty-somethings",
+      "url": "https://twentyfree.co/",
+      "country": "XX",
+      "score": 66.3,
+      "movement": "new",
+      "best_for": "financial independence and early retirement",
+      "reason": "lifestyle design + financial independence for twenty-somethings concentrates on financial independence and early retirement, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://twentyfree.co/",
+        "https://www.twentyfree.co/pay-off-debt/feed/",
+        "https://www.twentyfree.co/about/"
+      ]
+    },
+    {
+      "rank": 75,
+      "id": "mystocksinvesting-com",
+      "name": "My Stocks Investing",
+      "url": "https://mystocksinvesting.com/",
+      "country": "XX",
+      "score": 66.2,
+      "movement": "new",
+      "best_for": "investing and long-term wealth decisions",
+      "reason": "My Stocks Investing concentrates on investing and long-term wealth decisions, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://mystocksinvesting.com/",
+        "https://mystocksinvesting.com/comments/feed/",
+        "https://mystocksinvesting.com/about/"
+      ]
+    },
+    {
+      "rank": 76,
+      "id": "youngfireknight-com",
+      "name": "Young FIRE Knight",
+      "url": "https://youngfireknight.com/",
+      "country": "XX",
+      "score": 66.0,
+      "movement": "new",
+      "best_for": "financial independence and early retirement",
+      "reason": "Young FIRE Knight concentrates on financial independence and early retirement, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://youngfireknight.com/",
+        "https://youngfireknight.com/comments/feed/",
+        "https://youngfireknight.com/about/"
+      ]
+    },
+    {
+      "rank": 77,
+      "id": "eatsleepbreathefi-com",
+      "name": "Eat Sleep Breathe FI",
+      "url": "https://eatsleepbreathefi.com/",
+      "country": "XX",
+      "score": 66.0,
+      "movement": "new",
+      "best_for": "financial independence and early retirement",
+      "reason": "Eat Sleep Breathe FI concentrates on financial independence and early retirement, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://eatsleepbreathefi.com/",
+        "https://eatsleepbreathefi.com/web-stories/feed/",
+        "https://eatsleepbreathefi.com/two-years-of-fire/#"
+      ]
+    },
+    {
+      "rank": 78,
+      "id": "ourrichjourney-com",
+      "name": "Our Rich Journey",
+      "url": "https://ourrichjourney.com/",
+      "country": "XX",
+      "score": 66.0,
+      "movement": "new",
+      "best_for": "financial independence and early retirement",
+      "reason": "Our Rich Journey concentrates on financial independence and early retirement, with a discoverable feed, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://ourrichjourney.com/",
+        "https://www.ourrichjourney.com/blog-feed.xml",
+        "https://www.ourrichjourney.com/about"
+      ]
+    },
+    {
+      "rank": 79,
+      "id": "occaminvesting-co-uk",
+      "name": "Occam Investing",
+      "url": "https://occaminvesting.co.uk/",
+      "country": "GB",
+      "score": 65.9,
+      "movement": "new",
+      "best_for": "investing and long-term wealth decisions",
+      "reason": "Occam Investing concentrates on investing and long-term wealth decisions, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://occaminvesting.co.uk/",
+        "https://occaminvesting.co.uk/comments/feed/",
+        "https://occaminvesting.co.uk/about/"
+      ]
+    },
+    {
+      "rank": 80,
+      "id": "sweetmoneybee-com",
+      "name": "Sweet Money Bee",
+      "url": "https://sweetmoneybee.com/",
+      "country": "XX",
+      "score": 65.8,
+      "movement": "new",
+      "best_for": "budgeting, saving, and practical money habits",
+      "reason": "Sweet Money Bee concentrates on budgeting, saving, and practical money habits, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://sweetmoneybee.com/",
+        "https://sweetmoneybee.com/comments/feed/",
+        "https://sweetmoneybee.com/about-me/"
+      ]
+    },
+    {
+      "rank": 81,
+      "id": "moneywithkatie-substack-com",
+      "name": "Money with Katie",
+      "url": "https://moneywithkatie.substack.com/",
+      "country": "XX",
+      "score": 65.5,
+      "movement": "new",
+      "best_for": "practical personal-finance decisions",
+      "reason": "Money with Katie concentrates on practical personal-finance decisions, with a discoverable feed that makes its current publishing work easier to evaluate.",
+      "limitation": "Authorship and editorial-policy information is less visible than on higher-ranked publications.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://moneywithkatie.substack.com/",
+        "https://moneywithkatie.substack.com/feed"
+      ]
+    },
+    {
+      "rank": 82,
+      "id": "wealthpilgrim-com",
+      "name": "Wealth Pilgrim",
+      "url": "https://wealthpilgrim.com/",
+      "country": "XX",
+      "score": 65.2,
+      "movement": "new",
+      "best_for": "practical personal-finance decisions",
+      "reason": "Wealth Pilgrim concentrates on practical personal-finance decisions, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://wealthpilgrim.com/",
+        "https://wealthpilgrim.com/comments/feed/",
+        "https://wealthpilgrim.com/from-homeless-to-homeowner-how-i-did-it/"
+      ]
+    },
+    {
+      "rank": 83,
+      "id": "stylehills-com",
+      "name": "Stylehills",
+      "url": "https://stylehills.com/",
+      "country": "XX",
+      "score": 65.2,
+      "movement": "new",
+      "best_for": "investing and long-term wealth decisions",
+      "reason": "Stylehills concentrates on investing and long-term wealth decisions, with a discoverable feed, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://stylehills.com/",
+        "https://stylehills.com/comments/feed/",
+        "https://stylehills.com/about/"
+      ]
+    },
+    {
+      "rank": 84,
+      "id": "thefrugalcottage-com",
+      "name": "The Frugal Cottage",
+      "url": "https://thefrugalcottage.com/",
+      "country": "XX",
+      "score": 65.2,
+      "movement": "new",
+      "best_for": "financial independence and early retirement",
+      "reason": "The Frugal Cottage concentrates on financial independence and early retirement, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://thefrugalcottage.com/",
+        "https://www.thefrugalcottage.com/10-personal-finance-blogs-you-should-be-reading/feed/",
+        "https://www.thefrugalcottage.com/about-me/"
+      ]
+    },
+    {
+      "rank": 85,
+      "id": "mixedupmoney-com",
+      "name": "Mixed Up Money",
+      "url": "https://mixedupmoney.com/",
+      "country": "XX",
+      "score": 65.2,
+      "movement": "new",
+      "best_for": "practical personal-finance decisions",
+      "reason": "Mixed Up Money concentrates on practical personal-finance decisions, with clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://mixedupmoney.com/",
+        "https://mixedupmoney.com/about"
+      ]
+    },
+    {
+      "rank": 86,
+      "id": "playingwithfire-co",
+      "name": "Playing With FIRE",
+      "url": "https://playingwithfire.co/",
+      "country": "XX",
+      "score": 65.2,
+      "movement": "new",
+      "best_for": "financial independence and early retirement",
+      "reason": "Playing With FIRE concentrates on financial independence and early retirement, with a clearly defined editorial focus that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://playingwithfire.co/"
+      ]
+    },
+    {
+      "rank": 87,
+      "id": "fireaggregator-com",
+      "name": "FIRE Aggregator",
+      "url": "https://fireaggregator.com/",
+      "country": "XX",
+      "score": 64.5,
+      "movement": "new",
+      "best_for": "financial independence and early retirement",
+      "reason": "FIRE Aggregator concentrates on financial independence and early retirement, with a visible article archive, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://fireaggregator.com/"
+      ]
+    },
+    {
+      "rank": 88,
+      "id": "foureyesfinance-com",
+      "name": "Foureyesfinance",
+      "url": "https://foureyesfinance.com/",
+      "country": "XX",
+      "score": 64.2,
+      "movement": "new",
+      "best_for": "investing and long-term wealth decisions",
+      "reason": "Foureyesfinance concentrates on investing and long-term wealth decisions, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Authorship and editorial-policy information is less visible than on higher-ranked publications.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://foureyesfinance.com/",
+        "https://foureyesfinance.com/comments/feed/"
+      ]
+    },
+    {
+      "rank": 89,
+      "id": "firelifestyle-co-uk",
+      "name": "Financial Independence - Lifestyle",
+      "url": "https://firelifestyle.co.uk/",
+      "country": "GB",
+      "score": 63.9,
+      "movement": "new",
+      "best_for": "financial independence and early retirement",
+      "reason": "Financial Independence - Lifestyle concentrates on financial independence and early retirement, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://firelifestyle.co.uk/",
+        "https://firelifestyle.co.uk/comments/feed/",
+        "https://firelifestyle.co.uk/about-me/"
+      ]
+    },
+    {
+      "rank": 90,
+      "id": "latestarterfire-com",
+      "name": "Latestarterfire",
+      "url": "https://latestarterfire.com/",
+      "country": "XX",
+      "score": 63.7,
+      "movement": "new",
+      "best_for": "financial independence and early retirement",
+      "reason": "Latestarterfire concentrates on financial independence and early retirement, with a visible article archive, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://latestarterfire.com/",
+        "https://www.latestarterfire.com/about/"
+      ]
+    },
+    {
+      "rank": 91,
+      "id": "apexmoney-com",
+      "name": "Apex Money",
+      "url": "https://apexmoney.com/",
+      "country": "XX",
+      "score": 63.2,
+      "movement": "new",
+      "best_for": "practical personal-finance decisions",
+      "reason": "Apex Money concentrates on practical personal-finance decisions, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://apexmoney.com/",
+        "https://apexmoney.com/favorite-money-blogs/feed/"
+      ]
+    },
+    {
+      "rank": 92,
+      "id": "retirehacks-com",
+      "name": "Retirehacks",
+      "url": "https://retirehacks.com/",
+      "country": "XX",
+      "score": 62.8,
+      "movement": "new",
+      "best_for": "investing and long-term wealth decisions",
+      "reason": "Retirehacks concentrates on investing and long-term wealth decisions, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://retirehacks.com/",
+        "https://retirehacks.com/comments/feed/",
+        "https://retirehacks.com/#"
+      ]
+    },
+    {
+      "rank": 93,
+      "id": "financialindependencecampaign-blog",
+      "name": "Financial Independence Campaign",
+      "url": "https://financialindependencecampaign.blog/",
+      "country": "XX",
+      "score": 61.4,
+      "movement": "new",
+      "best_for": "financial independence and early retirement",
+      "reason": "Financial Independence Campaign concentrates on financial independence and early retirement, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://financialindependencecampaign.blog/",
+        "https://financialindependencecampaign.blog/comments/feed/",
+        "https://financialindependencecampaign.blog/about-fire/"
+      ]
+    },
+    {
+      "rank": 94,
+      "id": "financially-independent-com",
+      "name": "Financially Independent",
+      "url": "https://financially-independent.com/",
+      "country": "XX",
+      "score": 61.2,
+      "movement": "new",
+      "best_for": "investing and long-term wealth decisions",
+      "reason": "Financially Independent concentrates on investing and long-term wealth decisions, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://financially-independent.com/",
+        "https://www.financially-independent.com/blog?format=rss",
+        "https://www.financially-independent.com/new-page-1"
+      ]
+    },
+    {
+      "rank": 95,
+      "id": "debtfreelab-com",
+      "name": "Debtfreelab",
+      "url": "https://debtfreelab.com/",
+      "country": "XX",
+      "score": 60.9,
+      "movement": "new",
+      "best_for": "debt, credit, and financial recovery",
+      "reason": "Debtfreelab concentrates on debt, credit, and financial recovery, with a discoverable feed, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://debtfreelab.com/",
+        "https://debtfreelab.com/single-post/4-crucial-mindset-strategies-to-become-debt-free/feed/",
+        "https://debtfreelab.com/about/"
+      ]
+    },
+    {
+      "rank": 96,
+      "id": "practicalfire-com",
+      "name": "Practical Fire",
+      "url": "https://practicalfire.com/",
+      "country": "XX",
+      "score": 60.5,
+      "movement": "new",
+      "best_for": "financial independence and early retirement",
+      "reason": "Practical Fire concentrates on financial independence and early retirement, with a visible article archive, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://practicalfire.com/",
+        "https://practicalfire.com/about/"
+      ]
+    },
+    {
+      "rank": 97,
+      "id": "stiftelsenarken-no",
+      "name": "Stiftelsen Arken",
+      "url": "https://stiftelsenarken.no/",
+      "country": "NO",
+      "score": 60.0,
+      "movement": "new",
+      "best_for": "practical personal-finance decisions",
+      "reason": "Stiftelsen Arken concentrates on practical personal-finance decisions, with a discoverable feed that makes its current publishing work easier to evaluate.",
+      "limitation": "Authorship and editorial-policy information is less visible than on higher-ranked publications.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://stiftelsenarken.no/",
+        "https://stiftelsenarken.no/comments/feed/"
+      ]
+    },
+    {
+      "rank": 98,
+      "id": "investingforretirement-beehiiv-com",
+      "name": "Investing for Retirement Newsletter",
+      "url": "https://investingforretirement.beehiiv.com/",
+      "country": "XX",
+      "score": 56.6,
+      "movement": "new",
+      "best_for": "investing and long-term wealth decisions",
+      "reason": "Investing for Retirement Newsletter concentrates on investing and long-term wealth decisions, with a clearly defined editorial focus that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://investingforretirement.beehiiv.com/"
+      ]
+    },
+    {
+      "rank": 99,
+      "id": "newsletters-onl",
+      "name": "NewsletterHub",
+      "url": "https://newsletters.onl/",
+      "country": "XX",
+      "score": 56.4,
+      "movement": "new",
+      "best_for": "practical personal-finance decisions",
+      "reason": "NewsletterHub concentrates on practical personal-finance decisions, with a clearly defined editorial focus that makes its current publishing work easier to evaluate.",
+      "limitation": "Some complete material may require registration, membership, or a paid subscription.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://newsletters.onl/"
+      ]
+    },
+    {
+      "rank": 100,
+      "id": "letterwire-app",
+      "name": "Letterwire",
+      "url": "https://letterwire.app/",
+      "country": "XX",
+      "score": 55.4,
+      "movement": "new",
+      "best_for": "practical personal-finance decisions",
+      "reason": "Letterwire concentrates on practical personal-finance decisions, with a clearly defined editorial focus that makes its current publishing work easier to evaluate.",
+      "limitation": "Some complete material may require registration, membership, or a paid subscription.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://letterwire.app/"
+      ]
+    }
+  ]
+}

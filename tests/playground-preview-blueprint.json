@@ -1,0 +1,17 @@
+{
+  "$schema": "https://playground.wordpress.net/blueprint-schema.json",
+  "preferredVersions": {
+    "php": "8.3",
+    "wp": "latest"
+  },
+  "steps": [
+    {
+      "step": "activateTheme",
+      "themeFolderName": "md-new"
+    },
+    {
+      "step": "runPHP",
+      "code": "<?php\nrequire_once '/wordpress/wp-load.php';\n$payload = json_decode(file_get_contents('/rankings-data/technology.json'), true);\nif (!gatilab_br_validate_payload($payload, 'technology')) { throw new Exception('Fixture payload failed validation.'); }\nupdate_option('gatilab_br_payload_technology', array('payload' => $payload, 'etag' => '', 'checksum' => hash('sha256', wp_json_encode($payload)), 'fetched_at' => time(), 'source_url' => 'playground-fixture'), false);\n$page_id = wp_insert_post(array('post_type' => 'page', 'post_status' => 'publish', 'post_title' => 'Technology Blog Rankings', 'post_name' => 'technology-blog-rankings-preview', 'post_content' => ''));\nupdate_post_meta($page_id, '_wp_page_template', 'templates/blog-ranking-category.php');\nupdate_post_meta($page_id, '_gatilab_br_category', 'technology');\nupdate_option('permalink_structure', '/%postname%/');\nflush_rewrite_rules(false);\necho wp_json_encode(array('page_id' => $page_id, 'url' => get_permalink($page_id)));\n"
+    }
+  ]
+}

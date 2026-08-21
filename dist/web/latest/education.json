@@ -1,0 +1,409 @@
+{
+  "schema_version": 1,
+  "project": "Gatilab Blog Rankings",
+  "edition": "2026-09",
+  "status": "final",
+  "generated_at": "2026-08-21T12:00:00Z",
+  "category": {
+    "slug": "education",
+    "name": "Education",
+    "description": "Publishing about teaching, learning science, higher education, curriculum, and study practice."
+  },
+  "tracks": {
+    "independent": {
+      "slug": "independent",
+      "label": "Independent Blogs",
+      "count": 100,
+      "items": [
+        {
+          "rank": 1,
+          "id": "mathequalslove-net",
+          "name": "Math = Love",
+          "url": "https://mathequalslove.net/",
+          "country": "XX",
+          "score": 98.0,
+          "movement": "new",
+          "best_for": "classroom teaching and educator practice",
+          "reason": "Math = Love concentrates on classroom teaching and educator practice, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+          "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+          "confidence": "standard",
+          "reviewed_at": "2026-08-21",
+          "evidence_urls": [
+            "https://mathequalslove.net/",
+            "https://mathequalslove.net/comments/feed/",
+            "https://mathequalslove.net/about-me/"
+          ]
+        },
+        {
+          "rank": 2,
+          "id": "coolcatteacher-com",
+          "name": "Cool Cat Teacher Blog",
+          "url": "https://coolcatteacher.com/",
+          "country": "XX",
+          "score": 97.0,
+          "movement": "new",
+          "best_for": "classroom teaching and educator practice",
+          "reason": "Cool Cat Teacher Blog concentrates on classroom teaching and educator practice, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+          "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+          "confidence": "standard",
+          "reviewed_at": "2026-08-21",
+          "evidence_urls": [
+            "https://coolcatteacher.com/",
+            "https://www.coolcatteacher.com/feed/",
+            "https://www.coolcatteacher.com/about-vicki-davis/"
+          ]
+        },
+        {
+          "rank": 3,
+          "id": "alicekeeler-com",
+          "name": "Teacher Tech with Alice Keeler",
+          "url": "https://alicekeeler.com/",
+          "country": "XX",
+          "score": 96.0,
+          "movement": "new",
+          "best_for": "classroom teaching and educator practice",
+          "reason": "Teacher Tech with Alice Keeler concentrates on classroom teaching and educator practice, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+          "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+          "confidence": "standard",
+          "reviewed_at": "2026-08-21",
+          "evidence_urls": [
+            "https://alicekeeler.com/",
+            "https://alicekeeler.com/comments/feed/"
+          ]
+        },
+        {
+          "rank": 4,
+          "id": "ditchthattextbook-com",
+          "name": "Ditch That Textbook",
+          "url": "https://ditchthattextbook.com/",
+          "country": "XX",
+          "score": 95.0,
+          "movement": "new",
+          "best_for": "classroom teaching and educator practice",
+          "reason": "Ditch That Textbook concentrates on classroom teaching and educator practice, with clear ownership context that makes its current publishing work easier to evaluate.",
+          "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+          "confidence": "standard",
+          "reviewed_at": "2026-08-21",
+          "evidence_urls": [
+            "https://ditchthattextbook.com/",
+            "https://ditchthattextbook.com/about0/"
+          ]
+        },
+        {
+          "rank": 5,
+          "id": "classtechtips-com",
+          "name": "Class Tech Tips",
+          "url": "https://classtechtips.com/",
+          "country": "XX",
+          "score": 94.0,
+          "movement": "new",
+          "best_for": "classroom teaching and educator practice",
+          "reason": "Class Tech Tips concentrates on classroom teaching and educator practice, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+          "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+          "confidence": "standard",
+          "reviewed_at": "2026-08-21",
+          "evidence_urls": [
+            "https://classtechtips.com/",
+            "https://classtechtips.com/comments/feed/",
+            "https://classtechtips.com/about-monica/"
+          ]
+        },
+        {
+          "rank": 6,
+          "id": "laurenmkaufman-com",
+          "name": "Lauren Kaufman",
+          "url": "https://laurenmkaufman.com/",
+          "country": "XX",
+          "score": 93.0,
+          "movement": "new",
+          "best_for": "classroom teaching and educator practice",
+          "reason": "Lauren Kaufman concentrates on classroom teaching and educator practice, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+          "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+          "confidence": "standard",
+          "reviewed_at": "2026-08-21",
+          "evidence_urls": [
+            "https://laurenmkaufman.com/",
+            "https://laurenmkaufman.com/comments/feed/",
+            "https://laurenmkaufman.com/about/"
+          ]
+        },
+        {
+          "rank": 7,
+          "id": "catlintucker-com",
+          "name": "Dr. Catlin Tucker",
+          "url": "https://catlintucker.com/",
+          "country": "XX",
+          "score": 92.0,
+          "movement": "new",
+          "best_for": "classroom teaching and educator practice",
+          "reason": "Dr. Catlin Tucker concentrates on classroom teaching and educator practice, with a discoverable feed, named authorship that makes its current publishing work easier to evaluate.",
+          "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+          "confidence": "standard",
+          "reviewed_at": "2026-08-21",
+          "evidence_urls": [
+            "https://catlintucker.com/",
+            "https://catlintucker.com/comments/feed/",
+            "https://catlintucker.com/about/"
+          ]
+        },
+        {
+          "rank": 8,
+          "id": "jenniferfindley-com",
+          "name": "Jennifer Findley",
+          "url": "https://jenniferfindley.com/",
+          "country": "XX",
+          "score": 91.0,
+          "movement": "new",
+          "best_for": "classroom teaching and educator practice",
+          "reason": "Jennifer Findley concentrates on classroom teaching and educator practice, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+          "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+          "confidence": "standard",
+          "reviewed_at": "2026-08-21",
+          "evidence_urls": [
+            "https://jenniferfindley.com/",
+            "https://jenniferfindley.com/comments/feed/",
+            "https://jenniferfindley.com/about-me/"
+          ]
+        },
+        {
+          "rank": 9,
+          "id": "teachertoolkit-co-uk",
+          "name": "TeacherToolkit",
+          "url": "https://teachertoolkit.co.uk/",
+          "country": "GB",
+          "score": 90.0,
+          "movement": "new",
+          "best_for": "classroom teaching and educator practice",
+          "reason": "TeacherToolkit concentrates on classroom teaching and educator practice, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+          "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+          "confidence": "standard",
+          "reviewed_at": "2026-08-21",
+          "evidence_urls": [
+            "https://teachertoolkit.co.uk/",
+            "https://www.teachertoolkit.co.uk/comments/feed/",
+            "https://www.teachertoolkit.co.uk/2026/08/13/ofsted-data-teaching/"
+          ]
+        },
+        {
+          "rank": 10,
+          "id": "learningscientists-org",
+          "name": "The Learning Scientists",
+          "url": "https://learningscientists.org/",
+          "country": "XX",
+          "score": 89.0,
+          "movement": "new",
+          "best_for": "classroom teaching and educator practice",
+          "reason": "The Learning Scientists concentrates on classroom teaching and educator practice, with named authorship, clear ownership context that makes its current publishing work easier to evaluate.",
+          "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+          "confidence": "standard",
+          "reviewed_at": "2026-08-21",
+          "evidence_urls": [
+            "https://learningscientists.org/",
+            "https://www.learningscientists.org/blog?format=rss",
+            "https://www.learningscientists.org/about"
+          ]
+        }
+      ]
+    },
+    "publisher_company": {
+      "slug": "publisher_company",
+      "label": "Publisher and Company Blogs",
+      "count": 100,
+      "items": [
+        {
+          "rank": 1,
+          "id": "edutopia-org",
+          "name": "Edutopia",
+          "url": "https://edutopia.org/",
+          "country": "XX",
+          "score": 98.0,
+          "movement": "new",
+          "best_for": "classroom teaching and educator practice",
+          "reason": "Edutopia concentrates on classroom teaching and educator practice, with named authorship, clear ownership context that makes its current publishing work easier to evaluate.",
+          "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+          "confidence": "standard",
+          "reviewed_at": "2026-08-21",
+          "evidence_urls": [
+            "https://edutopia.org/",
+            "https://www.edutopia.org/about"
+          ]
+        },
+        {
+          "rank": 2,
+          "id": "edweek-org",
+          "name": "Education Week",
+          "url": "https://edweek.org/",
+          "country": "XX",
+          "score": 97.0,
+          "movement": "new",
+          "best_for": "classroom teaching and educator practice",
+          "reason": "Education Week concentrates on classroom teaching and educator practice, with a discoverable feed, named authorship that makes its current publishing work easier to evaluate.",
+          "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+          "confidence": "standard",
+          "reviewed_at": "2026-08-21",
+          "evidence_urls": [
+            "https://edweek.org/",
+            "https://www.edweek.org/teaching-learning.rss",
+            "https://www.edweek.org/about/"
+          ]
+        },
+        {
+          "rank": 3,
+          "id": "chronicle-com",
+          "name": "The Chronicle of Higher Education",
+          "url": "https://chronicle.com/",
+          "country": "XX",
+          "score": 96.0,
+          "movement": "new",
+          "best_for": "classroom teaching and educator practice",
+          "reason": "The Chronicle of Higher Education concentrates on classroom teaching and educator practice, with a discoverable feed, named authorship that makes its current publishing work easier to evaluate.",
+          "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+          "confidence": "standard",
+          "reviewed_at": "2026-08-21",
+          "evidence_urls": [
+            "https://chronicle.com/",
+            "https://www.chronicle.com/page/blogs.atom",
+            "https://www.chronicle.com/page/about-us"
+          ]
+        },
+        {
+          "rank": 4,
+          "id": "elearningindustry-com",
+          "name": "eLearning Industry",
+          "url": "https://elearningindustry.com/",
+          "country": "XX",
+          "score": 95.0,
+          "movement": "new",
+          "best_for": "teaching, learning, and education practice",
+          "reason": "eLearning Industry concentrates on teaching, learning, and education practice, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+          "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+          "confidence": "standard",
+          "reviewed_at": "2026-08-21",
+          "evidence_urls": [
+            "https://elearningindustry.com/",
+            "https://feeds.feedburner.com/elearningindustry",
+            "https://elearningindustry.com/microlearning-isnt-shorter-courses-its-a-different-way-of-thinking-about-retention"
+          ]
+        },
+        {
+          "rank": 5,
+          "id": "iste-org",
+          "name": "ISTE",
+          "url": "https://iste.org/",
+          "country": "XX",
+          "score": 94.0,
+          "movement": "new",
+          "best_for": "education technology and digital learning",
+          "reason": "ISTE concentrates on education technology and digital learning, with a visible article archive, named authorship that makes its current publishing work easier to evaluate.",
+          "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+          "confidence": "standard",
+          "reviewed_at": "2026-08-21",
+          "evidence_urls": [
+            "https://iste.org/",
+            "https://iste.org/about"
+          ]
+        },
+        {
+          "rank": 6,
+          "id": "weareteachers-com",
+          "name": "We Are Teachers",
+          "url": "https://weareteachers.com/",
+          "country": "XX",
+          "score": 93.0,
+          "movement": "new",
+          "best_for": "classroom teaching and educator practice",
+          "reason": "We Are Teachers concentrates on classroom teaching and educator practice, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+          "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+          "confidence": "standard",
+          "reviewed_at": "2026-08-21",
+          "evidence_urls": [
+            "https://weareteachers.com/",
+            "https://www.weareteachers.com/comments/feed/",
+            "https://www.weareteachers.com/quotes-about-education/"
+          ]
+        },
+        {
+          "rank": 7,
+          "id": "teachthought-com",
+          "name": "TeachThought",
+          "url": "https://teachthought.com/",
+          "country": "XX",
+          "score": 92.0,
+          "movement": "new",
+          "best_for": "classroom teaching and educator practice",
+          "reason": "TeachThought concentrates on classroom teaching and educator practice, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+          "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+          "confidence": "standard",
+          "reviewed_at": "2026-08-21",
+          "evidence_urls": [
+            "https://teachthought.com/",
+            "https://www.teachthought.com/feed/",
+            "https://www.teachthought.com/about/"
+          ]
+        },
+        {
+          "rank": 8,
+          "id": "edtechdigest-com",
+          "name": "EdTech Digest",
+          "url": "https://edtechdigest.com/",
+          "country": "XX",
+          "score": 91.0,
+          "movement": "new",
+          "best_for": "education technology and digital learning",
+          "reason": "EdTech Digest concentrates on education technology and digital learning, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+          "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+          "confidence": "standard",
+          "reviewed_at": "2026-08-21",
+          "evidence_urls": [
+            "https://edtechdigest.com/",
+            "https://www.edtechdigest.com/comments/feed/",
+            "https://www.edtechdigest.com/who-we-are/"
+          ]
+        },
+        {
+          "rank": 9,
+          "id": "gettingsmart-com",
+          "name": "Getting Smart",
+          "url": "https://gettingsmart.com/",
+          "country": "XX",
+          "score": 90.0,
+          "movement": "new",
+          "best_for": "teaching, learning, and education practice",
+          "reason": "Getting Smart concentrates on teaching, learning, and education practice, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+          "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+          "confidence": "standard",
+          "reviewed_at": "2026-08-21",
+          "evidence_urls": [
+            "https://gettingsmart.com/",
+            "https://www.gettingsmart.com/comments/feed/",
+            "https://www.gettingsmart.com/podcast/catching-up-job-cliff-enrollment-drop-and-the-hidden-crisis-no-one-is-talking-about/"
+          ]
+        },
+        {
+          "rank": 10,
+          "id": "insidehighered-com",
+          "name": "Inside Higher Ed | Higher Education News, Events and Jobs",
+          "url": "https://insidehighered.com/",
+          "country": "XX",
+          "score": 89.0,
+          "movement": "new",
+          "best_for": "higher education and academic work",
+          "reason": "Inside Higher Ed | Higher Education News, Events and Jobs concentrates on higher education and academic work, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+          "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+          "confidence": "standard",
+          "reviewed_at": "2026-08-21",
+          "evidence_urls": [
+            "https://insidehighered.com/",
+            "https://www.insidehighered.com/rss.xml"
+          ]
+        }
+      ]
+    }
+  },
+  "links": {
+    "repository": "https://github.com/wpgaurav/blog-rankings",
+    "methodology": "https://github.com/wpgaurav/blog-rankings/blob/main/METHODOLOGY.md",
+    "independent_markdown": "https://github.com/wpgaurav/blog-rankings/blob/main/dist/markdown/2026-09/education/independent.md",
+    "publisher_company_markdown": "https://github.com/wpgaurav/blog-rankings/blob/main/dist/markdown/2026-09/education/publisher_company.md"
+  }
+}

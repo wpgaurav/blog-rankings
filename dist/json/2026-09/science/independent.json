@@ -1,0 +1,1841 @@
+{
+  "schema_version": 1,
+  "edition": "2026-09",
+  "status": "final",
+  "category": {
+    "slug": "science",
+    "name": "Science",
+    "description": "Research communication and analysis across the physical, life, earth, space, and environmental sciences.",
+    "subcategories": [
+      "space",
+      "physics",
+      "biology",
+      "climate",
+      "research"
+    ]
+  },
+  "track": {
+    "slug": "independent",
+    "label": "Independent Blogs"
+  },
+  "count": 100,
+  "items": [
+    {
+      "rank": 1,
+      "id": "backreaction-blogspot-com",
+      "name": "Sabine Hossenfelder: Backreaction",
+      "url": "https://backreaction.blogspot.com/",
+      "country": "XX",
+      "score": 98.0,
+      "movement": "new",
+      "best_for": "space, astronomy, and exploration",
+      "reason": "Sabine Hossenfelder: Backreaction concentrates on space, astronomy, and exploration, with a discoverable feed, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Authorship and editorial-policy information is less visible than on higher-ranked publications.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://backreaction.blogspot.com/",
+        "https://backreaction.blogspot.com/feeds/posts/default?alt=rss",
+        "https://backreaction.blogspot.com/p/about.html"
+      ]
+    },
+    {
+      "rank": 2,
+      "id": "realclimate-org",
+      "name": "RealClimate",
+      "url": "https://realclimate.org/",
+      "country": "XX",
+      "score": 97.0,
+      "movement": "new",
+      "best_for": "climate and environmental science",
+      "reason": "RealClimate concentrates on climate and environmental science, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://realclimate.org/",
+        "https://www.realclimate.org/index.php/comments/feed/",
+        "https://www.realclimate.org/index.php/archives/2026/07/this-new-el-nino-is-different/"
+      ]
+    },
+    {
+      "rank": 3,
+      "id": "preposterousuniverse-com",
+      "name": "Preposterous Universe",
+      "url": "https://preposterousuniverse.com/",
+      "country": "XX",
+      "score": 96.0,
+      "movement": "new",
+      "best_for": "physics and the mechanisms behind new research",
+      "reason": "Preposterous Universe concentrates on physics and the mechanisms behind new research, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://preposterousuniverse.com/",
+        "https://preposterousuniverse.com/blog/comments/feed/",
+        "https://www.preposterousuniverse.com/blog/about-this-blog/"
+      ]
+    },
+    {
+      "rank": 4,
+      "id": "southernfriedscience-com",
+      "name": "Southern Fried Science",
+      "url": "https://southernfriedscience.com/",
+      "country": "XX",
+      "score": 95.0,
+      "movement": "new",
+      "best_for": "science reporting and research communication",
+      "reason": "Southern Fried Science concentrates on science reporting and research communication, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://southernfriedscience.com/",
+        "https://www.southernfriedscience.com/comments/feed/"
+      ]
+    },
+    {
+      "rank": 5,
+      "id": "improbable-com",
+      "name": "Improbable Research",
+      "url": "https://improbable.com/",
+      "country": "XX",
+      "score": 94.0,
+      "movement": "new",
+      "best_for": "research findings and science communication",
+      "reason": "Improbable Research concentrates on research findings and science communication, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://improbable.com/",
+        "https://improbable.com/feed/"
+      ]
+    },
+    {
+      "rank": 6,
+      "id": "thephysicsmill-com",
+      "name": "The Physics Mill",
+      "url": "https://thephysicsmill.com/",
+      "country": "XX",
+      "score": 93.0,
+      "movement": "new",
+      "best_for": "physics and the mechanisms behind new research",
+      "reason": "The Physics Mill concentrates on physics and the mechanisms behind new research, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://thephysicsmill.com/",
+        "https://www.thephysicsmill.com/links/feed/",
+        "https://www.thephysicsmill.com/about-the-blog/"
+      ]
+    },
+    {
+      "rank": 7,
+      "id": "nanoscale-blogspot-com",
+      "name": "nanoscale views",
+      "url": "https://nanoscale.blogspot.com/",
+      "country": "XX",
+      "score": 92.0,
+      "movement": "new",
+      "best_for": "physics and the mechanisms behind new research",
+      "reason": "nanoscale views concentrates on physics and the mechanisms behind new research, with a discoverable feed, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Authorship and editorial-policy information is less visible than on higher-ranked publications.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://nanoscale.blogspot.com/",
+        "https://nanoscale.blogspot.com/feeds/posts/default?alt=rss",
+        "https://nanoscale.blogspot.com/2026/07/a-brief-serious-note-about-mental.html"
+      ]
+    },
+    {
+      "rank": 8,
+      "id": "4gravitons-com",
+      "name": "4 Gravitons",
+      "url": "https://4gravitons.com/",
+      "country": "XX",
+      "score": 91.0,
+      "movement": "new",
+      "best_for": "physics and the mechanisms behind new research",
+      "reason": "4 Gravitons concentrates on physics and the mechanisms behind new research, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://4gravitons.com/",
+        "https://4gravitons.com/comments/feed/",
+        "https://4gravitons.com/about/"
+      ]
+    },
+    {
+      "rank": 9,
+      "id": "joyfulmicrobe-com",
+      "name": "Joyful Microbe",
+      "url": "https://joyfulmicrobe.com/",
+      "country": "XX",
+      "score": 90.0,
+      "movement": "new",
+      "best_for": "biology, biotechnology, and life science",
+      "reason": "Joyful Microbe concentrates on biology, biotechnology, and life science, with a discoverable feed, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://joyfulmicrobe.com/",
+        "https://joyfulmicrobe.com/comments/feed/",
+        "https://joyfulmicrobe.com/about/"
+      ]
+    },
+    {
+      "rank": 10,
+      "id": "goodsciencewriting-com",
+      "name": "Good Science Writing",
+      "url": "https://goodsciencewriting.com/",
+      "country": "XX",
+      "score": 89.0,
+      "movement": "new",
+      "best_for": "research findings and science communication",
+      "reason": "Good Science Writing concentrates on research findings and science communication, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://goodsciencewriting.com/",
+        "https://goodsciencewriting.com/comments/feed/",
+        "https://goodsciencewriting.com/category/my-articles-about-science/"
+      ]
+    },
+    {
+      "rank": 11,
+      "id": "gizmodo-com",
+      "name": "Gizmodo",
+      "url": "https://gizmodo.com/",
+      "country": "XX",
+      "score": 82.5,
+      "movement": "new",
+      "best_for": "space, astronomy, and exploration",
+      "reason": "Gizmodo concentrates on space, astronomy, and exploration, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://gizmodo.com/",
+        "https://gizmodo.com/feed",
+        "https://gizmodo.com/former-spirit-employees-arent-happy-about-its-ai-deal-with-google-2000801201"
+      ]
+    },
+    {
+      "rank": 12,
+      "id": "physicsforums-com",
+      "name": "Physics Forums - Science by Humans",
+      "url": "https://physicsforums.com/",
+      "country": "XX",
+      "score": 81.2,
+      "movement": "new",
+      "best_for": "space, astronomy, and exploration",
+      "reason": "Physics Forums - Science by Humans concentrates on space, astronomy, and exploration, with a discoverable feed, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://physicsforums.com/",
+        "https://www.physicsforums.com/forums/-/index.rss",
+        "https://www.physicsforums.com/insights/about-physics-forums/"
+      ]
+    },
+    {
+      "rank": 13,
+      "id": "physics-stackexchange-com",
+      "name": "Physics Stack Exchange",
+      "url": "https://physics.stackexchange.com/",
+      "country": "XX",
+      "score": 81.0,
+      "movement": "new",
+      "best_for": "physics and the mechanisms behind new research",
+      "reason": "Physics Stack Exchange concentrates on physics and the mechanisms behind new research, with a discoverable feed, named authorship that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://physics.stackexchange.com/",
+        "https://physics.stackexchange.com/feeds"
+      ]
+    },
+    {
+      "rank": 14,
+      "id": "theguardian-com",
+      "name": "Theguardian",
+      "url": "https://theguardian.com/",
+      "country": "XX",
+      "score": 80.8,
+      "movement": "new",
+      "best_for": "space, astronomy, and exploration",
+      "reason": "Theguardian concentrates on space, astronomy, and exploration, with a discoverable feed, named authorship that makes its current publishing work easier to evaluate.",
+      "limitation": "The homepage is heavier and more commercially layered than a focused reading experience.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://theguardian.com/",
+        "https://www.theguardian.com/international/rss"
+      ]
+    },
+    {
+      "rank": 15,
+      "id": "ucs-org",
+      "name": "The Union of Concerned Scientists",
+      "url": "https://ucs.org/",
+      "country": "XX",
+      "score": 80.1,
+      "movement": "new",
+      "best_for": "science reporting and research communication",
+      "reason": "The Union of Concerned Scientists concentrates on science reporting and research communication, with a visible article archive, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://ucs.org/",
+        "https://www.ucs.org/about"
+      ]
+    },
+    {
+      "rank": 16,
+      "id": "blog-oup-com",
+      "name": "OUPblog",
+      "url": "https://blog.oup.com/",
+      "country": "XX",
+      "score": 80.0,
+      "movement": "new",
+      "best_for": "science reporting and research communication",
+      "reason": "OUPblog concentrates on science reporting and research communication, with a visible article archive, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://blog.oup.com/",
+        "https://blog.oup.com/2026/06/learn-about-telic-and-atelic-predicates/"
+      ]
+    },
+    {
+      "rank": 17,
+      "id": "sfdora-org",
+      "name": "DORA",
+      "url": "https://sfdora.org/",
+      "country": "XX",
+      "score": 78.2,
+      "movement": "new",
+      "best_for": "research findings and science communication",
+      "reason": "DORA concentrates on research findings and science communication, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://sfdora.org/",
+        "https://sfdora.org/feed/",
+        "https://sfdora.org/about-dora/"
+      ]
+    },
+    {
+      "rank": 18,
+      "id": "nautil-us",
+      "name": "Nautilus",
+      "url": "https://nautil.us/",
+      "country": "XX",
+      "score": 77.7,
+      "movement": "new",
+      "best_for": "science reporting and research communication",
+      "reason": "Nautilus concentrates on science reporting and research communication, with a discoverable feed, named authorship that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://nautil.us/",
+        "https://nautil.us/feed"
+      ]
+    },
+    {
+      "rank": 19,
+      "id": "royalsociety-org",
+      "name": "Welcome to the Royal Society",
+      "url": "https://royalsociety.org/",
+      "country": "XX",
+      "score": 77.5,
+      "movement": "new",
+      "best_for": "research findings and science communication",
+      "reason": "Welcome to the Royal Society concentrates on research findings and science communication, with a visible article archive, named authorship that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://royalsociety.org/",
+        "https://royalsociety.org/fellows-directory/election/"
+      ]
+    },
+    {
+      "rank": 20,
+      "id": "elifesciences-org",
+      "name": "eLife",
+      "url": "https://elifesciences.org/",
+      "country": "XX",
+      "score": 77.2,
+      "movement": "new",
+      "best_for": "research findings and science communication",
+      "reason": "eLife concentrates on research findings and science communication, with a discoverable feed, named authorship that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://elifesciences.org/",
+        "https://elifesciences.org/rss/recent.xml"
+      ]
+    },
+    {
+      "rank": 21,
+      "id": "blog-addgene-org",
+      "name": "Addgene Blog: A Better Way to Share Science",
+      "url": "https://blog.addgene.org/",
+      "country": "XX",
+      "score": 76.2,
+      "movement": "new",
+      "best_for": "biology, biotechnology, and life science",
+      "reason": "Addgene Blog: A Better Way to Share Science concentrates on biology, biotechnology, and life science, with a discoverable feed, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://blog.addgene.org/",
+        "https://blog.addgene.org/rss.xml",
+        "https://blog.addgene.org/about-the-addgene-blog"
+      ]
+    },
+    {
+      "rank": 22,
+      "id": "scienceblogs-com",
+      "name": "ScienceBlogs",
+      "url": "https://scienceblogs.com/",
+      "country": "XX",
+      "score": 75.0,
+      "movement": "new",
+      "best_for": "physics and the mechanisms behind new research",
+      "reason": "ScienceBlogs concentrates on physics and the mechanisms behind new research, with a discoverable feed, named authorship that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://scienceblogs.com/",
+        "https://scienceblogs.com/rss.xml"
+      ]
+    },
+    {
+      "rank": 23,
+      "id": "profmattstrassler-com",
+      "name": "Of Particular Significance",
+      "url": "https://profmattstrassler.com/",
+      "country": "XX",
+      "score": 74.3,
+      "movement": "new",
+      "best_for": "physics and the mechanisms behind new research",
+      "reason": "Of Particular Significance concentrates on physics and the mechanisms behind new research, with a discoverable feed, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://profmattstrassler.com/",
+        "https://profmattstrassler.com/comments/feed/",
+        "https://profmattstrassler.com/about/explore-this-website/"
+      ]
+    },
+    {
+      "rank": 24,
+      "id": "utmb-edu",
+      "name": "UTMB WWW (ROOT)",
+      "url": "https://utmb.edu/",
+      "country": "XX",
+      "score": 74.2,
+      "movement": "new",
+      "best_for": "research findings and science communication",
+      "reason": "UTMB WWW (ROOT) concentrates on research findings and science communication, with a visible article archive, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://utmb.edu/",
+        "https://www.utmb.edu/som/home/about-us-vision-mission-values"
+      ]
+    },
+    {
+      "rank": 25,
+      "id": "theness-com",
+      "name": "The NESS - New England Skeptical Society",
+      "url": "https://theness.com/",
+      "country": "XX",
+      "score": 73.7,
+      "movement": "new",
+      "best_for": "science reporting and research communication",
+      "reason": "The NESS - New England Skeptical Society concentrates on science reporting and research communication, with a discoverable feed, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Authorship and editorial-policy information is less visible than on higher-ranked publications.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://theness.com/",
+        "https://theness.com/neurologicablog/feed/atom/",
+        "https://theness.com/neurologicablog/about/"
+      ]
+    },
+    {
+      "rank": 26,
+      "id": "eurekalert-org",
+      "name": "EurekAlert!",
+      "url": "https://eurekalert.org/",
+      "country": "XX",
+      "score": 73.5,
+      "movement": "new",
+      "best_for": "research findings and science communication",
+      "reason": "EurekAlert! concentrates on research findings and science communication, with a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://eurekalert.org/"
+      ]
+    },
+    {
+      "rank": 27,
+      "id": "interactions-org",
+      "name": "Interactions.org",
+      "url": "https://interactions.org/",
+      "country": "XX",
+      "score": 73.5,
+      "movement": "new",
+      "best_for": "physics and the mechanisms behind new research",
+      "reason": "Interactions.org concentrates on physics and the mechanisms behind new research, with a visible article archive, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://interactions.org/",
+        "https://interactions.org/about-interactions"
+      ]
+    },
+    {
+      "rank": 28,
+      "id": "fyfluiddynamics-com",
+      "name": "FYFD",
+      "url": "https://fyfluiddynamics.com/",
+      "country": "XX",
+      "score": 72.3,
+      "movement": "new",
+      "best_for": "physics and the mechanisms behind new research",
+      "reason": "FYFD concentrates on physics and the mechanisms behind new research, with a discoverable feed, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://fyfluiddynamics.com/",
+        "https://fyfluiddynamics.com/comments/feed/",
+        "https://fyfluiddynamics.com/about"
+      ]
+    },
+    {
+      "rank": 29,
+      "id": "aobblog-com",
+      "name": "Botany One",
+      "url": "https://aobblog.com/",
+      "country": "XX",
+      "score": 72.2,
+      "movement": "new",
+      "best_for": "biology, biotechnology, and life science",
+      "reason": "Botany One concentrates on biology, biotechnology, and life science, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://aobblog.com/",
+        "https://www.botany.one/rss/",
+        "https://www.botany.one/author/sarahcovshoff/"
+      ]
+    },
+    {
+      "rank": 30,
+      "id": "animateyour-science",
+      "name": "Animate Your Science",
+      "url": "https://animateyour.science/",
+      "country": "XX",
+      "score": 72.2,
+      "movement": "new",
+      "best_for": "research findings and science communication",
+      "reason": "Animate Your Science concentrates on research findings and science communication, with a discoverable feed, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "The homepage is heavier and more commercially layered than a focused reading experience.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://animateyour.science/",
+        "https://www.animateyour.science/blog-feed.xml",
+        "https://www.animateyour.science/about"
+      ]
+    },
+    {
+      "rank": 31,
+      "id": "scientopia-org",
+      "name": "Scientopia",
+      "url": "https://scientopia.org/",
+      "country": "XX",
+      "score": 71.9,
+      "movement": "new",
+      "best_for": "science reporting and research communication",
+      "reason": "Scientopia concentrates on science reporting and research communication, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://scientopia.org/",
+        "https://www.scientopia.org/comments/feed/"
+      ]
+    },
+    {
+      "rank": 32,
+      "id": "physicsdetective-com",
+      "name": "THE PHYSICS DETECTIVE",
+      "url": "https://physicsdetective.com/",
+      "country": "XX",
+      "score": 71.8,
+      "movement": "new",
+      "best_for": "physics and the mechanisms behind new research",
+      "reason": "THE PHYSICS DETECTIVE concentrates on physics and the mechanisms behind new research, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://physicsdetective.com/",
+        "https://physicsdetective.com/comments/feed/",
+        "https://physicsdetective.com/about/"
+      ]
+    },
+    {
+      "rank": 33,
+      "id": "scientiamag-com",
+      "name": "ScientiaMag",
+      "url": "https://scientiamag.com/",
+      "country": "XX",
+      "score": 71.5,
+      "movement": "new",
+      "best_for": "space, astronomy, and exploration",
+      "reason": "ScientiaMag concentrates on space, astronomy, and exploration, with a discoverable feed, named authorship that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://scientiamag.com/",
+        "https://scientiamag.com/feed",
+        "https://scientiamag.com/article/physicists-unveil-the-most-complex-ice-structures-ever-discovered"
+      ]
+    },
+    {
+      "rank": 34,
+      "id": "addgene-org",
+      "name": "Addgene: Powering Scientific Sharing",
+      "url": "https://addgene.org/",
+      "country": "XX",
+      "score": 71.0,
+      "movement": "new",
+      "best_for": "research findings and science communication",
+      "reason": "Addgene: Powering Scientific Sharing concentrates on research findings and science communication, with a clearly defined editorial focus that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://addgene.org/",
+        "https://www.addgene.org/viral-service/"
+      ]
+    },
+    {
+      "rank": 35,
+      "id": "research-upjohn-org",
+      "name": "Upjohn Research",
+      "url": "https://research.upjohn.org/",
+      "country": "XX",
+      "score": 70.5,
+      "movement": "new",
+      "best_for": "research findings and science communication",
+      "reason": "Upjohn Research concentrates on research findings and science communication, with a discoverable feed, named authorship that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://research.upjohn.org/",
+        "https://research.upjohn.org/recent.rss"
+      ]
+    },
+    {
+      "rank": 36,
+      "id": "authorservices-taylorandfrancis-com",
+      "name": "Author Services",
+      "url": "https://authorservices.taylorandfrancis.com/",
+      "country": "XX",
+      "score": 70.5,
+      "movement": "new",
+      "best_for": "research findings and science communication",
+      "reason": "Author Services concentrates on research findings and science communication, with named authorship that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://authorservices.taylorandfrancis.com/"
+      ]
+    },
+    {
+      "rank": 37,
+      "id": "wondersofphysics-com",
+      "name": "Wondersofphysics",
+      "url": "https://wondersofphysics.com/",
+      "country": "XX",
+      "score": 69.8,
+      "movement": "new",
+      "best_for": "space, astronomy, and exploration",
+      "reason": "Wondersofphysics concentrates on space, astronomy, and exploration, with a discoverable feed, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://wondersofphysics.com/",
+        "https://www.wondersofphysics.com/feeds/posts/default?alt=rss",
+        "https://www.wondersofphysics.com/p/about-website.html"
+      ]
+    },
+    {
+      "rank": 38,
+      "id": "shorthand-com",
+      "name": "Shorthand",
+      "url": "https://shorthand.com/",
+      "country": "XX",
+      "score": 69.3,
+      "movement": "new",
+      "best_for": "science reporting and research communication",
+      "reason": "Shorthand concentrates on science reporting and research communication, with clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://shorthand.com/"
+      ]
+    },
+    {
+      "rank": 39,
+      "id": "air-org",
+      "name": "Air",
+      "url": "https://air.org/",
+      "country": "XX",
+      "score": 69.1,
+      "movement": "new",
+      "best_for": "research findings and science communication",
+      "reason": "Air concentrates on research findings and science communication, with clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://air.org/",
+        "https://air.org/about"
+      ]
+    },
+    {
+      "rank": 40,
+      "id": "blogs-uwe-ac-uk",
+      "name": "Blogs home",
+      "url": "https://blogs.uwe.ac.uk/",
+      "country": "GB",
+      "score": 69.0,
+      "movement": "new",
+      "best_for": "research findings and science communication",
+      "reason": "Blogs home concentrates on research findings and science communication, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://blogs.uwe.ac.uk/",
+        "https://blogs.uwe.ac.uk/science-communication/comments/feed/",
+        "https://blogs.uwe.ac.uk/science-communication/about/"
+      ]
+    },
+    {
+      "rank": 41,
+      "id": "mariecuriealumni-eu",
+      "name": "Marie Curie Alumni Association",
+      "url": "https://mariecuriealumni.eu/",
+      "country": "XX",
+      "score": 69.0,
+      "movement": "new",
+      "best_for": "research findings and science communication",
+      "reason": "Marie Curie Alumni Association concentrates on research findings and science communication, with a visible article archive, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://mariecuriealumni.eu/"
+      ]
+    },
+    {
+      "rank": 42,
+      "id": "inkerscon-com",
+      "name": "Inkers Con",
+      "url": "https://inkerscon.com/",
+      "country": "XX",
+      "score": 68.8,
+      "movement": "new",
+      "best_for": "research findings and science communication",
+      "reason": "Inkers Con concentrates on research findings and science communication, with a discoverable feed, named authorship that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://inkerscon.com/",
+        "https://inkerscon.com/comments/feed/",
+        "https://inkerscon.com/about/"
+      ]
+    },
+    {
+      "rank": 43,
+      "id": "scholarsatrisk-org",
+      "name": "Scholars at Risk",
+      "url": "https://scholarsatrisk.org/",
+      "country": "XX",
+      "score": 68.5,
+      "movement": "new",
+      "best_for": "research findings and science communication",
+      "reason": "Scholars at Risk concentrates on research findings and science communication, with clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://scholarsatrisk.org/"
+      ]
+    },
+    {
+      "rank": 44,
+      "id": "sciencetalk-org",
+      "name": "Association of Science Communicators",
+      "url": "https://sciencetalk.org/",
+      "country": "XX",
+      "score": 68.3,
+      "movement": "new",
+      "best_for": "science reporting and research communication",
+      "reason": "Association of Science Communicators concentrates on science reporting and research communication, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Some complete material may require registration, membership, or a paid subscription.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://sciencetalk.org/",
+        "https://www.associationofsciencecommunicators.org/comments/feed/"
+      ]
+    },
+    {
+      "rank": 45,
+      "id": "openresearch-institute",
+      "name": "Open Research Institute",
+      "url": "https://openresearch.institute/",
+      "country": "XX",
+      "score": 68.3,
+      "movement": "new",
+      "best_for": "research findings and science communication",
+      "reason": "Open Research Institute concentrates on research findings and science communication, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Authorship and editorial-policy information is less visible than on higher-ranked publications.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://openresearch.institute/",
+        "https://www.openresearch.institute/comments/feed/",
+        "https://www.openresearch.institute/about-open-research-institute/"
+      ]
+    },
+    {
+      "rank": 46,
+      "id": "theonlinescientist-com",
+      "name": "The Online Scientist",
+      "url": "https://theonlinescientist.com/",
+      "country": "XX",
+      "score": 68.3,
+      "movement": "new",
+      "best_for": "research findings and science communication",
+      "reason": "The Online Scientist concentrates on research findings and science communication, with a visible article archive, named authorship that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://theonlinescientist.com/",
+        "https://www.theonlinescientist.com/about-us/"
+      ]
+    },
+    {
+      "rank": 47,
+      "id": "nosm-ca",
+      "name": "NOSM U",
+      "url": "https://nosm.ca/",
+      "country": "CA",
+      "score": 68.0,
+      "movement": "new",
+      "best_for": "research findings and science communication",
+      "reason": "NOSM U concentrates on research findings and science communication, with a discoverable feed, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://nosm.ca/",
+        "https://www.nosm.ca/comments/feed/",
+        "https://www.nosm.ca/about/administrative-offices/it/colleagueui/"
+      ]
+    },
+    {
+      "rank": 48,
+      "id": "scientifyresearch-org",
+      "name": "ScientifyResearch",
+      "url": "https://scientifyresearch.org/",
+      "country": "XX",
+      "score": 67.5,
+      "movement": "new",
+      "best_for": "research findings and science communication",
+      "reason": "ScientifyResearch concentrates on research findings and science communication, with named authorship, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Some complete material may require registration, membership, or a paid subscription.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://scientifyresearch.org/"
+      ]
+    },
+    {
+      "rank": 49,
+      "id": "austinclinicalresearch-com",
+      "name": "Austin Clinical Research",
+      "url": "https://austinclinicalresearch.com/",
+      "country": "XX",
+      "score": 67.3,
+      "movement": "new",
+      "best_for": "research findings and science communication",
+      "reason": "Austin Clinical Research concentrates on research findings and science communication, with clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://austinclinicalresearch.com/",
+        "https://www.austinclinicalresearch.com/about/"
+      ]
+    },
+    {
+      "rank": 50,
+      "id": "keytostudy-com",
+      "name": "Key To Study",
+      "url": "https://keytostudy.com/",
+      "country": "XX",
+      "score": 67.2,
+      "movement": "new",
+      "best_for": "biology, biotechnology, and life science",
+      "reason": "Key To Study concentrates on biology, biotechnology, and life science, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://keytostudy.com/",
+        "https://www.keytostudy.com/15-essential-science-blogs-you-should-read-every-day/feed/",
+        "https://www.keytostudy.com/category/goldentouch-lev-and-goldentouch-anna/"
+      ]
+    },
+    {
+      "rank": 51,
+      "id": "funsizephysics-com",
+      "name": "FunsizePhysics",
+      "url": "https://funsizephysics.com/",
+      "country": "XX",
+      "score": 67.2,
+      "movement": "new",
+      "best_for": "physics and the mechanisms behind new research",
+      "reason": "FunsizePhysics concentrates on physics and the mechanisms behind new research, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Authorship and editorial-policy information is less visible than on higher-ranked publications.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://funsizephysics.com/",
+        "https://funsizephysics.com/comments/feed/"
+      ]
+    },
+    {
+      "rank": 52,
+      "id": "haystudio-space",
+      "name": "HAY studio",
+      "url": "https://haystudio.space/",
+      "country": "XX",
+      "score": 67.2,
+      "movement": "new",
+      "best_for": "research findings and science communication",
+      "reason": "HAY studio concentrates on research findings and science communication, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Authorship and editorial-policy information is less visible than on higher-ranked publications.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://haystudio.space/",
+        "https://haystudio.space/comments/feed/"
+      ]
+    },
+    {
+      "rank": 53,
+      "id": "shambles-net",
+      "name": "Shambles",
+      "url": "https://shambles.net/",
+      "country": "XX",
+      "score": 67.0,
+      "movement": "new",
+      "best_for": "physics and the mechanisms behind new research",
+      "reason": "Shambles concentrates on physics and the mechanisms behind new research, with named authorship, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://shambles.net/"
+      ]
+    },
+    {
+      "rank": 54,
+      "id": "clinicaltrialpodcast-com",
+      "name": "Clinical Trial Podcast & Blog",
+      "url": "https://clinicaltrialpodcast.com/",
+      "country": "XX",
+      "score": 66.5,
+      "movement": "new",
+      "best_for": "research findings and science communication",
+      "reason": "Clinical Trial Podcast & Blog concentrates on research findings and science communication, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://clinicaltrialpodcast.com/",
+        "https://clinicaltrialpodcast.com/clinical-trial-newsletter-ideas/feed/",
+        "https://clinicaltrialpodcast.com/about/"
+      ]
+    },
+    {
+      "rank": 55,
+      "id": "jobs-ascb-org",
+      "name": "Cell Biology Jobs",
+      "url": "https://jobs.ascb.org/",
+      "country": "XX",
+      "score": 66.5,
+      "movement": "new",
+      "best_for": "biology, biotechnology, and life science",
+      "reason": "Cell Biology Jobs concentrates on biology, biotechnology, and life science, with a visible article archive, named authorship that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://jobs.ascb.org/",
+        "https://jobs.ascb.org/career-advice/five-questions-to-ask-yourself-if-youre-anxious-about-a-job-change/3613/"
+      ]
+    },
+    {
+      "rank": 56,
+      "id": "mysuperscienceheroes-com",
+      "name": "My Super Science Heroes",
+      "url": "https://mysuperscienceheroes.com/",
+      "country": "XX",
+      "score": 66.4,
+      "movement": "new",
+      "best_for": "science reporting and research communication",
+      "reason": "My Super Science Heroes concentrates on science reporting and research communication, with a discoverable feed, named authorship that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://mysuperscienceheroes.com/",
+        "https://mysuperscienceheroes.com/comments/feed/"
+      ]
+    },
+    {
+      "rank": 57,
+      "id": "nuffieldbioethics-org",
+      "name": "Nuffield Council on Bioethics",
+      "url": "https://nuffieldbioethics.org/",
+      "country": "XX",
+      "score": 66.2,
+      "movement": "new",
+      "best_for": "research findings and science communication",
+      "reason": "Nuffield Council on Bioethics concentrates on research findings and science communication, with named authorship, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://nuffieldbioethics.org/"
+      ]
+    },
+    {
+      "rank": 58,
+      "id": "sophtalksscience-com",
+      "name": "Soph talks science",
+      "url": "https://sophtalksscience.com/",
+      "country": "XX",
+      "score": 66.0,
+      "movement": "new",
+      "best_for": "biology, biotechnology, and life science",
+      "reason": "Soph talks science concentrates on biology, biotechnology, and life science, with a discoverable feed, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://sophtalksscience.com/",
+        "https://sophtalksscience.com/comments/feed/"
+      ]
+    },
+    {
+      "rank": 59,
+      "id": "knowledgelover-com",
+      "name": "Knowledge Lover",
+      "url": "https://knowledgelover.com/",
+      "country": "XX",
+      "score": 66.0,
+      "movement": "new",
+      "best_for": "research findings and science communication",
+      "reason": "Knowledge Lover concentrates on research findings and science communication, with a visible article archive, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://knowledgelover.com/"
+      ]
+    },
+    {
+      "rank": 60,
+      "id": "physicsmatt-com",
+      "name": "physicsmatt",
+      "url": "https://physicsmatt.com/",
+      "country": "XX",
+      "score": 65.9,
+      "movement": "new",
+      "best_for": "physics and the mechanisms behind new research",
+      "reason": "physicsmatt concentrates on physics and the mechanisms behind new research, with clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://physicsmatt.com/",
+        "https://www.physicsmatt.com/about-me"
+      ]
+    },
+    {
+      "rank": 61,
+      "id": "billmckibben-substack-com",
+      "name": "The Crucial Years",
+      "url": "https://billmckibben.substack.com/",
+      "country": "XX",
+      "score": 65.8,
+      "movement": "new",
+      "best_for": "climate and environmental science",
+      "reason": "The Crucial Years concentrates on climate and environmental science, with a discoverable feed that makes its current publishing work easier to evaluate.",
+      "limitation": "Authorship and editorial-policy information is less visible than on higher-ranked publications.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://billmckibben.substack.com/",
+        "https://billmckibben.substack.com/feed"
+      ]
+    },
+    {
+      "rank": 62,
+      "id": "vlatkovedral-com",
+      "name": "Vlatko Vedral",
+      "url": "https://vlatkovedral.com/",
+      "country": "XX",
+      "score": 65.5,
+      "movement": "new",
+      "best_for": "space, astronomy, and exploration",
+      "reason": "Vlatko Vedral concentrates on space, astronomy, and exploration, with a visible article archive, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://vlatkovedral.com/",
+        "https://www.vlatkovedral.com/about/"
+      ]
+    },
+    {
+      "rank": 63,
+      "id": "scienceblog-substack-com",
+      "name": "Science Blog Newsletter",
+      "url": "https://scienceblog.substack.com/",
+      "country": "XX",
+      "score": 65.2,
+      "movement": "new",
+      "best_for": "research findings and science communication",
+      "reason": "Science Blog Newsletter concentrates on research findings and science communication, with a discoverable feed that makes its current publishing work easier to evaluate.",
+      "limitation": "Authorship and editorial-policy information is less visible than on higher-ranked publications.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://scienceblog.substack.com/",
+        "https://scienceblog.substack.com/feed"
+      ]
+    },
+    {
+      "rank": 64,
+      "id": "lifeandphysics-com",
+      "name": "Life and Physics",
+      "url": "https://lifeandphysics.com/",
+      "country": "XX",
+      "score": 65.2,
+      "movement": "new",
+      "best_for": "physics and the mechanisms behind new research",
+      "reason": "Life and Physics concentrates on physics and the mechanisms behind new research, with a discoverable feed, named authorship that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://lifeandphysics.com/",
+        "https://lifeandphysics.com/comments/feed/",
+        "https://lifeandphysics.com/about/"
+      ]
+    },
+    {
+      "rank": 65,
+      "id": "shc-psu-edu",
+      "name": "Penn State",
+      "url": "https://shc.psu.edu/",
+      "country": "XX",
+      "score": 65.1,
+      "movement": "new",
+      "best_for": "research findings and science communication",
+      "reason": "Penn State concentrates on research findings and science communication, with a visible article archive, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://shc.psu.edu/",
+        "https://www.shc.psu.edu/about"
+      ]
+    },
+    {
+      "rank": 66,
+      "id": "coalitionforlifesciences-org",
+      "name": "The Coalition for the Life Sciences",
+      "url": "https://coalitionforlifesciences.org/",
+      "country": "XX",
+      "score": 65.0,
+      "movement": "new",
+      "best_for": "biology, biotechnology, and life science",
+      "reason": "The Coalition for the Life Sciences concentrates on biology, biotechnology, and life science, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://coalitionforlifesciences.org/",
+        "https://www.coalitionforlifesciences.org/home/feed/",
+        "https://www.coalitionforlifesciences.org/?page_id=24268"
+      ]
+    },
+    {
+      "rank": 67,
+      "id": "climateages-substack-com",
+      "name": "Climate Ages",
+      "url": "https://climateages.substack.com/",
+      "country": "XX",
+      "score": 64.9,
+      "movement": "new",
+      "best_for": "climate and environmental science",
+      "reason": "Climate Ages concentrates on climate and environmental science, with a discoverable feed that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://climateages.substack.com/",
+        "https://climateages.substack.com/feed?sectionId=186230"
+      ]
+    },
+    {
+      "rank": 68,
+      "id": "bigbiology-substack-com",
+      "name": "Big Biology",
+      "url": "https://bigbiology.substack.com/",
+      "country": "XX",
+      "score": 64.8,
+      "movement": "new",
+      "best_for": "biology, biotechnology, and life science",
+      "reason": "Big Biology concentrates on biology, biotechnology, and life science, with a discoverable feed that makes its current publishing work easier to evaluate.",
+      "limitation": "Authorship and editorial-policy information is less visible than on higher-ranked publications.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://bigbiology.substack.com/",
+        "https://bigbiology.substack.com/feed"
+      ]
+    },
+    {
+      "rank": 69,
+      "id": "lisanneswart-com",
+      "name": "Lisanne Swart – The official blog of Lisanne Swart",
+      "url": "https://lisanneswart.com/",
+      "country": "XX",
+      "score": 64.7,
+      "movement": "new",
+      "best_for": "research findings and science communication",
+      "reason": "Lisanne Swart – The official blog of Lisanne Swart concentrates on research findings and science communication, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://lisanneswart.com/",
+        "https://www.lisanneswart.com/2023/04/06/unique-and-delightful-newsletters-to-subscribe-to/feed/",
+        "https://www.lisanneswart.com/about-lisanne-swart/"
+      ]
+    },
+    {
+      "rank": 70,
+      "id": "sciencecommunicationbreakdown-wordpress-com",
+      "name": "Science Communication Breakdown",
+      "url": "https://sciencecommunicationbreakdown.wordpress.com/",
+      "country": "XX",
+      "score": 64.7,
+      "movement": "new",
+      "best_for": "science reporting and research communication",
+      "reason": "Science Communication Breakdown concentrates on science reporting and research communication, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://sciencecommunicationbreakdown.wordpress.com/",
+        "https://sciencecommunicationbreakdown.wordpress.com/comments/feed/",
+        "https://sciencecommunicationbreakdown.wordpress.com/about/"
+      ]
+    },
+    {
+      "rank": 71,
+      "id": "phenomena-nationalgeographic-com",
+      "name": "National Geographic",
+      "url": "https://phenomena.nationalgeographic.com/",
+      "country": "XX",
+      "score": 64.7,
+      "movement": "new",
+      "best_for": "science reporting and research communication",
+      "reason": "National Geographic concentrates on science reporting and research communication, with a visible article archive, named authorship that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://phenomena.nationalgeographic.com/"
+      ]
+    },
+    {
+      "rank": 72,
+      "id": "citizensofscience-com",
+      "name": "Citizens Of Science",
+      "url": "https://citizensofscience.com/",
+      "country": "XX",
+      "score": 64.5,
+      "movement": "new",
+      "best_for": "physics and the mechanisms behind new research",
+      "reason": "Citizens Of Science concentrates on physics and the mechanisms behind new research, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Authorship and editorial-policy information is less visible than on higher-ranked publications.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://citizensofscience.com/",
+        "https://citizensofscience.com/comments/feed"
+      ]
+    },
+    {
+      "rank": 73,
+      "id": "oneresearch-org",
+      "name": "OneResearch",
+      "url": "https://oneresearch.org/",
+      "country": "XX",
+      "score": 64.4,
+      "movement": "new",
+      "best_for": "research findings and science communication",
+      "reason": "OneResearch concentrates on research findings and science communication, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://oneresearch.org/",
+        "https://oneresearch.org/comments/feed/",
+        "https://oneresearch.org/about-us/"
+      ]
+    },
+    {
+      "rank": 74,
+      "id": "bestnewsletters-xyz",
+      "name": "Best Newsletters Directory",
+      "url": "https://bestnewsletters.xyz/",
+      "country": "XX",
+      "score": 64.3,
+      "movement": "new",
+      "best_for": "space, astronomy, and exploration",
+      "reason": "Best Newsletters Directory concentrates on space, astronomy, and exploration, with clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://bestnewsletters.xyz/"
+      ]
+    },
+    {
+      "rank": 75,
+      "id": "scicommsociety-com",
+      "name": "SciComm Society",
+      "url": "https://scicommsociety.com/",
+      "country": "XX",
+      "score": 64.2,
+      "movement": "new",
+      "best_for": "science reporting and research communication",
+      "reason": "SciComm Society concentrates on science reporting and research communication, with a discoverable feed, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://scicommsociety.com/",
+        "https://scicommsociety.com/comments/feed/"
+      ]
+    },
+    {
+      "rank": 76,
+      "id": "blog-igem-org",
+      "name": "iGEM Blog",
+      "url": "https://blog.igem.org/",
+      "country": "XX",
+      "score": 64.2,
+      "movement": "new",
+      "best_for": "science reporting and research communication",
+      "reason": "iGEM Blog concentrates on science reporting and research communication, with named authorship, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://blog.igem.org/"
+      ]
+    },
+    {
+      "rank": 77,
+      "id": "polcom-univie-ac-at",
+      "name": "Political Communication Research Group",
+      "url": "https://polcom.univie.ac.at/",
+      "country": "XX",
+      "score": 63.7,
+      "movement": "new",
+      "best_for": "research findings and science communication",
+      "reason": "Political Communication Research Group concentrates on research findings and science communication, with a visible article archive, named authorship that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://polcom.univie.ac.at/",
+        "https://polcom.univie.ac.at/team/daniel-wiesner/#mainContent"
+      ]
+    },
+    {
+      "rank": 78,
+      "id": "aspenphys-org",
+      "name": "Aspen Center for Physics",
+      "url": "https://aspenphys.org/",
+      "country": "XX",
+      "score": 63.7,
+      "movement": "new",
+      "best_for": "physics and the mechanisms behind new research",
+      "reason": "Aspen Center for Physics concentrates on physics and the mechanisms behind new research, with clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://aspenphys.org/"
+      ]
+    },
+    {
+      "rank": 79,
+      "id": "blog-csiro-au",
+      "name": "CSIRO Stories",
+      "url": "https://blog.csiro.au/",
+      "country": "AU",
+      "score": 63.1,
+      "movement": "new",
+      "best_for": "science reporting and research communication",
+      "reason": "CSIRO Stories concentrates on science reporting and research communication, with clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://blog.csiro.au/"
+      ]
+    },
+    {
+      "rank": 80,
+      "id": "help-independent-co-uk",
+      "name": "The Independent",
+      "url": "https://help.independent.co.uk/",
+      "country": "GB",
+      "score": 62.7,
+      "movement": "new",
+      "best_for": "research findings and science communication",
+      "reason": "The Independent concentrates on research findings and science communication, with a clearly defined editorial focus that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://help.independent.co.uk/"
+      ]
+    },
+    {
+      "rank": 81,
+      "id": "quantumdiaries-org",
+      "name": "Quantum Diaries",
+      "url": "https://quantumdiaries.org/",
+      "country": "XX",
+      "score": 62.5,
+      "movement": "new",
+      "best_for": "physics and the mechanisms behind new research",
+      "reason": "Quantum Diaries concentrates on physics and the mechanisms behind new research, with a discoverable feed, named authorship that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://quantumdiaries.org/",
+        "https://www.quantumdiaries.org/feed/atom/",
+        "https://www.quantumdiaries.org/about-quantum-diaries/"
+      ]
+    },
+    {
+      "rank": 82,
+      "id": "itsokaytobesmart-tumblr-com",
+      "name": "Be Smart",
+      "url": "https://itsokaytobesmart.tumblr.com/",
+      "country": "XX",
+      "score": 62.3,
+      "movement": "new",
+      "best_for": "science reporting and research communication",
+      "reason": "Be Smart concentrates on science reporting and research communication, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://itsokaytobesmart.tumblr.com/",
+        "https://itsokaytobesmart.tumblr.com/rss"
+      ]
+    },
+    {
+      "rank": 83,
+      "id": "theoryandpractice-org",
+      "name": "Theory And Practice",
+      "url": "https://theoryandpractice.org/",
+      "country": "XX",
+      "score": 61.9,
+      "movement": "new",
+      "best_for": "physics and the mechanisms behind new research",
+      "reason": "Theory And Practice concentrates on physics and the mechanisms behind new research, with a discoverable feed that makes its current publishing work easier to evaluate.",
+      "limitation": "Authorship and editorial-policy information is less visible than on higher-ranked publications.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://theoryandpractice.org/",
+        "https://theoryandpractice.org/feeds/all.atom.xml"
+      ]
+    },
+    {
+      "rank": 84,
+      "id": "fromthelabbench-com",
+      "name": "FromTheLabBench",
+      "url": "https://fromthelabbench.com/",
+      "country": "XX",
+      "score": 61.8,
+      "movement": "new",
+      "best_for": "research findings and science communication",
+      "reason": "FromTheLabBench concentrates on research findings and science communication, with a clearly defined editorial focus that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://fromthelabbench.com/"
+      ]
+    },
+    {
+      "rank": 85,
+      "id": "specialsitsresearch-com",
+      "name": "Special Situations",
+      "url": "https://specialsitsresearch.com/",
+      "country": "XX",
+      "score": 61.8,
+      "movement": "new",
+      "best_for": "research findings and science communication",
+      "reason": "Special Situations concentrates on research findings and science communication, with a discoverable feed, named authorship that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://specialsitsresearch.com/",
+        "https://www.specialsitsresearch.com/blog-feed.xml",
+        "https://www.specialsitsresearch.com/our-story"
+      ]
+    },
+    {
+      "rank": 86,
+      "id": "info-addgene-org",
+      "name": "Addgene: Powering Scientific Sharing",
+      "url": "https://info.addgene.org/",
+      "country": "XX",
+      "score": 61.5,
+      "movement": "new",
+      "best_for": "research findings and science communication",
+      "reason": "Addgene: Powering Scientific Sharing concentrates on research findings and science communication, with a clearly defined editorial focus that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://info.addgene.org/"
+      ]
+    },
+    {
+      "rank": 87,
+      "id": "chadorzel-com",
+      "name": "Chad Orzel",
+      "url": "https://chadorzel.com/",
+      "country": "XX",
+      "score": 61.2,
+      "movement": "new",
+      "best_for": "physics and the mechanisms behind new research",
+      "reason": "Chad Orzel concentrates on physics and the mechanisms behind new research, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://chadorzel.com/",
+        "https://chadorzel.com/?feed=comments-rss2"
+      ]
+    },
+    {
+      "rank": 88,
+      "id": "astroian-wordpress-com",
+      "name": "The Sky's the Limit",
+      "url": "https://astroian.wordpress.com/",
+      "country": "XX",
+      "score": 61.1,
+      "movement": "new",
+      "best_for": "physics and the mechanisms behind new research",
+      "reason": "The Sky's the Limit concentrates on physics and the mechanisms behind new research, with a discoverable feed, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://astroian.wordpress.com/",
+        "https://astroian.wordpress.com/comments/feed/",
+        "https://astroian.wordpress.com/about/"
+      ]
+    },
+    {
+      "rank": 89,
+      "id": "universeinc-org",
+      "name": "UniverseIncorporated",
+      "url": "https://universeinc.org/",
+      "country": "XX",
+      "score": 61.0,
+      "movement": "new",
+      "best_for": "physics and the mechanisms behind new research",
+      "reason": "UniverseIncorporated concentrates on physics and the mechanisms behind new research, with a discoverable feed that makes its current publishing work easier to evaluate.",
+      "limitation": "Authorship and editorial-policy information is less visible than on higher-ranked publications.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://universeinc.org/",
+        "https://www.universeinc.org/blog-feed.xml"
+      ]
+    },
+    {
+      "rank": 90,
+      "id": "howitgothere-com",
+      "name": "HowItGotHere",
+      "url": "https://howitgothere.com/",
+      "country": "XX",
+      "score": 60.0,
+      "movement": "new",
+      "best_for": "space, astronomy, and exploration",
+      "reason": "HowItGotHere concentrates on space, astronomy, and exploration, with clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://howitgothere.com/",
+        "https://www.howitgothere.com/about.html"
+      ]
+    },
+    {
+      "rank": 91,
+      "id": "academicblogs-org",
+      "name": "academicblogs",
+      "url": "https://academicblogs.org/",
+      "country": "XX",
+      "score": 59.6,
+      "movement": "new",
+      "best_for": "physics and the mechanisms behind new research",
+      "reason": "academicblogs concentrates on physics and the mechanisms behind new research, with a discoverable feed that makes its current publishing work easier to evaluate.",
+      "limitation": "Authorship and editorial-policy information is less visible than on higher-ranked publications.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://academicblogs.org/",
+        "https://academicblogs.org/index.php?title=Special:RecentChanges&feed=atom"
+      ]
+    },
+    {
+      "rank": 92,
+      "id": "scisoup-org",
+      "name": "Welcome To SciSoup",
+      "url": "https://scisoup.org/",
+      "country": "XX",
+      "score": 59.4,
+      "movement": "new",
+      "best_for": "biology, biotechnology, and life science",
+      "reason": "Welcome To SciSoup concentrates on biology, biotechnology, and life science, with clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://scisoup.org/"
+      ]
+    },
+    {
+      "rank": 93,
+      "id": "physicseveryday-com",
+      "name": "Musings of a physics teacher exploring awesomeness in the 'everyday'.",
+      "url": "https://physicseveryday.com/",
+      "country": "XX",
+      "score": 58.8,
+      "movement": "new",
+      "best_for": "physics and the mechanisms behind new research",
+      "reason": "Musings of a physics teacher exploring awesomeness in the 'everyday'. concentrates on physics and the mechanisms behind new research, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://physicseveryday.com/",
+        "https://physicseveryday.com/comments/feed/",
+        "https://physicseveryday.com/about-me-2/"
+      ]
+    },
+    {
+      "rank": 94,
+      "id": "askwhy-substack-com",
+      "name": "Askwhy: UX Research, Product Management, Design & Careers",
+      "url": "https://askwhy.substack.com/",
+      "country": "XX",
+      "score": 58.8,
+      "movement": "new",
+      "best_for": "research findings and science communication",
+      "reason": "Askwhy: UX Research, Product Management, Design & Careers concentrates on research findings and science communication, with a discoverable feed that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://askwhy.substack.com/",
+        "https://askwhy.substack.com/feed"
+      ]
+    },
+    {
+      "rank": 95,
+      "id": "strangepaths-com",
+      "name": "Strange Paths :: Physics, computation, philosophy :: Home",
+      "url": "https://strangepaths.com/",
+      "country": "XX",
+      "score": 58.7,
+      "movement": "new",
+      "best_for": "physics and the mechanisms behind new research",
+      "reason": "Strange Paths :: Physics, computation, philosophy :: Home concentrates on physics and the mechanisms behind new research, with a discoverable feed, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://strangepaths.com/",
+        "https://strangepaths.com/feed/en/",
+        "https://strangepaths.com/about/en/"
+      ]
+    },
+    {
+      "rank": 96,
+      "id": "streetphysicists-com",
+      "name": "Street Physicist",
+      "url": "https://streetphysicists.com/",
+      "country": "XX",
+      "score": 58.7,
+      "movement": "new",
+      "best_for": "physics and the mechanisms behind new research",
+      "reason": "Street Physicist concentrates on physics and the mechanisms behind new research, with a discoverable feed that makes its current publishing work easier to evaluate.",
+      "limitation": "Authorship and editorial-policy information is less visible than on higher-ranked publications.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://streetphysicists.com/",
+        "https://streetphysicists.com/comments/feed/"
+      ]
+    },
+    {
+      "rank": 97,
+      "id": "academicresearchgrants-com",
+      "name": "Academic Research Funding Strategies, LLC",
+      "url": "https://academicresearchgrants.com/",
+      "country": "XX",
+      "score": 58.6,
+      "movement": "new",
+      "best_for": "research findings and science communication",
+      "reason": "Academic Research Funding Strategies, LLC concentrates on research findings and science communication, with a clearly defined editorial focus that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://academicresearchgrants.com/"
+      ]
+    },
+    {
+      "rank": 98,
+      "id": "betterphysics-org",
+      "name": "Better Physics",
+      "url": "https://betterphysics.org/",
+      "country": "XX",
+      "score": 58.1,
+      "movement": "new",
+      "best_for": "physics and the mechanisms behind new research",
+      "reason": "Better Physics concentrates on physics and the mechanisms behind new research, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://betterphysics.org/",
+        "https://betterphysics.org/comments/feed/"
+      ]
+    },
+    {
+      "rank": 99,
+      "id": "commonsensequantum-blogspot-com",
+      "name": "Physics intuitions",
+      "url": "https://commonsensequantum.blogspot.com/",
+      "country": "XX",
+      "score": 57.4,
+      "movement": "new",
+      "best_for": "physics and the mechanisms behind new research",
+      "reason": "Physics intuitions concentrates on physics and the mechanisms behind new research, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://commonsensequantum.blogspot.com/",
+        "https://commonsensequantum.blogspot.com/feeds/posts/default?alt=rss"
+      ]
+    },
+    {
+      "rank": 100,
+      "id": "newsletters-aijr-org",
+      "name": "AIJR Publication Newsletters and Alerts",
+      "url": "https://newsletters.aijr.org/",
+      "country": "XX",
+      "score": 55.1,
+      "movement": "new",
+      "best_for": "research findings and science communication",
+      "reason": "AIJR Publication Newsletters and Alerts concentrates on research findings and science communication, with a discoverable feed that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://newsletters.aijr.org/",
+        "https://newsletters.aijr.org/comments/feed/"
+      ]
+    }
+  ]
+}

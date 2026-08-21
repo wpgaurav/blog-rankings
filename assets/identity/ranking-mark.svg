@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="gbr-mark-title gbr-mark-desc">
+  <title id="gbr-mark-title">Gatilab Blog Rankings mark</title>
+  <desc id="gbr-mark-desc">Three ascending coral bars connected by a rising line, representing measured movement through ranked positions.</desc>
+  <defs>
+    <pattern id="gbr-mark-dots" width="32" height="32" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="2" fill="#d8cec5" opacity="0.55"/>
+    </pattern>
+  </defs>
+  <rect width="512" height="512" rx="64" fill="#faf7f2"/>
+  <rect x="32" y="32" width="448" height="448" rx="40" fill="url(#gbr-mark-dots)"/>
+  <g id="ranking-ladder" transform="translate(128 142) scale(1.12)">
+<rect x="0" y="128" width="64" height="72" rx="8" fill="#b94720"/>
+<circle cx="32" cy="112" r="7" fill="#2f855a"/>
+<rect x="88" y="80" width="64" height="120" rx="8" fill="#b94720"/>
+<circle cx="120" cy="64" r="7" fill="#2f855a"/>
+<rect x="176" y="16" width="64" height="184" rx="8" fill="#b94720"/>
+<circle cx="208" cy="0" r="7" fill="#2f855a"/>
+<path d="M32 112 L120 64 L208 0" fill="none" stroke="#1f2937" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+  <path d="M96 416 H416" stroke="#d8cec5" stroke-width="4"/>
+  <text x="96" y="462" font-family="'Google Sans Flex','Google Sans',system-ui,sans-serif" font-size="44" font-weight="700" fill="#1f2937">GATILAB</text>
+</svg>

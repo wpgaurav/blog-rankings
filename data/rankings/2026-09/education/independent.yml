@@ -1,0 +1,2087 @@
+schema_version: 1
+edition: 2026-09
+published_at: '2026-08-21T12:00:00Z'
+status: final
+category: education
+track: independent
+entries:
+- id: jenniferfindley-com
+  name: Jennifer Findley
+  canonical_url: https://jenniferfindley.com/
+  country: XX
+  best_for: classroom teaching and educator practice
+  reason: Jennifer Findley concentrates on classroom teaching and educator practice, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://jenniferfindley.com/
+  - https://jenniferfindley.com/comments/feed/
+  - https://jenniferfindley.com/about-me/
+  scores:
+    editorial_quality: 92
+    trust: 91
+    reach: 90
+    freshness: 91
+    ux: 90
+    impact: 91
+- id: laurenmkaufman-com
+  name: Lauren Kaufman
+  canonical_url: https://laurenmkaufman.com/
+  country: XX
+  best_for: classroom teaching and educator practice
+  reason: Lauren Kaufman concentrates on classroom teaching and educator practice, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://laurenmkaufman.com/
+  - https://laurenmkaufman.com/comments/feed/
+  - https://laurenmkaufman.com/about/
+  scores:
+    editorial_quality: 94
+    trust: 93
+    reach: 92
+    freshness: 93
+    ux: 92
+    impact: 93
+- id: classtechtips-com
+  name: Class Tech Tips
+  canonical_url: https://classtechtips.com/
+  country: XX
+  best_for: classroom teaching and educator practice
+  reason: Class Tech Tips concentrates on classroom teaching and educator practice, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://classtechtips.com/
+  - https://classtechtips.com/comments/feed/
+  - https://classtechtips.com/about-monica/
+  scores:
+    editorial_quality: 95
+    trust: 94
+    reach: 93
+    freshness: 94
+    ux: 93
+    impact: 94
+- id: ditchthattextbook-com
+  name: Ditch That Textbook
+  canonical_url: https://ditchthattextbook.com/
+  country: XX
+  best_for: classroom teaching and educator practice
+  reason: Ditch That Textbook concentrates on classroom teaching and educator practice, with clear ownership context that
+    makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://ditchthattextbook.com/
+  - https://ditchthattextbook.com/about0/
+  scores:
+    editorial_quality: 96
+    trust: 95
+    reach: 94
+    freshness: 95
+    ux: 94
+    impact: 95
+- id: mathequalslove-net
+  name: Math = Love
+  canonical_url: https://mathequalslove.net/
+  country: XX
+  best_for: classroom teaching and educator practice
+  reason: Math = Love concentrates on classroom teaching and educator practice, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://mathequalslove.net/
+  - https://mathequalslove.net/comments/feed/
+  - https://mathequalslove.net/about-me/
+  scores:
+    editorial_quality: 99
+    trust: 98
+    reach: 97
+    freshness: 98
+    ux: 97
+    impact: 98
+- id: catlintucker-com
+  name: Dr. Catlin Tucker
+  canonical_url: https://catlintucker.com/
+  country: XX
+  best_for: classroom teaching and educator practice
+  reason: Dr. Catlin Tucker concentrates on classroom teaching and educator practice, with a discoverable feed, named authorship
+    that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://catlintucker.com/
+  - https://catlintucker.com/comments/feed/
+  - https://catlintucker.com/about/
+  scores:
+    editorial_quality: 93
+    trust: 92
+    reach: 91
+    freshness: 92
+    ux: 91
+    impact: 92
+- id: coolcatteacher-com
+  name: Cool Cat Teacher Blog
+  canonical_url: https://coolcatteacher.com/
+  country: XX
+  best_for: classroom teaching and educator practice
+  reason: Cool Cat Teacher Blog concentrates on classroom teaching and educator practice, with a discoverable feed, a visible
+    article archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://coolcatteacher.com/
+  - https://www.coolcatteacher.com/feed/
+  - https://www.coolcatteacher.com/about-vicki-davis/
+  scores:
+    editorial_quality: 98
+    trust: 97
+    reach: 96
+    freshness: 97
+    ux: 96
+    impact: 97
+- id: alicekeeler-com
+  name: Teacher Tech with Alice Keeler
+  canonical_url: https://alicekeeler.com/
+  country: XX
+  best_for: classroom teaching and educator practice
+  reason: Teacher Tech with Alice Keeler concentrates on classroom teaching and educator practice, with a discoverable feed,
+    a visible article archive that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://alicekeeler.com/
+  - https://alicekeeler.com/comments/feed/
+  scores:
+    editorial_quality: 97
+    trust: 96
+    reach: 95
+    freshness: 96
+    ux: 95
+    impact: 96
+- id: teachertoolkit-co-uk
+  name: TeacherToolkit
+  canonical_url: https://teachertoolkit.co.uk/
+  country: GB
+  best_for: classroom teaching and educator practice
+  reason: TeacherToolkit concentrates on classroom teaching and educator practice, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://teachertoolkit.co.uk/
+  - https://www.teachertoolkit.co.uk/comments/feed/
+  - https://www.teachertoolkit.co.uk/2026/08/13/ofsted-data-teaching/
+  scores:
+    editorial_quality: 91
+    trust: 90
+    reach: 89
+    freshness: 90
+    ux: 89
+    impact: 90
+- id: learningscientists-org
+  name: The Learning Scientists
+  canonical_url: https://learningscientists.org/
+  country: XX
+  best_for: classroom teaching and educator practice
+  reason: The Learning Scientists concentrates on classroom teaching and educator practice, with named authorship, clear ownership
+    context that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://learningscientists.org/
+  - https://www.learningscientists.org/blog?format=rss
+  - https://www.learningscientists.org/about
+  scores:
+    editorial_quality: 90
+    trust: 89
+    reach: 88
+    freshness: 89
+    ux: 88
+    impact: 89
+- id: writeonwithmissg-com
+  name: Write on With Miss G
+  canonical_url: https://writeonwithmissg.com/
+  country: XX
+  best_for: classroom teaching and educator practice
+  reason: Write on With Miss G concentrates on classroom teaching and educator practice, with a discoverable feed, a visible
+    article archive that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://writeonwithmissg.com/
+  - https://writeonwithmissg.com/comments/feed/
+  - https://writeonwithmissg.com/about/
+  scores:
+    editorial_quality: 72
+    trust: 80
+    reach: 62
+    freshness: 62
+    ux: 84
+    impact: 62
+- id: mikaylataylor-com
+  name: Mikayla Taylor
+  canonical_url: https://mikaylataylor.com/
+  country: XX
+  best_for: classroom teaching and educator practice
+  reason: Mikayla Taylor concentrates on classroom teaching and educator practice, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://mikaylataylor.com/
+  - https://mikaylataylor.com/comments/feed/
+  - https://mikaylataylor.com/about/
+  scores:
+    editorial_quality: 68
+    trust: 80
+    reach: 48
+    freshness: 45
+    ux: 84
+    impact: 55
+- id: thedaringenglishteacher-com
+  name: The Daring English Teacher
+  canonical_url: https://thedaringenglishteacher.com/
+  country: XX
+  best_for: classroom teaching and educator practice
+  reason: The Daring English Teacher concentrates on classroom teaching and educator practice, with a discoverable feed, a
+    visible article archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://thedaringenglishteacher.com/
+  - https://thedaringenglishteacher.com/comments/feed/
+  - https://thedaringenglishteacher.com/about-me/
+  scores:
+    editorial_quality: 70
+    trust: 80
+    reach: 68
+    freshness: 78
+    ux: 84
+    impact: 67
+- id: natebowling-com
+  name: 'Nate Bowling: American Teacher Abroad'
+  canonical_url: https://natebowling.com/
+  country: XX
+  best_for: classroom teaching and educator practice
+  reason: 'Nate Bowling: American Teacher Abroad concentrates on classroom teaching and educator practice, with clear ownership
+    context that makes its current publishing work easier to evaluate.'
+  limitation: Some complete material may require registration, membership, or a paid subscription.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://natebowling.com/
+  - https://www.natebowling.com/a-teachers-evolving-mind/2023/4/17/being-choosy-about-online-spaces
+  scores:
+    editorial_quality: 71
+    trust: 75
+    reach: 56
+    freshness: 88
+    ux: 84
+    impact: 76
+- id: nowsparkcreativity-com
+  name: Spark Creativity
+  canonical_url: https://nowsparkcreativity.com/
+  country: XX
+  best_for: classroom teaching and educator practice
+  reason: Spark Creativity concentrates on classroom teaching and educator practice, with a visible article archive, clear
+    ownership context that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://nowsparkcreativity.com/
+  - https://nowsparkcreativity.com/about
+  scores:
+    editorial_quality: 69
+    trust: 75
+    reach: 70
+    freshness: 45
+    ux: 84
+    impact: 69
+- id: focusme-com
+  name: FocusMe
+  canonical_url: https://focusme.com/
+  country: XX
+  best_for: learning science and study practice
+  reason: FocusMe concentrates on learning science and study practice, with a discoverable feed, a visible article archive
+    that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://focusme.com/
+  - https://focusme.com/blog/8-tips-to-better-study-habits/feed/
+  - https://focusme.com/about-us/
+  scores:
+    editorial_quality: 68
+    trust: 87
+    reach: 59
+    freshness: 89
+    ux: 84
+    impact: 63
+- id: behindtheclassroom-com
+  name: Behind the Classroom
+  canonical_url: https://behindtheclassroom.com/
+  country: XX
+  best_for: classroom teaching and educator practice
+  reason: Behind the Classroom concentrates on classroom teaching and educator practice, with a discoverable feed, a visible
+    article archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://behindtheclassroom.com/
+  - https://behindtheclassroom.com/comments/feed/
+  - https://behindtheclassroom.com/about-me/
+  scores:
+    editorial_quality: 74
+    trust: 87
+    reach: 61
+    freshness: 88
+    ux: 84
+    impact: 55
+- id: veletsianos-com
+  name: George Veletsianos, PhD
+  canonical_url: https://veletsianos.com/
+  country: XX
+  best_for: higher education and academic work
+  reason: George Veletsianos, PhD concentrates on higher education and academic work, with a discoverable feed, named authorship
+    that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://veletsianos.com/
+  - https://www.veletsianos.com/comments/feed/
+  - https://www.veletsianos.com/about-2/
+  scores:
+    editorial_quality: 70
+    trust: 75
+    reach: 50
+    freshness: 78
+    ux: 84
+    impact: 68
+- id: evalantsoght-com
+  name: Eva Lantsoght
+  canonical_url: https://evalantsoght.com/
+  country: XX
+  best_for: teaching, learning, and education practice
+  reason: Eva Lantsoght concentrates on teaching, learning, and education practice, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://evalantsoght.com/
+  - https://www.evalantsoght.com/2012/06/ten-great-blogs-for-phd-students.html/feed
+  - https://www.evalantsoght.com/about-me.html
+  scores:
+    editorial_quality: 68
+    trust: 75
+    reach: 54
+    freshness: 45
+    ux: 84
+    impact: 62
+- id: tonyroy-wordpress-com
+  name: CT River Educator
+  canonical_url: https://tonyroy.wordpress.com/
+  country: XX
+  best_for: teaching, learning, and education practice
+  reason: CT River Educator concentrates on teaching, learning, and education practice, with a discoverable feed, named authorship
+    that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://tonyroy.wordpress.com/
+  - https://tonyroy.wordpress.com/2010/01/31/if-you-cant-beat-em-blogs-as-a-resource-for-education/feed/
+  - https://tonyroy.wordpress.com/about/
+  scores:
+    editorial_quality: 66
+    trust: 75
+    reach: 39
+    freshness: 70
+    ux: 70
+    impact: 56
+- id: cesess-wordpress-com
+  name: Ecology Students' Society
+  canonical_url: https://cesess.wordpress.com/
+  country: XX
+  best_for: teaching, learning, and education practice
+  reason: Ecology Students' Society concentrates on teaching, learning, and education practice, with a discoverable feed,
+    a visible article archive that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://cesess.wordpress.com/
+  - https://cesess.wordpress.com/home/feed/
+  - https://cesess.wordpress.com/about/
+  scores:
+    editorial_quality: 70
+    trust: 68
+    reach: 44
+    freshness: 45
+    ux: 84
+    impact: 64
+- id: mickresearch-wordpress-com
+  name: Michael McCarthy's Research
+  canonical_url: https://mickresearch.wordpress.com/
+  country: XX
+  best_for: higher education and academic work
+  reason: Michael McCarthy's Research concentrates on higher education and academic work, with a discoverable feed, named
+    authorship that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://mickresearch.wordpress.com/
+  - https://mickresearch.wordpress.com/comments/feed/
+  - https://mickresearch.wordpress.com/about/
+  scores:
+    editorial_quality: 68
+    trust: 75
+    reach: 43
+    freshness: 45
+    ux: 70
+    impact: 60
+- id: science-professor-blogspot-com
+  name: FemaleScienceProfessor
+  canonical_url: https://science-professor.blogspot.com/
+  country: XX
+  best_for: higher education and academic work
+  reason: FemaleScienceProfessor concentrates on higher education and academic work, with a discoverable feed that makes its
+    current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://science-professor.blogspot.com/
+  - https://science-professor.blogspot.com/feeds/posts/default?alt=rss
+  scores:
+    editorial_quality: 66
+    trust: 62
+    reach: 58
+    freshness: 45
+    ux: 70
+    impact: 80
+- id: dh23things-wordpress-com
+  name: DH23Things
+  canonical_url: https://dh23things.wordpress.com/
+  country: XX
+  best_for: higher education and academic work
+  reason: DH23Things concentrates on higher education and academic work, with a discoverable feed, a visible article archive
+    that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://dh23things.wordpress.com/
+  - https://dh23things.wordpress.com/2012/09/10/thing-one-alternative-publishing-formats/feed/
+  - https://dh23things.wordpress.com/about/
+  scores:
+    editorial_quality: 70
+    trust: 75
+    reach: 41
+    freshness: 45
+    ux: 70
+    impact: 58
+- id: happyprofessor-com
+  name: Happy Professor
+  canonical_url: https://happyprofessor.com/
+  country: XX
+  best_for: classroom teaching and educator practice
+  reason: Happy Professor concentrates on classroom teaching and educator practice, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://happyprofessor.com/
+  - https://www.happyprofessor.com/5-lesser-known-and-useful-blogs-for-college-instructors/feed/
+  - https://www.happyprofessor.com/about/
+  scores:
+    editorial_quality: 68
+    trust: 68
+    reach: 45
+    freshness: 45
+    ux: 84
+    impact: 50
+- id: positivelyprimary-school-blog
+  name: Positively Primary
+  canonical_url: https://positivelyprimary.school.blog/
+  country: XX
+  best_for: classroom teaching and educator practice
+  reason: Positively Primary concentrates on classroom teaching and educator practice, with a discoverable feed, a visible
+    article archive that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://positivelyprimary.school.blog/
+  - https://positivelyprimary.school.blog/2019/08/29/favorite-teacher-blogs/feed/
+  - https://positivelyprimary.school.blog/about-me/
+  scores:
+    editorial_quality: 68
+    trust: 68
+    reach: 41
+    freshness: 45
+    ux: 84
+    impact: 48
+- id: teacherblog-co
+  name: Teacher Blog Spot
+  canonical_url: https://teacherblog.co/
+  country: XX
+  best_for: classroom teaching and educator practice
+  reason: Teacher Blog Spot concentrates on classroom teaching and educator practice, with a discoverable feed, named authorship
+    that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://teacherblog.co/
+  - https://teacherblog.co/?feed=comments-rss2
+  - https://teacherblog.co/?page_id=1448
+  scores:
+    editorial_quality: 64
+    trust: 68
+    reach: 51
+    freshness: 45
+    ux: 70
+    impact: 53
+- id: thebesthypothesis-wordpress-com
+  name: The Best Hypothesis
+  canonical_url: https://thebesthypothesis.wordpress.com/
+  country: XX
+  best_for: teaching, learning, and education practice
+  reason: The Best Hypothesis concentrates on teaching, learning, and education practice, with a discoverable feed, clear
+    ownership context that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://thebesthypothesis.wordpress.com/
+  - https://thebesthypothesis.wordpress.com/2012/04/02/why-blog/feed/
+  - https://thebesthypothesis.wordpress.com/about/
+  scores:
+    editorial_quality: 68
+    trust: 68
+    reach: 39
+    freshness: 45
+    ux: 70
+    impact: 56
+- id: mostlyblogging-com
+  name: Mostly Blogging
+  canonical_url: https://mostlyblogging.com/
+  country: XX
+  best_for: higher education and academic work
+  reason: Mostly Blogging concentrates on higher education and academic work, with a visible article archive, named authorship
+    that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://mostlyblogging.com/
+  - https://www.mostlyblogging.com/higher-education/feed/
+  - https://www.mostlyblogging.com/about/
+  scores:
+    editorial_quality: 65
+    trust: 87
+    reach: 87
+    freshness: 45
+    ux: 84
+    impact: 71
+- id: teachjunkie-com
+  name: Teach Junkie
+  canonical_url: https://teachjunkie.com/
+  country: XX
+  best_for: classroom teaching and educator practice
+  reason: Teach Junkie concentrates on classroom teaching and educator practice, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://teachjunkie.com/
+  - https://www.teachjunkie.com/comments/feed/
+  - https://www.teachjunkie.com/about/
+  scores:
+    editorial_quality: 70
+    trust: 87
+    reach: 70
+    freshness: 88
+    ux: 84
+    impact: 84
+- id: mrsbeers-com
+  name: Mrs. Beers Language Arts Classroom
+  canonical_url: https://mrsbeers.com/
+  country: XX
+  best_for: classroom teaching and educator practice
+  reason: Mrs. Beers Language Arts Classroom concentrates on classroom teaching and educator practice, with a discoverable
+    feed, a visible article archive that makes its current publishing work easier to evaluate.
+  limitation: Authorship and editorial-policy information is less visible than on higher-ranked publications.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://mrsbeers.com/
+  - https://mrsbeers.com/comments/feed/
+  - https://mrsbeers.com/me/
+  scores:
+    editorial_quality: 74
+    trust: 73
+    reach: 67
+    freshness: 89
+    ux: 84
+    impact: 70
+- id: patthomson-net
+  name: patter
+  canonical_url: https://patthomson.net/
+  country: XX
+  best_for: teaching, learning, and education practice
+  reason: patter concentrates on teaching, learning, and education practice, with a discoverable feed, a visible article archive
+    that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://patthomson.net/
+  - https://patthomson.net/comments/feed/
+  - https://patthomson.net/about/
+  scores:
+    editorial_quality: 72
+    trust: 75
+    reach: 79
+    freshness: 89
+    ux: 84
+    impact: 80
+- id: brightmorningteam-com
+  name: Bright Morning
+  canonical_url: https://brightmorningteam.com/
+  country: XX
+  best_for: teaching, learning, and education practice
+  reason: Bright Morning concentrates on teaching, learning, and education practice, with named authorship, clear ownership
+    context that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://brightmorningteam.com/
+  - https://www.brightmorningteam.com/group-registration
+  scores:
+    editorial_quality: 63
+    trust: 89
+    reach: 61
+    freshness: 58
+    ux: 84
+    impact: 70
+- id: breezyspecialed-com
+  name: Breezy Special Ed
+  canonical_url: https://breezyspecialed.com/
+  country: XX
+  best_for: classroom teaching and educator practice
+  reason: Breezy Special Ed concentrates on classroom teaching and educator practice, with a discoverable feed, clear ownership
+    context that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://breezyspecialed.com/
+  - https://www.breezyspecialed.com/feeds/posts/default?alt=rss
+  scores:
+    editorial_quality: 68
+    trust: 75
+    reach: 67
+    freshness: 45
+    ux: 84
+    impact: 65
+- id: blog-alexanderfyoung-com
+  name: Alexander Young
+  canonical_url: https://blog.alexanderfyoung.com/
+  country: XX
+  best_for: learning science and study practice
+  reason: Alexander Young concentrates on learning science and study practice, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://blog.alexanderfyoung.com/
+  - https://blog.alexanderfyoung.com/rss/
+  - https://blog.alexanderfyoung.com/about/
+  scores:
+    editorial_quality: 68
+    trust: 80
+    reach: 65
+    freshness: 62
+    ux: 84
+    impact: 55
+- id: baos-pub
+  name: Baos
+  canonical_url: https://baos.pub/
+  country: XX
+  best_for: teaching, learning, and education practice
+  reason: Baos concentrates on teaching, learning, and education practice, with a discoverable feed, clear ownership context
+    that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://baos.pub/
+  - https://baos.pub/feed
+  scores:
+    editorial_quality: 64
+    trust: 74
+    reach: 77
+    freshness: 45
+    ux: 84
+    impact: 63
+- id: edtechinsiders-substack-com
+  name: Edtech Insiders
+  canonical_url: https://edtechinsiders.substack.com/
+  country: XX
+  best_for: education technology and digital learning
+  reason: Edtech Insiders concentrates on education technology and digital learning, with a discoverable feed that makes its
+    current publishing work easier to evaluate.
+  limitation: Authorship and editorial-policy information is less visible than on higher-ranked publications.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://edtechinsiders.substack.com/
+  - https://edtechinsiders.substack.com/feed
+  scores:
+    editorial_quality: 66
+    trust: 62
+    reach: 51
+    freshness: 89
+    ux: 84
+    impact: 57
+- id: mp-moonpreneur-com
+  name: Moonpreneur
+  canonical_url: https://mp.moonpreneur.com/
+  country: XX
+  best_for: classroom teaching and educator practice
+  reason: Moonpreneur concentrates on classroom teaching and educator practice, with a visible article archive that makes
+    its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://mp.moonpreneur.com/
+  scores:
+    editorial_quality: 69
+    trust: 62
+    reach: 76
+    freshness: 66
+    ux: 84
+    impact: 56
+- id: ascd-org
+  name: ASCD
+  canonical_url: https://ascd.org/
+  country: XX
+  best_for: teaching, learning, and education practice
+  reason: ASCD concentrates on teaching, learning, and education practice, with clear ownership context that makes its current
+    publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://ascd.org/
+  - https://ascd.org/blogs/what-generation-z-is-teaching-school-leaders-about-work
+  scores:
+    editorial_quality: 69
+    trust: 82
+    reach: 89
+    freshness: 89
+    ux: 84
+    impact: 89
+- id: dailystem-com
+  name: DailySTEM
+  canonical_url: https://dailystem.com/
+  country: XX
+  best_for: classroom teaching and educator practice
+  reason: DailySTEM concentrates on classroom teaching and educator practice, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://dailystem.com/
+  - https://dailystem.com/comments/feed/
+  - https://dailystem.com/about/
+  scores:
+    editorial_quality: 72
+    trust: 75
+    reach: 55
+    freshness: 62
+    ux: 84
+    impact: 68
+- id: the-teacher-next-door-com
+  name: The Teacher Next Door
+  canonical_url: https://the-teacher-next-door.com/
+  country: XX
+  best_for: classroom teaching and educator practice
+  reason: The Teacher Next Door concentrates on classroom teaching and educator practice, with a discoverable feed, a visible
+    article archive that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://the-teacher-next-door.com/
+  - https://the-teacher-next-door.com/comments/feed/
+  - https://the-teacher-next-door.com/about/
+  scores:
+    editorial_quality: 72
+    trust: 89
+    reach: 71
+    freshness: 45
+    ux: 84
+    impact: 71
+- id: twinsmommy-com
+  name: Twins Mommy
+  canonical_url: https://twinsmommy.com/
+  country: XX
+  best_for: classroom teaching and educator practice
+  reason: Twins Mommy concentrates on classroom teaching and educator practice, with clear ownership context that makes its
+    current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://twinsmommy.com/
+  - https://twinsmommy.com/about/
+  scores:
+    editorial_quality: 65
+    trust: 87
+    reach: 71
+    freshness: 45
+    ux: 84
+    impact: 66
+- id: teachermood-com
+  name: TeacherMood
+  canonical_url: https://teachermood.com/
+  country: XX
+  best_for: classroom teaching and educator practice
+  reason: TeacherMood concentrates on classroom teaching and educator practice, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://teachermood.com/
+  - https://teachermood.com/comments/feed/
+  - https://teachermood.com/home/
+  scores:
+    editorial_quality: 72
+    trust: 87
+    reach: 54
+    freshness: 45
+    ux: 84
+    impact: 56
+- id: jeremyajorgensen-com
+  name: WHY EDIFY
+  canonical_url: https://jeremyajorgensen.com/
+  country: XX
+  best_for: classroom teaching and educator practice
+  reason: WHY EDIFY concentrates on classroom teaching and educator practice, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://jeremyajorgensen.com/
+  - https://www.jeremyajorgensen.com/rss/
+  - https://www.jeremyajorgensen.com/about/
+  scores:
+    editorial_quality: 76
+    trust: 87
+    reach: 58
+    freshness: 89
+    ux: 84
+    impact: 58
+- id: educationcorner-com
+  name: Education Corner
+  canonical_url: https://educationcorner.com/
+  country: XX
+  best_for: classroom teaching and educator practice
+  reason: Education Corner concentrates on classroom teaching and educator practice, with a visible article archive, clear
+    ownership context that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://educationcorner.com/
+  - https://www.educationcorner.com/about/
+  scores:
+    editorial_quality: 71
+    trust: 87
+    reach: 78
+    freshness: 62
+    ux: 84
+    impact: 73
+- id: startamomblog-com
+  name: Start a Mom Blog
+  canonical_url: https://startamomblog.com/
+  country: XX
+  best_for: classroom teaching and educator practice
+  reason: Start a Mom Blog concentrates on classroom teaching and educator practice, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://startamomblog.com/
+  - https://startamomblog.com/teacher-blogs/feed/
+  - https://startamomblog.com/who-is-suzi-whitford/
+  scores:
+    editorial_quality: 76
+    trust: 73
+    reach: 65
+    freshness: 45
+    ux: 84
+    impact: 66
+- id: vevox-com
+  name: Vevox
+  canonical_url: https://vevox.com/
+  country: XX
+  best_for: higher education and academic work
+  reason: Vevox concentrates on higher education and academic work, with a visible article archive, named authorship that
+    makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://vevox.com/
+  - https://www.vevox.com/about-vevox
+  scores:
+    editorial_quality: 67
+    trust: 89
+    reach: 74
+    freshness: 66
+    ux: 84
+    impact: 64
+- id: edtechchronicle-com
+  name: Edtechchronicle
+  canonical_url: https://edtechchronicle.com/
+  country: XX
+  best_for: education technology and digital learning
+  reason: Edtechchronicle concentrates on education technology and digital learning, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: Authorship and editorial-policy information is less visible than on higher-ranked publications.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://edtechchronicle.com/
+  - https://edtechchronicle.com/comments/feed/
+  - https://edtechchronicle.com/edtech-leader-questionnaire/
+  scores:
+    editorial_quality: 70
+    trust: 73
+    reach: 55
+    freshness: 89
+    ux: 84
+    impact: 58
+- id: johnfbruno-web-unc-edu
+  name: Johnfbruno
+  canonical_url: https://johnfbruno.web.unc.edu/
+  country: XX
+  best_for: higher education and academic work
+  reason: Johnfbruno concentrates on higher education and academic work, with a discoverable feed, a visible article archive
+    that makes its current publishing work easier to evaluate.
+  limitation: Authorship and editorial-policy information is less visible than on higher-ranked publications.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://johnfbruno.web.unc.edu/
+  - https://johnfbruno.web.unc.edu/marine-ecology-and-conservation-lab-at-unc/feed/
+  scores:
+    editorial_quality: 70
+    trust: 68
+    reach: 49
+    freshness: 88
+    ux: 84
+    impact: 60
+- id: umb-edu
+  name: Umb
+  canonical_url: https://umb.edu/
+  country: XX
+  best_for: higher education and academic work
+  reason: Umb concentrates on higher education and academic work, with a visible article archive, clear ownership context
+    that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://umb.edu/
+  - https://www.umb.edu/about/
+  scores:
+    editorial_quality: 65
+    trust: 82
+    reach: 89
+    freshness: 66
+    ux: 84
+    impact: 89
+- id: onlinedegrees-sandiego-edu
+  name: University of San Diego Online Degrees
+  canonical_url: https://onlinedegrees.sandiego.edu/
+  country: XX
+  best_for: classroom teaching and educator practice
+  reason: University of San Diego Online Degrees concentrates on classroom teaching and educator practice, with a discoverable
+    feed, named authorship that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://onlinedegrees.sandiego.edu/
+  - https://onlinedegrees.sandiego.edu/feed/
+  - https://onlinedegrees.sandiego.edu/about/
+  scores:
+    editorial_quality: 72
+    trust: 89
+    reach: 87
+    freshness: 89
+    ux: 84
+    impact: 81
+- id: blogs-onlineeducation-touro-edu
+  name: Online Education Blog of Touro University
+  canonical_url: https://blogs.onlineeducation.touro.edu/
+  country: XX
+  best_for: classroom teaching and educator practice
+  reason: Online Education Blog of Touro University concentrates on classroom teaching and educator practice, with a discoverable
+    feed, a visible article archive that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://blogs.onlineeducation.touro.edu/
+  - https://blogs.onlineeducation.touro.edu/roundup-10-online-education-blogs-higher-ed/feed/
+  scores:
+    editorial_quality: 76
+    trust: 69
+    reach: 56
+    freshness: 45
+    ux: 84
+    impact: 58
+- id: profkrg-com
+  name: Prof KRG
+  canonical_url: https://profkrg.com/
+  country: XX
+  best_for: teaching, learning, and education practice
+  reason: Prof KRG concentrates on teaching, learning, and education practice, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://profkrg.com/
+  - https://www.profkrg.com/blogs/feed
+  - https://www.profkrg.com/about
+  scores:
+    editorial_quality: 68
+    trust: 75
+    reach: 56
+    freshness: 45
+    ux: 84
+    impact: 55
+- id: kraftyteacher-com
+  name: The Krafty Teacher
+  canonical_url: https://kraftyteacher.com/
+  country: XX
+  best_for: classroom teaching and educator practice
+  reason: The Krafty Teacher concentrates on classroom teaching and educator practice, with a discoverable feed, a visible
+    article archive that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://kraftyteacher.com/
+  - https://www.kraftyteacher.com/science-of-reading-bloggers/feed/
+  scores:
+    editorial_quality: 68
+    trust: 62
+    reach: 52
+    freshness: 45
+    ux: 84
+    impact: 51
+- id: wagdyhassan-substack-com
+  name: Wagdy Hassan
+  canonical_url: https://wagdyhassan.substack.com/
+  country: XX
+  best_for: classroom teaching and educator practice
+  reason: Wagdy Hassan concentrates on classroom teaching and educator practice, with a discoverable feed that makes its current
+    publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://wagdyhassan.substack.com/
+  - https://wagdyhassan.substack.com/feed
+  scores:
+    editorial_quality: 68
+    trust: 57
+    reach: 42
+    freshness: 45
+    ux: 84
+    impact: 48
+- id: refreshyourteaching-com
+  name: Refresh Your Teaching
+  canonical_url: https://refreshyourteaching.com/
+  country: XX
+  best_for: classroom teaching and educator practice
+  reason: Refresh Your Teaching concentrates on classroom teaching and educator practice, with a discoverable feed, a visible
+    article archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://refreshyourteaching.com/
+  - https://refreshyourteaching.com/comments/feed/
+  scores:
+    editorial_quality: 70
+    trust: 64
+    reach: 42
+    freshness: 78
+    ux: 84
+    impact: 51
+- id: epiphanyinbmore-blogspot-com
+  name: Epiphany in Baltimore
+  canonical_url: https://epiphanyinbmore.blogspot.com/
+  country: XX
+  best_for: classroom teaching and educator practice
+  reason: Epiphany in Baltimore concentrates on classroom teaching and educator practice, with a discoverable feed that makes
+    its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://epiphanyinbmore.blogspot.com/
+  - https://epiphanyinbmore.blogspot.com/feeds/posts/default?alt=rss
+  scores:
+    editorial_quality: 70
+    trust: 50
+    reach: 55
+    freshness: 45
+    ux: 84
+    impact: 62
+- id: connie-malamed-ck-page
+  name: Posts
+  canonical_url: https://connie-malamed.ck.page/
+  country: XX
+  best_for: learning science and study practice
+  reason: Posts concentrates on learning science and study practice, with a visible article archive that makes its current
+    publishing work easier to evaluate.
+  limitation: Some complete material may require registration, membership, or a paid subscription.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://connie-malamed.ck.page/
+  scores:
+    editorial_quality: 65
+    trust: 50
+    reach: 46
+    freshness: 66
+    ux: 84
+    impact: 69
+- id: allysonapsey-com
+  name: Allyson Apsey
+  canonical_url: https://allysonapsey.com/
+  country: XX
+  best_for: teaching, learning, and education practice
+  reason: Allyson Apsey concentrates on teaching, learning, and education practice, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://allysonapsey.com/
+  - https://allysonapsey.com/comments/feed/
+  - https://allysonapsey.com/about/
+  scores:
+    editorial_quality: 70
+    trust: 75
+    reach: 52
+    freshness: 45
+    ux: 84
+    impact: 67
+- id: dangerouslyirrelevant-org
+  name: Dangerously Irrelevant | @mcleod
+  canonical_url: https://dangerouslyirrelevant.org/
+  country: XX
+  best_for: teaching, learning, and education practice
+  reason: Dangerously Irrelevant | @mcleod concentrates on teaching, learning, and education practice, with a discoverable
+    feed, a visible article archive that makes its current publishing work easier to evaluate.
+  limitation: Authorship and editorial-policy information is less visible than on higher-ranked publications.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://dangerouslyirrelevant.org/
+  - https://dangerouslyirrelevant.org/comments/feed
+  - https://dangerouslyirrelevant.org/#
+  scores:
+    editorial_quality: 72
+    trust: 63
+    reach: 60
+    freshness: 89
+    ux: 84
+    impact: 86
+- id: nais-org
+  name: NAIS
+  canonical_url: https://nais.org/
+  country: XX
+  best_for: teaching, learning, and education practice
+  reason: NAIS concentrates on teaching, learning, and education practice, with clear ownership context that makes its current
+    publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://nais.org/
+  - https://www.nais.org/about
+  scores:
+    editorial_quality: 59
+    trust: 70
+    reach: 87
+    freshness: 58
+    ux: 84
+    impact: 80
+- id: utsc-utoronto-ca
+  name: Utsc
+  canonical_url: https://utsc.utoronto.ca/
+  country: CA
+  best_for: higher education and academic work
+  reason: Utsc concentrates on higher education and academic work, with a visible article archive, named authorship that makes
+    its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://utsc.utoronto.ca/
+  scores:
+    editorial_quality: 65
+    trust: 77
+    reach: 62
+    freshness: 66
+    ux: 84
+    impact: 71
+- id: library-queensu-ca
+  name: Library
+  canonical_url: https://library.queensu.ca/
+  country: CA
+  best_for: higher education and academic work
+  reason: Library concentrates on higher education and academic work, with a visible article archive, clear ownership context
+    that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://library.queensu.ca/
+  scores:
+    editorial_quality: 65
+    trust: 64
+    reach: 68
+    freshness: 66
+    ux: 84
+    impact: 83
+- id: freshideasforteaching-buzzsprout-com
+  name: Buzzsprout
+  canonical_url: https://freshideasforteaching.buzzsprout.com/
+  country: XX
+  best_for: classroom teaching and educator practice
+  reason: Buzzsprout concentrates on classroom teaching and educator practice, with a discoverable feed, clear ownership context
+    that makes its current publishing work easier to evaluate.
+  limitation: Authorship and editorial-policy information is less visible than on higher-ranked publications.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://freshideasforteaching.buzzsprout.com/
+  - https://feeds.buzzsprout.com/1071172.rss
+  - https://freshideasforteaching.buzzsprout.com/1071172/about
+  scores:
+    editorial_quality: 70
+    trust: 63
+    reach: 42
+    freshness: 78
+    ux: 84
+    impact: 60
+- id: mrshughesblogs-com
+  name: This Teacher Blogs
+  canonical_url: https://mrshughesblogs.com/
+  country: XX
+  best_for: classroom teaching and educator practice
+  reason: This Teacher Blogs concentrates on classroom teaching and educator practice, with a discoverable feed, a visible
+    article archive that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://mrshughesblogs.com/
+  - https://mrshughesblogs.com/comments/feed/
+  scores:
+    editorial_quality: 76
+    trust: 64
+    reach: 42
+    freshness: 45
+    ux: 84
+    impact: 48
+- id: dancohen-org
+  name: Dan Cohen
+  canonical_url: https://dancohen.org/
+  country: XX
+  best_for: higher education and academic work
+  reason: Dan Cohen concentrates on higher education and academic work, with a discoverable feed, named authorship that makes
+    its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://dancohen.org/
+  - https://dancohen.org/2006/08/21/professors-start-your-blogs/feed/
+  - https://dancohen.org/about/
+  scores:
+    editorial_quality: 64
+    trust: 70
+    reach: 65
+    freshness: 45
+    ux: 84
+    impact: 70
+- id: openedgroup-org
+  name: Open Education Group
+  canonical_url: https://openedgroup.org/
+  country: XX
+  best_for: learning science and study practice
+  reason: Open Education Group concentrates on learning science and study practice, with a discoverable feed, clear ownership
+    context that makes its current publishing work easier to evaluate.
+  limitation: Authorship and editorial-policy information is less visible than on higher-ranked publications.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://openedgroup.org/
+  - https://openedgroup.org/comments/feed/
+  scores:
+    editorial_quality: 66
+    trust: 57
+    reach: 54
+    freshness: 70
+    ux: 84
+    impact: 68
+- id: edineconet-wordpress-com
+  name: EDEN - Edinburgh Ecology Network
+  canonical_url: https://edineconet.wordpress.com/
+  country: XX
+  best_for: higher education and academic work
+  reason: EDEN - Edinburgh Ecology Network concentrates on higher education and academic work, with a discoverable feed, a
+    visible article archive that makes its current publishing work easier to evaluate.
+  limitation: Authorship and editorial-policy information is less visible than on higher-ranked publications.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://edineconet.wordpress.com/
+  - https://edineconet.wordpress.com/comments/feed/
+  scores:
+    editorial_quality: 72
+    trust: 50
+    reach: 40
+    freshness: 78
+    ux: 84
+    impact: 57
+- id: edcafe-ai
+  name: Edcafe AI
+  canonical_url: https://edcafe.ai/
+  country: XX
+  best_for: classroom teaching and educator practice
+  reason: Edcafe AI concentrates on classroom teaching and educator practice, with a visible article archive, clear ownership
+    context that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://edcafe.ai/
+  - https://www.edcafe.ai/about
+  scores:
+    editorial_quality: 71
+    trust: 70
+    reach: 69
+    freshness: 89
+    ux: 84
+    impact: 66
+- id: americanboard-org
+  name: Americanboard
+  canonical_url: https://americanboard.org/
+  country: XX
+  best_for: classroom teaching and educator practice
+  reason: Americanboard concentrates on classroom teaching and educator practice, with a discoverable feed that makes its
+    current publishing work easier to evaluate.
+  limitation: Authorship and editorial-policy information is less visible than on higher-ranked publications.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://americanboard.org/
+  - https://www.americanboard.org/comments/feed/
+  scores:
+    editorial_quality: 68
+    trust: 50
+    reach: 89
+    freshness: 78
+    ux: 84
+    impact: 77
+- id: fractuslearning-com
+  name: Fractus Learning
+  canonical_url: https://fractuslearning.com/
+  country: XX
+  best_for: classroom teaching and educator practice
+  reason: Fractus Learning concentrates on classroom teaching and educator practice, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://fractuslearning.com/
+  - https://www.fractuslearning.com/feed/
+  scores:
+    editorial_quality: 74
+    trust: 71
+    reach: 80
+    freshness: 45
+    ux: 84
+    impact: 68
+- id: amybrownscience-com
+  name: Amy Brown Science
+  canonical_url: https://amybrownscience.com/
+  country: XX
+  best_for: classroom teaching and educator practice
+  reason: Amy Brown Science concentrates on classroom teaching and educator practice, with a discoverable feed that makes
+    its current publishing work easier to evaluate.
+  limitation: Authorship and editorial-policy information is less visible than on higher-ranked publications.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://amybrownscience.com/
+  - https://www.amybrownscience.com/feeds/posts/default?alt=rss
+  scores:
+    editorial_quality: 70
+    trust: 50
+    reach: 61
+    freshness: 88
+    ux: 84
+    impact: 66
+- id: listening-com
+  name: Listening
+  canonical_url: https://listening.com/
+  country: XX
+  best_for: higher education and academic work
+  reason: Listening concentrates on higher education and academic work, with a clearly defined editorial focus that makes
+    its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://listening.com/
+  scores:
+    editorial_quality: 63
+    trust: 64
+    reach: 71
+    freshness: 45
+    ux: 84
+    impact: 62
+- id: edtechmagazine-wordpress-com
+  name: EdTechMagazine
+  canonical_url: https://edtechmagazine.wordpress.com/
+  country: XX
+  best_for: classroom teaching and educator practice
+  reason: EdTechMagazine concentrates on classroom teaching and educator practice, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://edtechmagazine.wordpress.com/
+  - https://edtechmagazine.wordpress.com/comments/feed/
+  scores:
+    editorial_quality: 74
+    trust: 50
+    reach: 41
+    freshness: 45
+    ux: 84
+    impact: 48
+- id: esleld-blogspot-com
+  name: Fun To Teach Blog
+  canonical_url: https://esleld.blogspot.com/
+  country: XX
+  best_for: classroom teaching and educator practice
+  reason: Fun To Teach Blog concentrates on classroom teaching and educator practice, with a discoverable feed that makes
+    its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://esleld.blogspot.com/
+  - https://esleld.blogspot.com/feeds/posts/default?alt=rss
+  scores:
+    editorial_quality: 66
+    trust: 50
+    reach: 46
+    freshness: 45
+    ux: 70
+    impact: 61
+- id: teachercertificationdegrees-com
+  name: Teacher Certification Degrees
+  canonical_url: https://teachercertificationdegrees.com/
+  country: XX
+  best_for: classroom teaching and educator practice
+  reason: Teacher Certification Degrees concentrates on classroom teaching and educator practice, with a discoverable feed,
+    a visible article archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://teachercertificationdegrees.com/
+  - https://www.teachercertificationdegrees.com/comments/feed/
+  - https://www.teachercertificationdegrees.com/about/#mcpherson
+  scores:
+    editorial_quality: 76
+    trust: 84
+    reach: 72
+    freshness: 78
+    ux: 84
+    impact: 67
+- id: bookwidgets-com
+  name: BookWidgets
+  canonical_url: https://www.bookwidgets.com/blog
+  country: XX
+  best_for: classroom teaching and educator practice
+  reason: BookWidgets concentrates on classroom teaching and educator practice, with a discoverable feed, clear ownership
+    context that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://www.bookwidgets.com/blog
+  - https://www.bookwidgets.com/blog/rss.xml
+  - https://www.bookwidgets.com/about-us
+  scores:
+    editorial_quality: 72
+    trust: 70
+    reach: 78
+    freshness: 89
+    ux: 84
+    impact: 74
+- id: edublogs-org
+  name: Edublogs
+  canonical_url: https://edublogs.org/
+  country: XX
+  best_for: classroom teaching and educator practice
+  reason: Edublogs concentrates on classroom teaching and educator practice, with a discoverable feed, a visible article archive
+    that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://edublogs.org/
+  - https://edublogs.org/4695-2/feed/
+  scores:
+    editorial_quality: 76
+    trust: 64
+    reach: 89
+    freshness: 45
+    ux: 84
+    impact: 85
+- id: diverseeducation-com
+  name: The EDU Ledger
+  canonical_url: https://diverseeducation.com/
+  country: XX
+  best_for: higher education and academic work
+  reason: The EDU Ledger concentrates on higher education and academic work, with a discoverable feed, named authorship that
+    makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://diverseeducation.com/
+  - https://www.theeduledger.com/__rss/website-scheduled-content.xml?input=%7B%22sectionAlias%22%3A%22home%22%7D
+  - https://www.theeduledger.com/page/about-us?utm_source=website&utm_medium=page&utm_term=about-us
+  scores:
+    editorial_quality: 70
+    trust: 84
+    reach: 61
+    freshness: 70
+    ux: 84
+    impact: 85
+- id: profhacker-com
+  name: ProfHacker
+  canonical_url: https://profhacker.com/
+  country: XX
+  best_for: classroom teaching and educator practice
+  reason: ProfHacker concentrates on classroom teaching and educator practice, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://profhacker.com/
+  - https://profhacker.com/comments/feed/
+  scores:
+    editorial_quality: 70
+    trust: 71
+    reach: 53
+    freshness: 78
+    ux: 84
+    impact: 75
+- id: theeffortfuleducator-com
+  name: The Effortful Educator
+  canonical_url: https://theeffortfuleducator.com/
+  country: XX
+  best_for: classroom teaching and educator practice
+  reason: The Effortful Educator concentrates on classroom teaching and educator practice, with a discoverable feed, a visible
+    article archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://theeffortfuleducator.com/
+  - https://theeffortfuleducator.com/comments/feed/
+  scores:
+    editorial_quality: 70
+    trust: 64
+    reach: 61
+    freshness: 78
+    ux: 84
+    impact: 67
+- id: issotl-com
+  name: Issotl
+  canonical_url: https://issotl.com/
+  country: XX
+  best_for: classroom teaching and educator practice
+  reason: Issotl concentrates on classroom teaching and educator practice, with a discoverable feed, clear ownership context
+    that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://issotl.com/
+  - https://issotl.com/comments/feed/
+  scores:
+    editorial_quality: 68
+    trust: 71
+    reach: 56
+    freshness: 70
+    ux: 84
+    impact: 73
+- id: illinoisstateuniversitysotl-wordpress-com
+  name: The SoTL Advocate
+  canonical_url: https://illinoisstateuniversitysotl.wordpress.com/
+  country: XX
+  best_for: classroom teaching and educator practice
+  reason: The SoTL Advocate concentrates on classroom teaching and educator practice, with a discoverable feed, a visible
+    article archive that makes its current publishing work easier to evaluate.
+  limitation: Authorship and editorial-policy information is less visible than on higher-ranked publications.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://illinoisstateuniversitysotl.wordpress.com/
+  - https://illinoisstateuniversitysotl.wordpress.com/comments/feed/
+  scores:
+    editorial_quality: 74
+    trust: 57
+    reach: 45
+    freshness: 78
+    ux: 84
+    impact: 62
+- id: edtech4beginners-com
+  name: EDTECH 4 BEGINNERS
+  canonical_url: https://edtech4beginners.com/
+  country: XX
+  best_for: education technology and digital learning
+  reason: EDTECH 4 BEGINNERS concentrates on education technology and digital learning, with a discoverable feed, a visible
+    article archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://edtech4beginners.com/
+  - https://edtech4beginners.com/comments/feed/
+  scores:
+    editorial_quality: 72
+    trust: 71
+    reach: 56
+    freshness: 78
+    ux: 84
+    impact: 62
+- id: edtechinstitute-com
+  name: EdTech Institute
+  canonical_url: https://edtechinstitute.com/
+  country: XX
+  best_for: classroom teaching and educator practice
+  reason: EdTech Institute concentrates on classroom teaching and educator practice, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://edtechinstitute.com/
+  - https://edtechinstitute.com/comments/feed/
+  scores:
+    editorial_quality: 74
+    trust: 71
+    reach: 51
+    freshness: 78
+    ux: 84
+    impact: 48
+- id: theedublogger-com
+  name: The Edublogger
+  canonical_url: https://theedublogger.com/
+  country: XX
+  best_for: classroom teaching and educator practice
+  reason: The Edublogger concentrates on classroom teaching and educator practice, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://theedublogger.com/
+  - https://www.theedublogger.com/comments/feed/
+  scores:
+    editorial_quality: 78
+    trust: 71
+    reach: 77
+    freshness: 78
+    ux: 84
+    impact: 88
+- id: theedadvocate-org
+  name: The Edvocate
+  canonical_url: https://theedadvocate.org/
+  country: XX
+  best_for: teaching, learning, and education practice
+  reason: The Edvocate concentrates on teaching, learning, and education practice, with a discoverable feed, named authorship
+    that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://theedadvocate.org/
+  - https://www.theedadvocate.org/feed/
+  scores:
+    editorial_quality: 66
+    trust: 78
+    reach: 71
+    freshness: 70
+    ux: 84
+    impact: 88
+- id: feedglass-com
+  name: FeedGlass, track your favorite blogs, and websites all in one place
+  canonical_url: https://feedglass.com/
+  country: XX
+  best_for: classroom teaching and educator practice
+  reason: FeedGlass, track your favorite blogs, and websites all in one place concentrates on classroom teaching and educator
+    practice, with a clearly defined editorial focus that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://feedglass.com/
+  scores:
+    editorial_quality: 69
+    trust: 50
+    reach: 52
+    freshness: 58
+    ux: 84
+    impact: 50
+- id: eleducation-org
+  name: EL Education
+  canonical_url: https://eleducation.org/
+  country: XX
+  best_for: teaching, learning, and education practice
+  reason: EL Education concentrates on teaching, learning, and education practice, with a clearly defined editorial focus
+    that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://eleducation.org/
+  scores:
+    editorial_quality: 61
+    trust: 50
+    reach: 83
+    freshness: 58
+    ux: 84
+    impact: 78
+- id: idsa-org
+  name: Industrial Designers Society of America
+  canonical_url: https://idsa.org/
+  country: XX
+  best_for: teaching, learning, and education practice
+  reason: Industrial Designers Society of America concentrates on teaching, learning, and education practice, with a discoverable
+    feed, a visible article archive that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://idsa.org/
+  - https://www.idsa.org/comments/feed/
+  - https://www.idsa.org/about-idsa/governance/code-ethics/
+  scores:
+    editorial_quality: 70
+    trust: 89
+    reach: 84
+    freshness: 45
+    ux: 84
+    impact: 84
+- id: theelearningcoach-com
+  name: The eLearning Coach
+  canonical_url: https://theelearningcoach.com/
+  country: XX
+  best_for: teaching, learning, and education practice
+  reason: The eLearning Coach concentrates on teaching, learning, and education practice, with a visible article archive,
+    clear ownership context that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://theelearningcoach.com/
+  - https://theelearningcoach.com/about/
+  scores:
+    editorial_quality: 63
+    trust: 68
+    reach: 78
+    freshness: 45
+    ux: 84
+    impact: 69
+- id: editing-services
+  name: editing.services
+  canonical_url: https://editing.services/
+  country: XX
+  best_for: higher education and academic work
+  reason: editing.services concentrates on higher education and academic work, with a discoverable feed, clear ownership context
+    that makes its current publishing work easier to evaluate.
+  limitation: Authorship and editorial-policy information is less visible than on higher-ranked publications.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://editing.services/
+  - https://editing.services/blog.xml
+  scores:
+    editorial_quality: 68
+    trust: 57
+    reach: 87
+    freshness: 70
+    ux: 84
+    impact: 73
+- id: academicinfluence-com
+  name: Academic Influence
+  canonical_url: https://academicinfluence.com/
+  country: XX
+  best_for: higher education and academic work
+  reason: Academic Influence concentrates on higher education and academic work, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://academicinfluence.com/
+  - https://academicinfluence.com/rss
+  scores:
+    editorial_quality: 74
+    trust: 85
+    reach: 78
+    freshness: 78
+    ux: 84
+    impact: 77
+- id: medschoolinsiders-com
+  name: Med School Insiders
+  canonical_url: https://medschoolinsiders.com/
+  country: XX
+  best_for: learning science and study practice
+  reason: Med School Insiders concentrates on learning science and study practice, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://medschoolinsiders.com/
+  - https://medschoolinsiders.com/comments/feed/
+  scores:
+    editorial_quality: 70
+    trust: 76
+    reach: 80
+    freshness: 78
+    ux: 84
+    impact: 65
+- id: edsurge-com
+  name: EdSurge
+  canonical_url: https://edsurge.com/
+  country: XX
+  best_for: classroom teaching and educator practice
+  reason: EdSurge concentrates on classroom teaching and educator practice, with named authorship, clear ownership context
+    that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://edsurge.com/
+  scores:
+    editorial_quality: 71
+    trust: 78
+    reach: 89
+    freshness: 58
+    ux: 84
+    impact: 89
+- id: highereddive-com
+  name: Higher Education News
+  canonical_url: https://highereddive.com/
+  country: XX
+  best_for: higher education and academic work
+  reason: Higher Education News concentrates on higher education and academic work, with a discoverable feed, clear ownership
+    context that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://highereddive.com/
+  - https://www.highereddive.com/feeds/news/
+  - https://www.highereddive.com/about/
+  scores:
+    editorial_quality: 72
+    trust: 77
+    reach: 86
+    freshness: 89
+    ux: 84
+    impact: 87
+- id: theeduledger-com
+  name: The EDU Ledger
+  canonical_url: https://theeduledger.com/
+  country: XX
+  best_for: higher education and academic work
+  reason: The EDU Ledger concentrates on higher education and academic work, with a discoverable feed, named authorship that
+    makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://theeduledger.com/
+  - https://www.theeduledger.com/__rss/website-scheduled-content.xml?input=%7B%22sectionAlias%22%3A%22home%22%7D
+  - https://www.theeduledger.com/page/about-us?utm_source=website&utm_medium=page&utm_term=about-us
+  scores:
+    editorial_quality: 68
+    trust: 84
+    reach: 78
+    freshness: 89
+    ux: 84
+    impact: 79
+- id: educationworld-com
+  name: Education World
+  canonical_url: https://educationworld.com/
+  country: XX
+  best_for: classroom teaching and educator practice
+  reason: Education World concentrates on classroom teaching and educator practice, with named authorship, clear ownership
+    context that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://educationworld.com/
+  - https://www.educationworld.com/a_curr/profdev/profdev148.shtml
+  scores:
+    editorial_quality: 65
+    trust: 84
+    reach: 89
+    freshness: 58
+    ux: 84
+    impact: 78
+- id: edtechmagazine-com
+  name: K12 and Higher Education Technology News
+  canonical_url: https://edtechmagazine.com/
+  country: XX
+  best_for: higher education and academic work
+  reason: K12 and Higher Education Technology News concentrates on higher education and academic work, with a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://edtechmagazine.com/
+  - https://edtechmagazine.com/higher/about-insider
+  scores:
+    editorial_quality: 71
+    trust: 56
+    reach: 84
+    freshness: 66
+    ux: 84
+    impact: 89
+- id: askatechteacher-com
+  name: Tech ed from Teacher-authors
+  canonical_url: https://askatechteacher.com/
+  country: XX
+  best_for: classroom teaching and educator practice
+  reason: Tech ed from Teacher-authors concentrates on classroom teaching and educator practice, with a discoverable feed,
+    named authorship that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://askatechteacher.com/
+  - https://askatechteacher.com/edtech-magazines-50-must-read-k-12-it-blogs-2/feed/
+  - https://askatechteacher.com/about-me/
+  scores:
+    editorial_quality: 70
+    trust: 84
+    reach: 68
+    freshness: 45
+    ux: 84
+    impact: 66

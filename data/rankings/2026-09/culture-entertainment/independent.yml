@@ -1,0 +1,2063 @@
+schema_version: 1
+edition: 2026-09
+published_at: '2026-08-21T12:00:00Z'
+status: final
+category: culture-entertainment
+track: independent
+entries:
+- id: jerryjenkins-com
+  name: Jerry Jenkins | Proven Writing Tips
+  canonical_url: https://jerryjenkins.com/
+  country: XX
+  best_for: culture, criticism, and entertainment analysis
+  reason: Jerry Jenkins | Proven Writing Tips concentrates on culture, criticism, and entertainment analysis, with a discoverable
+    feed, a visible article archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://jerryjenkins.com/
+  - https://jerryjenkins.com/comments/feed/
+  - https://jerryjenkins.com/about/
+  scores:
+    editorial_quality: 97
+    trust: 96
+    reach: 95
+    freshness: 96
+    ux: 95
+    impact: 96
+- id: atwoodmagazine-com
+  name: Atwood Magazine
+  canonical_url: https://atwoodmagazine.com/
+  country: XX
+  best_for: music criticism, discovery, and industry context
+  reason: Atwood Magazine concentrates on music criticism, discovery, and industry context, with a discoverable feed, a visible
+    article archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://atwoodmagazine.com/
+  - https://atwoodmagazine.com/comments/feed/
+  - https://atwoodmagazine.com/about/
+  scores:
+    editorial_quality: 98
+    trust: 97
+    reach: 96
+    freshness: 97
+    ux: 96
+    impact: 97
+- id: noamkroll-com
+  name: Noam Kroll
+  canonical_url: https://noamkroll.com/
+  country: XX
+  best_for: books, literature, and reading culture
+  reason: Noam Kroll concentrates on books, literature, and reading culture, with a discoverable feed, a visible article archive
+    that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://noamkroll.com/
+  - https://noamkroll.com/the-7-filmmaking-blogs-you-should-be-reading-bookmarking-today/feed/
+  - https://noamkroll.com/about-noam/
+  scores:
+    editorial_quality: 96
+    trust: 95
+    reach: 94
+    freshness: 95
+    ux: 94
+    impact: 95
+- id: stackedbooks-org
+  name: STACKED
+  canonical_url: https://stackedbooks.org/
+  country: XX
+  best_for: books, literature, and reading culture
+  reason: STACKED concentrates on books, literature, and reading culture, with a discoverable feed, a visible article archive
+    that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://stackedbooks.org/
+  - https://stackedbooks.org/comments/feed/
+  scores:
+    editorial_quality: 94
+    trust: 93
+    reach: 92
+    freshness: 93
+    ux: 92
+    impact: 93
+- id: thatartsyreadergirl-com
+  name: That Artsy Reader Girl
+  canonical_url: https://thatartsyreadergirl.com/
+  country: XX
+  best_for: books, literature, and reading culture
+  reason: That Artsy Reader Girl concentrates on books, literature, and reading culture, with a discoverable feed, a visible
+    article archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://thatartsyreadergirl.com/
+  - https://www.thatartsyreadergirl.com/comments/feed/
+  - https://www.thatartsyreadergirl.com/about-jana/
+  scores:
+    editorial_quality: 91
+    trust: 90
+    reach: 89
+    freshness: 90
+    ux: 89
+    impact: 90
+- id: bohemianbibliophile-com
+  name: Bohemian Bibliophile
+  canonical_url: https://bohemianbibliophile.com/
+  country: XX
+  best_for: books, literature, and reading culture
+  reason: Bohemian Bibliophile concentrates on books, literature, and reading culture, with a discoverable feed, a visible
+    article archive that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://bohemianbibliophile.com/
+  - https://bohemianbibliophile.com/comments/feed/
+  - https://bohemianbibliophile.com/about-bohemian-bibliophile/
+  scores:
+    editorial_quality: 92
+    trust: 91
+    reach: 90
+    freshness: 91
+    ux: 90
+    impact: 91
+- id: bookwyrmshoard-com
+  name: The Bookwyrm's Hoard
+  canonical_url: https://bookwyrmshoard.com/
+  country: XX
+  best_for: books, literature, and reading culture
+  reason: The Bookwyrm's Hoard concentrates on books, literature, and reading culture, with a discoverable feed, a visible
+    article archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://bookwyrmshoard.com/
+  - https://bookwyrmshoard.com/comments/feed/
+  - https://bookwyrmshoard.com/about-review-policy-contact/
+  scores:
+    editorial_quality: 90
+    trust: 89
+    reach: 88
+    freshness: 89
+    ux: 88
+    impact: 89
+- id: arpegi-wordpress-com
+  name: NekoJonez's Gaming Blog
+  canonical_url: https://arpegi.wordpress.com/
+  country: XX
+  best_for: games, criticism, and gaming culture
+  reason: NekoJonez's Gaming Blog concentrates on games, criticism, and gaming culture, with a discoverable feed, a visible
+    article archive that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://arpegi.wordpress.com/
+  - https://arpegi.wordpress.com/comments/feed/
+  - https://arpegi.wordpress.com/about-me/
+  scores:
+    editorial_quality: 93
+    trust: 92
+    reach: 91
+    freshness: 92
+    ux: 91
+    impact: 92
+- id: eclecticmusiclover-com
+  name: ECLECTIC MUSIC LOVER
+  canonical_url: https://eclecticmusiclover.com/
+  country: XX
+  best_for: music criticism, discovery, and industry context
+  reason: ECLECTIC MUSIC LOVER concentrates on music criticism, discovery, and industry context, with a discoverable feed,
+    a visible article archive that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://eclecticmusiclover.com/
+  - https://eclecticmusiclover.com/about/feed/
+  - https://eclecticmusiclover.com/about/#content
+  scores:
+    editorial_quality: 95
+    trust: 94
+    reach: 93
+    freshness: 94
+    ux: 93
+    impact: 94
+- id: austinkleon-com
+  name: Austin Kleon
+  canonical_url: https://austinkleon.com/
+  country: XX
+  best_for: books, literature, and reading culture
+  reason: Austin Kleon concentrates on books, literature, and reading culture, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://austinkleon.com/
+  - https://austinkleon.com/comments/feed/
+  - https://austinkleon.com/about/
+  scores:
+    editorial_quality: 99
+    trust: 98
+    reach: 97
+    freshness: 98
+    ux: 97
+    impact: 98
+- id: rafalreyzer-com
+  name: Rafal Reyzer
+  canonical_url: https://rafalreyzer.com/
+  country: XX
+  best_for: books, literature, and reading culture
+  reason: Rafal Reyzer concentrates on books, literature, and reading culture, with a visible article archive, clear ownership
+    context that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://rafalreyzer.com/
+  - https://rafalreyzer.com/about-rafal-reyzer/
+  scores:
+    editorial_quality: 63
+    trust: 87
+    reach: 67
+    freshness: 62
+    ux: 84
+    impact: 62
+- id: linksiwouldgchatyou-substack-com
+  name: Links I Would Gchat You If We Were Friends
+  canonical_url: https://linksiwouldgchatyou.substack.com/
+  country: XX
+  best_for: culture, criticism, and entertainment analysis
+  reason: Links I Would Gchat You If We Were Friends concentrates on culture, criticism, and entertainment analysis, with
+    a discoverable feed that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://linksiwouldgchatyou.substack.com/
+  - https://linksiwouldgchatyou.substack.com/feed?sectionId=111480
+  scores:
+    editorial_quality: 64
+    trust: 62
+    reach: 59
+    freshness: 45
+    ux: 84
+    impact: 65
+- id: lukeharkness-com
+  name: Luke’s Blog
+  canonical_url: https://lukeharkness.com/
+  country: XX
+  best_for: books, literature, and reading culture
+  reason: Luke’s Blog concentrates on books, literature, and reading culture, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://lukeharkness.com/
+  - https://www.lukeharkness.com/comments/feed/
+  - https://www.lukeharkness.com/contact/
+  scores:
+    editorial_quality: 68
+    trust: 80
+    reach: 71
+    freshness: 89
+    ux: 84
+    impact: 58
+- id: thecreativemuggle-com
+  name: The Creative Muggle
+  canonical_url: https://thecreativemuggle.com/
+  country: XX
+  best_for: books, literature, and reading culture
+  reason: The Creative Muggle concentrates on books, literature, and reading culture, with a discoverable feed, a visible
+    article archive that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://thecreativemuggle.com/
+  - https://www.thecreativemuggle.com/web-stories/feed/
+  - https://www.thecreativemuggle.com/about/
+  scores:
+    editorial_quality: 70
+    trust: 89
+    reach: 64
+    freshness: 62
+    ux: 84
+    impact: 68
+- id: fallingletters-ca
+  name: Falling Letters
+  canonical_url: https://fallingletters.ca/
+  country: CA
+  best_for: books, literature, and reading culture
+  reason: Falling Letters concentrates on books, literature, and reading culture, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://fallingletters.ca/
+  - https://fallingletters.ca/2019/12/6-blogs-reviews-learn-from-blogger-reflections.html/feed
+  - https://fallingletters.ca/about-falling-letters
+  scores:
+    editorial_quality: 68
+    trust: 73
+    reach: 63
+    freshness: 45
+    ux: 84
+    impact: 63
+- id: politicsandfashionblog-com
+  name: Politics & Fashion
+  canonical_url: https://politicsandfashionblog.com/
+  country: XX
+  best_for: culture, criticism, and entertainment analysis
+  reason: Politics & Fashion concentrates on culture, criticism, and entertainment analysis, with a discoverable feed, a visible
+    article archive that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://politicsandfashionblog.com/
+  - https://politicsandfashionblog.com/comments/feed/
+  - https://politicsandfashionblog.com/about-2/
+  scores:
+    editorial_quality: 68
+    trust: 73
+    reach: 55
+    freshness: 45
+    ux: 84
+    impact: 61
+- id: haleynahman-substack-com
+  name: Maybe Baby
+  canonical_url: https://haleynahman.substack.com/
+  country: XX
+  best_for: culture, criticism, and entertainment analysis
+  reason: Maybe Baby concentrates on culture, criticism, and entertainment analysis, with a discoverable feed that makes its
+    current publishing work easier to evaluate.
+  limitation: Authorship and editorial-policy information is less visible than on higher-ranked publications.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://haleynahman.substack.com/
+  - https://haleynahman.substack.com/feed
+  scores:
+    editorial_quality: 66
+    trust: 62
+    reach: 63
+    freshness: 89
+    ux: 84
+    impact: 74
+- id: nancydurrant-substack-com
+  name: The London Culture Edit
+  canonical_url: https://nancydurrant.substack.com/
+  country: XX
+  best_for: books, literature, and reading culture
+  reason: The London Culture Edit concentrates on books, literature, and reading culture, with a discoverable feed that makes
+    its current publishing work easier to evaluate.
+  limitation: Authorship and editorial-policy information is less visible than on higher-ranked publications.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://nancydurrant.substack.com/
+  - https://nancydurrant.substack.com/feed
+  - https://nancydurrant.substack.com/about
+  scores:
+    editorial_quality: 66
+    trust: 68
+    reach: 44
+    freshness: 89
+    ux: 84
+    impact: 53
+- id: davy-substack-com
+  name: Around the World Show Notes
+  canonical_url: https://davy.substack.com/
+  country: XX
+  best_for: music criticism, discovery, and industry context
+  reason: Around the World Show Notes concentrates on music criticism, discovery, and industry context, with a discoverable
+    feed that makes its current publishing work easier to evaluate.
+  limitation: Authorship and editorial-policy information is less visible than on higher-ranked publications.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://davy.substack.com/
+  - https://davy.substack.com/feed
+  scores:
+    editorial_quality: 66
+    trust: 62
+    reach: 49
+    freshness: 89
+    ux: 84
+    impact: 71
+- id: hardlyrevolutionary-substack-com
+  name: Hardly Revolutionary
+  canonical_url: https://hardlyrevolutionary.substack.com/
+  country: XX
+  best_for: culture, criticism, and entertainment analysis
+  reason: Hardly Revolutionary concentrates on culture, criticism, and entertainment analysis, with a discoverable feed that
+    makes its current publishing work easier to evaluate.
+  limitation: Authorship and editorial-policy information is less visible than on higher-ranked publications.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://hardlyrevolutionary.substack.com/
+  - https://hardlyrevolutionary.substack.com/feed
+  scores:
+    editorial_quality: 64
+    trust: 62
+    reach: 51
+    freshness: 88
+    ux: 84
+    impact: 52
+- id: annacodrearado-substack-com
+  name: A-Mail
+  canonical_url: https://annacodrearado.substack.com/
+  country: XX
+  best_for: culture, criticism, and entertainment analysis
+  reason: A-Mail concentrates on culture, criticism, and entertainment analysis, with a discoverable feed that makes its current
+    publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://annacodrearado.substack.com/
+  - https://annacodrearado.substack.com/feed
+  scores:
+    editorial_quality: 64
+    trust: 62
+    reach: 47
+    freshness: 45
+    ux: 84
+    impact: 55
+- id: crooksbooks-blog
+  name: Becky's Book Blog
+  canonical_url: https://crooksbooks.blog/
+  country: XX
+  best_for: books, literature, and reading culture
+  reason: Becky's Book Blog concentrates on books, literature, and reading culture, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://crooksbooks.blog/
+  - https://crooksbooks.blog/comments/feed/
+  - https://crooksbooks.blog/about-me/
+  scores:
+    editorial_quality: 68
+    trust: 82
+    reach: 70
+    freshness: 89
+    ux: 84
+    impact: 70
+- id: sorryiambooked-wordpress-com
+  name: Sorry, I'm Booked
+  canonical_url: https://sorryiambooked.wordpress.com/
+  country: XX
+  best_for: books, literature, and reading culture
+  reason: Sorry, I'm Booked concentrates on books, literature, and reading culture, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://sorryiambooked.wordpress.com/
+  - https://sorryiambooked.wordpress.com/comments/feed/
+  - https://sorryiambooked.wordpress.com/about/
+  scores:
+    editorial_quality: 70
+    trust: 75
+    reach: 54
+    freshness: 89
+    ux: 84
+    impact: 59
+- id: meandinkblog-wordpress-com
+  name: Me & Ink
+  canonical_url: https://meandinkblog.wordpress.com/
+  country: XX
+  best_for: books, literature, and reading culture
+  reason: Me & Ink concentrates on books, literature, and reading culture, with a discoverable feed, a visible article archive
+    that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://meandinkblog.wordpress.com/
+  - https://meandinkblog.wordpress.com/2019/10/19/blogs-to-follow/feed/
+  - https://meandinkblog.wordpress.com/about-me/
+  scores:
+    editorial_quality: 70
+    trust: 75
+    reach: 60
+    freshness: 45
+    ux: 84
+    impact: 56
+- id: kellysue-tumblr-com
+  name: Digital Baubles
+  canonical_url: https://kellysue.tumblr.com/
+  country: XX
+  best_for: books, literature, and reading culture
+  reason: Digital Baubles concentrates on books, literature, and reading culture, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: Authorship and editorial-policy information is less visible than on higher-ranked publications.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://kellysue.tumblr.com/
+  - https://kellysue.tumblr.com/rss
+  scores:
+    editorial_quality: 70
+    trust: 55
+    reach: 48
+    freshness: 88
+    ux: 84
+    impact: 73
+- id: bookramblerblog-wordpress-com
+  name: Book Rambler
+  canonical_url: https://bookramblerblog.wordpress.com/
+  country: XX
+  best_for: books, literature, and reading culture
+  reason: Book Rambler concentrates on books, literature, and reading culture, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://bookramblerblog.wordpress.com/
+  - https://bookramblerblog.wordpress.com/comments/feed/
+  - https://bookramblerblog.wordpress.com/2020/12/20/netflix-adaptations-and-me-lets-talk-about-the-upcoming-adaptation-of-julia-quinns-the-duke-and-i/
+  scores:
+    editorial_quality: 68
+    trust: 82
+    reach: 49
+    freshness: 45
+    ux: 84
+    impact: 54
+- id: distractedbyfilms-wordpress-com
+  name: Distracted by Films
+  canonical_url: https://distractedbyfilms.wordpress.com/
+  country: XX
+  best_for: film criticism and cinema culture
+  reason: Distracted by Films concentrates on film criticism and cinema culture, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://distractedbyfilms.wordpress.com/
+  - https://distractedbyfilms.wordpress.com/comments/feed/
+  - https://distractedbyfilms.wordpress.com/about-me/
+  scores:
+    editorial_quality: 68
+    trust: 68
+    reach: 52
+    freshness: 45
+    ux: 84
+    impact: 51
+- id: booksaremylove-blogspot-com
+  name: Books make great lovers!
+  canonical_url: https://booksaremylove.blogspot.com/
+  country: XX
+  best_for: books, literature, and reading culture
+  reason: Books make great lovers! concentrates on books, literature, and reading culture, with a discoverable feed that makes
+    its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://booksaremylove.blogspot.com/
+  - https://booksaremylove.blogspot.com/feeds/posts/default?alt=rss
+  scores:
+    editorial_quality: 66
+    trust: 62
+    reach: 47
+    freshness: 45
+    ux: 84
+    impact: 70
+- id: freespiritbooks-blogspot-com
+  name: Free Spirit Books
+  canonical_url: https://freespiritbooks.blogspot.com/
+  country: XX
+  best_for: books, literature, and reading culture
+  reason: Free Spirit Books concentrates on books, literature, and reading culture, with a discoverable feed, clear ownership
+    context that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://freespiritbooks.blogspot.com/
+  - https://freespiritbooks.blogspot.com/feeds/posts/default?alt=rss
+  - https://freespiritbooks.blogspot.com/search/label/Thinking%20About%20Thursday
+  scores:
+    editorial_quality: 66
+    trust: 68
+    reach: 42
+    freshness: 45
+    ux: 84
+    impact: 62
+- id: foreverdream21-blogspot-com
+  name: Read, travel and dream
+  canonical_url: https://foreverdream21.blogspot.com/
+  country: XX
+  best_for: books, literature, and reading culture
+  reason: Read, travel and dream concentrates on books, literature, and reading culture, with a discoverable feed, named authorship
+    that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://foreverdream21.blogspot.com/
+  - https://foreverdream21.blogspot.com/feeds/posts/default?alt=rss
+  - https://foreverdream21.blogspot.com/p/travel.html
+  scores:
+    editorial_quality: 66
+    trust: 68
+    reach: 39
+    freshness: 45
+    ux: 84
+    impact: 57
+- id: ideo-com
+  name: IDEO
+  canonical_url: https://ideo.com/
+  country: XX
+  best_for: culture, criticism, and entertainment analysis
+  reason: IDEO concentrates on culture, criticism, and entertainment analysis, with clear ownership context that makes its
+    current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://ideo.com/
+  - https://www.ideo.com/about
+  scores:
+    editorial_quality: 59
+    trust: 87
+    reach: 83
+    freshness: 89
+    ux: 84
+    impact: 76
+- id: communizine-com
+  name: Communizine
+  canonical_url: https://communizine.com/
+  country: XX
+  best_for: film criticism and cinema culture
+  reason: Communizine concentrates on film criticism and cinema culture, with a discoverable feed, a visible article archive
+    that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://communizine.com/
+  - https://www.communizine.com/comments/feed/
+  - https://www.communizine.com/about/
+  scores:
+    editorial_quality: 70
+    trust: 87
+    reach: 57
+    freshness: 89
+    ux: 84
+    impact: 58
+- id: johnrieber-wordpress-com
+  name: johnrieber
+  canonical_url: https://johnrieber.wordpress.com/
+  country: XX
+  best_for: books, literature, and reading culture
+  reason: johnrieber concentrates on books, literature, and reading culture, with a discoverable feed, a visible article archive
+    that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://johnrieber.wordpress.com/
+  - https://johnrieber.com/comments/feed/
+  - https://johnrieber.com/about/
+  scores:
+    editorial_quality: 76
+    trust: 75
+    reach: 54
+    freshness: 89
+    ux: 84
+    impact: 84
+- id: jeanbooknerd-com
+  name: JeanBookNerd
+  canonical_url: https://jeanbooknerd.com/
+  country: XX
+  best_for: books, literature, and reading culture
+  reason: JeanBookNerd concentrates on books, literature, and reading culture, with a discoverable feed, named authorship
+    that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://jeanbooknerd.com/
+  - https://www.jeanbooknerd.com/feeds/posts/default?alt=rss
+  - https://www.jeanbooknerd.com/p/about-me.html
+  scores:
+    editorial_quality: 72
+    trust: 82
+    reach: 64
+    freshness: 78
+    ux: 70
+    impact: 81
+- id: letsgotothemovies-com
+  name: Let's Go To The Movies
+  canonical_url: https://letsgotothemovies.com/
+  country: XX
+  best_for: film criticism and cinema culture
+  reason: Let's Go To The Movies concentrates on film criticism and cinema culture, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: Authorship and editorial-policy information is less visible than on higher-ranked publications.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://letsgotothemovies.com/
+  - https://letsgotothemovies.com/comments/feed/
+  - https://letsgotothemovies.com/about/
+  scores:
+    editorial_quality: 70
+    trust: 68
+    reach: 76
+    freshness: 89
+    ux: 84
+    impact: 72
+- id: imlovingbooks-com
+  name: I'm Loving Books
+  canonical_url: https://imlovingbooks.com/
+  country: XX
+  best_for: books, literature, and reading culture
+  reason: I'm Loving Books concentrates on books, literature, and reading culture, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://imlovingbooks.com/
+  - https://imlovingbooks.com/comments/feed/
+  - https://imlovingbooks.com/about/
+  scores:
+    editorial_quality: 68
+    trust: 82
+    reach: 67
+    freshness: 89
+    ux: 84
+    impact: 76
+- id: theblackbookblogg-com
+  name: The Black Book Blog
+  canonical_url: https://theblackbookblogg.com/
+  country: XX
+  best_for: books, literature, and reading culture
+  reason: The Black Book Blog concentrates on books, literature, and reading culture, with a discoverable feed, a visible
+    article archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://theblackbookblogg.com/
+  - https://theblackbookblogg.com/comments/feed/
+  - https://theblackbookblogg.com/about/
+  scores:
+    editorial_quality: 68
+    trust: 89
+    reach: 64
+    freshness: 78
+    ux: 84
+    impact: 56
+- id: melovebooks-wordpress-com
+  name: It's All About Books
+  canonical_url: https://melovebooks.wordpress.com/
+  country: XX
+  best_for: books, literature, and reading culture
+  reason: It's All About Books concentrates on books, literature, and reading culture, with a discoverable feed, a visible
+    article archive that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://melovebooks.wordpress.com/
+  - https://melovebooks.wordpress.com/2014/07/17/recommended-book-blogs/feed/
+  - https://melovebooks.wordpress.com/category/about/
+  scores:
+    editorial_quality: 68
+    trust: 82
+    reach: 72
+    freshness: 45
+    ux: 84
+    impact: 70
+- id: audiohype-io
+  name: Audiohype
+  canonical_url: https://audiohype.io/
+  country: XX
+  best_for: music criticism, discovery, and industry context
+  reason: Audiohype concentrates on music criticism, discovery, and industry context, with a discoverable feed, a visible
+    article archive that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://audiohype.io/
+  - https://audiohype.io/comments/feed/
+  - https://audiohype.io/about/
+  scores:
+    editorial_quality: 72
+    trust: 87
+    reach: 67
+    freshness: 45
+    ux: 84
+    impact: 59
+- id: complex-com
+  name: Complex
+  canonical_url: https://complex.com/
+  country: XX
+  best_for: books, literature, and reading culture
+  reason: Complex concentrates on books, literature, and reading culture, with a visible article archive, named authorship
+    that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://complex.com/
+  - https://www.complex.com:443/music/a/esperanza-rosenbaum/enhypen-the-sin-bliss-ep-interview
+  scores:
+    editorial_quality: 73
+    trust: 87
+    reach: 89
+    freshness: 66
+    ux: 84
+    impact: 89
+- id: magculture-com
+  name: magCulture
+  canonical_url: https://magculture.com/
+  country: XX
+  best_for: music criticism, discovery, and industry context
+  reason: magCulture concentrates on music criticism, discovery, and industry context, with a visible article archive, clear
+    ownership context that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://magculture.com/
+  - https://magculture.com/pages/about
+  scores:
+    editorial_quality: 67
+    trust: 82
+    reach: 71
+    freshness: 66
+    ux: 84
+    impact: 81
+- id: blog-eduonix-com
+  name: Eduonix Blog
+  canonical_url: https://blog.eduonix.com/
+  country: XX
+  best_for: games, criticism, and gaming culture
+  reason: Eduonix Blog concentrates on games, criticism, and gaming culture, with a discoverable feed, a visible article archive
+    that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://blog.eduonix.com/
+  - https://blog.eduonix.com/comments/feed/
+  - https://blog.eduonix.com/2026/08/react-router-v7-remix-v2-remix-3-what-production-teams-should-actually-do/
+  scores:
+    editorial_quality: 68
+    trust: 75
+    reach: 62
+    freshness: 89
+    ux: 84
+    impact: 64
+- id: cheapgames-ca
+  name: CheapGames.ca
+  canonical_url: https://cheapgames.ca/
+  country: CA
+  best_for: games, criticism, and gaming culture
+  reason: CheapGames.ca concentrates on games, criticism, and gaming culture, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://cheapgames.ca/
+  - https://cheapgames.ca/comments/feed/
+  - https://cheapgames.ca/about/
+  scores:
+    editorial_quality: 68
+    trust: 89
+    reach: 48
+    freshness: 45
+    ux: 84
+    impact: 55
+- id: emmameade-com
+  name: Emma's Ramblings on Supernatural Fiction
+  canonical_url: https://emmameade.com/
+  country: XX
+  best_for: books, literature, and reading culture
+  reason: Emma's Ramblings on Supernatural Fiction concentrates on books, literature, and reading culture, with a discoverable
+    feed, named authorship that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://emmameade.com/
+  - https://emmameade.com/comments/feed/
+  scores:
+    editorial_quality: 66
+    trust: 71
+    reach: 57
+    freshness: 70
+    ux: 70
+    impact: 75
+- id: refinery29-com
+  name: Refinery29
+  canonical_url: https://refinery29.com/
+  country: XX
+  best_for: music criticism, discovery, and industry context
+  reason: Refinery29 concentrates on music criticism, discovery, and industry context, with a clearly defined editorial focus
+    that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://refinery29.com/
+  - https://www.refinery29.com/en-us/katseye-interview-dream-collaborations
+  scores:
+    editorial_quality: 65
+    trust: 73
+    reach: 89
+    freshness: 45
+    ux: 84
+    impact: 82
+- id: refind-com
+  name: Refind
+  canonical_url: https://refind.com/
+  country: XX
+  best_for: culture, criticism, and entertainment analysis
+  reason: Refind concentrates on culture, criticism, and entertainment analysis, with clear ownership context that makes its
+    current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://refind.com/
+  - https://refind.com/about
+  scores:
+    editorial_quality: 61
+    trust: 80
+    reach: 76
+    freshness: 62
+    ux: 84
+    impact: 87
+- id: cosmopolitan-com
+  name: Cosmopolitan
+  canonical_url: https://cosmopolitan.com/
+  country: XX
+  best_for: television and popular entertainment
+  reason: Cosmopolitan concentrates on television and popular entertainment, with named authorship, clear ownership context
+    that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://cosmopolitan.com/
+  - https://www.cosmopolitan.com/about/a26950060/about-us-contact-information-masthead/
+  scores:
+    editorial_quality: 63
+    trust: 89
+    reach: 89
+    freshness: 89
+    ux: 84
+    impact: 89
+- id: digitalspy-com
+  name: Digital Spy
+  canonical_url: https://digitalspy.com/
+  country: XX
+  best_for: film criticism and cinema culture
+  reason: Digital Spy concentrates on film criticism and cinema culture, with a discoverable feed, named authorship that makes
+    its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://digitalspy.com/
+  - https://www.digitalspy.com/rss/all.xml
+  - https://www.digitalspy.com/tv/ustv/a73435303/reacher-alan-ritchson-viewers-shocking-season-4/
+  scores:
+    editorial_quality: 74
+    trust: 87
+    reach: 89
+    freshness: 89
+    ux: 84
+    impact: 89
+- id: inmyopinionflicks-com
+  name: In My Opinion Flicks
+  canonical_url: https://inmyopinionflicks.com/
+  country: XX
+  best_for: film criticism and cinema culture
+  reason: In My Opinion Flicks concentrates on film criticism and cinema culture, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://inmyopinionflicks.com/
+  - https://inmyopinionflicks.com/comments/feed/
+  - https://inmyopinionflicks.com/about/
+  scores:
+    editorial_quality: 68
+    trust: 89
+    reach: 56
+    freshness: 89
+    ux: 84
+    impact: 52
+- id: thebookbloglife-com
+  name: the book blog life
+  canonical_url: https://thebookbloglife.com/
+  country: XX
+  best_for: books, literature, and reading culture
+  reason: the book blog life concentrates on books, literature, and reading culture, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: Authorship and editorial-policy information is less visible than on higher-ranked publications.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://thebookbloglife.com/
+  - https://thebookbloglife.com/comments/feed/
+  scores:
+    editorial_quality: 68
+    trust: 55
+    reach: 59
+    freshness: 78
+    ux: 84
+    impact: 63
+- id: winsbooks-blog
+  name: Win's Books | Live to write. Love to read. Laugh at mistakes.
+  canonical_url: https://winsbooks.blog/
+  country: XX
+  best_for: books, literature, and reading culture
+  reason: Win's Books | Live to write. Love to read. Laugh at mistakes. concentrates on books, literature, and reading culture,
+    with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://winsbooks.blog/
+  - https://winsbooks.blog/five-book-blogs-you-should-follow-and-interact-with/feed/
+  - https://winsbooks.blog/about-me/
+  scores:
+    editorial_quality: 68
+    trust: 89
+    reach: 60
+    freshness: 62
+    ux: 84
+    impact: 62
+- id: annehelen-substack-com
+  name: Culture Study
+  canonical_url: https://annehelen.substack.com/
+  country: XX
+  best_for: culture, criticism, and entertainment analysis
+  reason: Culture Study concentrates on culture, criticism, and entertainment analysis, with a discoverable feed that makes
+    its current publishing work easier to evaluate.
+  limitation: Authorship and editorial-policy information is less visible than on higher-ranked publications.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://annehelen.substack.com/
+  - https://annehelen.substack.com/feed
+  scores:
+    editorial_quality: 66
+    trust: 57
+    reach: 79
+    freshness: 89
+    ux: 84
+    impact: 78
+- id: ministryofpopculture-substack-com
+  name: Ministry of Pop Culture
+  canonical_url: https://ministryofpopculture.substack.com/
+  country: XX
+  best_for: film criticism and cinema culture
+  reason: Ministry of Pop Culture concentrates on film criticism and cinema culture, with a discoverable feed that makes its
+    current publishing work easier to evaluate.
+  limitation: Authorship and editorial-policy information is less visible than on higher-ranked publications.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://ministryofpopculture.substack.com/
+  - https://ministryofpopculture.substack.com/feed
+  scores:
+    editorial_quality: 66
+    trust: 57
+    reach: 62
+    freshness: 89
+    ux: 84
+    impact: 56
+- id: culturalreads-substack-com
+  name: Cultural Reads Newsletter
+  canonical_url: https://culturalreads.substack.com/
+  country: XX
+  best_for: books, literature, and reading culture
+  reason: Cultural Reads Newsletter concentrates on books, literature, and reading culture, with a discoverable feed that
+    makes its current publishing work easier to evaluate.
+  limitation: Authorship and editorial-policy information is less visible than on higher-ranked publications.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://culturalreads.substack.com/
+  - https://culturalreads.substack.com/feed
+  scores:
+    editorial_quality: 66
+    trust: 57
+    reach: 47
+    freshness: 89
+    ux: 84
+    impact: 60
+- id: ampleroad-substack-com
+  name: A Broad and Ample Road
+  canonical_url: https://ampleroad.substack.com/
+  country: XX
+  best_for: culture, criticism, and entertainment analysis
+  reason: A Broad and Ample Road concentrates on culture, criticism, and entertainment analysis, with a discoverable feed
+    that makes its current publishing work easier to evaluate.
+  limitation: Authorship and editorial-policy information is less visible than on higher-ranked publications.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://ampleroad.substack.com/
+  - https://ampleroad.substack.com/feed
+  scores:
+    editorial_quality: 66
+    trust: 57
+    reach: 52
+    freshness: 89
+    ux: 84
+    impact: 65
+- id: izvorista-substack-com
+  name: Izvorišta
+  canonical_url: https://izvorista.substack.com/
+  country: XX
+  best_for: music criticism, discovery, and industry context
+  reason: Izvorišta concentrates on music criticism, discovery, and industry context, with a discoverable feed that makes
+    its current publishing work easier to evaluate.
+  limitation: Authorship and editorial-policy information is less visible than on higher-ranked publications.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://izvorista.substack.com/
+  - https://izvorista.substack.com/feed
+  scores:
+    editorial_quality: 66
+    trust: 57
+    reach: 43
+    freshness: 89
+    ux: 84
+    impact: 61
+- id: filmcomment-com
+  name: Film Comment
+  canonical_url: https://filmcomment.com/
+  country: XX
+  best_for: books, literature, and reading culture
+  reason: Film Comment concentrates on books, literature, and reading culture, with a visible article archive, clear ownership
+    context that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://filmcomment.com/
+  - https://www.filmcomment.com/article/locarno-2026-life-during-wartime/
+  scores:
+    editorial_quality: 65
+    trust: 84
+    reach: 84
+    freshness: 66
+    ux: 84
+    impact: 74
+- id: booknerdalie-com
+  name: BookNerdalie
+  canonical_url: https://booknerdalie.com/
+  country: XX
+  best_for: books, literature, and reading culture
+  reason: BookNerdalie concentrates on books, literature, and reading culture, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: Authorship and editorial-policy information is less visible than on higher-ranked publications.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://booknerdalie.com/
+  - https://booknerdalie.com/comments/feed/
+  scores:
+    editorial_quality: 68
+    trust: 50
+    reach: 50
+    freshness: 78
+    ux: 84
+    impact: 49
+- id: fenalibabariya-wordpress-com
+  name: fenalibabariya
+  canonical_url: https://fenalibabariya.wordpress.com/
+  country: XX
+  best_for: books, literature, and reading culture
+  reason: fenalibabariya concentrates on books, literature, and reading culture, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: Authorship and editorial-policy information is less visible than on higher-ranked publications.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://fenalibabariya.wordpress.com/
+  - https://fenalibabariya.wordpress.com/comments/feed/
+  scores:
+    editorial_quality: 70
+    trust: 50
+    reach: 39
+    freshness: 78
+    ux: 84
+    impact: 57
+- id: indielitfic-wordpress-com
+  name: The Independent Literary Fiction Blog
+  canonical_url: https://indielitfic.wordpress.com/
+  country: XX
+  best_for: culture, criticism, and entertainment analysis
+  reason: The Independent Literary Fiction Blog concentrates on culture, criticism, and entertainment analysis, with a discoverable
+    feed, a visible article archive that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://indielitfic.wordpress.com/
+  - https://indielitfic.wordpress.com/comments/feed/
+  scores:
+    editorial_quality: 68
+    trust: 57
+    reach: 41
+    freshness: 45
+    ux: 84
+    impact: 51
+- id: raindance-org
+  name: Raindance
+  canonical_url: https://raindance.org/
+  country: XX
+  best_for: film criticism and cinema culture
+  reason: Raindance concentrates on film criticism and cinema culture, with a discoverable feed, a visible article archive
+    that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://raindance.org/
+  - https://raindance.org/upcoming_events
+  - https://raindance.org/festival/about/
+  scores:
+    editorial_quality: 70
+    trust: 77
+    reach: 79
+    freshness: 89
+    ux: 84
+    impact: 81
+- id: coveteur-com
+  name: Coveteur
+  canonical_url: https://coveteur.com/
+  country: XX
+  best_for: culture, criticism, and entertainment analysis
+  reason: Coveteur concentrates on culture, criticism, and entertainment analysis, with a discoverable feed, clear ownership
+    context that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://coveteur.com/
+  - https://coveteur.com/rss/all.xml
+  - https://coveteur.com/louvelle-fashion-rentals
+  scores:
+    editorial_quality: 64
+    trust: 77
+    reach: 85
+    freshness: 89
+    ux: 84
+    impact: 76
+- id: filmindependent-org
+  name: Film Independent
+  canonical_url: https://filmindependent.org/
+  country: XX
+  best_for: film criticism and cinema culture
+  reason: Film Independent concentrates on film criticism and cinema culture, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://filmindependent.org/
+  - https://www.filmindependent.org/film-independent-home/feed/
+  - https://www.filmindependent.org/about/
+  scores:
+    editorial_quality: 72
+    trust: 84
+    reach: 84
+    freshness: 45
+    ux: 84
+    impact: 83
+- id: publishersweekly-com
+  name: PublishersWeekly.com
+  canonical_url: https://publishersweekly.com/
+  country: XX
+  best_for: books, literature, and reading culture
+  reason: PublishersWeekly.com concentrates on books, literature, and reading culture, with named authorship, clear ownership
+    context that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://publishersweekly.com/
+  scores:
+    editorial_quality: 61
+    trust: 78
+    reach: 89
+    freshness: 58
+    ux: 84
+    impact: 81
+- id: filmgeeky-com
+  name: Film Geeky | Movie Reviews | New Movie Releases
+  canonical_url: https://filmgeeky.com/
+  country: XX
+  best_for: film criticism and cinema culture
+  reason: Film Geeky | Movie Reviews | New Movie Releases concentrates on film criticism and cinema culture, with a discoverable
+    feed, a visible article archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://filmgeeky.com/
+  - https://filmgeeky.com/comments/feed/
+  scores:
+    editorial_quality: 70
+    trust: 64
+    reach: 63
+    freshness: 78
+    ux: 84
+    impact: 66
+- id: whatcathyreadnext-co-uk
+  name: What Cathy Read Next...
+  canonical_url: https://whatcathyreadnext.co.uk/
+  country: GB
+  best_for: books, literature, and reading culture
+  reason: What Cathy Read Next... concentrates on books, literature, and reading culture, with a discoverable feed, a visible
+    article archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://whatcathyreadnext.co.uk/
+  - https://whatcathyreadnext.co.uk/comments/feed/
+  scores:
+    editorial_quality: 68
+    trust: 64
+    reach: 69
+    freshness: 78
+    ux: 84
+    impact: 68
+- id: girlplusbook-com
+  name: Girl Plus Book
+  canonical_url: https://girlplusbook.com/
+  country: XX
+  best_for: books, literature, and reading culture
+  reason: Girl Plus Book concentrates on books, literature, and reading culture, with a discoverable feed, named authorship
+    that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://girlplusbook.com/
+  - https://girlplusbook.com/comments/feed/
+  scores:
+    editorial_quality: 66
+    trust: 71
+    reach: 54
+    freshness: 70
+    ux: 84
+    impact: 61
+- id: betterallies-com
+  name: Better Allies®
+  canonical_url: https://betterallies.com/
+  country: XX
+  best_for: culture, criticism, and entertainment analysis
+  reason: Better Allies® concentrates on culture, criticism, and entertainment analysis, with a discoverable feed, a visible
+    article archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://betterallies.com/
+  - https://betterallies.com/comments/feed/
+  scores:
+    editorial_quality: 70
+    trust: 78
+    reach: 52
+    freshness: 78
+    ux: 84
+    impact: 67
+- id: decentfilms-com
+  name: Decent Films
+  canonical_url: https://decentfilms.com/
+  country: XX
+  best_for: film criticism and cinema culture
+  reason: Decent Films concentrates on film criticism and cinema culture, with clear ownership context that makes its current
+    publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://decentfilms.com/
+  scores:
+    editorial_quality: 61
+    trust: 71
+    reach: 80
+    freshness: 58
+    ux: 84
+    impact: 71
+- id: cravemusicmagazine-com
+  name: Crave Music Magazine
+  canonical_url: https://cravemusicmagazine.com/
+  country: XX
+  best_for: music criticism, discovery, and industry context
+  reason: Crave Music Magazine concentrates on music criticism, discovery, and industry context, with a discoverable feed,
+    a visible article archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://cravemusicmagazine.com/
+  - https://cravemusicmagazine.com/comments/feed/
+  scores:
+    editorial_quality: 70
+    trust: 71
+    reach: 58
+    freshness: 78
+    ux: 84
+    impact: 62
+- id: bagfullofbooks-com
+  name: Bag Full Of Books
+  canonical_url: https://bagfullofbooks.com/
+  country: XX
+  best_for: books, literature, and reading culture
+  reason: Bag Full Of Books concentrates on books, literature, and reading culture, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://bagfullofbooks.com/
+  - https://bagfullofbooks.com/comments/feed/
+  scores:
+    editorial_quality: 70
+    trust: 64
+    reach: 60
+    freshness: 78
+    ux: 84
+    impact: 74
+- id: 1morefilmblog-com
+  name: 1More Film Blog
+  canonical_url: https://1morefilmblog.com/
+  country: XX
+  best_for: film criticism and cinema culture
+  reason: 1More Film Blog concentrates on film criticism and cinema culture, with a discoverable feed, a visible article archive
+    that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://1morefilmblog.com/
+  - https://1morefilmblog.com/comments/feed/
+  scores:
+    editorial_quality: 68
+    trust: 64
+    reach: 65
+    freshness: 78
+    ux: 84
+    impact: 63
+- id: booksandpals-blogspot-com
+  name: BigAl's Books and Pals
+  canonical_url: https://booksandpals.blogspot.com/
+  country: XX
+  best_for: books, literature, and reading culture
+  reason: BigAl's Books and Pals concentrates on books, literature, and reading culture, with a discoverable feed, named authorship
+    that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://booksandpals.blogspot.com/
+  - https://booksandpals.blogspot.com/feeds/posts/default?alt=rss
+  scores:
+    editorial_quality: 68
+    trust: 71
+    reach: 55
+    freshness: 70
+    ux: 84
+    impact: 84
+- id: lairofbooksblog-com
+  name: LairOfBooks
+  canonical_url: https://lairofbooksblog.com/
+  country: XX
+  best_for: books, literature, and reading culture
+  reason: LairOfBooks concentrates on books, literature, and reading culture, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://lairofbooksblog.com/
+  - https://lairofbooksblog.com/comments/feed/
+  scores:
+    editorial_quality: 70
+    trust: 71
+    reach: 53
+    freshness: 78
+    ux: 84
+    impact: 52
+- id: thefilm-blog
+  name: The Film Blog
+  canonical_url: https://thefilm.blog/
+  country: XX
+  best_for: film criticism and cinema culture
+  reason: The Film Blog concentrates on film criticism and cinema culture, with a discoverable feed, a visible article archive
+    that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://thefilm.blog/
+  - https://thefilm.blog/comments/feed/
+  scores:
+    editorial_quality: 68
+    trust: 64
+    reach: 75
+    freshness: 62
+    ux: 84
+    impact: 71
+- id: nextchapters-com
+  name: Next Chapters
+  canonical_url: https://nextchapters.com/
+  country: XX
+  best_for: books, literature, and reading culture
+  reason: Next Chapters concentrates on books, literature, and reading culture, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://nextchapters.com/
+  - https://nextchapters.com/feed/
+  scores:
+    editorial_quality: 68
+    trust: 78
+    reach: 53
+    freshness: 78
+    ux: 84
+    impact: 53
+- id: cultcelebrities-com
+  name: Cult Celebrities
+  canonical_url: https://cultcelebrities.com/
+  country: XX
+  best_for: film criticism and cinema culture
+  reason: Cult Celebrities concentrates on film criticism and cinema culture, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://cultcelebrities.com/
+  - https://www.cultcelebrities.com/comments/feed/
+  scores:
+    editorial_quality: 68
+    trust: 64
+    reach: 64
+    freshness: 78
+    ux: 84
+    impact: 61
+- id: filmreviews7-wordpress-com
+  name: Let's Go To The Movies
+  canonical_url: https://filmreviews7.wordpress.com/
+  country: XX
+  best_for: film criticism and cinema culture
+  reason: Let's Go To The Movies concentrates on film criticism and cinema culture, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: Authorship and editorial-policy information is less visible than on higher-ranked publications.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://filmreviews7.wordpress.com/
+  - https://letsgotothemovies.com/comments/feed/
+  scores:
+    editorial_quality: 72
+    trust: 57
+    reach: 55
+    freshness: 78
+    ux: 84
+    impact: 86
+- id: girlonguy-net
+  name: Girl On Guy
+  canonical_url: https://girlonguy.net/
+  country: XX
+  best_for: film criticism and cinema culture
+  reason: Girl On Guy concentrates on film criticism and cinema culture, with a discoverable feed, named authorship that makes
+    its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://girlonguy.net/
+  - https://www.girlonguy.net/feed/
+  scores:
+    editorial_quality: 70
+    trust: 71
+    reach: 49
+    freshness: 70
+    ux: 84
+    impact: 69
+- id: richardrabil-com
+  name: Richard Rabil, Jr.
+  canonical_url: https://richardrabil.com/
+  country: XX
+  best_for: books, literature, and reading culture
+  reason: Richard Rabil, Jr. concentrates on books, literature, and reading culture, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://richardrabil.com/
+  - https://richardrabil.com/comments/feed/
+  scores:
+    editorial_quality: 70
+    trust: 71
+    reach: 50
+    freshness: 78
+    ux: 84
+    impact: 54
+- id: sayyes-com
+  name: Say Yes
+  canonical_url: https://sayyes.com/
+  country: XX
+  best_for: culture, criticism, and entertainment analysis
+  reason: Say Yes concentrates on culture, criticism, and entertainment analysis, with a discoverable feed, clear ownership
+    context that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://sayyes.com/
+  - https://sayyes.com/feed
+  scores:
+    editorial_quality: 64
+    trust: 64
+    reach: 73
+    freshness: 70
+    ux: 84
+    impact: 71
+- id: topfilmmagazine-com
+  name: TOP FILM
+  canonical_url: https://topfilmmagazine.com/
+  country: XX
+  best_for: film criticism and cinema culture
+  reason: TOP FILM concentrates on film criticism and cinema culture, with a visible article archive, clear ownership context
+    that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://topfilmmagazine.com/
+  scores:
+    editorial_quality: 67
+    trust: 71
+    reach: 62
+    freshness: 66
+    ux: 76
+    impact: 57
+- id: creativelivesinprogress-com
+  name: Creative Lives In Progress
+  canonical_url: https://creativelivesinprogress.com/
+  country: XX
+  best_for: music criticism, discovery, and industry context
+  reason: Creative Lives In Progress concentrates on music criticism, discovery, and industry context, with named authorship,
+    clear ownership context that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://creativelivesinprogress.com/
+  scores:
+    editorial_quality: 61
+    trust: 71
+    reach: 72
+    freshness: 58
+    ux: 84
+    impact: 74
+- id: cult-machine-com
+  name: CULT MACHINE
+  canonical_url: https://cult-machine.com/
+  country: XX
+  best_for: music criticism, discovery, and industry context
+  reason: CULT MACHINE concentrates on music criticism, discovery, and industry context, with a discoverable feed, a visible
+    article archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://cult-machine.com/
+  - https://cult-machine.com/comments/feed/
+  scores:
+    editorial_quality: 72
+    trust: 71
+    reach: 45
+    freshness: 78
+    ux: 84
+    impact: 59
+- id: briarsreviews-wordpress-com
+  name: Briar's Reviews
+  canonical_url: https://briarsreviews.wordpress.com/
+  country: XX
+  best_for: books, literature, and reading culture
+  reason: Briar's Reviews concentrates on books, literature, and reading culture, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://briarsreviews.wordpress.com/
+  - https://briarsreviews.wordpress.com/comments/feed/
+  scores:
+    editorial_quality: 70
+    trust: 64
+    reach: 54
+    freshness: 78
+    ux: 84
+    impact: 56
+- id: wiseinkblog-com
+  name: The Wise Ink Blog
+  canonical_url: https://wiseinkblog.com/
+  country: XX
+  best_for: books, literature, and reading culture
+  reason: The Wise Ink Blog concentrates on books, literature, and reading culture, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://wiseinkblog.com/
+  - https://www.wiseinkblog.com/comments/feed/
+  - https://www.wiseinkblog.com/our-story/
+  scores:
+    editorial_quality: 72
+    trust: 70
+    reach: 57
+    freshness: 45
+    ux: 84
+    impact: 66
+- id: blogroll-org
+  name: Blogroll
+  canonical_url: https://blogroll.org/
+  country: XX
+  best_for: culture, criticism, and entertainment analysis
+  reason: Blogroll concentrates on culture, criticism, and entertainment analysis, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://blogroll.org/
+  - https://blogroll.org/feed
+  scores:
+    editorial_quality: 68
+    trust: 64
+    reach: 57
+    freshness: 78
+    ux: 84
+    impact: 72
+- id: scribophile-com
+  name: Scribophile
+  canonical_url: https://scribophile.com/
+  country: XX
+  best_for: culture, criticism, and entertainment analysis
+  reason: Scribophile concentrates on culture, criticism, and entertainment analysis, with a clearly defined editorial focus
+    that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://scribophile.com/
+  scores:
+    editorial_quality: 61
+    trust: 57
+    reach: 83
+    freshness: 58
+    ux: 84
+    impact: 83
+- id: blog-writingacademy-com
+  name: Writing Academy Blog
+  canonical_url: https://blog.writingacademy.com/
+  country: XX
+  best_for: books, literature, and reading culture
+  reason: Writing Academy Blog concentrates on books, literature, and reading culture, with a discoverable feed, a visible
+    article archive that makes its current publishing work easier to evaluate.
+  limitation: Authorship and editorial-policy information is less visible than on higher-ranked publications.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://blog.writingacademy.com/
+  - https://blog.writingacademy.com/comments/feed/
+  scores:
+    editorial_quality: 68
+    trust: 57
+    reach: 65
+    freshness: 78
+    ux: 84
+    impact: 64
+- id: eaterofbooks-blogspot-com
+  name: The Eater of Books!
+  canonical_url: https://eaterofbooks.blogspot.com/
+  country: XX
+  best_for: books, literature, and reading culture
+  reason: The Eater of Books! concentrates on books, literature, and reading culture, with a discoverable feed, named authorship
+    that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://eaterofbooks.blogspot.com/
+  - https://eaterofbooks.blogspot.com/feeds/posts/default?alt=rss
+  scores:
+    editorial_quality: 66
+    trust: 71
+    reach: 58
+    freshness: 70
+    ux: 84
+    impact: 76
+- id: upcontent-com
+  name: UpContent
+  canonical_url: https://upcontent.com/
+  country: XX
+  best_for: books, literature, and reading culture
+  reason: UpContent concentrates on books, literature, and reading culture, with a visible article archive, clear ownership
+    context that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://upcontent.com/
+  scores:
+    editorial_quality: 63
+    trust: 71
+    reach: 65
+    freshness: 66
+    ux: 84
+    impact: 71
+- id: writing-ie
+  name: Writing.ie
+  canonical_url: https://writing.ie/
+  country: IE
+  best_for: culture, criticism, and entertainment analysis
+  reason: Writing.ie concentrates on culture, criticism, and entertainment analysis, with a visible article archive, named
+    authorship that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://writing.ie/
+  scores:
+    editorial_quality: 63
+    trust: 64
+    reach: 72
+    freshness: 66
+    ux: 84
+    impact: 69
+- id: theindependentcritic-com
+  name: The Independent Critic
+  canonical_url: https://theindependentcritic.com/
+  country: XX
+  best_for: books, literature, and reading culture
+  reason: The Independent Critic concentrates on books, literature, and reading culture, with a discoverable feed that makes
+    its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://theindependentcritic.com/
+  - https://theindependentcritic.com/inc/blog?blog=15102
+  scores:
+    editorial_quality: 66
+    trust: 57
+    reach: 83
+    freshness: 45
+    ux: 84
+    impact: 67
+- id: headfullofbooks-blogspot-com
+  name: My Head Is Full of Books
+  canonical_url: https://headfullofbooks.blogspot.com/
+  country: XX
+  best_for: books, literature, and reading culture
+  reason: My Head Is Full of Books concentrates on books, literature, and reading culture, with a discoverable feed, named
+    authorship that makes its current publishing work easier to evaluate.
+  limitation: Authorship and editorial-policy information is less visible than on higher-ranked publications.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://headfullofbooks.blogspot.com/
+  - https://headfullofbooks.blogspot.com/feeds/posts/default?alt=rss
+  scores:
+    editorial_quality: 66
+    trust: 57
+    reach: 69
+    freshness: 70
+    ux: 84
+    impact: 77
+- id: thevoiceoffashion-com
+  name: Indian Fashion Magazine
+  canonical_url: https://thevoiceoffashion.com/
+  country: XX
+  best_for: culture, criticism, and entertainment analysis
+  reason: Indian Fashion Magazine concentrates on culture, criticism, and entertainment analysis, with named authorship, clear
+    ownership context that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://thevoiceoffashion.com/
+  scores:
+    editorial_quality: 59
+    trust: 78
+    reach: 69
+    freshness: 58
+    ux: 84
+    impact: 68
+- id: thebookblog-in
+  name: The Book Blog
+  canonical_url: https://thebookblog.in/
+  country: IN
+  best_for: books, literature, and reading culture
+  reason: The Book Blog concentrates on books, literature, and reading culture, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://thebookblog.in/
+  - https://thebookblog.in/book-blog-home/feed/
+  scores:
+    editorial_quality: 68
+    trust: 78
+    reach: 44
+    freshness: 78
+    ux: 84
+    impact: 51
+- id: roaringbookworm-wordpress-com
+  name: The Roaring Bookworm
+  canonical_url: https://roaringbookworm.wordpress.com/
+  country: XX
+  best_for: books, literature, and reading culture
+  reason: The Roaring Bookworm concentrates on books, literature, and reading culture, with a discoverable feed, a visible
+    article archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://roaringbookworm.wordpress.com/
+  - https://roaringbookworm.wordpress.com/comments/feed/
+  scores:
+    editorial_quality: 68
+    trust: 71
+    reach: 49
+    freshness: 78
+    ux: 84
+    impact: 53
+- id: onthescreenreviews-com
+  name: On the Screen Reviews
+  canonical_url: https://onthescreenreviews.com/
+  country: XX
+  best_for: film criticism and cinema culture
+  reason: On the Screen Reviews concentrates on film criticism and cinema culture, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://onthescreenreviews.com/
+  - https://onthescreenreviews.com/2016/09/26/10-movie-bloggers-you-should-be-following/feed/
+  scores:
+    editorial_quality: 70
+    trust: 64
+    reach: 69
+    freshness: 45
+    ux: 84
+    impact: 64
+- id: thecreativeindependent-com
+  name: The Creative Independent
+  canonical_url: https://thecreativeindependent.com/
+  country: XX
+  best_for: culture, criticism, and entertainment analysis
+  reason: The Creative Independent concentrates on culture, criticism, and entertainment analysis, with named authorship,
+    clear ownership context that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://thecreativeindependent.com/
+  scores:
+    editorial_quality: 59
+    trust: 64
+    reach: 82
+    freshness: 58
+    ux: 76
+    impact: 75
+- id: cutline-com
+  name: Cutline Communications
+  canonical_url: https://cutline.com/
+  country: XX
+  best_for: culture, criticism, and entertainment analysis
+  reason: Cutline Communications concentrates on culture, criticism, and entertainment analysis, with a visible article archive,
+    clear ownership context that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://cutline.com/
+  scores:
+    editorial_quality: 63
+    trust: 71
+    reach: 63
+    freshness: 66
+    ux: 84
+    impact: 55

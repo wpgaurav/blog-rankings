@@ -1,0 +1,2070 @@
+schema_version: 1
+edition: 2026-09
+published_at: '2026-08-21T12:00:00Z'
+status: final
+category: technology
+track: publisher_company
+entries:
+- id: engadget-com
+  name: Engadget
+  canonical_url: https://www.engadget.com/
+  country: XX
+  best_for: consumer electronics news, reviews, and major industry events
+  reason: Engadget maintains broad daily consumer-technology coverage with experienced reviewers and useful event reporting.
+  limitation: High publishing volume and commercial coverage make individual article depth inconsistent.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://www.engadget.com/
+  - https://www.engadget.com/feed/
+  - https://www.engadget.com/about/
+  scores:
+    editorial_quality: 91
+    trust: 90
+    reach: 89
+    freshness: 90
+    ux: 89
+    impact: 90
+- id: 9to5mac-com
+  name: 9to5Mac
+  canonical_url: https://9to5mac.com/
+  country: XX
+  best_for: Apple news, software releases, devices, and ecosystem reporting
+  reason: 9to5Mac follows Apple products and software continuously, often surfacing release details and ecosystem changes
+    before general outlets catch up.
+  limitation: Its narrow Apple focus and fast news cycle produce less value outside that ecosystem.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://9to5mac.com/
+  - https://9to5mac.com/web-stories/feed/
+  - https://9to5mac.com/about/
+  scores:
+    editorial_quality: 90
+    trust: 89
+    reach: 88
+    freshness: 89
+    ux: 88
+    impact: 89
+- id: theverge-com
+  name: The Verge
+  canonical_url: https://www.theverge.com/
+  country: XX
+  best_for: consumer technology, platforms, policy, and product culture
+  reason: The Verge pairs fast reporting with strong visual storytelling, product expertise, and analysis of how technology
+    changes everyday behavior.
+  limitation: Its editorial voice and high publishing volume can produce uneven depth across individual stories.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://www.theverge.com/
+  - https://www.theverge.com/rss/index.xml
+  - https://www.theverge.com/about-the-verge
+  scores:
+    editorial_quality: 97
+    trust: 96
+    reach: 95
+    freshness: 96
+    ux: 95
+    impact: 96
+- id: wired-com
+  name: WIRED
+  canonical_url: https://www.wired.com/
+  country: XX
+  best_for: technology reporting with science, business, and cultural context
+  reason: WIRED combines original reporting, investigations, product coverage, and long-form analysis across technology's
+    social and commercial consequences.
+  limitation: The broad remit and subscription model make depth and access uneven across sections.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://www.wired.com/
+  - https://www.wired.com/feed/rss
+  - https://www.wired.com/story/are-digital-wall-calendars-worth-it/
+  scores:
+    editorial_quality: 99
+    trust: 98
+    reach: 97
+    freshness: 98
+    ux: 97
+    impact: 98
+- id: techcrunch-com
+  name: TechCrunch
+  canonical_url: https://techcrunch.com/
+  country: XX
+  best_for: startups, venture capital, product launches, and technology business news
+  reason: TechCrunch maintains one of the broadest active reporting networks for startup funding, company changes, product
+    announcements, and venture markets.
+  limitation: The speed and volume of coverage leave less room for depth in many daily stories.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://techcrunch.com/
+  - https://techcrunch.com/feed/
+  - https://techcrunch.com/about-techcrunch/
+  scores:
+    editorial_quality: 95
+    trust: 94
+    reach: 93
+    freshness: 94
+    ux: 93
+    impact: 94
+- id: androidauthority-com
+  name: Android Authority
+  canonical_url: https://www.androidauthority.com/
+  country: XX
+  best_for: Android devices, mobile software, testing, and buying guidance
+  reason: Android Authority combines a focused mobile beat with product testing, explainers, opinion, and a large archive
+    of practical device guidance.
+  limitation: The consumer-device focus leaves limited room for broader software and technology policy.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://www.androidauthority.com/
+  - https://www.androidauthority.com/feed
+  - https://www.androidauthority.com/pixel-11-pro-one-week-later-impressions-3699430/
+  scores:
+    editorial_quality: 92
+    trust: 91
+    reach: 90
+    freshness: 91
+    ux: 90
+    impact: 91
+- id: technologyreview-com
+  name: MIT Technology Review
+  canonical_url: https://www.technologyreview.com/
+  country: XX
+  best_for: emerging technology, AI, climate, biotechnology, and policy
+  reason: MIT Technology Review connects research and industry developments to public consequences with specialist reporting
+    and an unusually clear evidence boundary.
+  limitation: A subscription is required for much of the complete reporting.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://www.technologyreview.com/
+  - https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/
+  scores:
+    editorial_quality: 96
+    trust: 95
+    reach: 94
+    freshness: 95
+    ux: 94
+    impact: 95
+- id: spectrum-ieee-org
+  name: IEEE Spectrum
+  canonical_url: https://spectrum.ieee.org/
+  country: XX
+  best_for: engineering, robotics, electronics, energy, and applied research
+  reason: IEEE Spectrum covers working technologies through engineers, specialist reporters, technical diagrams, and close
+    attention to how systems are built.
+  limitation: Its engineering focus is narrower than general consumer or startup coverage.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://spectrum.ieee.org/
+  - https://spectrum.ieee.org/feeds/feed.rss
+  - https://spectrum.ieee.org/about
+  scores:
+    editorial_quality: 94
+    trust: 93
+    reach: 92
+    freshness: 93
+    ux: 92
+    impact: 93
+- id: arstechnica-com
+  name: Ars Technica
+  canonical_url: https://arstechnica.com/
+  country: XX
+  best_for: technically literate reporting on computing, policy, science, and security
+  reason: Ars Technica explains mechanisms and consequences with more technical depth than most general technology publications
+    while maintaining a strong reporting desk.
+  limitation: Its detail and assumed background can feel dense for casual readers.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://arstechnica.com/
+  scores:
+    editorial_quality: 98
+    trust: 97
+    reach: 96
+    freshness: 97
+    ux: 96
+    impact: 97
+- id: tomshardware-com
+  name: Tom's Hardware
+  canonical_url: https://www.tomshardware.com/
+  country: XX
+  best_for: PC hardware testing, components, benchmarks, and buying decisions
+  reason: Tom's Hardware combines a deep testing archive with current component news, benchmark methodology, and practical
+    system-building coverage.
+  limitation: Commercial buying coverage can overwhelm readers who want broader technology analysis.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://www.tomshardware.com/
+  - https://www.tomshardware.com/feeds.xml
+  scores:
+    editorial_quality: 93
+    trust: 92
+    reach: 91
+    freshness: 92
+    ux: 91
+    impact: 92
+- id: news-mit-edu
+  name: MIT News
+  canonical_url: https://news.mit.edu/
+  country: XX
+  best_for: technology reporting and practical analysis
+  reason: MIT News concentrates on technology reporting and practical analysis, with a visible article archive, named authorship
+    that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://news.mit.edu/
+  scores:
+    editorial_quality: 67
+    trust: 89
+    reach: 89
+    freshness: 45
+    ux: 84
+    impact: 83
+- id: securityweek-com
+  name: SecurityWeek
+  canonical_url: https://securityweek.com/
+  country: XX
+  best_for: security, privacy, and cyber risk
+  reason: SecurityWeek concentrates on security, privacy, and cyber risk, with a discoverable feed, a visible article archive
+    that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://securityweek.com/
+  - https://www.securityweek.com/feed/
+  - https://www.securityweek.com/contributors/stevedurbin/
+  scores:
+    editorial_quality: 72
+    trust: 89
+    reach: 88
+    freshness: 89
+    ux: 84
+    impact: 84
+- id: infosecurity-magazine-com
+  name: Infosecurity Magazine
+  canonical_url: https://infosecurity-magazine.com/
+  country: XX
+  best_for: security, privacy, and cyber risk
+  reason: Infosecurity Magazine concentrates on security, privacy, and cyber risk, with named authorship that makes its current
+    publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://infosecurity-magazine.com/
+  - https://www.infosecurity-magazine.com/about/
+  scores:
+    editorial_quality: 67
+    trust: 87
+    reach: 82
+    freshness: 89
+    ux: 84
+    impact: 87
+- id: salesforce-com
+  name: Salesforce
+  canonical_url: https://salesforce.com/
+  country: XX
+  best_for: AI systems and their practical consequences
+  reason: Salesforce concentrates on AI systems and their practical consequences, with a visible article archive that makes
+    its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://salesforce.com/
+  - https://www.salesforce.com/slack/
+  scores:
+    editorial_quality: 65
+    trust: 73
+    reach: 89
+    freshness: 66
+    ux: 84
+    impact: 89
+- id: topbots-com
+  name: TOPBOTS
+  canonical_url: https://topbots.com/
+  country: XX
+  best_for: AI systems and their practical consequences
+  reason: TOPBOTS concentrates on AI systems and their practical consequences, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://topbots.com/
+  - https://www.topbots.com/comments/feed/
+  - https://www.topbots.com/guest-writer-editorial-content-guidelines/
+  scores:
+    editorial_quality: 70
+    trust: 87
+    reach: 67
+    freshness: 78
+    ux: 84
+    impact: 68
+- id: techspot-com
+  name: TechSpot
+  canonical_url: https://techspot.com/
+  country: XX
+  best_for: technology reporting and practical analysis
+  reason: TechSpot concentrates on technology reporting and practical analysis, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://techspot.com/
+  - https://www.techspot.com/backend.xml
+  - https://www.techspot.com/community/topics/pew-survey-52-of-americans-now-more-concerned-than-excited-about-ai.298529/
+  scores:
+    editorial_quality: 72
+    trust: 89
+    reach: 89
+    freshness: 89
+    ux: 84
+    impact: 85
+- id: blog-codeship-com
+  name: CloudBees Blog
+  canonical_url: https://blog.codeship.com/
+  country: XX
+  best_for: security, privacy, and cyber risk
+  reason: CloudBees Blog concentrates on security, privacy, and cyber risk, with a discoverable feed, clear ownership context
+    that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://blog.codeship.com/
+  - https://www.cloudbees.com/blog/rss.xml
+  - https://www.cloudbees.com/about-us
+  scores:
+    editorial_quality: 68
+    trust: 80
+    reach: 49
+    freshness: 89
+    ux: 84
+    impact: 68
+- id: developer-ibm-com
+  name: '@ibmdeveloper'
+  canonical_url: https://developer.ibm.com/
+  country: XX
+  best_for: software engineering and developer practice
+  reason: '@ibmdeveloper concentrates on software engineering and developer practice, with clear ownership context that makes
+    its current publishing work easier to evaluate.'
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://developer.ibm.com/
+  - https://developer.ibm.com/about/?lang=en
+  scores:
+    editorial_quality: 67
+    trust: 87
+    reach: 83
+    freshness: 58
+    ux: 84
+    impact: 84
+- id: tripleten-com
+  name: TripleTen
+  canonical_url: https://tripleten.com/
+  country: XX
+  best_for: software engineering and developer practice
+  reason: TripleTen concentrates on software engineering and developer practice, with a visible article archive, named authorship
+    that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://tripleten.com/
+  - https://tripleten.com/blog/posts/rss.xml
+  scores:
+    editorial_quality: 73
+    trust: 74
+    reach: 88
+    freshness: 89
+    ux: 84
+    impact: 72
+- id: s9solution-com
+  name: s9solution.com
+  canonical_url: https://s9solution.com/
+  country: XX
+  best_for: security, privacy, and cyber risk
+  reason: s9solution.com concentrates on security, privacy, and cyber risk, with a discoverable feed, a visible article archive
+    that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://s9solution.com/
+  - https://s9solution.com/comments/feed/
+  - https://s9solution.com/about/
+  scores:
+    editorial_quality: 76
+    trust: 80
+    reach: 56
+    freshness: 88
+    ux: 84
+    impact: 62
+- id: 8thlight-com
+  name: 8th Light
+  canonical_url: https://8thlight.com/
+  country: XX
+  best_for: software engineering and developer practice
+  reason: 8th Light concentrates on software engineering and developer practice, with a discoverable feed, clear ownership
+    context that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://8thlight.com/
+  - https://8thlight.com/insights/feed/atom.xml
+  - https://8thlight.com/about
+  scores:
+    editorial_quality: 70
+    trust: 87
+    reach: 73
+    freshness: 89
+    ux: 84
+    impact: 72
+- id: blog-honeybadger-io
+  name: Honeybadger
+  canonical_url: https://www.honeybadger.io/blog/
+  country: XX
+  best_for: software engineering and developer practice
+  reason: Honeybadger concentrates on software engineering and developer practice, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://www.honeybadger.io/blog/
+  - https://www.honeybadger.io/blog/feed.xml
+  - https://www.honeybadger.io/about/
+  scores:
+    editorial_quality: 70
+    trust: 89
+    reach: 50
+    freshness: 89
+    ux: 84
+    impact: 70
+- id: blog-moove-it-com
+  name: Qubika
+  canonical_url: https://blog.moove-it.com/
+  country: XX
+  best_for: software engineering and developer practice
+  reason: Qubika concentrates on software engineering and developer practice, with a discoverable feed, clear ownership context
+    that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://blog.moove-it.com/
+  - https://qubika.com/comments/feed/
+  - https://qubika.com/about-us/
+  scores:
+    editorial_quality: 68
+    trust: 80
+    reach: 43
+    freshness: 45
+    ux: 84
+    impact: 57
+- id: techneeds-com
+  name: Techneeds
+  canonical_url: https://techneeds.com/
+  country: XX
+  best_for: software engineering and developer practice
+  reason: Techneeds concentrates on software engineering and developer practice, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://techneeds.com/
+  - https://www.techneeds.com/comments/feed/
+  - https://www.techneeds.com/about-us/
+  scores:
+    editorial_quality: 72
+    trust: 87
+    reach: 70
+    freshness: 89
+    ux: 84
+    impact: 55
+- id: bgr-com
+  name: BGR
+  canonical_url: https://bgr.com/
+  country: XX
+  best_for: AI systems and their practical consequences
+  reason: BGR concentrates on AI systems and their practical consequences, with a discoverable feed, a visible article archive
+    that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://bgr.com/
+  - https://www.bgr.com/feed/
+  - https://www.bgr.com/about/
+  scores:
+    editorial_quality: 74
+    trust: 80
+    reach: 89
+    freshness: 89
+    ux: 84
+    impact: 85
+- id: slashgear-com
+  name: SlashGear
+  canonical_url: https://slashgear.com/
+  country: XX
+  best_for: AI systems and their practical consequences
+  reason: SlashGear concentrates on AI systems and their practical consequences, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://slashgear.com/
+  - https://www.slashgear.com/feed/
+  - https://www.slashgear.com/about/
+  scores:
+    editorial_quality: 72
+    trust: 80
+    reach: 89
+    freshness: 89
+    ux: 84
+    impact: 85
+- id: brainhub-eu
+  name: Brainhub
+  canonical_url: https://brainhub.eu/
+  country: XX
+  best_for: software engineering and developer practice
+  reason: Brainhub concentrates on software engineering and developer practice, with named authorship, clear ownership context
+    that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://brainhub.eu/
+  - https://brainhub.eu/library/rss.xml
+  - https://brainhub.eu/services/team-augmentation
+  scores:
+    editorial_quality: 67
+    trust: 89
+    reach: 70
+    freshness: 88
+    ux: 84
+    impact: 62
+- id: wordpress-org
+  name: WordPress.org
+  canonical_url: https://wordpress.org/
+  country: XX
+  best_for: software engineering and developer practice
+  reason: WordPress.org concentrates on software engineering and developer practice, with a discoverable feed, clear ownership
+    context that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://wordpress.org/
+  - https://wordpress.org/showcase/comments/feed/
+  - https://wordpress.org/about/
+  scores:
+    editorial_quality: 70
+    trust: 80
+    reach: 89
+    freshness: 70
+    ux: 84
+    impact: 89
+- id: zencoder-ai
+  name: Zencoder
+  canonical_url: https://zencoder.ai/
+  country: XX
+  best_for: software engineering and developer practice
+  reason: Zencoder concentrates on software engineering and developer practice, with clear ownership context that makes its
+    current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://zencoder.ai/
+  - https://zencoder.ai/blog/rss.xml
+  - https://zencoder.ai/about
+  scores:
+    editorial_quality: 65
+    trust: 87
+    reach: 72
+    freshness: 89
+    ux: 84
+    impact: 67
+- id: grahamcluley-com
+  name: Graham Cluley
+  canonical_url: https://grahamcluley.com/
+  country: XX
+  best_for: security, privacy, and cyber risk
+  reason: Graham Cluley concentrates on security, privacy, and cyber risk, with a discoverable feed, a visible article archive
+    that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://grahamcluley.com/
+  - https://grahamcluley.com/feed/
+  - https://grahamcluley.com/about/
+  scores:
+    editorial_quality: 74
+    trust: 82
+    reach: 78
+    freshness: 78
+    ux: 84
+    impact: 82
+- id: techcommuters-com
+  name: TechCommuters - Know Tech Well
+  canonical_url: https://techcommuters.com/
+  country: XX
+  best_for: software engineering and developer practice
+  reason: TechCommuters - Know Tech Well concentrates on software engineering and developer practice, with clear ownership
+    context that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://techcommuters.com/
+  - https://www.techcommuters.com/about-us/
+  scores:
+    editorial_quality: 63
+    trust: 87
+    reach: 71
+    freshness: 88
+    ux: 84
+    impact: 68
+- id: tech-eu
+  name: Tech.eu
+  canonical_url: https://tech.eu/
+  country: XX
+  best_for: technology reporting and practical analysis
+  reason: Tech.eu concentrates on technology reporting and practical analysis, with named authorship, clear ownership context
+    that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://tech.eu/
+  - https://tech.eu/about-us/
+  scores:
+    editorial_quality: 63
+    trust: 89
+    reach: 75
+    freshness: 58
+    ux: 84
+    impact: 81
+- id: careers-logixtek-com
+  name: Logix Technology Careers
+  canonical_url: https://careers.logixtek.com/
+  country: XX
+  best_for: software engineering and developer practice
+  reason: Logix Technology Careers concentrates on software engineering and developer practice, with a discoverable feed,
+    a visible article archive that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://careers.logixtek.com/
+  - https://careers.logixtek.com/feed/
+  - https://careers.logixtek.com/beautiful-tet-gifts-a-tradition-of-appreciation-and-team-unity/
+  scores:
+    editorial_quality: 78
+    trust: 80
+    reach: 50
+    freshness: 45
+    ux: 84
+    impact: 46
+- id: fairygodboss-com
+  name: Fairygodboss
+  canonical_url: https://fairygodboss.com/
+  country: XX
+  best_for: AI systems and their practical consequences
+  reason: Fairygodboss concentrates on AI systems and their practical consequences, with a clearly defined editorial focus
+    that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://fairygodboss.com/
+  scores:
+    editorial_quality: 63
+    trust: 62
+    reach: 89
+    freshness: 45
+    ux: 84
+    impact: 81
+- id: mashable-com
+  name: Mashable
+  canonical_url: https://mashable.com/
+  country: XX
+  best_for: AI systems and their practical consequences
+  reason: Mashable concentrates on AI systems and their practical consequences, with a discoverable feed, named authorship
+    that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://mashable.com/
+  - https://mashable.com/feeds/rss/all
+  - https://mashable.com/tech/chatgpt-for-teens-what-to-know
+  scores:
+    editorial_quality: 74
+    trust: 89
+    reach: 89
+    freshness: 89
+    ux: 84
+    impact: 89
+- id: bleepingcomputer-com
+  name: BleepingComputer
+  canonical_url: https://bleepingcomputer.com/
+  country: XX
+  best_for: security, privacy, and cyber risk
+  reason: BleepingComputer concentrates on security, privacy, and cyber risk, with a discoverable feed, named authorship that
+    makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://bleepingcomputer.com/
+  - https://www.bleepingcomputer.com/feed/
+  - https://www.bleepingcomputer.com/about/
+  scores:
+    editorial_quality: 74
+    trust: 89
+    reach: 89
+    freshness: 89
+    ux: 84
+    impact: 81
+- id: wpbeginner-com
+  name: WPBeginner
+  canonical_url: https://wpbeginner.com/
+  country: XX
+  best_for: WordPress publishing and development
+  reason: WPBeginner concentrates on WordPress publishing and development, with a discoverable feed, a visible article archive
+    that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://wpbeginner.com/
+  - https://www.wpbeginner.com/comments/feed/
+  - https://www.wpbeginner.com/about-wpbeginner/
+  scores:
+    editorial_quality: 72
+    trust: 87
+    reach: 89
+    freshness: 89
+    ux: 84
+    impact: 89
+- id: prnews-io
+  name: PRNEWS.io
+  canonical_url: https://prnews.io/
+  country: XX
+  best_for: security, privacy, and cyber risk
+  reason: PRNEWS.io concentrates on security, privacy, and cyber risk, with a visible article archive, clear ownership context
+    that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://prnews.io/
+  - https://prnews.io/about/
+  scores:
+    editorial_quality: 71
+    trust: 87
+    reach: 84
+    freshness: 66
+    ux: 84
+    impact: 76
+- id: manofmany-com
+  name: Man of Many
+  canonical_url: https://manofmany.com/
+  country: XX
+  best_for: technology reporting and practical analysis
+  reason: Man of Many concentrates on technology reporting and practical analysis, with named authorship, clear ownership
+    context that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://manofmany.com/
+  - https://manofmany.com/watches/tag-heuer-team-ikuzawa-bamford-carrera-glassbox
+  scores:
+    editorial_quality: 61
+    trust: 89
+    reach: 89
+    freshness: 62
+    ux: 84
+    impact: 71
+- id: blog-1byte-com
+  name: 1Byte
+  canonical_url: https://blog.1byte.com/
+  country: XX
+  best_for: security, privacy, and cyber risk
+  reason: 1Byte concentrates on security, privacy, and cyber risk, with a discoverable feed, a visible article archive that
+    makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://blog.1byte.com/
+  - https://blog.1byte.com/comments/feed/
+  scores:
+    editorial_quality: 78
+    trust: 76
+    reach: 66
+    freshness: 89
+    ux: 84
+    impact: 53
+- id: claude-com
+  name: Claude
+  canonical_url: https://claude.com/
+  country: XX
+  best_for: AI systems and their practical consequences
+  reason: Claude concentrates on AI systems and their practical consequences, with named authorship that makes its current
+    publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://claude.com/
+  - https://claude.com/blog/#
+  scores:
+    editorial_quality: 61
+    trust: 89
+    reach: 89
+    freshness: 58
+    ux: 84
+    impact: 89
+- id: slashdot-org
+  name: 'Slashdot: News for nerds, stuff that matters, & software Bluesky'
+  canonical_url: https://slashdot.org/
+  country: XX
+  best_for: software engineering and developer practice
+  reason: 'Slashdot: News for nerds, stuff that matters, & software Bluesky concentrates on software engineering and developer
+    practice, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.'
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://slashdot.org/
+  - https://rss.slashdot.org/Slashdot/slashdotMain
+  - https://slashdot.org/faq/slashmeta.shtml
+  scores:
+    editorial_quality: 74
+    trust: 89
+    reach: 89
+    freshness: 78
+    ux: 84
+    impact: 89
+- id: ectnews-com
+  name: ECT News Network
+  canonical_url: https://ectnews.com/
+  country: XX
+  best_for: technology reporting and practical analysis
+  reason: ECT News Network concentrates on technology reporting and practical analysis, with a discoverable feed, clear ownership
+    context that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://ectnews.com/
+  - https://www.ectnews.com/feed/
+  - https://www.ectnews.com/about
+  scores:
+    editorial_quality: 70
+    trust: 82
+    reach: 68
+    freshness: 89
+    ux: 84
+    impact: 76
+- id: wearedevelopers-com
+  name: WeAreDevelopers
+  canonical_url: https://wearedevelopers.com/
+  country: XX
+  best_for: software engineering and developer practice
+  reason: WeAreDevelopers concentrates on software engineering and developer practice, with a visible article archive, named
+    authorship that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://wearedevelopers.com/
+  - https://www.wearedevelopers.com/about-labs
+  scores:
+    editorial_quality: 67
+    trust: 82
+    reach: 82
+    freshness: 66
+    ux: 84
+    impact: 74
+- id: ghost-org
+  name: Ghost - The Professional Publishing Platform
+  canonical_url: https://ghost.org/
+  country: XX
+  best_for: AI systems and their practical consequences
+  reason: Ghost - The Professional Publishing Platform concentrates on AI systems and their practical consequences, with clear
+    ownership context that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://ghost.org/
+  - https://ghost.org/about/
+  scores:
+    editorial_quality: 61
+    trust: 82
+    reach: 89
+    freshness: 58
+    ux: 84
+    impact: 89
+- id: resources-plainenglish-io
+  name: Resources
+  canonical_url: https://resources.plainenglish.io/
+  country: XX
+  best_for: software engineering and developer practice
+  reason: Resources concentrates on software engineering and developer practice, with named authorship that makes its current
+    publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://resources.plainenglish.io/
+  - https://resources.plainenglish.io/what-are-the-best-author-contributor-platforms-for-developers
+  scores:
+    editorial_quality: 71
+    trust: 68
+    reach: 47
+    freshness: 88
+    ux: 84
+    impact: 45
+- id: victoria-dev
+  name: victoria.dev
+  canonical_url: https://victoria.dev/
+  country: XX
+  best_for: software engineering and developer practice
+  reason: victoria.dev concentrates on software engineering and developer practice, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://victoria.dev/
+  - https://victoria.dev/index.xml
+  scores:
+    editorial_quality: 76
+    trust: 62
+    reach: 64
+    freshness: 45
+    ux: 84
+    impact: 71
+- id: howtogeek-com
+  name: How-To Geek
+  canonical_url: https://howtogeek.com/
+  country: XX
+  best_for: AI systems and their practical consequences
+  reason: How-To Geek concentrates on AI systems and their practical consequences, with a visible article archive, named authorship
+    that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://howtogeek.com/
+  - https://www.howtogeek.com/pixel-11-hilight-led-feature-makes-me-worry-about-google/
+  scores:
+    editorial_quality: 71
+    trust: 89
+    reach: 89
+    freshness: 66
+    ux: 84
+    impact: 89
+- id: techradar-com
+  name: TechRadar
+  canonical_url: https://techradar.com/
+  country: XX
+  best_for: AI systems and their practical consequences
+  reason: TechRadar concentrates on AI systems and their practical consequences, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: The homepage is heavier and more commercially layered than a focused reading experience.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://techradar.com/
+  - https://www.techradar.com/feeds.xml
+  - https://www.techradar.com/computing/virtual-reality-augmented-reality/meta-smart-glasses-could-soon-be-banned-in-cinemas-says-uk-trade-body-but-this-time-its-more-about-piracy-than-privacy
+  scores:
+    editorial_quality: 78
+    trust: 80
+    reach: 89
+    freshness: 89
+    ux: 76
+    impact: 89
+- id: thescalers-com
+  name: The Scalers
+  canonical_url: https://thescalers.com/
+  country: XX
+  best_for: software engineering and developer practice
+  reason: The Scalers concentrates on software engineering and developer practice, with a discoverable feed, named authorship
+    that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://thescalers.com/
+  - https://thescalers.com/comments/feed/
+  - https://thescalers.com/development-team-extension/
+  scores:
+    editorial_quality: 68
+    trust: 89
+    reach: 68
+    freshness: 89
+    ux: 84
+    impact: 60
+- id: izood-net
+  name: Izood
+  canonical_url: https://izood.net/
+  country: XX
+  best_for: software engineering and developer practice
+  reason: Izood concentrates on software engineering and developer practice, with a discoverable feed, a visible article archive
+    that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://izood.net/
+  - https://izood.net/technology/software-engineering-blog/feed/
+  - https://izood.net/izood-submit_post/
+  scores:
+    editorial_quality: 74
+    trust: 73
+    reach: 75
+    freshness: 45
+    ux: 84
+    impact: 59
+- id: cnet-com
+  name: CNET
+  canonical_url: https://cnet.com/
+  country: XX
+  best_for: security, privacy, and cyber risk
+  reason: CNET concentrates on security, privacy, and cyber risk, with a discoverable feed, a visible article archive that
+    makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://cnet.com/
+  - https://www.cnet.com/tech/services-and-software/cybersecurity/feed/
+  - https://www.cnet.com/tech/gaming/valve-warns-steam-machine-buyers-about-scam-messages-after-cyberattack/
+  scores:
+    editorial_quality: 84
+    trust: 82
+    reach: 89
+    freshness: 89
+    ux: 84
+    impact: 89
+- id: vox-com
+  name: Vox
+  canonical_url: https://vox.com/
+  country: XX
+  best_for: AI systems and their practical consequences
+  reason: Vox concentrates on AI systems and their practical consequences, with a discoverable feed, named authorship that
+    makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://vox.com/
+  - https://www.vox.com/rss/technology/index.xml
+  - https://www.vox.com/politics/492722/supreme-court-texas-app-store-free-speech-students-engaged
+  scores:
+    editorial_quality: 72
+    trust: 89
+    reach: 89
+    freshness: 89
+    ux: 76
+    impact: 89
+- id: tech-olx-com
+  name: Tech
+  canonical_url: https://tech.olx.com/
+  country: XX
+  best_for: software engineering and developer practice
+  reason: Tech concentrates on software engineering and developer practice, with a discoverable feed, clear ownership context
+    that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://tech.olx.com/
+  - https://tech.olx.com/feed
+  - https://tech.olx.com/about?source=collection_home_page----761b019b483f-----0-----------------------------------
+  scores:
+    editorial_quality: 70
+    trust: 75
+    reach: 62
+    freshness: 89
+    ux: 84
+    impact: 88
+- id: csoonline-com
+  name: CSO Online
+  canonical_url: https://csoonline.com/
+  country: XX
+  best_for: security, privacy, and cyber risk
+  reason: CSO Online concentrates on security, privacy, and cyber risk, with a discoverable feed, a visible article archive
+    that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://csoonline.com/
+  - https://www.csoonline.com/comments/feed/
+  - https://www.csoonline.com/article/4210776/openai-presidents-blog-pushing-agentic-ai-most-notable-for-what-it-did-not-say-2.html
+  scores:
+    editorial_quality: 74
+    trust: 89
+    reach: 89
+    freshness: 89
+    ux: 84
+    impact: 89
+- id: marktechpost-com
+  name: MarkTechPost
+  canonical_url: https://marktechpost.com/
+  country: XX
+  best_for: software engineering and developer practice
+  reason: MarkTechPost concentrates on software engineering and developer practice, with a discoverable feed, named authorship
+    that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://marktechpost.com/
+  - https://www.marktechpost.com/feed/
+  scores:
+    editorial_quality: 72
+    trust: 76
+    reach: 81
+    freshness: 89
+    ux: 84
+    impact: 89
+- id: thehackernews-com
+  name: The Hacker News
+  canonical_url: https://thehackernews.com/
+  country: XX
+  best_for: security, privacy, and cyber risk
+  reason: The Hacker News concentrates on security, privacy, and cyber risk, with a discoverable feed, a visible article archive
+    that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://thehackernews.com/
+  - https://thehackernews.com/feeds/posts/default
+  - https://thehackernews.com/p/about-us.html
+  scores:
+    editorial_quality: 74
+    trust: 75
+    reach: 89
+    freshness: 89
+    ux: 84
+    impact: 89
+- id: rehack-com
+  name: ReHack
+  canonical_url: https://rehack.com/
+  country: XX
+  best_for: security, privacy, and cyber risk
+  reason: ReHack concentrates on security, privacy, and cyber risk, with a visible article archive, clear ownership context
+    that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://rehack.com/
+  - https://rehack.com/ai/ai-bubble/
+  scores:
+    editorial_quality: 71
+    trust: 82
+    reach: 81
+    freshness: 78
+    ux: 84
+    impact: 64
+- id: datamation-com
+  name: Datamation
+  canonical_url: https://datamation.com/
+  country: XX
+  best_for: security, privacy, and cyber risk
+  reason: Datamation concentrates on security, privacy, and cyber risk, with a discoverable feed, named authorship that makes
+    its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://datamation.com/
+  - https://www.datamation.com/comments/feed/
+  scores:
+    editorial_quality: 72
+    trust: 76
+    reach: 83
+    freshness: 70
+    ux: 84
+    impact: 68
+- id: machinelearningmastery-com
+  name: MachineLearningMastery.com
+  canonical_url: https://machinelearningmastery.com/
+  country: XX
+  best_for: software engineering and developer practice
+  reason: MachineLearningMastery.com concentrates on software engineering and developer practice, with a discoverable feed,
+    a visible article archive that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://machinelearningmastery.com/
+  - https://machinelearningmastery.com/a-gentle-introduction-to-using-r-markdown/feed/
+  - https://machinelearningmastery.com/about/
+  scores:
+    editorial_quality: 74
+    trust: 89
+    reach: 87
+    freshness: 45
+    ux: 84
+    impact: 88
+- id: towardsai-net
+  name: Towards AI
+  canonical_url: https://towardsai.net/
+  country: XX
+  best_for: AI systems and their practical consequences
+  reason: Towards AI concentrates on AI systems and their practical consequences, with clear ownership context that makes
+    its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://towardsai.net/
+  - https://towardsai.com/feed
+  - https://towardsai.com/academy/about/
+  scores:
+    editorial_quality: 63
+    trust: 82
+    reach: 85
+    freshness: 89
+    ux: 84
+    impact: 84
+- id: techprate-com
+  name: TechPrate
+  canonical_url: https://techprate.com/
+  country: XX
+  best_for: devices and consumer technology
+  reason: TechPrate concentrates on devices and consumer technology, with a discoverable feed, a visible article archive that
+    makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://techprate.com/
+  - https://www.techprate.com/comments/feed/
+  - https://www.techprate.com/about/
+  scores:
+    editorial_quality: 72
+    trust: 89
+    reach: 66
+    freshness: 78
+    ux: 84
+    impact: 55
+- id: cybermagazine-com
+  name: Home of Cybersecurity News
+  canonical_url: https://cybermagazine.com/
+  country: XX
+  best_for: security, privacy, and cyber risk
+  reason: Home of Cybersecurity News concentrates on security, privacy, and cyber risk, with clear ownership context that
+    makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://cybermagazine.com/
+  - https://cybermagazine.com/about
+  scores:
+    editorial_quality: 67
+    trust: 75
+    reach: 81
+    freshness: 58
+    ux: 84
+    impact: 71
+- id: darkreading-com
+  name: Dark Reading
+  canonical_url: https://darkreading.com/
+  country: XX
+  best_for: security, privacy, and cyber risk
+  reason: Dark Reading concentrates on security, privacy, and cyber risk, with named authorship, clear ownership context that
+    makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://darkreading.com/
+  scores:
+    editorial_quality: 65
+    trust: 76
+    reach: 85
+    freshness: 58
+    ux: 84
+    impact: 89
+- id: aimagazine-com
+  name: The Latest AI News, Insights and Reports
+  canonical_url: https://aimagazine.com/
+  country: XX
+  best_for: AI systems and their practical consequences
+  reason: The Latest AI News, Insights and Reports concentrates on AI systems and their practical consequences, with named
+    authorship, clear ownership context that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://aimagazine.com/
+  - https://aimagazine.com/news/anthropic-research-shows-how-evil-ai-can-lie-and-sabotage
+  scores:
+    editorial_quality: 63
+    trust: 82
+    reach: 85
+    freshness: 58
+    ux: 84
+    impact: 74
+- id: themegrill-com
+  name: ThemeGrill
+  canonical_url: https://themegrill.com/
+  country: XX
+  best_for: WordPress publishing and development
+  reason: ThemeGrill concentrates on WordPress publishing and development, with a discoverable feed, clear ownership context
+    that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://themegrill.com/
+  - https://themegrill.com/blog/most-popular-wordpress-blogs-to-follow/feed/
+  - https://themegrill.com/about/
+  scores:
+    editorial_quality: 66
+    trust: 82
+    reach: 81
+    freshness: 45
+    ux: 84
+    impact: 89
+- id: onlinehikes-com
+  name: Online Hikes
+  canonical_url: https://onlinehikes.com/
+  country: XX
+  best_for: technology reporting and practical analysis
+  reason: Online Hikes concentrates on technology reporting and practical analysis, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://onlinehikes.com/
+  - https://onlinehikes.com/rss/
+  - https://onlinehikes.com/video-marketing-do-for-your-brand/
+  scores:
+    editorial_quality: 70
+    trust: 82
+    reach: 58
+    freshness: 45
+    ux: 84
+    impact: 52
+- id: openai-com
+  name: OpenAI
+  canonical_url: https://openai.com/
+  country: XX
+  best_for: AI systems and their practical consequences
+  reason: OpenAI concentrates on AI systems and their practical consequences, with a visible article archive, clear ownership
+    context that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://openai.com/
+  - https://openai.com/news/rss.xml
+  - https://openai.com/about/
+  scores:
+    editorial_quality: 69
+    trust: 77
+    reach: 89
+    freshness: 89
+    ux: 84
+    impact: 89
+- id: blog-google
+  name: blog.google
+  canonical_url: https://blog.google/
+  country: XX
+  best_for: security, privacy, and cyber risk
+  reason: blog.google concentrates on security, privacy, and cyber risk, with a visible article archive, named authorship
+    that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://blog.google/
+  scores:
+    editorial_quality: 73
+    trust: 64
+    reach: 89
+    freshness: 66
+    ux: 84
+    impact: 89
+- id: huggingface-co
+  name: Hugging Face
+  canonical_url: https://huggingface.co/
+  country: XX
+  best_for: AI systems and their practical consequences
+  reason: Hugging Face concentrates on AI systems and their practical consequences, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: Authorship and editorial-policy information is less visible than on higher-ranked publications.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://huggingface.co/
+  - https://huggingface.co/blog/feed.xml
+  - https://huggingface.co/enterprise
+  scores:
+    editorial_quality: 70
+    trust: 63
+    reach: 89
+    freshness: 89
+    ux: 84
+    impact: 89
+- id: engineering-fb-com
+  name: Engineering at Meta
+  canonical_url: https://engineering.fb.com/
+  country: XX
+  best_for: software engineering and developer practice
+  reason: Engineering at Meta concentrates on software engineering and developer practice, with a discoverable feed, a visible
+    article archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://engineering.fb.com/
+  - https://engineering.fb.com/category/ai-research/feed/
+  scores:
+    editorial_quality: 74
+    trust: 69
+    reach: 79
+    freshness: 89
+    ux: 84
+    impact: 86
+- id: bookingpressplugin-com
+  name: WordPress Booking Plugin for Appointment - BookingPress
+  canonical_url: https://bookingpressplugin.com/
+  country: XX
+  best_for: WordPress publishing and development
+  reason: WordPress Booking Plugin for Appointment - BookingPress concentrates on WordPress publishing and development, with
+    a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://bookingpressplugin.com/
+  - https://www.bookingpressplugin.com/comments/feed/
+  - https://www.bookingpressplugin.com/support/
+  scores:
+    editorial_quality: 74
+    trust: 75
+    reach: 75
+    freshness: 89
+    ux: 84
+    impact: 66
+- id: auth0-com
+  name: Auth0
+  canonical_url: https://auth0.com/
+  country: XX
+  best_for: AI systems and their practical consequences
+  reason: Auth0 concentrates on AI systems and their practical consequences, with named authorship that makes its current
+    publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://auth0.com/
+  - https://auth0.com/blog/rss.xml
+  scores:
+    editorial_quality: 63
+    trust: 76
+    reach: 89
+    freshness: 89
+    ux: 84
+    impact: 89
+- id: engineering-squarespace-com
+  name: Squarespace Engineering Blog
+  canonical_url: https://engineering.squarespace.com/
+  country: XX
+  best_for: software engineering and developer practice
+  reason: Squarespace Engineering Blog concentrates on software engineering and developer practice, with a discoverable feed,
+    a visible article archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://engineering.squarespace.com/
+  - https://engineering.squarespace.com/blog?format=rss
+  - https://engineering.squarespace.com/about
+  scores:
+    editorial_quality: 72
+    trust: 82
+    reach: 64
+    freshness: 89
+    ux: 84
+    impact: 72
+- id: tech-instacart-com
+  name: Tech
+  canonical_url: https://tech.instacart.com/
+  country: XX
+  best_for: software engineering and developer practice
+  reason: Tech concentrates on software engineering and developer practice, with a discoverable feed, clear ownership context
+    that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://tech.instacart.com/
+  - https://tech.instacart.com/feed
+  scores:
+    editorial_quality: 70
+    trust: 69
+    reach: 62
+    freshness: 88
+    ux: 84
+    impact: 76
+- id: engineering-indeedblog-com
+  name: Indeed Engineering Blog
+  canonical_url: https://engineering.indeedblog.com/
+  country: XX
+  best_for: software engineering and developer practice
+  reason: Indeed Engineering Blog concentrates on software engineering and developer practice, with a discoverable feed, a
+    visible article archive that makes its current publishing work easier to evaluate.
+  limitation: Authorship and editorial-policy information is less visible than on higher-ranked publications.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://engineering.indeedblog.com/
+  - https://engineering.indeedblog.com/comments/feed/
+  scores:
+    editorial_quality: 72
+    trust: 62
+    reach: 56
+    freshness: 89
+    ux: 84
+    impact: 71
+- id: deliveroo-engineering
+  name: deliveroo.engineering
+  canonical_url: https://deliveroo.engineering/
+  country: XX
+  best_for: software engineering and developer practice
+  reason: deliveroo.engineering concentrates on software engineering and developer practice, with a discoverable feed, named
+    authorship that makes its current publishing work easier to evaluate.
+  limitation: Authorship and editorial-policy information is less visible than on higher-ranked publications.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://deliveroo.engineering/
+  - https://deliveroo.engineering/feed.xml
+  - https://deliveroo.engineering/authors/
+  scores:
+    editorial_quality: 70
+    trust: 68
+    reach: 54
+    freshness: 78
+    ux: 84
+    impact: 73
+- id: eng-lyft-com
+  name: Eng
+  canonical_url: https://eng.lyft.com/
+  country: XX
+  best_for: software engineering and developer practice
+  reason: Eng concentrates on software engineering and developer practice, with a discoverable feed, clear ownership context
+    that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://eng.lyft.com/
+  - https://eng.lyft.com/feed
+  scores:
+    editorial_quality: 68
+    trust: 69
+    reach: 65
+    freshness: 70
+    ux: 84
+    impact: 78
+- id: tech-homeaway-com
+  name: Tech
+  canonical_url: https://tech.homeaway.com/
+  country: XX
+  best_for: technology reporting and practical analysis
+  reason: Tech concentrates on technology reporting and practical analysis, with a discoverable feed, clear ownership context
+    that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://tech.homeaway.com/
+  - https://medium.com/feed/expedia-group-tech
+  - https://medium.com/about?autoplay=1
+  scores:
+    editorial_quality: 70
+    trust: 75
+    reach: 40
+    freshness: 89
+    ux: 84
+    impact: 58
+- id: tech-just-eat-com
+  name: Tech
+  canonical_url: https://tech.just-eat.com/
+  country: XX
+  best_for: technology reporting and practical analysis
+  reason: Tech concentrates on technology reporting and practical analysis, with a discoverable feed, clear ownership context
+    that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://tech.just-eat.com/
+  - https://medium.com/feed/justeattakeaway-tech
+  scores:
+    editorial_quality: 68
+    trust: 69
+    reach: 44
+    freshness: 70
+    ux: 84
+    impact: 65
+- id: codesupply-co
+  name: Code Supply Co.
+  canonical_url: https://codesupply.co/
+  country: XX
+  best_for: security, privacy, and cyber risk
+  reason: Code Supply Co. concentrates on security, privacy, and cyber risk, with a visible article archive, clear ownership
+    context that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://codesupply.co/
+  - https://codesupply.co/pages/about-us/
+  scores:
+    editorial_quality: 69
+    trust: 82
+    reach: 82
+    freshness: 66
+    ux: 84
+    impact: 83
+- id: blog-lerner-co-il
+  name: LernerPython
+  canonical_url: https://blog.lerner.co.il/
+  country: XX
+  best_for: software engineering and developer practice
+  reason: LernerPython concentrates on software engineering and developer practice, with a discoverable feed, named authorship
+    that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://blog.lerner.co.il/
+  - https://lernerpython.com/feed/
+  - https://lernerpython.com/product/team-membership/
+  scores:
+    editorial_quality: 66
+    trust: 82
+    reach: 48
+    freshness: 89
+    ux: 84
+    impact: 65
+- id: benchling-engineering
+  name: Benchling
+  canonical_url: https://benchling.engineering/
+  country: XX
+  best_for: software engineering and developer practice
+  reason: Benchling concentrates on software engineering and developer practice, with a discoverable feed, clear ownership
+    context that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://benchling.engineering/
+  - https://benchling.engineering/feed
+  scores:
+    editorial_quality: 66
+    trust: 69
+    reach: 65
+    freshness: 62
+    ux: 84
+    impact: 69
+- id: hackernoon-com
+  name: HackerNoon
+  canonical_url: https://hackernoon.com/
+  country: XX
+  best_for: software engineering and developer practice
+  reason: HackerNoon concentrates on software engineering and developer practice, with a visible article archive, clear ownership
+    context that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://hackernoon.com/
+  scores:
+    editorial_quality: 75
+    trust: 69
+    reach: 89
+    freshness: 66
+    ux: 84
+    impact: 89
+- id: technewsworld-com
+  name: TechNewsWorld
+  canonical_url: https://technewsworld.com/
+  country: XX
+  best_for: security, privacy, and cyber risk
+  reason: TechNewsWorld concentrates on security, privacy, and cyber risk, with a discoverable feed, clear ownership context
+    that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://technewsworld.com/
+  - https://www.technewsworld.com/section/tech-blog/feed
+  - https://www.technewsworld.com/story/the-world-cup-var-scandal-wasnt-really-about-technology-180447.html
+  scores:
+    editorial_quality: 74
+    trust: 82
+    reach: 82
+    freshness: 89
+    ux: 84
+    impact: 78
+- id: computerworld-com
+  name: Computerworld
+  canonical_url: https://computerworld.com/
+  country: XX
+  best_for: software engineering and developer practice
+  reason: Computerworld concentrates on software engineering and developer practice, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://computerworld.com/
+  - https://www.computerworld.com/comments/feed/
+  - https://www.computerworld.com/article/4204562/google-selfie-security.html
+  scores:
+    editorial_quality: 76
+    trust: 89
+    reach: 89
+    freshness: 89
+    ux: 84
+    impact: 86
+- id: extremetech-com
+  name: ExtremeTech
+  canonical_url: https://extremetech.com/
+  country: XX
+  best_for: software engineering and developer practice
+  reason: ExtremeTech concentrates on software engineering and developer practice, with a discoverable feed, named authorship
+    that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://extremetech.com/
+  - https://www.extremetech.com/feed
+  - https://www.extremetech.com/about
+  scores:
+    editorial_quality: 72
+    trust: 89
+    reach: 89
+    freshness: 89
+    ux: 84
+    impact: 86
+- id: geekwire-com
+  name: GeekWire
+  canonical_url: https://geekwire.com/
+  country: XX
+  best_for: technology reporting and practical analysis
+  reason: GeekWire concentrates on technology reporting and practical analysis, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://geekwire.com/
+  - https://www.geekwire.com/feed/
+  - https://www.geekwire.com/#
+  scores:
+    editorial_quality: 72
+    trust: 89
+    reach: 89
+    freshness: 89
+    ux: 84
+    impact: 81
+- id: blog-bit-ai
+  name: Bit
+  canonical_url: https://blog.bit.ai/
+  country: XX
+  best_for: AI systems and their practical consequences
+  reason: Bit concentrates on AI systems and their practical consequences, with a discoverable feed, a visible article archive
+    that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://blog.bit.ai/
+  - https://blog.bit.ai/comments/feed/
+  - https://blog.bit.ai/team-collaboration-hub/
+  scores:
+    editorial_quality: 72
+    trust: 75
+    reach: 78
+    freshness: 89
+    ux: 84
+    impact: 63
+- id: macworld-com
+  name: Macworld
+  canonical_url: https://macworld.com/
+  country: XX
+  best_for: AI systems and their practical consequences
+  reason: Macworld concentrates on AI systems and their practical consequences, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://macworld.com/
+  - https://www.macworld.com/comments/feed
+  - https://www.macworld.com/about
+  scores:
+    editorial_quality: 70
+    trust: 82
+    reach: 89
+    freshness: 89
+    ux: 84
+    impact: 85
+- id: techbusinessnews-com-au
+  name: Tech Business News
+  canonical_url: https://techbusinessnews.com.au/
+  country: AU
+  best_for: technology reporting and practical analysis
+  reason: Tech Business News concentrates on technology reporting and practical analysis, with a discoverable feed, named
+    authorship that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://techbusinessnews.com.au/
+  - https://www.techbusinessnews.com.au/feed/
+  - https://www.techbusinessnews.com.au/#
+  scores:
+    editorial_quality: 68
+    trust: 89
+    reach: 75
+    freshness: 89
+    ux: 84
+    impact: 76
+- id: informationweek-com
+  name: Information Week
+  canonical_url: https://informationweek.com/
+  country: XX
+  best_for: technology reporting and practical analysis
+  reason: Information Week concentrates on technology reporting and practical analysis, with a visible article archive, named
+    authorship that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://informationweek.com/
+  - https://www.informationweek.com/about-us
+  scores:
+    editorial_quality: 67
+    trust: 89
+    reach: 88
+    freshness: 66
+    ux: 84
+    impact: 82
+- id: developer-wordpress-com
+  name: WordPress.com Developer Resources
+  canonical_url: https://developer.wordpress.com/
+  country: XX
+  best_for: software engineering and developer practice
+  reason: WordPress.com Developer Resources concentrates on software engineering and developer practice, with a discoverable
+    feed, clear ownership context that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://developer.wordpress.com/
+  - https://developer.wordpress.com/comments/feed/
+  scores:
+    editorial_quality: 68
+    trust: 76
+    reach: 74
+    freshness: 45
+    ux: 84
+    impact: 87
+- id: thenextweb-com
+  name: TNW
+  canonical_url: https://thenextweb.com/
+  country: XX
+  best_for: technology reporting and practical analysis
+  reason: TNW concentrates on technology reporting and practical analysis, with a visible article archive, named authorship
+    that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://thenextweb.com/
+  - https://thenextweb.com/news/chatgpt-imessage-plugin-apple-privacy
+  scores:
+    editorial_quality: 65
+    trust: 75
+    reach: 89
+    freshness: 89
+    ux: 84
+    impact: 86
+- id: caffeinatedkyle-com
+  name: Caffeinatedkyle
+  canonical_url: https://caffeinatedkyle.com/
+  country: XX
+  best_for: technology reporting and practical analysis
+  reason: Caffeinatedkyle concentrates on technology reporting and practical analysis, with a visible article archive, named
+    authorship that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://caffeinatedkyle.com/
+  - https://caffeinatedkyle.com/about/
+  scores:
+    editorial_quality: 65
+    trust: 82
+    reach: 69
+    freshness: 89
+    ux: 84
+    impact: 57
+- id: techlife-blog
+  name: TechLife — AI, Software Engineering & Emerging Technology
+  canonical_url: https://techlife.blog/
+  country: XX
+  best_for: software engineering and developer practice
+  reason: TechLife — AI, Software Engineering & Emerging Technology concentrates on software engineering and developer practice,
+    with a discoverable feed, named authorship that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://techlife.blog/
+  - https://techlife.blog/rss.xml
+  - https://techlife.blog/about
+  scores:
+    editorial_quality: 72
+    trust: 82
+    reach: 53
+    freshness: 78
+    ux: 84
+    impact: 57
+- id: archiveprogram-github-com
+  name: GitHub Archive Program
+  canonical_url: https://archiveprogram.github.com/
+  country: XX
+  best_for: software engineering and developer practice
+  reason: GitHub Archive Program concentrates on software engineering and developer practice, with a discoverable feed that
+    makes its current publishing work easier to evaluate.
+  limitation: Authorship and editorial-policy information is less visible than on higher-ranked publications.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://archiveprogram.github.com/
+  - https://archiveprogram.github.com/feed.xml
+  scores:
+    editorial_quality: 68
+    trust: 55
+    reach: 78
+    freshness: 89
+    ux: 76
+    impact: 89
+- id: techthelead-com
+  name: TechTheLead
+  canonical_url: https://techthelead.com/
+  country: XX
+  best_for: technology reporting and practical analysis
+  reason: TechTheLead concentrates on technology reporting and practical analysis, with a discoverable feed, named authorship
+    that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://techthelead.com/
+  - https://techthelead.com/comments/feed/
+  - https://techthelead.com/lan-parties-book-nostalgia-merrit-k/
+  scores:
+    editorial_quality: 66
+    trust: 89
+    reach: 72
+    freshness: 45
+    ux: 84
+    impact: 66
+- id: daily-dev
+  name: daily.dev
+  canonical_url: https://daily.dev/
+  country: XX
+  best_for: software engineering and developer practice
+  reason: daily.dev concentrates on software engineering and developer practice, with a visible article archive, clear ownership
+    context that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://daily.dev/
+  - https://daily.dev/posts/community-take-see-what-other-developers-think-about-a-post-bkduk0um3
+  scores:
+    editorial_quality: 71
+    trust: 82
+    reach: 88
+    freshness: 66
+    ux: 76
+    impact: 70
+- id: developers-googleblog-com
+  name: Developers
+  canonical_url: https://developers.googleblog.com/
+  country: XX
+  best_for: software engineering and developer practice
+  reason: Developers concentrates on software engineering and developer practice, with a visible article archive that makes
+    its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://developers.googleblog.com/
+  - https://developers.googleblog.com/heygen-x-google-cloud-bringing-avatar-iv-to-tpus/
+  scores:
+    editorial_quality: 67
+    trust: 68
+    reach: 89
+    freshness: 63
+    ux: 84
+    impact: 89

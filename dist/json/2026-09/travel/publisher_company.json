@@ -1,0 +1,1886 @@
+{
+  "schema_version": 1,
+  "edition": "2026-09",
+  "status": "final",
+  "category": {
+    "slug": "travel",
+    "name": "Travel",
+    "description": "Original destination reporting, practical travel guidance, and experience-led cultural coverage.",
+    "subcategories": [
+      "budget",
+      "luxury",
+      "family",
+      "solo",
+      "destination-reporting"
+    ]
+  },
+  "track": {
+    "slug": "publisher_company",
+    "label": "Publisher and Company Blogs"
+  },
+  "count": 100,
+  "items": [
+    {
+      "rank": 1,
+      "id": "travelandleisure-com",
+      "name": "Travel + Leisure",
+      "url": "https://travelandleisure.com/",
+      "country": "XX",
+      "score": 98.0,
+      "movement": "new",
+      "best_for": "solo travel and independent trip planning",
+      "reason": "Travel + Leisure concentrates on solo travel and independent trip planning, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://travelandleisure.com/",
+        "https://feeds-api.dotdashmeredith.com/v1/rss/google/90b927aa-066f-4f66-9162-a018ad8ea366"
+      ]
+    },
+    {
+      "rank": 2,
+      "id": "cntraveler-com",
+      "name": "Condé Nast Traveler",
+      "url": "https://cntraveler.com/",
+      "country": "XX",
+      "score": 97.0,
+      "movement": "new",
+      "best_for": "solo travel and independent trip planning",
+      "reason": "Condé Nast Traveler concentrates on solo travel and independent trip planning, with a discoverable feed, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "The homepage is heavier and more commercially layered than a focused reading experience.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://cntraveler.com/",
+        "https://www.cntraveler.com/feed/rss",
+        "https://www.cntraveler.com/info/about-us"
+      ]
+    },
+    {
+      "rank": 3,
+      "id": "afar-com",
+      "name": "AFAR Media",
+      "url": "https://afar.com/",
+      "country": "XX",
+      "score": 96.0,
+      "movement": "new",
+      "best_for": "solo travel and independent trip planning",
+      "reason": "AFAR Media concentrates on solo travel and independent trip planning, with a discoverable feed, named authorship that makes its current publishing work easier to evaluate.",
+      "limitation": "Some complete material may require registration, membership, or a paid subscription.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://afar.com/",
+        "https://www.afar.com/index.atom"
+      ]
+    },
+    {
+      "rank": 4,
+      "id": "lonelyplanet-com",
+      "name": "Lonely Planet",
+      "url": "https://lonelyplanet.com/",
+      "country": "XX",
+      "score": 95.0,
+      "movement": "new",
+      "best_for": "solo travel and independent trip planning",
+      "reason": "Lonely Planet concentrates on solo travel and independent trip planning, with a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://lonelyplanet.com/"
+      ]
+    },
+    {
+      "rank": 5,
+      "id": "wanderlustmagazine-com",
+      "name": "Wanderlust",
+      "url": "https://wanderlustmagazine.com/",
+      "country": "XX",
+      "score": 94.0,
+      "movement": "new",
+      "best_for": "solo travel and independent trip planning",
+      "reason": "Wanderlust concentrates on solo travel and independent trip planning, with a visible article archive, named authorship that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://wanderlustmagazine.com/",
+        "https://www.wanderlustmagazine.com/inspiration/7-new-hotel-openings-we-are-most-excited-about-right-now/"
+      ]
+    },
+    {
+      "rank": 6,
+      "id": "onemileatatime-com",
+      "name": "One Mile at a Time",
+      "url": "https://onemileatatime.com/",
+      "country": "XX",
+      "score": 93.0,
+      "movement": "new",
+      "best_for": "travel planning and destination insight",
+      "reason": "One Mile at a Time concentrates on travel planning and destination insight, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://onemileatatime.com/",
+        "https://onemileatatime.com/feed/",
+        "https://onemileatatime.com/about-one-mile-at-a-time/"
+      ]
+    },
+    {
+      "rank": 7,
+      "id": "the-independent-com",
+      "name": "The Independent",
+      "url": "https://the-independent.com/",
+      "country": "XX",
+      "score": 92.0,
+      "movement": "new",
+      "best_for": "budget travel and long-term exploration",
+      "reason": "The Independent concentrates on budget travel and long-term exploration, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://the-independent.com/",
+        "https://www.the-independent.com/independent-newsletters/rss",
+        "https://www.the-independent.com/service/external-contributors-policy-7905982.html"
+      ]
+    },
+    {
+      "rank": 8,
+      "id": "vogue-com",
+      "name": "Vogue",
+      "url": "https://vogue.com/",
+      "country": "XX",
+      "score": 91.0,
+      "movement": "new",
+      "best_for": "solo travel and independent trip planning",
+      "reason": "Vogue concentrates on solo travel and independent trip planning, with a discoverable feed, named authorship that makes its current publishing work easier to evaluate.",
+      "limitation": "The homepage is heavier and more commercially layered than a focused reading experience.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://vogue.com/",
+        "https://www.vogue.com/feed/rss",
+        "https://www.vogue.com/about-us"
+      ]
+    },
+    {
+      "rank": 9,
+      "id": "sunset-com",
+      "name": "Sunset Magazine",
+      "url": "https://sunset.com/",
+      "country": "XX",
+      "score": 90.0,
+      "movement": "new",
+      "best_for": "solo travel and independent trip planning",
+      "reason": "Sunset Magazine concentrates on solo travel and independent trip planning, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://sunset.com/",
+        "https://sunset.com/comments/feed",
+        "https://sunset.com/home-garden/home-tours/montecito-ranch-house-perfect-for-entertaining"
+      ]
+    },
+    {
+      "rank": 10,
+      "id": "atlasandboots-com",
+      "name": "Atlas & Boots",
+      "url": "https://atlasandboots.com/",
+      "country": "XX",
+      "score": 89.0,
+      "movement": "new",
+      "best_for": "travel planning and destination insight",
+      "reason": "Atlas & Boots concentrates on travel planning and destination insight, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://atlasandboots.com/",
+        "https://www.atlasandboots.com/comments/feed/"
+      ]
+    },
+    {
+      "rank": 11,
+      "id": "theblondeabroad-com",
+      "name": "The Blonde Abroad",
+      "url": "https://theblondeabroad.com/",
+      "country": "XX",
+      "score": 84.0,
+      "movement": "new",
+      "best_for": "solo travel and independent trip planning",
+      "reason": "The Blonde Abroad concentrates on solo travel and independent trip planning, with a discoverable feed, named authorship that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://theblondeabroad.com/",
+        "https://www.theblondeabroad.com/comments/feed/",
+        "https://www.theblondeabroad.com/about-me-5/"
+      ]
+    },
+    {
+      "rank": 12,
+      "id": "kiplinger-com",
+      "name": "Kiplinger",
+      "url": "https://kiplinger.com/",
+      "country": "XX",
+      "score": 83.0,
+      "movement": "new",
+      "best_for": "solo travel and independent trip planning",
+      "reason": "Kiplinger concentrates on solo travel and independent trip planning, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The homepage is heavier and more commercially layered than a focused reading experience.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://kiplinger.com/",
+        "https://www.kiplinger.com/feeds.xml",
+        "https://www.kiplinger.com/retirement/estate-planning/how-to-discuss-estate-planning-with-your-family"
+      ]
+    },
+    {
+      "rank": 13,
+      "id": "ottsworld-com",
+      "name": "OttsWorld",
+      "url": "https://ottsworld.com/",
+      "country": "XX",
+      "score": 82.2,
+      "movement": "new",
+      "best_for": "solo travel and independent trip planning",
+      "reason": "OttsWorld concentrates on solo travel and independent trip planning, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://ottsworld.com/",
+        "https://www.ottsworld.com/home/feed/",
+        "https://www.ottsworld.com/about-3/"
+      ]
+    },
+    {
+      "rank": 14,
+      "id": "theworldtravelguy-com",
+      "name": "The World Travel Guy",
+      "url": "https://theworldtravelguy.com/",
+      "country": "XX",
+      "score": 82.2,
+      "movement": "new",
+      "best_for": "travel planning and destination insight",
+      "reason": "The World Travel Guy concentrates on travel planning and destination insight, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://theworldtravelguy.com/",
+        "https://theworldtravelguy.com/comments/feed/",
+        "https://theworldtravelguy.com/about/"
+      ]
+    },
+    {
+      "rank": 15,
+      "id": "nomadasaurus-com",
+      "name": "NOMADasaurus Staging",
+      "url": "https://nomadasaurus.com/",
+      "country": "XX",
+      "score": 81.7,
+      "movement": "new",
+      "best_for": "adventure travel and outdoor destinations",
+      "reason": "NOMADasaurus Staging concentrates on adventure travel and outdoor destinations, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://nomadasaurus.com/",
+        "https://www.nomadasaurus.com/comments/feed/",
+        "https://www.nomadasaurus.com/about/"
+      ]
+    },
+    {
+      "rank": 16,
+      "id": "princeoftravel-com",
+      "name": "Prince of Travel",
+      "url": "https://princeoftravel.com/",
+      "country": "XX",
+      "score": 81.6,
+      "movement": "new",
+      "best_for": "travel planning and destination insight",
+      "reason": "Prince of Travel concentrates on travel planning and destination insight, with a discoverable feed, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://princeoftravel.com/",
+        "https://princeoftravel.com/feed/",
+        "https://princeoftravel.com/about/"
+      ]
+    },
+    {
+      "rank": 17,
+      "id": "elitetraveler-com",
+      "name": "Elite Traveler",
+      "url": "https://elitetraveler.com/",
+      "country": "XX",
+      "score": 81.5,
+      "movement": "new",
+      "best_for": "luxury travel and destination experiences",
+      "reason": "Elite Traveler concentrates on luxury travel and destination experiences, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://elitetraveler.com/",
+        "https://elitetraveler.com/comments/feed",
+        "https://elitetraveler.com/about-us"
+      ]
+    },
+    {
+      "rank": 18,
+      "id": "bridgesandballoons-com",
+      "name": "Bridges & Balloons | Family travel guides",
+      "url": "https://bridgesandballoons.com/",
+      "country": "XX",
+      "score": 81.2,
+      "movement": "new",
+      "best_for": "family travel and practical itineraries",
+      "reason": "Bridges & Balloons | Family travel guides concentrates on family travel and practical itineraries, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://bridgesandballoons.com/",
+        "https://bridgesandballoons.com/web-stories/feed/",
+        "https://bridgesandballoons.com/about/"
+      ]
+    },
+    {
+      "rank": 19,
+      "id": "theweek-com",
+      "name": "The Week",
+      "url": "https://theweek.com/",
+      "country": "XX",
+      "score": 81.2,
+      "movement": "new",
+      "best_for": "travel planning and destination insight",
+      "reason": "The Week concentrates on travel planning and destination insight, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The homepage is heavier and more commercially layered than a focused reading experience.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://theweek.com/",
+        "https://theweek.com/feeds/tag/culture-life",
+        "https://theweek.com/feature/1020838/jk-rowlings-transphobia-controversy-a-complete-timeline"
+      ]
+    },
+    {
+      "rank": 20,
+      "id": "alittleadrift-com",
+      "name": "A Little Adrift Travel Blog",
+      "url": "https://alittleadrift.com/",
+      "country": "XX",
+      "score": 81.0,
+      "movement": "new",
+      "best_for": "family travel and practical itineraries",
+      "reason": "A Little Adrift Travel Blog concentrates on family travel and practical itineraries, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://alittleadrift.com/",
+        "https://alittleadrift.com/comments/feed/",
+        "https://alittleadrift.com/about/"
+      ]
+    },
+    {
+      "rank": 21,
+      "id": "thetravelmagazine-net",
+      "name": "The Travel Magazine",
+      "url": "https://thetravelmagazine.net/",
+      "country": "XX",
+      "score": 81.0,
+      "movement": "new",
+      "best_for": "luxury travel and destination experiences",
+      "reason": "The Travel Magazine concentrates on luxury travel and destination experiences, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://thetravelmagazine.net/",
+        "https://www.thetravelmagazine.net/luxury/feed/",
+        "https://www.thetravelmagazine.net/about/"
+      ]
+    },
+    {
+      "rank": 22,
+      "id": "wanderlustcraze-com",
+      "name": "WanderlustCraze",
+      "url": "https://wanderlustcraze.com/",
+      "country": "XX",
+      "score": 80.9,
+      "movement": "new",
+      "best_for": "travel planning and destination insight",
+      "reason": "WanderlustCraze concentrates on travel planning and destination insight, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://wanderlustcraze.com/",
+        "https://wanderlustcraze.com/comments/feed/",
+        "https://wanderlustcraze.com/about-us/"
+      ]
+    },
+    {
+      "rank": 23,
+      "id": "goatsontheroad-com",
+      "name": "Goats On The Road",
+      "url": "https://goatsontheroad.com/",
+      "country": "XX",
+      "score": 80.6,
+      "movement": "new",
+      "best_for": "travel planning and destination insight",
+      "reason": "Goats On The Road concentrates on travel planning and destination insight, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://goatsontheroad.com/",
+        "https://www.goatsontheroad.com/comments/feed/",
+        "https://www.goatsontheroad.com/who-are-the-goats/"
+      ]
+    },
+    {
+      "rank": 24,
+      "id": "bcdtravel-com",
+      "name": "BCD Travel",
+      "url": "https://bcdtravel.com/",
+      "country": "XX",
+      "score": 80.4,
+      "movement": "new",
+      "best_for": "travel planning and destination insight",
+      "reason": "BCD Travel concentrates on travel planning and destination insight, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://bcdtravel.com/",
+        "https://www.bcdtravel.com/comments/feed/",
+        "https://www.bcdtravel.com/get-to-know-us/"
+      ]
+    },
+    {
+      "rank": 25,
+      "id": "adventuremomblog-com",
+      "name": "Adventure Mom",
+      "url": "https://adventuremomblog.com/",
+      "country": "XX",
+      "score": 80.2,
+      "movement": "new",
+      "best_for": "adventure travel and outdoor destinations",
+      "reason": "Adventure Mom concentrates on adventure travel and outdoor destinations, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://adventuremomblog.com/",
+        "https://adventuremomblog.com/web-stories/feed/",
+        "https://adventuremomblog.com/about-contact/"
+      ]
+    },
+    {
+      "rank": 26,
+      "id": "travelbooksfood-com",
+      "name": "Travel, Books & Food",
+      "url": "https://travelbooksfood.com/",
+      "country": "XX",
+      "score": 80.0,
+      "movement": "new",
+      "best_for": "solo travel and independent trip planning",
+      "reason": "Travel, Books & Food concentrates on solo travel and independent trip planning, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://travelbooksfood.com/",
+        "https://travelbooksfood.com/web-stories/feed/",
+        "https://travelbooksfood.com/about-me"
+      ]
+    },
+    {
+      "rank": 27,
+      "id": "destinationlesstravel-com",
+      "name": "Destinationless Travel",
+      "url": "https://destinationlesstravel.com/",
+      "country": "XX",
+      "score": 79.6,
+      "movement": "new",
+      "best_for": "travel planning and destination insight",
+      "reason": "Destinationless Travel concentrates on travel planning and destination insight, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The homepage is heavier and more commercially layered than a focused reading experience.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://destinationlesstravel.com/",
+        "https://destinationlesstravel.com/web-stories/feed/",
+        "https://destinationlesstravel.com/about/"
+      ]
+    },
+    {
+      "rank": 28,
+      "id": "finduslost-com",
+      "name": "Find Us Lost - Travel Guides for the modern world traveler",
+      "url": "https://finduslost.com/",
+      "country": "XX",
+      "score": 79.6,
+      "movement": "new",
+      "best_for": "travel planning and destination insight",
+      "reason": "Find Us Lost - Travel Guides for the modern world traveler concentrates on travel planning and destination insight, with a discoverable feed, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://finduslost.com/",
+        "https://finduslost.com/comments/feed/",
+        "https://finduslost.com/about/"
+      ]
+    },
+    {
+      "rank": 29,
+      "id": "halfhalftravel-com",
+      "name": "Half Half Travel",
+      "url": "https://halfhalftravel.com/",
+      "country": "XX",
+      "score": 79.6,
+      "movement": "new",
+      "best_for": "solo travel and independent trip planning",
+      "reason": "Half Half Travel concentrates on solo travel and independent trip planning, with a discoverable feed, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://halfhalftravel.com/",
+        "https://www.halfhalftravel.com/all-posts.xml",
+        "https://www.halfhalftravel.com/our-story/"
+      ]
+    },
+    {
+      "rank": 30,
+      "id": "mrsoaroundtheworld-com",
+      "name": "Mrs. O Around the World",
+      "url": "https://mrsoaroundtheworld.com/",
+      "country": "XX",
+      "score": 79.5,
+      "movement": "new",
+      "best_for": "luxury travel and destination experiences",
+      "reason": "Mrs. O Around the World concentrates on luxury travel and destination experiences, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://mrsoaroundtheworld.com/",
+        "https://mrsoaroundtheworld.com/feed/",
+        "https://mrsoaroundtheworld.com/about/"
+      ]
+    },
+    {
+      "rank": 31,
+      "id": "ciaobambino-com",
+      "name": "Ciao Bambino!",
+      "url": "https://ciaobambino.com/",
+      "country": "XX",
+      "score": 79.3,
+      "movement": "new",
+      "best_for": "family travel and practical itineraries",
+      "reason": "Ciao Bambino! concentrates on family travel and practical itineraries, with a discoverable feed, named authorship that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://ciaobambino.com/",
+        "https://ciaobambino.com/comments/feed",
+        "https://ciaobambino.com/editorial#"
+      ]
+    },
+    {
+      "rank": 32,
+      "id": "minitravellers-co-uk",
+      "name": "Mini Travellers - Family Travel & Family Holiday Tips",
+      "url": "https://minitravellers.co.uk/",
+      "country": "GB",
+      "score": 78.2,
+      "movement": "new",
+      "best_for": "family travel and practical itineraries",
+      "reason": "Mini Travellers - Family Travel & Family Holiday Tips concentrates on family travel and practical itineraries, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://minitravellers.co.uk/",
+        "https://minitravellers.co.uk/comments/feed/",
+        "https://minitravellers.co.uk/about-us/"
+      ]
+    },
+    {
+      "rank": 33,
+      "id": "recommend-com",
+      "name": "Recommend Magazine",
+      "url": "https://recommend.com/",
+      "country": "XX",
+      "score": 78.2,
+      "movement": "new",
+      "best_for": "travel planning and destination insight",
+      "reason": "Recommend Magazine concentrates on travel planning and destination insight, with a discoverable feed, named authorship that makes its current publishing work easier to evaluate.",
+      "limitation": "The homepage is heavier and more commercially layered than a focused reading experience.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://recommend.com/",
+        "https://recommend.com/travel-news-magazine/feed/",
+        "https://recommend.com/travel-interests/cruise/scenic-group-expands-u-s-and-latin-america-sales-team-with-two-key-hires/"
+      ]
+    },
+    {
+      "rank": 34,
+      "id": "nationalgeographic-com",
+      "name": "National Geographic",
+      "url": "https://nationalgeographic.com/",
+      "country": "XX",
+      "score": 78.0,
+      "movement": "new",
+      "best_for": "family travel and practical itineraries",
+      "reason": "National Geographic concentrates on family travel and practical itineraries, with a visible article archive, named authorship that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://nationalgeographic.com/",
+        "https://www.nationalgeographic.com/impact"
+      ]
+    },
+    {
+      "rank": 35,
+      "id": "belaroundtheworld-com",
+      "name": "Bel Around The World",
+      "url": "https://belaroundtheworld.com/",
+      "country": "XX",
+      "score": 77.9,
+      "movement": "new",
+      "best_for": "adventure travel and outdoor destinations",
+      "reason": "Bel Around The World concentrates on adventure travel and outdoor destinations, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://belaroundtheworld.com/",
+        "https://www.belaroundtheworld.com/comments/feed/",
+        "https://www.belaroundtheworld.com/about/"
+      ]
+    },
+    {
+      "rank": 36,
+      "id": "worldofwanderlust-com",
+      "name": "World of Wanderlust",
+      "url": "https://worldofwanderlust.com/",
+      "country": "XX",
+      "score": 77.5,
+      "movement": "new",
+      "best_for": "solo travel and independent trip planning",
+      "reason": "World of Wanderlust concentrates on solo travel and independent trip planning, with a discoverable feed that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://worldofwanderlust.com/",
+        "https://www.worldofwanderlust.com/comments/feed/"
+      ]
+    },
+    {
+      "rank": 37,
+      "id": "travelwithwendy-net",
+      "name": "Travel with Wendy & Associates",
+      "url": "https://travelwithwendy.net/",
+      "country": "XX",
+      "score": 77.2,
+      "movement": "new",
+      "best_for": "adventure travel and outdoor destinations",
+      "reason": "Travel with Wendy & Associates concentrates on adventure travel and outdoor destinations, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://travelwithwendy.net/",
+        "https://travelwithwendy.net/comments/feed/",
+        "https://travelwithwendy.net/meet-our-team/"
+      ]
+    },
+    {
+      "rank": 38,
+      "id": "talkbitz-com",
+      "name": "TalkBitz",
+      "url": "https://talkbitz.com/",
+      "country": "XX",
+      "score": 77.1,
+      "movement": "new",
+      "best_for": "adventure travel and outdoor destinations",
+      "reason": "TalkBitz concentrates on adventure travel and outdoor destinations, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://talkbitz.com/",
+        "https://talkbitz.com/comments/feed/",
+        "https://talkbitz.com/about/"
+      ]
+    },
+    {
+      "rank": 39,
+      "id": "ontheluce-com",
+      "name": "On the Luce travel blog",
+      "url": "https://ontheluce.com/",
+      "country": "XX",
+      "score": 77.0,
+      "movement": "new",
+      "best_for": "travel planning and destination insight",
+      "reason": "On the Luce travel blog concentrates on travel planning and destination insight, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Authorship and editorial-policy information is less visible than on higher-ranked publications.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://ontheluce.com/",
+        "https://www.ontheluce.com/comments/feed/",
+        "https://www.ontheluce.com/about-me/"
+      ]
+    },
+    {
+      "rank": 40,
+      "id": "insidethetravellab-com",
+      "name": "Inside the Travel Lab",
+      "url": "https://insidethetravellab.com/",
+      "country": "XX",
+      "score": 76.6,
+      "movement": "new",
+      "best_for": "travel planning and destination insight",
+      "reason": "Inside the Travel Lab concentrates on travel planning and destination insight, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://insidethetravellab.com/",
+        "https://www.insidethetravellab.com/comments/feed/",
+        "https://www.insidethetravellab.com/about"
+      ]
+    },
+    {
+      "rank": 41,
+      "id": "luxurytravelmagazine-com",
+      "name": "Luxurytravelmagazine",
+      "url": "https://luxurytravelmagazine.com/",
+      "country": "XX",
+      "score": 76.2,
+      "movement": "new",
+      "best_for": "family travel and practical itineraries",
+      "reason": "Luxurytravelmagazine concentrates on family travel and practical itineraries, with named authorship, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://luxurytravelmagazine.com/",
+        "https://www.luxurytravelmagazine.com/about-us/luxury-partners"
+      ]
+    },
+    {
+      "rank": 42,
+      "id": "creditdonkey-com",
+      "name": "CreditDonkey",
+      "url": "https://creditdonkey.com/",
+      "country": "XX",
+      "score": 75.9,
+      "movement": "new",
+      "best_for": "budget travel and long-term exploration",
+      "reason": "CreditDonkey concentrates on budget travel and long-term exploration, with a discoverable feed, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://creditdonkey.com/",
+        "https://www.creditdonkey.com/about-us.html"
+      ]
+    },
+    {
+      "rank": 43,
+      "id": "joujoutravels-com",
+      "name": "Jou Jou Travels | Hidden Gems & Solo Travel",
+      "url": "https://joujoutravels.com/",
+      "country": "XX",
+      "score": 75.9,
+      "movement": "new",
+      "best_for": "solo travel and independent trip planning",
+      "reason": "Jou Jou Travels | Hidden Gems & Solo Travel concentrates on solo travel and independent trip planning, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://joujoutravels.com/",
+        "https://joujoutravels.com/web-stories/feed/",
+        "https://joujoutravels.com/contact/"
+      ]
+    },
+    {
+      "rank": 44,
+      "id": "nymag-com",
+      "name": "New York Magazine",
+      "url": "https://nymag.com/",
+      "country": "XX",
+      "score": 75.8,
+      "movement": "new",
+      "best_for": "travel planning and destination insight",
+      "reason": "New York Magazine concentrates on travel planning and destination insight, with named authorship, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://nymag.com/",
+        "https://nymag.com/newyork/aboutus/"
+      ]
+    },
+    {
+      "rank": 45,
+      "id": "pocketwanderings-com",
+      "name": "Pocket Wanderings",
+      "url": "https://pocketwanderings.com/",
+      "country": "XX",
+      "score": 75.5,
+      "movement": "new",
+      "best_for": "luxury travel and destination experiences",
+      "reason": "Pocket Wanderings concentrates on luxury travel and destination experiences, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://pocketwanderings.com/",
+        "https://www.pocketwanderings.com/comments/feed/",
+        "https://www.pocketwanderings.com/#"
+      ]
+    },
+    {
+      "rank": 46,
+      "id": "fouraroundtheworld-com",
+      "name": "Four Around The World",
+      "url": "https://fouraroundtheworld.com/",
+      "country": "XX",
+      "score": 75.5,
+      "movement": "new",
+      "best_for": "family travel and practical itineraries",
+      "reason": "Four Around The World concentrates on family travel and practical itineraries, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://fouraroundtheworld.com/",
+        "https://fouraroundtheworld.com/comments/feed/",
+        "https://fouraroundtheworld.com/about/"
+      ]
+    },
+    {
+      "rank": 47,
+      "id": "anywhere-com",
+      "name": "Anywhere.com",
+      "url": "https://anywhere.com/",
+      "country": "XX",
+      "score": 75.2,
+      "movement": "new",
+      "best_for": "budget travel and long-term exploration",
+      "reason": "Anywhere.com concentrates on budget travel and long-term exploration, with a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://anywhere.com/",
+        "https://www.anywhere.com/company?utm_source=blog&utm_medium=button&utm_campaign=header&utm_id=microsite&utm_content=About-Us"
+      ]
+    },
+    {
+      "rank": 48,
+      "id": "nerdwallet-com",
+      "name": "NerdWallet",
+      "url": "https://nerdwallet.com/",
+      "country": "XX",
+      "score": 75.2,
+      "movement": "new",
+      "best_for": "travel planning and destination insight",
+      "reason": "NerdWallet concentrates on travel planning and destination insight, with a visible article archive, named authorship that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://nerdwallet.com/"
+      ]
+    },
+    {
+      "rank": 49,
+      "id": "familytravelsusa-com",
+      "name": "https://familytravelsusa.com/",
+      "url": "https://familytravelsusa.com/",
+      "country": "XX",
+      "score": 75.0,
+      "movement": "new",
+      "best_for": "family travel and practical itineraries",
+      "reason": "https://familytravelsusa.com/ concentrates on family travel and practical itineraries, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://familytravelsusa.com/",
+        "https://familytravelsusa.com/comments/feed/",
+        "https://familytravelsusa.com/about/"
+      ]
+    },
+    {
+      "rank": 50,
+      "id": "travelawaits-com",
+      "name": "TravelAwaits",
+      "url": "https://travelawaits.com/",
+      "country": "XX",
+      "score": 75.0,
+      "movement": "new",
+      "best_for": "travel planning and destination insight",
+      "reason": "TravelAwaits concentrates on travel planning and destination insight, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://travelawaits.com/",
+        "https://www.travelawaits.com/web-stories/feed/",
+        "https://www.travelawaits.com/3027863/signs-youre-about-to-book-a-bad-tour-while-traveling/"
+      ]
+    },
+    {
+      "rank": 51,
+      "id": "drifttravel-com",
+      "name": "Drift Travel Magazine",
+      "url": "https://drifttravel.com/",
+      "country": "XX",
+      "score": 75.0,
+      "movement": "new",
+      "best_for": "luxury travel and destination experiences",
+      "reason": "Drift Travel Magazine concentrates on luxury travel and destination experiences, with a discoverable feed, named authorship that makes its current publishing work easier to evaluate.",
+      "limitation": "Authorship and editorial-policy information is less visible than on higher-ranked publications.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://drifttravel.com/",
+        "https://drifttravel.com/web-stories/feed/"
+      ]
+    },
+    {
+      "rank": 52,
+      "id": "thefamilyvoyage-com",
+      "name": "The Family Voyage",
+      "url": "https://thefamilyvoyage.com/",
+      "country": "XX",
+      "score": 74.9,
+      "movement": "new",
+      "best_for": "family travel and practical itineraries",
+      "reason": "The Family Voyage concentrates on family travel and practical itineraries, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://thefamilyvoyage.com/",
+        "https://www.thefamilyvoyage.com/web-stories-archive/feed/",
+        "https://www.thefamilyvoyage.com/about-family-travel-blog/#content"
+      ]
+    },
+    {
+      "rank": 53,
+      "id": "globalmunchkins-com",
+      "name": "Global Munchkins | Travel + Global Inspired Lifestyle",
+      "url": "https://globalmunchkins.com/",
+      "country": "XX",
+      "score": 74.0,
+      "movement": "new",
+      "best_for": "family travel and practical itineraries",
+      "reason": "Global Munchkins | Travel + Global Inspired Lifestyle concentrates on family travel and practical itineraries, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://globalmunchkins.com/",
+        "https://globalmunchkins.com/web-stories/feed/",
+        "https://globalmunchkins.com/about-us"
+      ]
+    },
+    {
+      "rank": 54,
+      "id": "worldpackers-com",
+      "name": "Worldpackers: Work Exchange, Volunteer Abroad, Gap Year",
+      "url": "https://worldpackers.com/",
+      "country": "XX",
+      "score": 74.0,
+      "movement": "new",
+      "best_for": "budget travel and long-term exploration",
+      "reason": "Worldpackers: Work Exchange, Volunteer Abroad, Gap Year concentrates on budget travel and long-term exploration, with clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://worldpackers.com/",
+        "https://www.worldpackers.com/how_it_works"
+      ]
+    },
+    {
+      "rank": 55,
+      "id": "popsugar-com",
+      "name": "Popsugar",
+      "url": "https://popsugar.com/",
+      "country": "XX",
+      "score": 74.0,
+      "movement": "new",
+      "best_for": "budget travel and long-term exploration",
+      "reason": "Popsugar concentrates on budget travel and long-term exploration, with named authorship, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://popsugar.com/",
+        "https://www.popsugar.com/fitness/what-to-wear-to-club-pilates-47308914"
+      ]
+    },
+    {
+      "rank": 56,
+      "id": "travelventurefour-com",
+      "name": "Travel Venture Four",
+      "url": "https://travelventurefour.com/",
+      "country": "XX",
+      "score": 73.9,
+      "movement": "new",
+      "best_for": "family travel and practical itineraries",
+      "reason": "Travel Venture Four concentrates on family travel and practical itineraries, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://travelventurefour.com/",
+        "https://travelventurefour.com/comments/feed/",
+        "https://travelventurefour.com/about-us/"
+      ]
+    },
+    {
+      "rank": 57,
+      "id": "familytravel-middleeast-com",
+      "name": "Family Travel in the Middle East",
+      "url": "https://familytravel-middleeast.com/",
+      "country": "XX",
+      "score": 73.9,
+      "movement": "new",
+      "best_for": "family travel and practical itineraries",
+      "reason": "Family Travel in the Middle East concentrates on family travel and practical itineraries, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://familytravel-middleeast.com/",
+        "https://www.familytravel-middleeast.com/web-stories/feed/",
+        "https://www.familytravel-middleeast.com/our-new-middle-east-adventure/"
+      ]
+    },
+    {
+      "rank": 58,
+      "id": "the-travel-bunny-com",
+      "name": "The Travel Bunny",
+      "url": "https://the-travel-bunny.com/",
+      "country": "XX",
+      "score": 73.8,
+      "movement": "new",
+      "best_for": "solo travel and independent trip planning",
+      "reason": "The Travel Bunny concentrates on solo travel and independent trip planning, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://the-travel-bunny.com/",
+        "https://www.the-travel-bunny.com/comments/feed/",
+        "https://www.the-travel-bunny.com/about-the-travel-bunny/"
+      ]
+    },
+    {
+      "rank": 59,
+      "id": "thecommonwanderer-com",
+      "name": "The Common Wanderer",
+      "url": "https://thecommonwanderer.com/",
+      "country": "XX",
+      "score": 73.8,
+      "movement": "new",
+      "best_for": "family travel and practical itineraries",
+      "reason": "The Common Wanderer concentrates on family travel and practical itineraries, with a visible article archive, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://thecommonwanderer.com/",
+        "https://www.thecommonwanderer.com/about-us"
+      ]
+    },
+    {
+      "rank": 60,
+      "id": "365atlantatraveler-com",
+      "name": "365 Atlanta Traveler",
+      "url": "https://365atlantatraveler.com/",
+      "country": "XX",
+      "score": 73.2,
+      "movement": "new",
+      "best_for": "family travel and practical itineraries",
+      "reason": "365 Atlanta Traveler concentrates on family travel and practical itineraries, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://365atlantatraveler.com/",
+        "https://365atlantatraveler.com/web-stories/feed/",
+        "https://365atlantatraveler.com/about/"
+      ]
+    },
+    {
+      "rank": 61,
+      "id": "mini-adventures-com",
+      "name": "Mini Adventures Travel Blog",
+      "url": "https://mini-adventures.com/",
+      "country": "XX",
+      "score": 72.6,
+      "movement": "new",
+      "best_for": "budget travel and long-term exploration",
+      "reason": "Mini Adventures Travel Blog concentrates on budget travel and long-term exploration, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://mini-adventures.com/",
+        "https://mini-adventures.com/ultimate-budget-travel-tips/feed/",
+        "https://mini-adventures.com/about/"
+      ]
+    },
+    {
+      "rank": 62,
+      "id": "thetravelingmoore-com",
+      "name": "The Traveling Moore",
+      "url": "https://thetravelingmoore.com/",
+      "country": "XX",
+      "score": 72.5,
+      "movement": "new",
+      "best_for": "luxury travel and destination experiences",
+      "reason": "The Traveling Moore concentrates on luxury travel and destination experiences, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://thetravelingmoore.com/",
+        "https://thetravelingmoore.com/comments/feed/",
+        "https://thetravelingmoore.com/about-the-traveling-moore-blog/"
+      ]
+    },
+    {
+      "rank": 63,
+      "id": "luxurytraveldiary-com",
+      "name": "Luxury Travel Diary",
+      "url": "https://luxurytraveldiary.com/",
+      "country": "XX",
+      "score": 72.3,
+      "movement": "new",
+      "best_for": "luxury travel and destination experiences",
+      "reason": "Luxury Travel Diary concentrates on luxury travel and destination experiences, with a visible article archive, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://luxurytraveldiary.com/",
+        "https://www.luxurytraveldiary.com/category/all/"
+      ]
+    },
+    {
+      "rank": 64,
+      "id": "welltraveledkids-com",
+      "name": "Well Traveled Kids",
+      "url": "https://welltraveledkids.com/",
+      "country": "XX",
+      "score": 72.2,
+      "movement": "new",
+      "best_for": "family travel and practical itineraries",
+      "reason": "Well Traveled Kids concentrates on family travel and practical itineraries, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://welltraveledkids.com/",
+        "https://welltraveledkids.com/comments/feed/",
+        "https://welltraveledkids.com/about-us-2/"
+      ]
+    },
+    {
+      "rank": 65,
+      "id": "twoguysabroad-com",
+      "name": "Two Guys Abroad",
+      "url": "https://twoguysabroad.com/",
+      "country": "XX",
+      "score": 72.2,
+      "movement": "new",
+      "best_for": "adventure travel and outdoor destinations",
+      "reason": "Two Guys Abroad concentrates on adventure travel and outdoor destinations, with a visible article archive, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://twoguysabroad.com/",
+        "https://twoguysabroad.com/about-us/"
+      ]
+    },
+    {
+      "rank": 66,
+      "id": "thebudgettravelguide-com",
+      "name": "thebudgettravelguide.com",
+      "url": "https://thebudgettravelguide.com/",
+      "country": "XX",
+      "score": 72.0,
+      "movement": "new",
+      "best_for": "budget travel and long-term exploration",
+      "reason": "thebudgettravelguide.com concentrates on budget travel and long-term exploration, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://thebudgettravelguide.com/",
+        "https://thebudgettravelguide.com/comments/feed/",
+        "https://thebudgettravelguide.com/about-the-budget-travel-guide/"
+      ]
+    },
+    {
+      "rank": 67,
+      "id": "travelboatinglifestyle-com",
+      "name": "Travel Boating Lifestyle by Fiona Harper travel writer",
+      "url": "https://travelboatinglifestyle.com/",
+      "country": "XX",
+      "score": 71.8,
+      "movement": "new",
+      "best_for": "travel planning and destination insight",
+      "reason": "Travel Boating Lifestyle by Fiona Harper travel writer concentrates on travel planning and destination insight, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://travelboatinglifestyle.com/",
+        "https://travelboatinglifestyle.com/feed/",
+        "https://travelboatinglifestyle.com/about/"
+      ]
+    },
+    {
+      "rank": 68,
+      "id": "exploitstravel-com",
+      "name": "Exploits Travel",
+      "url": "https://exploitstravel.com/",
+      "country": "XX",
+      "score": 71.8,
+      "movement": "new",
+      "best_for": "luxury travel and destination experiences",
+      "reason": "Exploits Travel concentrates on luxury travel and destination experiences, with a discoverable feed, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://exploitstravel.com/",
+        "https://exploitstravel.com/comments/feed/",
+        "https://exploitstravel.com/about/"
+      ]
+    },
+    {
+      "rank": 69,
+      "id": "firstsiteguide-com",
+      "name": "FirstSiteGuide",
+      "url": "https://firstsiteguide.com/",
+      "country": "XX",
+      "score": 71.6,
+      "movement": "new",
+      "best_for": "solo travel and independent trip planning",
+      "reason": "FirstSiteGuide concentrates on solo travel and independent trip planning, with a discoverable feed, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://firstsiteguide.com/",
+        "https://firstsiteguide.com/main-page/feed/",
+        "https://firstsiteguide.com/about-us/"
+      ]
+    },
+    {
+      "rank": 70,
+      "id": "blacktomato-com",
+      "name": "Black Tomato",
+      "url": "https://blacktomato.com/",
+      "country": "XX",
+      "score": 71.5,
+      "movement": "new",
+      "best_for": "luxury travel and destination experiences",
+      "reason": "Black Tomato concentrates on luxury travel and destination experiences, with clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://blacktomato.com/",
+        "https://www.blacktomato.com/us/#"
+      ]
+    },
+    {
+      "rank": 71,
+      "id": "globalsilentwalks-com",
+      "name": "GlobalSilentWalks",
+      "url": "https://globalsilentwalks.com/",
+      "country": "XX",
+      "score": 71.4,
+      "movement": "new",
+      "best_for": "budget travel and long-term exploration",
+      "reason": "GlobalSilentWalks concentrates on budget travel and long-term exploration, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://globalsilentwalks.com/",
+        "https://globalsilentwalks.com/atom-ar.xml",
+        "https://globalsilentwalks.com/en/about"
+      ]
+    },
+    {
+      "rank": 72,
+      "id": "wanderingcarol-com",
+      "name": "Luxury Travel Blog",
+      "url": "https://wanderingcarol.com/",
+      "country": "XX",
+      "score": 71.3,
+      "movement": "new",
+      "best_for": "luxury travel and destination experiences",
+      "reason": "Luxury Travel Blog concentrates on luxury travel and destination experiences, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://wanderingcarol.com/",
+        "https://wanderingcarol.com/travel-blogs/feed/",
+        "https://wanderingcarol.com/luxury-travel-blogger/"
+      ]
+    },
+    {
+      "rank": 73,
+      "id": "atypicalvagabond-com",
+      "name": "Atypical Vagabond",
+      "url": "https://atypicalvagabond.com/",
+      "country": "XX",
+      "score": 71.2,
+      "movement": "new",
+      "best_for": "travel planning and destination insight",
+      "reason": "Atypical Vagabond concentrates on travel planning and destination insight, with a discoverable feed, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://atypicalvagabond.com/",
+        "https://atypicalvagabond.com/comments/feed/",
+        "https://atypicalvagabond.com/about-atypical-vagabond/"
+      ]
+    },
+    {
+      "rank": 74,
+      "id": "danchristian-com",
+      "name": "Dan Christian",
+      "url": "https://danchristian.com/",
+      "country": "XX",
+      "score": 71.2,
+      "movement": "new",
+      "best_for": "travel planning and destination insight",
+      "reason": "Dan Christian concentrates on travel planning and destination insight, with a discoverable feed, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://danchristian.com/",
+        "https://danchristian.com/comments/feed/",
+        "https://danchristian.com/about/"
+      ]
+    },
+    {
+      "rank": 75,
+      "id": "travel-luxury",
+      "name": "Travel.Luxury",
+      "url": "https://travel.luxury/",
+      "country": "XX",
+      "score": 71.1,
+      "movement": "new",
+      "best_for": "luxury travel and destination experiences",
+      "reason": "Travel.Luxury concentrates on luxury travel and destination experiences, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://travel.luxury/",
+        "https://travel.luxury/journeys/fabulous-luxury-travel-bloggers/feed/",
+        "https://travel.luxury/about-us/"
+      ]
+    },
+    {
+      "rank": 76,
+      "id": "dosixfigures-com",
+      "name": "Do Six Figures",
+      "url": "https://dosixfigures.com/",
+      "country": "XX",
+      "score": 70.8,
+      "movement": "new",
+      "best_for": "solo travel and independent trip planning",
+      "reason": "Do Six Figures concentrates on solo travel and independent trip planning, with a visible article archive, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://dosixfigures.com/",
+        "https://dosixfigures.com/blogging-secrets/"
+      ]
+    },
+    {
+      "rank": 77,
+      "id": "travelweekly-com",
+      "name": "Travel Weekly",
+      "url": "https://travelweekly.com/",
+      "country": "XX",
+      "score": 70.7,
+      "movement": "new",
+      "best_for": "travel planning and destination insight",
+      "reason": "Travel Weekly concentrates on travel planning and destination insight, with a clearly defined editorial focus that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://travelweekly.com/"
+      ]
+    },
+    {
+      "rank": 78,
+      "id": "mostlysolotravel-com",
+      "name": "Mostly Solo Travel",
+      "url": "https://mostlysolotravel.com/",
+      "country": "XX",
+      "score": 70.5,
+      "movement": "new",
+      "best_for": "solo travel and independent trip planning",
+      "reason": "Mostly Solo Travel concentrates on solo travel and independent trip planning, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://mostlysolotravel.com/",
+        "https://mostlysolotravel.com/web-stories/feed/",
+        "https://mostlysolotravel.com/about/"
+      ]
+    },
+    {
+      "rank": 79,
+      "id": "traveltechessentialist-substack-com",
+      "name": "Travel Tech Essentialist",
+      "url": "https://traveltechessentialist.substack.com/",
+      "country": "XX",
+      "score": 69.8,
+      "movement": "new",
+      "best_for": "travel planning and destination insight",
+      "reason": "Travel Tech Essentialist concentrates on travel planning and destination insight, with a discoverable feed that makes its current publishing work easier to evaluate.",
+      "limitation": "Authorship and editorial-policy information is less visible than on higher-ranked publications.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://traveltechessentialist.substack.com/",
+        "https://traveltechessentialist.substack.com/feed"
+      ]
+    },
+    {
+      "rank": 80,
+      "id": "theblogfrog-com",
+      "name": "The Blog Frog",
+      "url": "https://theblogfrog.com/",
+      "country": "XX",
+      "score": 69.2,
+      "movement": "new",
+      "best_for": "travel planning and destination insight",
+      "reason": "The Blog Frog concentrates on travel planning and destination insight, with a discoverable feed, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://theblogfrog.com/",
+        "https://www.theblogfrog.com/comments/feed/",
+        "https://www.theblogfrog.com/about-us/"
+      ]
+    },
+    {
+      "rank": 81,
+      "id": "bestnewslettertools-com",
+      "name": "Best Newsletter Tools",
+      "url": "https://bestnewslettertools.com/",
+      "country": "XX",
+      "score": 69.2,
+      "movement": "new",
+      "best_for": "adventure travel and outdoor destinations",
+      "reason": "Best Newsletter Tools concentrates on adventure travel and outdoor destinations, with a discoverable feed, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Authorship and editorial-policy information is less visible than on higher-ranked publications.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://bestnewslettertools.com/",
+        "https://www.bestnewslettertools.com/rss.xml",
+        "https://www.bestnewslettertools.com/about"
+      ]
+    },
+    {
+      "rank": 82,
+      "id": "basecamphike-com",
+      "name": "Base Camp Hike",
+      "url": "https://basecamphike.com/",
+      "country": "XX",
+      "score": 69.1,
+      "movement": "new",
+      "best_for": "adventure travel and outdoor destinations",
+      "reason": "Base Camp Hike concentrates on adventure travel and outdoor destinations, with a visible article archive, named authorship that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://basecamphike.com/",
+        "https://www.basecamphike.com/about-us/"
+      ]
+    },
+    {
+      "rank": 83,
+      "id": "travelsito-com",
+      "name": "Travelsito",
+      "url": "https://travelsito.com/",
+      "country": "XX",
+      "score": 69.0,
+      "movement": "new",
+      "best_for": "adventure travel and outdoor destinations",
+      "reason": "Travelsito concentrates on adventure travel and outdoor destinations, with a discoverable feed, named authorship that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://travelsito.com/",
+        "https://travelsito.com/comments/feed/",
+        "https://travelsito.com/about/"
+      ]
+    },
+    {
+      "rank": 84,
+      "id": "tajindiatrip-com",
+      "name": "Taj India Trip",
+      "url": "https://tajindiatrip.com/",
+      "country": "XX",
+      "score": 69.0,
+      "movement": "new",
+      "best_for": "travel planning and destination insight",
+      "reason": "Taj India Trip concentrates on travel planning and destination insight, with a discoverable feed, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://tajindiatrip.com/",
+        "https://tajindiatrip.com/comments/feed/",
+        "https://tajindiatrip.com/about-us/"
+      ]
+    },
+    {
+      "rank": 85,
+      "id": "journeynepaladv-com",
+      "name": "Journey Nepal Adventure Pvt. Ltd.",
+      "url": "https://journeynepaladv.com/",
+      "country": "XX",
+      "score": 68.6,
+      "movement": "new",
+      "best_for": "adventure travel and outdoor destinations",
+      "reason": "Journey Nepal Adventure Pvt. Ltd. concentrates on adventure travel and outdoor destinations, with a visible article archive, named authorship that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://journeynepaladv.com/",
+        "https://www.journeynepaladv.com/about-company/"
+      ]
+    },
+    {
+      "rank": 86,
+      "id": "soultravelers3-com",
+      "name": "Soultravelers 3",
+      "url": "https://soultravelers3.com/",
+      "country": "XX",
+      "score": 68.2,
+      "movement": "new",
+      "best_for": "budget travel and long-term exploration",
+      "reason": "Soultravelers 3 concentrates on budget travel and long-term exploration, with a visible article archive, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://soultravelers3.com/",
+        "https://www.soultravelers3.com/about/"
+      ]
+    },
+    {
+      "rank": 87,
+      "id": "truevail-com",
+      "name": "Truevail | Digital Marketing for Travel Advisors",
+      "url": "https://truevail.com/",
+      "country": "XX",
+      "score": 67.8,
+      "movement": "new",
+      "best_for": "luxury travel and destination experiences",
+      "reason": "Truevail | Digital Marketing for Travel Advisors concentrates on luxury travel and destination experiences, with a discoverable feed, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://truevail.com/",
+        "https://truevail.com/comments/feed/",
+        "https://truevail.com/about/"
+      ]
+    },
+    {
+      "rank": 88,
+      "id": "positiveworldtravel-com",
+      "name": "Ngobrol singkat soal Game Pilihan Dari Provider Pragmatic",
+      "url": "https://positiveworldtravel.com/",
+      "country": "XX",
+      "score": 67.4,
+      "movement": "new",
+      "best_for": "travel planning and destination insight",
+      "reason": "Ngobrol singkat soal Game Pilihan Dari Provider Pragmatic concentrates on travel planning and destination insight, with a visible article archive, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://positiveworldtravel.com/",
+        "https://positiveworldtravel.com/about/"
+      ]
+    },
+    {
+      "rank": 89,
+      "id": "traveltractions-com",
+      "name": "Travel Tractions",
+      "url": "https://traveltractions.com/",
+      "country": "XX",
+      "score": 67.2,
+      "movement": "new",
+      "best_for": "travel planning and destination insight",
+      "reason": "Travel Tractions concentrates on travel planning and destination insight, with a discoverable feed, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://traveltractions.com/",
+        "https://traveltractions.com/travel-blog-platforms/feed/",
+        "https://traveltractions.com/about/"
+      ]
+    },
+    {
+      "rank": 90,
+      "id": "travelagencytribes-com",
+      "name": "Travel Agency Tribes",
+      "url": "https://travelagencytribes.com/",
+      "country": "XX",
+      "score": 67.2,
+      "movement": "new",
+      "best_for": "travel planning and destination insight",
+      "reason": "Travel Agency Tribes concentrates on travel planning and destination insight, with a discoverable feed that makes its current publishing work easier to evaluate.",
+      "limitation": "Authorship and editorial-policy information is less visible than on higher-ranked publications.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://www.travelagencytribes.com/",
+        "https://www.travelagencytribes.com/rss"
+      ]
+    },
+    {
+      "rank": 91,
+      "id": "nomadflag-com",
+      "name": "Nomad Flag",
+      "url": "https://nomadflag.com/",
+      "country": "XX",
+      "score": 67.1,
+      "movement": "new",
+      "best_for": "travel planning and destination insight",
+      "reason": "Nomad Flag concentrates on travel planning and destination insight, with a clearly defined editorial focus that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://nomadflag.com/",
+        "https://nomadflag.com/rome-photo-blog/"
+      ]
+    },
+    {
+      "rank": 92,
+      "id": "vagabond3-com",
+      "name": "Vagabond3",
+      "url": "https://vagabond3.com/",
+      "country": "XX",
+      "score": 66.1,
+      "movement": "new",
+      "best_for": "adventure travel and outdoor destinations",
+      "reason": "Vagabond3 concentrates on adventure travel and outdoor destinations, with a discoverable feed that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://vagabond3.com/",
+        "https://vagabond3.com/comments/feed/"
+      ]
+    },
+    {
+      "rank": 93,
+      "id": "ofwhiskeyandwords-com",
+      "name": "Of Whiskey and Words",
+      "url": "https://ofwhiskeyandwords.com/",
+      "country": "XX",
+      "score": 66.0,
+      "movement": "new",
+      "best_for": "travel planning and destination insight",
+      "reason": "Of Whiskey and Words concentrates on travel planning and destination insight, with clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://ofwhiskeyandwords.com/",
+        "https://ofwhiskeyandwords.com/about/"
+      ]
+    },
+    {
+      "rank": 94,
+      "id": "mylostcamel-com",
+      "name": "My Lost Camel",
+      "url": "https://mylostcamel.com/",
+      "country": "XX",
+      "score": 65.7,
+      "movement": "new",
+      "best_for": "travel planning and destination insight",
+      "reason": "My Lost Camel concentrates on travel planning and destination insight, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://mylostcamel.com/",
+        "https://mylostcamel.com/comments/feed/",
+        "https://mylostcamel.com/about-me/"
+      ]
+    },
+    {
+      "rank": 95,
+      "id": "rstyle-me",
+      "name": "LTK",
+      "url": "https://rstyle.me/",
+      "country": "XX",
+      "score": 65.7,
+      "movement": "new",
+      "best_for": "travel planning and destination insight",
+      "reason": "LTK concentrates on travel planning and destination insight, with a clearly defined editorial focus that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://rstyle.me/"
+      ]
+    },
+    {
+      "rank": 96,
+      "id": "chubbydiaries-com",
+      "name": "CHUBBY DIARIES - LIVE LIFE NOW",
+      "url": "https://chubbydiaries.com/",
+      "country": "XX",
+      "score": 65.5,
+      "movement": "new",
+      "best_for": "travel planning and destination insight",
+      "reason": "CHUBBY DIARIES - LIVE LIFE NOW concentrates on travel planning and destination insight, with a discoverable feed, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://chubbydiaries.com/",
+        "https://chubbydiaries.com/comments/feed/",
+        "https://chubbydiaries.com/about/"
+      ]
+    },
+    {
+      "rank": 97,
+      "id": "newagenature-org",
+      "name": "Newage Nature",
+      "url": "https://newagenature.org/",
+      "country": "XX",
+      "score": 63.2,
+      "movement": "new",
+      "best_for": "travel planning and destination insight",
+      "reason": "Newage Nature concentrates on travel planning and destination insight, with a discoverable feed, named authorship that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://newagenature.org/",
+        "https://newagenature.org/comments/feed/",
+        "https://newagenature.org/about-us/"
+      ]
+    },
+    {
+      "rank": 98,
+      "id": "blogen-influence4you-com",
+      "name": "Influence4You",
+      "url": "https://blogen.influence4you.com/",
+      "country": "XX",
+      "score": 62.8,
+      "movement": "new",
+      "best_for": "family travel and practical itineraries",
+      "reason": "Influence4You concentrates on family travel and practical itineraries, with a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://blogen.influence4you.com/"
+      ]
+    },
+    {
+      "rank": 99,
+      "id": "jessemcentee-com",
+      "name": "Next Adventure",
+      "url": "https://jessemcentee.com/",
+      "country": "XX",
+      "score": 60.1,
+      "movement": "new",
+      "best_for": "family travel and practical itineraries",
+      "reason": "Next Adventure concentrates on family travel and practical itineraries, with a discoverable feed that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://jessemcentee.com/",
+        "https://www.jessemcentee.com/feed?sectionId=158511",
+        "https://www.jessemcentee.com/p/adeventurestackcoming-soon"
+      ]
+    },
+    {
+      "rank": 100,
+      "id": "travelogue-substack-com",
+      "name": "The Travelogue Newsletter",
+      "url": "https://travelogue.substack.com/",
+      "country": "XX",
+      "score": 58.2,
+      "movement": "new",
+      "best_for": "travel planning and destination insight",
+      "reason": "The Travelogue Newsletter concentrates on travel planning and destination insight, with a discoverable feed that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://travelogue.substack.com/",
+        "https://travelogue.substack.com/feed"
+      ]
+    }
+  ]
+}

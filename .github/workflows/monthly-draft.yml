@@ -1,0 +1,50 @@
+name: Prepare monthly edition
+
+on:
+  schedule:
+    - cron: "17 3 15 * *"
+      timezone: "Asia/Kolkata"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  prepare:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.13"
+          cache: pip
+      - run: python -m pip install -r requirements.txt
+      - run: python scripts/build.py
+      - run: python scripts/validate.py
+      - run: python scripts/audit_final_sources.py --source data/rankings
+      - run: python -m unittest discover -s tests
+      - run: python scripts/check_links.py
+      - uses: actions/upload-artifact@v7
+        with:
+          name: monthly-link-check
+          path: build/link-check.json
+      - name: Open a draft pull request when generated files changed
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if git diff --quiet -- dist releases assets; then
+            echo "No generated changes."
+            exit 0
+          fi
+          edition="$(date -u +%Y-%m)"
+          branch="automation/monthly-${edition}"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git switch -c "$branch"
+          git add -- dist releases assets
+          git commit -m "data: prepare ${edition} ranking edition"
+          git push --set-upstream origin "$branch"
+          gh pr create --draft --base main --head "$branch" --title "Prepare ${edition} ranking edition" --body "Automated ranking build. Editorial review and the release checklist are required before merge."

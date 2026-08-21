@@ -1,0 +1,2068 @@
+schema_version: 1
+edition: 2026-09
+published_at: '2026-08-21T12:00:00Z'
+status: final
+category: health
+track: publisher_company
+entries:
+- id: verywellmind-com
+  name: Verywell Mind
+  canonical_url: https://verywellmind.com/
+  country: XX
+  best_for: mental health and psychological wellbeing
+  reason: Verywell Mind concentrates on mental health and psychological wellbeing, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://verywellmind.com/
+  - https://feeds-api.dotdashmeredith.com/v1/rss/google/16385a17-56e3-40a2-b61d-b29e3f7684d6
+  - https://www.verywellmind.com/about-us-5184564
+  scores:
+    editorial_quality: 96
+    trust: 95
+    reach: 94
+    freshness: 95
+    ux: 94
+    impact: 95
+- id: everydayhealth-com
+  name: EverydayHealth.com
+  canonical_url: https://everydayhealth.com/
+  country: XX
+  best_for: mental health and psychological wellbeing
+  reason: EverydayHealth.com concentrates on mental health and psychological wellbeing, with a discoverable feed, a visible
+    article archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://everydayhealth.com/
+  - https://feeds.everydayhealth.com/google-discover.xml
+  - https://www.everydayhealth.com/about-us/
+  scores:
+    editorial_quality: 98
+    trust: 97
+    reach: 96
+    freshness: 97
+    ux: 96
+    impact: 97
+- id: statnews-com
+  name: STAT
+  canonical_url: https://statnews.com/
+  country: XX
+  best_for: medicine and patient-facing health education
+  reason: STAT concentrates on medicine and patient-facing health education, with a discoverable feed, a visible article archive
+    that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://statnews.com/
+  - https://www.statnews.com/feed/
+  - https://www.statnews.com/about/
+  scores:
+    editorial_quality: 94
+    trust: 93
+    reach: 92
+    freshness: 93
+    ux: 92
+    impact: 93
+- id: aarp-org
+  name: AARP
+  canonical_url: https://aarp.org/
+  country: XX
+  best_for: fitness, exercise, and sustainable training
+  reason: AARP concentrates on fitness, exercise, and sustainable training, with clear ownership context that makes its current
+    publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://aarp.org/
+  - https://www.aarp.org/health/conditions-treatments/vaccines-after-50/
+  scores:
+    editorial_quality: 90
+    trust: 89
+    reach: 88
+    freshness: 89
+    ux: 88
+    impact: 89
+- id: health-harvard-edu
+  name: Harvard Health
+  canonical_url: https://health.harvard.edu/
+  country: XX
+  best_for: nutrition and evidence-aware food decisions
+  reason: Harvard Health concentrates on nutrition and evidence-aware food decisions, with named authorship, clear ownership
+    context that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://health.harvard.edu/
+  - https://www.health.harvard.edu/about-us
+  scores:
+    editorial_quality: 97
+    trust: 96
+    reach: 95
+    freshness: 96
+    ux: 95
+    impact: 96
+- id: nutritionfacts-org
+  name: NutritionFacts.org
+  canonical_url: https://nutritionfacts.org/
+  country: XX
+  best_for: nutrition and evidence-aware food decisions
+  reason: NutritionFacts.org concentrates on nutrition and evidence-aware food decisions, with a visible article archive,
+    named authorship that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://nutritionfacts.org/
+  - https://nutritionfacts.org/feed/podcast/
+  - https://nutritionfacts.org/about/
+  scores:
+    editorial_quality: 95
+    trust: 94
+    reach: 93
+    freshness: 94
+    ux: 93
+    impact: 94
+- id: blog-myfitnesspal-com
+  name: MyFitnessPal Blog
+  canonical_url: https://blog.myfitnesspal.com/
+  country: XX
+  best_for: fitness, exercise, and sustainable training
+  reason: MyFitnessPal Blog concentrates on fitness, exercise, and sustainable training, with a discoverable feed that makes
+    its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://blog.myfitnesspal.com/
+  - https://blog.myfitnesspal.com/feed/
+  scores:
+    editorial_quality: 91
+    trust: 90
+    reach: 89
+    freshness: 90
+    ux: 89
+    impact: 90
+- id: nami-org
+  name: NAMI
+  canonical_url: https://nami.org/
+  country: XX
+  best_for: mental health and psychological wellbeing
+  reason: NAMI concentrates on mental health and psychological wellbeing, with a clearly defined editorial focus that makes
+    its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://nami.org/
+  scores:
+    editorial_quality: 93
+    trust: 92
+    reach: 91
+    freshness: 92
+    ux: 91
+    impact: 92
+- id: healthline-com
+  name: Healthline
+  canonical_url: https://healthline.com/
+  country: XX
+  best_for: mental health and psychological wellbeing
+  reason: Healthline concentrates on mental health and psychological wellbeing, with named authorship, clear ownership context
+    that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://healthline.com/
+  scores:
+    editorial_quality: 99
+    trust: 98
+    reach: 97
+    freshness: 98
+    ux: 97
+    impact: 98
+- id: who-int
+  name: World Health Organization (WHO)
+  canonical_url: https://who.int/
+  country: XX
+  best_for: nutrition and evidence-aware food decisions
+  reason: World Health Organization (WHO) concentrates on nutrition and evidence-aware food decisions, with a visible article
+    archive, named authorship that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://who.int/
+  scores:
+    editorial_quality: 92
+    trust: 91
+    reach: 90
+    freshness: 91
+    ux: 90
+    impact: 91
+- id: totalwellnesshealth-com
+  name: TotalWellness
+  canonical_url: https://totalwellnesshealth.com/
+  country: XX
+  best_for: health education and sustainable wellbeing
+  reason: TotalWellness concentrates on health education and sustainable wellbeing, with a discoverable feed, clear ownership
+    context that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://totalwellnesshealth.com/
+  - https://www.totalwellnesshealth.com/comments/feed/
+  - https://www.totalwellnesshealth.com/about/
+  scores:
+    editorial_quality: 68
+    trust: 87
+    reach: 76
+    freshness: 70
+    ux: 84
+    impact: 77
+- id: mailchimp-com
+  name: Mailchimp
+  canonical_url: https://mailchimp.com/
+  country: XX
+  best_for: health education and sustainable wellbeing
+  reason: Mailchimp concentrates on health education and sustainable wellbeing, with a visible article archive, clear ownership
+    context that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://mailchimp.com/
+  - https://mailchimp.com/about/security/
+  scores:
+    editorial_quality: 67
+    trust: 87
+    reach: 89
+    freshness: 66
+    ux: 84
+    impact: 88
+- id: rethink-org
+  name: Rethink
+  canonical_url: https://rethink.org/
+  country: XX
+  best_for: mental health and psychological wellbeing
+  reason: Rethink concentrates on mental health and psychological wellbeing, with a visible article archive, clear ownership
+    context that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://rethink.org/
+  - https://rethink.org/advice-and-information/about-our-advice-service/
+  scores:
+    editorial_quality: 67
+    trust: 87
+    reach: 84
+    freshness: 66
+    ux: 84
+    impact: 85
+- id: tbsmo-com
+  name: Today's Business
+  canonical_url: https://tbsmo.com/
+  country: XX
+  best_for: medicine and patient-facing health education
+  reason: Today's Business concentrates on medicine and patient-facing health education, with a discoverable feed, named authorship
+    that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://tbsmo.com/
+  - https://tbsmo.com/comments/feed/
+  - https://tbsmo.com/#men-item-3287
+  scores:
+    editorial_quality: 72
+    trust: 89
+    reach: 66
+    freshness: 45
+    ux: 84
+    impact: 77
+- id: ascendnbs-com
+  name: Ascend NBS
+  canonical_url: https://ascendnbs.com/
+  country: XX
+  best_for: mental health and psychological wellbeing
+  reason: Ascend NBS concentrates on mental health and psychological wellbeing, with a discoverable feed, named authorship
+    that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://ascendnbs.com/
+  - https://ascendnbs.com/feed/
+  - https://ascendnbs.com/about/
+  scores:
+    editorial_quality: 68
+    trust: 89
+    reach: 46
+    freshness: 62
+    ux: 84
+    impact: 53
+- id: womenshealthmag-com
+  name: Women's Health
+  canonical_url: https://womenshealthmag.com/
+  country: XX
+  best_for: fitness, exercise, and sustainable training
+  reason: Women's Health concentrates on fitness, exercise, and sustainable training, with clear ownership context that makes
+    its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://womenshealthmag.com/
+  - https://www.womenshealthmag.com/rss/all.xml
+  - https://www.womenshealthmag.com/about/a24170223/about-womens-health/
+  scores:
+    editorial_quality: 67
+    trust: 80
+    reach: 89
+    freshness: 89
+    ux: 84
+    impact: 84
+- id: eatingwell-com
+  name: EatingWell
+  canonical_url: https://eatingwell.com/
+  country: XX
+  best_for: nutrition and evidence-aware food decisions
+  reason: EatingWell concentrates on nutrition and evidence-aware food decisions, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://eatingwell.com/
+  - https://feeds-api.dotdashmeredith.com/v1/rss/google/dcbd6d38-4ab3-42e8-a5f6-37a8a48ceb94
+  - https://www.eatingwell.com/about-us-6743412
+  scores:
+    editorial_quality: 72
+    trust: 89
+    reach: 89
+    freshness: 89
+    ux: 84
+    impact: 84
+- id: healthdigest-com
+  name: Health Digest
+  canonical_url: https://healthdigest.com/
+  country: XX
+  best_for: medicine and patient-facing health education
+  reason: Health Digest concentrates on medicine and patient-facing health education, with a discoverable feed, a visible
+    article archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://healthdigest.com/
+  - https://www.healthdigest.com/feed/
+  - https://www.healthdigest.com/about/
+  scores:
+    editorial_quality: 72
+    trust: 80
+    reach: 88
+    freshness: 89
+    ux: 84
+    impact: 80
+- id: mhanational-org
+  name: Mental Health America
+  canonical_url: https://mhanational.org/
+  country: XX
+  best_for: mental health and psychological wellbeing
+  reason: Mental Health America concentrates on mental health and psychological wellbeing, with clear ownership context that
+    makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://mhanational.org/
+  - https://mhanational.org/learn-about-your-mental-health/
+  scores:
+    editorial_quality: 65
+    trust: 87
+    reach: 89
+    freshness: 78
+    ux: 84
+    impact: 89
+- id: mentalhealth-com
+  name: MentalHealth.com
+  canonical_url: https://mentalhealth.com/
+  country: XX
+  best_for: mental health and psychological wellbeing
+  reason: MentalHealth.com concentrates on mental health and psychological wellbeing, with a visible article archive, clear
+    ownership context that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://mentalhealth.com/
+  - https://www.mentalhealth.com/blog/meet-ceo-and-co-founder-daniel-rivette
+  scores:
+    editorial_quality: 67
+    trust: 80
+    reach: 85
+    freshness: 88
+    ux: 84
+    impact: 76
+- id: helpguide-org
+  name: HelpGuide.org
+  canonical_url: https://helpguide.org/
+  country: XX
+  best_for: mental health and psychological wellbeing
+  reason: HelpGuide.org concentrates on mental health and psychological wellbeing, with a visible article archive, named authorship
+    that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://helpguide.org/
+  - https://www.helpguide.org/about-us
+  scores:
+    editorial_quality: 67
+    trust: 89
+    reach: 89
+    freshness: 66
+    ux: 84
+    impact: 83
+- id: mynutriweb-com
+  name: MyNutriWeb
+  canonical_url: https://mynutriweb.com/
+  country: XX
+  best_for: nutrition and evidence-aware food decisions
+  reason: MyNutriWeb concentrates on nutrition and evidence-aware food decisions, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://mynutriweb.com/
+  - https://mynutriweb.com/comments/feed/
+  - https://mynutriweb.com/about/
+  scores:
+    editorial_quality: 70
+    trust: 87
+    reach: 65
+    freshness: 89
+    ux: 84
+    impact: 60
+- id: healthloftco-com
+  name: Health Loft
+  canonical_url: https://healthloftco.com/
+  country: XX
+  best_for: nutrition and evidence-aware food decisions
+  reason: Health Loft concentrates on nutrition and evidence-aware food decisions, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://healthloftco.com/
+  - https://healthloftco.com/comments/feed/
+  - https://healthloftco.com/about/
+  scores:
+    editorial_quality: 74
+    trust: 80
+    reach: 75
+    freshness: 62
+    ux: 84
+    impact: 61
+- id: onlinecounselingprograms-com
+  name: Online Counseling Programs
+  canonical_url: https://onlinecounselingprograms.com/
+  country: XX
+  best_for: mental health and psychological wellbeing
+  reason: Online Counseling Programs concentrates on mental health and psychological wellbeing, with a visible article archive,
+    clear ownership context that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://onlinecounselingprograms.com/
+  - https://onlinecounselingprograms.com/about-2u/
+  scores:
+    editorial_quality: 65
+    trust: 80
+    reach: 76
+    freshness: 89
+    ux: 84
+    impact: 64
+- id: dohertynutrition-com
+  name: Doherty Nutrition
+  canonical_url: https://dohertynutrition.com/
+  country: XX
+  best_for: nutrition and evidence-aware food decisions
+  reason: Doherty Nutrition concentrates on nutrition and evidence-aware food decisions, with a discoverable feed, a visible
+    article archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://dohertynutrition.com/
+  - https://dohertynutrition.com/comments/feed/
+  - https://dohertynutrition.com/our-team/
+  scores:
+    editorial_quality: 68
+    trust: 87
+    reach: 68
+    freshness: 88
+    ux: 76
+    impact: 65
+- id: deanaman-com
+  name: Dean Aman LPCMH, LLC - Mental Health Recovery
+  canonical_url: https://deanaman.com/
+  country: XX
+  best_for: mental health and psychological wellbeing
+  reason: Dean Aman LPCMH, LLC - Mental Health Recovery concentrates on mental health and psychological wellbeing, with a
+    discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://deanaman.com/
+  - https://www.deanaman.com/6-must-read-blog-articles-mental-health/feed/
+  - https://www.deanaman.com/about-us/
+  scores:
+    editorial_quality: 70
+    trust: 87
+    reach: 48
+    freshness: 45
+    ux: 84
+    impact: 52
+- id: health-com
+  name: HEALTH
+  canonical_url: https://health.com/
+  country: XX
+  best_for: fitness, exercise, and sustainable training
+  reason: HEALTH concentrates on fitness, exercise, and sustainable training, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://health.com/
+  - https://feeds-api.dotdashmeredith.com/v1/rss/google/adf185b2-ff7d-4fe3-a978-b59ff8528c53
+  - https://www.health.com/about-us-8415145
+  scores:
+    editorial_quality: 76
+    trust: 89
+    reach: 89
+    freshness: 89
+    ux: 84
+    impact: 89
+- id: blogonyourown-com
+  name: Blog On Your Own
+  canonical_url: https://blogonyourown.com/
+  country: XX
+  best_for: mental health and psychological wellbeing
+  reason: Blog On Your Own concentrates on mental health and psychological wellbeing, with a discoverable feed, a visible
+    article archive that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://blogonyourown.com/
+  - https://blogonyourown.com/health-blogs/feed/
+  - https://blogonyourown.com/about-us/
+  scores:
+    editorial_quality: 80
+    trust: 80
+    reach: 70
+    freshness: 45
+    ux: 84
+    impact: 84
+- id: shape-com
+  name: Shape
+  canonical_url: https://shape.com/
+  country: XX
+  best_for: fitness, exercise, and sustainable training
+  reason: Shape concentrates on fitness, exercise, and sustainable training, with a discoverable feed, a visible article archive
+    that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://shape.com/
+  - https://feeds-api.dotdashmeredith.com/v1/rss/google/5814e1d4-bdb5-4afb-a458-61bfc1585860
+  - https://www.shape.com/about-us-5441927
+  scores:
+    editorial_quality: 74
+    trust: 80
+    reach: 89
+    freshness: 89
+    ux: 84
+    impact: 89
+- id: glofox-com
+  name: Boutique Fitness and Gym Management Software - Glofox
+  canonical_url: https://glofox.com/
+  country: XX
+  best_for: fitness, exercise, and sustainable training
+  reason: Boutique Fitness and Gym Management Software - Glofox concentrates on fitness, exercise, and sustainable training,
+    with a visible article archive, clear ownership context that makes its current publishing work easier to evaluate.
+  limitation: Some complete material may require registration, membership, or a paid subscription.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://glofox.com/
+  - https://www.glofox.com/blog/fitness-blogs/feed/
+  - https://www.glofox.com/about/
+  scores:
+    editorial_quality: 69
+    trust: 87
+    reach: 80
+    freshness: 88
+    ux: 84
+    impact: 80
+- id: mindful-org
+  name: Mindful
+  canonical_url: https://mindful.org/
+  country: XX
+  best_for: health education and sustainable wellbeing
+  reason: Mindful concentrates on health education and sustainable wellbeing, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://mindful.org/
+  - https://www.mindful.org/feed/
+  - https://www.mindful.org/about-mindful/#
+  scores:
+    editorial_quality: 72
+    trust: 82
+    reach: 89
+    freshness: 89
+    ux: 84
+    impact: 89
+- id: liberatewpb-com
+  name: Liberate WPB HealthCare
+  canonical_url: https://liberatewpb.com/
+  country: XX
+  best_for: medicine and patient-facing health education
+  reason: Liberate WPB HealthCare concentrates on medicine and patient-facing health education, with a discoverable feed,
+    a visible article archive that makes its current publishing work easier to evaluate.
+  limitation: Authorship and editorial-policy information is less visible than on higher-ranked publications.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://liberatewpb.com/
+  - https://liberatewpb.com/feed/atom
+  scores:
+    editorial_quality: 72
+    trust: 67
+    reach: 43
+    freshness: 78
+    ux: 84
+    impact: 51
+- id: bayhealth-org
+  name: Bayhealth
+  canonical_url: https://bayhealth.org/
+  country: XX
+  best_for: public health and healthcare systems
+  reason: Bayhealth concentrates on public health and healthcare systems, with a visible article archive, named authorship
+    that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://bayhealth.org/
+  - https://www.bayhealth.org/patients/recognize-a-team-member
+  scores:
+    editorial_quality: 69
+    trust: 89
+    reach: 81
+    freshness: 66
+    ux: 84
+    impact: 73
+- id: leehealth-org
+  name: Lee Health
+  canonical_url: https://leehealth.org/
+  country: XX
+  best_for: fitness, exercise, and sustainable training
+  reason: Lee Health concentrates on fitness, exercise, and sustainable training, with clear ownership context that makes
+    its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://leehealth.org/
+  - https://www.leehealth.org/about-us
+  scores:
+    editorial_quality: 67
+    trust: 82
+    reach: 86
+    freshness: 58
+    ux: 84
+    impact: 74
+- id: munsonhealthcare-org
+  name: Munson Healthcare
+  canonical_url: https://munsonhealthcare.org/
+  country: XX
+  best_for: mental health and psychological wellbeing
+  reason: Munson Healthcare concentrates on mental health and psychological wellbeing, with named authorship, clear ownership
+    context that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://munsonhealthcare.org/
+  - https://www.munsonhealthcare.org/about-the-system/nicu-construction-project
+  scores:
+    editorial_quality: 63
+    trust: 82
+    reach: 84
+    freshness: 88
+    ux: 84
+    impact: 75
+- id: greatist-com
+  name: Greatist
+  canonical_url: https://greatist.com/
+  country: XX
+  best_for: fitness, exercise, and sustainable training
+  reason: Greatist concentrates on fitness, exercise, and sustainable training, with named authorship, clear ownership context
+    that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://greatist.com/
+  - https://greatist.com/about/about-us
+  scores:
+    editorial_quality: 65
+    trust: 89
+    reach: 89
+    freshness: 58
+    ux: 84
+    impact: 89
+- id: ellewellstudio-com
+  name: Elle Well Studio + Wellness
+  canonical_url: https://ellewellstudio.com/
+  country: XX
+  best_for: mental health and psychological wellbeing
+  reason: Elle Well Studio + Wellness concentrates on mental health and psychological wellbeing, with a discoverable feed,
+    clear ownership context that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://ellewellstudio.com/
+  - https://www.ellewellstudio.com/feed/
+  - https://www.ellewellstudio.com/about/
+  scores:
+    editorial_quality: 72
+    trust: 82
+    reach: 53
+    freshness: 62
+    ux: 84
+    impact: 55
+- id: freshysites-com
+  name: Freshy — Beautiful WordPress web design
+  canonical_url: https://freshysites.com/
+  country: XX
+  best_for: health education and sustainable wellbeing
+  reason: Freshy — Beautiful WordPress web design concentrates on health education and sustainable wellbeing, with a discoverable
+    feed, a visible article archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://freshysites.com/
+  - https://freshysites.com/comments/feed/
+  - https://freshysites.com/wordpress/development/
+  scores:
+    editorial_quality: 70
+    trust: 87
+    reach: 82
+    freshness: 78
+    ux: 76
+    impact: 85
+- id: prnews-io
+  name: PRNEWS.io
+  canonical_url: https://prnews.io/
+  country: XX
+  best_for: mental health and psychological wellbeing
+  reason: PRNEWS.io concentrates on mental health and psychological wellbeing, with a visible article archive, clear ownership
+    context that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://prnews.io/
+  - https://prnews.io/about/
+  scores:
+    editorial_quality: 75
+    trust: 87
+    reach: 79
+    freshness: 66
+    ux: 84
+    impact: 83
+- id: fitfoodiefinds-com
+  name: Fit Foodie Finds
+  canonical_url: https://fitfoodiefinds.com/
+  country: XX
+  best_for: health education and sustainable wellbeing
+  reason: Fit Foodie Finds concentrates on health education and sustainable wellbeing, with a discoverable feed, a visible
+    article archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://fitfoodiefinds.com/
+  - https://fitfoodiefinds.com/comments/feed/
+  - https://fitfoodiefinds.com/about-2/
+  scores:
+    editorial_quality: 76
+    trust: 82
+    reach: 89
+    freshness: 89
+    ux: 84
+    impact: 89
+- id: dexafit-com
+  name: DexaFit
+  canonical_url: https://dexafit.com/
+  country: XX
+  best_for: fitness, exercise, and sustainable training
+  reason: DexaFit concentrates on fitness, exercise, and sustainable training, with a visible article archive, named authorship
+    that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://dexafit.com/
+  - https://www.dexafit.com/our-story
+  scores:
+    editorial_quality: 67
+    trust: 80
+    reach: 80
+    freshness: 66
+    ux: 84
+    impact: 70
+- id: mcdermottplus-com
+  name: McDermott+
+  canonical_url: https://mcdermottplus.com/
+  country: XX
+  best_for: health education and sustainable wellbeing
+  reason: McDermott+ concentrates on health education and sustainable wellbeing, with a discoverable feed, clear ownership
+    context that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://mcdermottplus.com/
+  - https://www.mcdermottplus.com/blog_category/regs-eggs/feed/
+  - https://www.mcdermottplus.com/about/
+  scores:
+    editorial_quality: 66
+    trust: 82
+    reach: 77
+    freshness: 89
+    ux: 84
+    impact: 87
+- id: webmd-com
+  name: WebMD
+  canonical_url: https://webmd.com/
+  country: XX
+  best_for: fitness, exercise, and sustainable training
+  reason: WebMD concentrates on fitness, exercise, and sustainable training, with clear ownership context that makes its current
+    publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://webmd.com/
+  - https://www.webmd.com/webmd-editorial-contributors
+  scores:
+    editorial_quality: 63
+    trust: 82
+    reach: 89
+    freshness: 58
+    ux: 84
+    impact: 87
+- id: vogue-com
+  name: Vogue
+  canonical_url: https://vogue.com/
+  country: XX
+  best_for: mental health and psychological wellbeing
+  reason: Vogue concentrates on mental health and psychological wellbeing, with a discoverable feed, named authorship that
+    makes its current publishing work easier to evaluate.
+  limitation: The homepage is heavier and more commercially layered than a focused reading experience.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://vogue.com/
+  - https://www.vogue.com/feed/rss
+  - https://www.vogue.com/about-us
+  scores:
+    editorial_quality: 72
+    trust: 89
+    reach: 89
+    freshness: 89
+    ux: 76
+    impact: 87
+- id: elle-com
+  name: ELLE
+  canonical_url: https://elle.com/
+  country: XX
+  best_for: fitness, exercise, and sustainable training
+  reason: ELLE concentrates on fitness, exercise, and sustainable training, with named authorship, clear ownership context
+    that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://elle.com/
+  - https://www.elle.com/rss/all.xml
+  - https://www.elle.com/beauty/health-fitness/a71110769/peptide-injections-skincare-celebrities-trends-2026/
+  scores:
+    editorial_quality: 65
+    trust: 89
+    reach: 89
+    freshness: 89
+    ux: 84
+    impact: 86
+- id: healthbeat-org
+  name: Healthbeat
+  canonical_url: https://healthbeat.org/
+  country: XX
+  best_for: public health and healthcare systems
+  reason: Healthbeat concentrates on public health and healthcare systems, with a discoverable feed, named authorship that
+    makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://healthbeat.org/
+  - https://www.healthbeat.org/arc/outboundfeeds/rss/
+  - https://www.healthbeat.org/about-healthbeat
+  scores:
+    editorial_quality: 66
+    trust: 89
+    reach: 80
+    freshness: 89
+    ux: 84
+    impact: 76
+- id: khn-org
+  name: KFF Health News
+  canonical_url: https://khn.org/
+  country: XX
+  best_for: health education and sustainable wellbeing
+  reason: KFF Health News concentrates on health education and sustainable wellbeing, with a discoverable feed, a visible
+    article archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://khn.org/
+  - https://kffhealthnews.org/comments/feed/
+  - https://kffhealthnews.org/about-us/
+  scores:
+    editorial_quality: 70
+    trust: 89
+    reach: 60
+    freshness: 78
+    ux: 84
+    impact: 89
+- id: wheel-com
+  name: Wheel
+  canonical_url: https://wheel.com/
+  country: XX
+  best_for: medicine and patient-facing health education
+  reason: Wheel concentrates on medicine and patient-facing health education, with clear ownership context that makes its
+    current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://wheel.com/
+  - https://www.wheel.com/careers
+  scores:
+    editorial_quality: 61
+    trust: 82
+    reach: 72
+    freshness: 78
+    ux: 84
+    impact: 67
+- id: osfhealthcare-org
+  name: Transforming Health Care
+  canonical_url: https://osfhealthcare.org/
+  country: XX
+  best_for: health education and sustainable wellbeing
+  reason: Transforming Health Care concentrates on health education and sustainable wellbeing, with clear ownership context
+    that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://osfhealthcare.org/
+  - https://www.osfhealthcare.org/patients-visitors/about
+  scores:
+    editorial_quality: 59
+    trust: 82
+    reach: 89
+    freshness: 58
+    ux: 84
+    impact: 80
+- id: reconstrategy-com
+  name: Recon Strategy
+  canonical_url: https://reconstrategy.com/
+  country: XX
+  best_for: health education and sustainable wellbeing
+  reason: Recon Strategy concentrates on health education and sustainable wellbeing, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://reconstrategy.com/
+  - https://reconstrategy.com/feed/
+  - https://reconstrategy.com/team/
+  scores:
+    editorial_quality: 70
+    trust: 75
+    reach: 48
+    freshness: 88
+    ux: 84
+    impact: 63
+- id: digitalhealthinsider-org
+  name: Digital Health Insider
+  canonical_url: https://digitalhealthinsider.org/
+  country: XX
+  best_for: health education and sustainable wellbeing
+  reason: Digital Health Insider concentrates on health education and sustainable wellbeing, with a discoverable feed that
+    makes its current publishing work easier to evaluate.
+  limitation: Authorship and editorial-policy information is less visible than on higher-ranked publications.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://digitalhealthinsider.org/
+  - https://www.digitalhealthinsider.org/feed
+  scores:
+    editorial_quality: 66
+    trust: 62
+    reach: 52
+    freshness: 89
+    ux: 84
+    impact: 67
+- id: lookgreatnaked-com
+  name: Lookgreatnaked.com
+  canonical_url: https://lookgreatnaked.com/
+  country: XX
+  best_for: fitness, exercise, and sustainable training
+  reason: Lookgreatnaked.com concentrates on fitness, exercise, and sustainable training, with clear ownership context that
+    makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://lookgreatnaked.com/
+  scores:
+    editorial_quality: 59
+    trust: 75
+    reach: 55
+    freshness: 58
+    ux: 70
+    impact: 63
+- id: ariamarketing-com
+  name: PR & Marketing Communications Agency
+  canonical_url: https://ariamarketing.com/
+  country: XX
+  best_for: health education and sustainable wellbeing
+  reason: PR & Marketing Communications Agency concentrates on health education and sustainable wellbeing, with named authorship
+    that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://ariamarketing.com/
+  - https://ariamarketing.com/the-agency/who-we-are
+  scores:
+    editorial_quality: 59
+    trust: 75
+    reach: 47
+    freshness: 58
+    ux: 84
+    impact: 56
+- id: precisionnutrition-com
+  name: Precision Nutrition
+  canonical_url: https://precisionnutrition.com/
+  country: XX
+  best_for: fitness, exercise, and sustainable training
+  reason: Precision Nutrition concentrates on fitness, exercise, and sustainable training, with a discoverable feed that makes
+    its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://precisionnutrition.com/
+  - https://www.precisionnutrition.com/blog/feed
+  - https://www.precisionnutrition.com/ozempic-for-weight-loss-the-truth
+  scores:
+    editorial_quality: 68
+    trust: 75
+    reach: 86
+    freshness: 89
+    ux: 84
+    impact: 86
+- id: garrettcounseling-com
+  name: Garrett Counseling
+  canonical_url: https://garrettcounseling.com/
+  country: XX
+  best_for: mental health and psychological wellbeing
+  reason: Garrett Counseling concentrates on mental health and psychological wellbeing, with a visible article archive, named
+    authorship that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://garrettcounseling.com/
+  - https://garrettcounseling.com/about-us/
+  scores:
+    editorial_quality: 65
+    trust: 82
+    reach: 63
+    freshness: 45
+    ux: 84
+    impact: 59
+- id: orangetheory-com
+  name: Group Fitness Class & Interval Training
+  canonical_url: https://orangetheory.com/
+  country: XX
+  best_for: fitness, exercise, and sustainable training
+  reason: Group Fitness Class & Interval Training concentrates on fitness, exercise, and sustainable training, with a visible
+    article archive that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://orangetheory.com/
+  - https://www.orangetheory.com/en-in/workout
+  scores:
+    editorial_quality: 65
+    trust: 80
+    reach: 89
+    freshness: 78
+    ux: 84
+    impact: 89
+- id: lightit-io
+  name: Healthcare Software Development & Strategy
+  canonical_url: https://lightit.io/
+  country: XX
+  best_for: health education and sustainable wellbeing
+  reason: Healthcare Software Development & Strategy concentrates on health education and sustainable wellbeing, with named
+    authorship, clear ownership context that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://lightit.io/
+  - https://lightit.io/our-work/fridays
+  scores:
+    editorial_quality: 61
+    trust: 89
+    reach: 63
+    freshness: 58
+    ux: 84
+    impact: 73
+- id: thehealthymuse-com
+  name: The Healthy Muse
+  canonical_url: https://thehealthymuse.com/
+  country: XX
+  best_for: health education and sustainable wellbeing
+  reason: The Healthy Muse concentrates on health education and sustainable wellbeing, with a discoverable feed, a visible
+    article archive that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://thehealthymuse.com/
+  - https://thehealthymuse.com/comments/feed/
+  - https://thehealthymuse.com/about/
+  scores:
+    editorial_quality: 72
+    trust: 80
+    reach: 45
+    freshness: 45
+    ux: 84
+    impact: 60
+- id: thehealthtechsignal-com
+  name: The HealthTech Signal
+  canonical_url: https://thehealthtechsignal.com/
+  country: XX
+  best_for: medicine and patient-facing health education
+  reason: The HealthTech Signal concentrates on medicine and patient-facing health education, with a visible article archive,
+    clear ownership context that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://thehealthtechsignal.com/
+  - https://thehealthtechsignal.com/about
+  scores:
+    editorial_quality: 65
+    trust: 80
+    reach: 41
+    freshness: 66
+    ux: 84
+    impact: 49
+- id: healthcareuncovered-substack-com
+  name: HEALTH CARE un-covered
+  canonical_url: https://healthcareuncovered.substack.com/
+  country: XX
+  best_for: health education and sustainable wellbeing
+  reason: HEALTH CARE un-covered concentrates on health education and sustainable wellbeing, with a discoverable feed that
+    makes its current publishing work easier to evaluate.
+  limitation: Authorship and editorial-policy information is less visible than on higher-ranked publications.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://healthcareuncovered.substack.com/
+  - https://healthcareuncovered.substack.com/feed
+  scores:
+    editorial_quality: 66
+    trust: 62
+    reach: 65
+    freshness: 89
+    ux: 84
+    impact: 73
+- id: sergeiai-substack-com
+  name: AI Health Uncut
+  canonical_url: https://sergeiai.substack.com/
+  country: XX
+  best_for: health education and sustainable wellbeing
+  reason: AI Health Uncut concentrates on health education and sustainable wellbeing, with a discoverable feed that makes
+    its current publishing work easier to evaluate.
+  limitation: Authorship and editorial-policy information is less visible than on higher-ranked publications.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://sergeiai.substack.com/
+  - https://www.fixhealth.ai/feed
+  scores:
+    editorial_quality: 66
+    trust: 62
+    reach: 44
+    freshness: 89
+    ux: 84
+    impact: 66
+- id: jeffdelverne-substack-com
+  name: The Healthcare Economy
+  canonical_url: https://jeffdelverne.substack.com/
+  country: XX
+  best_for: health education and sustainable wellbeing
+  reason: The Healthcare Economy concentrates on health education and sustainable wellbeing, with a discoverable feed that
+    makes its current publishing work easier to evaluate.
+  limitation: Authorship and editorial-policy information is less visible than on higher-ranked publications.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://jeffdelverne.substack.com/
+  - https://jeffdelverne.substack.com/feed
+  scores:
+    editorial_quality: 66
+    trust: 62
+    reach: 43
+    freshness: 89
+    ux: 84
+    impact: 60
+- id: quinnwangmd-substack-com
+  name: Insight via Incision
+  canonical_url: https://quinnwangmd.substack.com/
+  country: XX
+  best_for: health education and sustainable wellbeing
+  reason: Insight via Incision concentrates on health education and sustainable wellbeing, with a discoverable feed that makes
+    its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://quinnwangmd.substack.com/
+  - https://quinnwangmd.substack.com/feed
+  scores:
+    editorial_quality: 66
+    trust: 62
+    reach: 45
+    freshness: 62
+    ux: 84
+    impact: 57
+- id: jconnolly-substack-com
+  name: Joe Connolly
+  canonical_url: https://jconnolly.substack.com/
+  country: XX
+  best_for: health education and sustainable wellbeing
+  reason: Joe Connolly concentrates on health education and sustainable wellbeing, with a discoverable feed that makes its
+    current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://jconnolly.substack.com/
+  - https://jconnolly.substack.com/feed
+  scores:
+    editorial_quality: 66
+    trust: 62
+    reach: 40
+    freshness: 45
+    ux: 84
+    impact: 58
+- id: fwdfuel-com
+  name: FWDfuel Sports Nutrition
+  canonical_url: https://fwdfuel.com/
+  country: XX
+  best_for: nutrition and evidence-aware food decisions
+  reason: FWDfuel Sports Nutrition concentrates on nutrition and evidence-aware food decisions, with a visible article archive,
+    named authorship that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://fwdfuel.com/
+  - https://www.fwdfuel.com/our-team/
+  scores:
+    editorial_quality: 67
+    trust: 80
+    reach: 65
+    freshness: 66
+    ux: 76
+    impact: 70
+- id: andreaklasfitness-medium-com
+  name: Andreaklasfitness
+  canonical_url: https://andreaklasfitness.medium.com/
+  country: XX
+  best_for: fitness, exercise, and sustainable training
+  reason: Andreaklasfitness concentrates on fitness, exercise, and sustainable training, with a discoverable feed, a visible
+    article archive that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://andreaklasfitness.medium.com/
+  - https://medium.com/feed/@andreaklasfitness
+  - https://andreaklasfitness.medium.com/about
+  scores:
+    editorial_quality: 70
+    trust: 80
+    reach: 41
+    freshness: 45
+    ux: 84
+    impact: 49
+- id: theatlantic-com
+  name: The Atlantic
+  canonical_url: https://theatlantic.com/
+  country: XX
+  best_for: health education and sustainable wellbeing
+  reason: The Atlantic concentrates on health education and sustainable wellbeing, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://theatlantic.com/
+  - https://www.theatlantic.com/feed/best-of/
+  scores:
+    editorial_quality: 70
+    trust: 83
+    reach: 89
+    freshness: 89
+    ux: 84
+    impact: 89
+- id: infraredsauna-com
+  name: Clearlight® Saunas
+  canonical_url: https://infraredsauna.com/
+  country: XX
+  best_for: health education and sustainable wellbeing
+  reason: Clearlight® Saunas concentrates on health education and sustainable wellbeing, with a visible article archive that
+    makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://infraredsauna.com/
+  scores:
+    editorial_quality: 65
+    trust: 69
+    reach: 76
+    freshness: 89
+    ux: 84
+    impact: 72
+- id: popsugar-com
+  name: Popsugar
+  canonical_url: https://popsugar.com/
+  country: XX
+  best_for: fitness, exercise, and sustainable training
+  reason: Popsugar concentrates on fitness, exercise, and sustainable training, with named authorship, clear ownership context
+    that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://popsugar.com/
+  - https://www.popsugar.com/fitness/what-to-wear-to-club-pilates-47308914
+  scores:
+    editorial_quality: 65
+    trust: 89
+    reach: 89
+    freshness: 58
+    ux: 76
+    impact: 89
+- id: emedihealth-com
+  name: eMediHealth
+  canonical_url: https://emedihealth.com/
+  country: XX
+  best_for: mental health and psychological wellbeing
+  reason: eMediHealth concentrates on mental health and psychological wellbeing, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://emedihealth.com/
+  - https://www.emedihealth.com/comments/feed
+  - https://www.emedihealth.com/about
+  scores:
+    editorial_quality: 76
+    trust: 89
+    reach: 78
+    freshness: 89
+    ux: 84
+    impact: 75
+- id: cleananddelicious-com
+  name: Clean & Delicious
+  canonical_url: https://cleananddelicious.com/
+  country: XX
+  best_for: nutrition and evidence-aware food decisions
+  reason: Clean & Delicious concentrates on nutrition and evidence-aware food decisions, with a discoverable feed, a visible
+    article archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://cleananddelicious.com/
+  - https://cleananddelicious.com/feed/
+  - https://cleananddelicious.com/about/
+  scores:
+    editorial_quality: 72
+    trust: 82
+    reach: 81
+    freshness: 89
+    ux: 84
+    impact: 70
+- id: thebalancednutritionist-com
+  name: The Balanced Nutritionist
+  canonical_url: https://thebalancednutritionist.com/
+  country: XX
+  best_for: nutrition and evidence-aware food decisions
+  reason: The Balanced Nutritionist concentrates on nutrition and evidence-aware food decisions, with a discoverable feed,
+    a visible article archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://thebalancednutritionist.com/
+  - https://thebalancednutritionist.com/comments/feed/
+  - https://thebalancednutritionist.com/about-jamie/
+  scores:
+    editorial_quality: 72
+    trust: 82
+    reach: 79
+    freshness: 89
+    ux: 84
+    impact: 67
+- id: behealthynow-co-uk
+  name: Be Healthy Now
+  canonical_url: https://behealthynow.co.uk/
+  country: GB
+  best_for: mental health and psychological wellbeing
+  reason: Be Healthy Now concentrates on mental health and psychological wellbeing, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://behealthynow.co.uk/
+  - https://www.behealthynow.co.uk/comments/feed/
+  - https://www.behealthynow.co.uk/about-me/
+  scores:
+    editorial_quality: 76
+    trust: 82
+    reach: 62
+    freshness: 89
+    ux: 84
+    impact: 68
+- id: verywellhealth-com
+  name: Verywell Health
+  canonical_url: https://verywellhealth.com/
+  country: XX
+  best_for: public health and healthcare systems
+  reason: Verywell Health concentrates on public health and healthcare systems, with a discoverable feed, clear ownership
+    context that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://verywellhealth.com/
+  - https://feeds-api.dotdashmeredith.com/v1/rss/google/e9bc2236-f9bf-46ed-8fb4-be30d91fd32f
+  scores:
+    editorial_quality: 68
+    trust: 76
+    reach: 89
+    freshness: 70
+    ux: 84
+    impact: 84
+- id: activeminds-org
+  name: Active Minds
+  canonical_url: https://activeminds.org/
+  country: XX
+  best_for: mental health and psychological wellbeing
+  reason: Active Minds concentrates on mental health and psychological wellbeing, with a visible article archive, named authorship
+    that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://activeminds.org/
+  - https://activeminds.org/our-story/
+  scores:
+    editorial_quality: 65
+    trust: 89
+    reach: 78
+    freshness: 78
+    ux: 84
+    impact: 74
+- id: hostinger-com
+  name: Hostinger
+  canonical_url: https://hostinger.com/
+  country: XX
+  best_for: fitness, exercise, and sustainable training
+  reason: Hostinger concentrates on fitness, exercise, and sustainable training, with clear ownership context that makes its
+    current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://hostinger.com/
+  - https://www.hostinger.com/tutorials/comments/feed/
+  - https://www.hostinger.com/hostinger-agent
+  scores:
+    editorial_quality: 63
+    trust: 82
+    reach: 89
+    freshness: 62
+    ux: 84
+    impact: 87
+- id: abbeyskitchen-com
+  name: Abbey's Kitchen
+  canonical_url: https://abbeyskitchen.com/
+  country: XX
+  best_for: nutrition and evidence-aware food decisions
+  reason: Abbey's Kitchen concentrates on nutrition and evidence-aware food decisions, with a discoverable feed, a visible
+    article archive that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://abbeyskitchen.com/
+  - https://www.abbeyskitchen.com/web-stories/feed/
+  - https://www.abbeyskitchen.com/about-abbey/
+  scores:
+    editorial_quality: 72
+    trust: 82
+    reach: 78
+    freshness: 62
+    ux: 84
+    impact: 69
+- id: dailyom-com
+  name: DailyOM
+  canonical_url: https://dailyom.com/
+  country: XX
+  best_for: fitness, exercise, and sustainable training
+  reason: DailyOM concentrates on fitness, exercise, and sustainable training, with clear ownership context that makes its
+    current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://dailyom.com/
+  - https://www.dailyom.com:443/inspirations/july-31-2026-feng-shui-energy
+  scores:
+    editorial_quality: 63
+    trust: 82
+    reach: 87
+    freshness: 58
+    ux: 84
+    impact: 87
+- id: therealfoodrds-com
+  name: The Real Food Dietitians
+  canonical_url: https://therealfoodrds.com/
+  country: XX
+  best_for: nutrition and evidence-aware food decisions
+  reason: The Real Food Dietitians concentrates on nutrition and evidence-aware food decisions, with a discoverable feed,
+    a visible article archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://therealfoodrds.com/
+  - https://therealfooddietitians.com/web-stories/feed/
+  - https://therealfooddietitians.com/about/
+  scores:
+    editorial_quality: 74
+    trust: 82
+    reach: 51
+    freshness: 89
+    ux: 84
+    impact: 82
+- id: nourishnutritionblog-com
+  name: Nourish Nutrition Blog
+  canonical_url: https://nourishnutritionblog.com/
+  country: XX
+  best_for: nutrition and evidence-aware food decisions
+  reason: Nourish Nutrition Blog concentrates on nutrition and evidence-aware food decisions, with a discoverable feed, a
+    visible article archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://nourishnutritionblog.com/
+  - https://www.nourishnutritionblog.com/comments/feed/
+  - https://www.nourishnutritionblog.com/about-rebecca/
+  scores:
+    editorial_quality: 68
+    trust: 82
+    reach: 69
+    freshness: 88
+    ux: 84
+    impact: 60
+- id: founderjar-com
+  name: FounderJar
+  canonical_url: https://founderjar.com/
+  country: XX
+  best_for: mental health and psychological wellbeing
+  reason: FounderJar concentrates on mental health and psychological wellbeing, with named authorship, clear ownership context
+    that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://founderjar.com/
+  - https://www.founderjar.com/about-us/
+  scores:
+    editorial_quality: 63
+    trust: 89
+    reach: 78
+    freshness: 58
+    ux: 84
+    impact: 72
+- id: julienutrition-com
+  name: JM Nutrition
+  canonical_url: https://julienutrition.com/
+  country: XX
+  best_for: nutrition and evidence-aware food decisions
+  reason: JM Nutrition concentrates on nutrition and evidence-aware food decisions, with a visible article archive, named
+    authorship that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://julienutrition.com/
+  - https://www.julienutrition.com/nutrition-blog/#
+  scores:
+    editorial_quality: 65
+    trust: 89
+    reach: 72
+    freshness: 62
+    ux: 84
+    impact: 67
+- id: inboundblogging-com
+  name: InBound Blogging
+  canonical_url: https://inboundblogging.com/
+  country: XX
+  best_for: fitness, exercise, and sustainable training
+  reason: InBound Blogging concentrates on fitness, exercise, and sustainable training, with a discoverable feed that makes
+    its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://inboundblogging.com/
+  - https://inboundblogging.com/health-blogs/feed/
+  scores:
+    editorial_quality: 66
+    trust: 69
+    reach: 63
+    freshness: 88
+    ux: 84
+    impact: 63
+- id: quietyearning-com
+  name: QuietYearning
+  canonical_url: https://quietyearning.com/
+  country: XX
+  best_for: nutrition and evidence-aware food decisions
+  reason: QuietYearning concentrates on nutrition and evidence-aware food decisions, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://quietyearning.com/
+  - https://www.quietyearning.com/health-and-wellness-blogs-to-follow/feed/
+  scores:
+    editorial_quality: 74
+    trust: 69
+    reach: 50
+    freshness: 78
+    ux: 84
+    impact: 51
+- id: setuppriority-com
+  name: Setup Priority
+  canonical_url: https://setuppriority.com/
+  country: XX
+  best_for: fitness, exercise, and sustainable training
+  reason: Setup Priority concentrates on fitness, exercise, and sustainable training, with a discoverable feed, a visible
+    article archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://setuppriority.com/
+  - https://setuppriority.com/comments/feed/
+  - https://setuppriority.com/about-us/
+  scores:
+    editorial_quality: 72
+    trust: 82
+    reach: 44
+    freshness: 78
+    ux: 84
+    impact: 52
+- id: amandaanngregory-com
+  name: Amanda Ann Gregory
+  canonical_url: https://amandaanngregory.com/
+  country: XX
+  best_for: mental health and psychological wellbeing
+  reason: Amanda Ann Gregory concentrates on mental health and psychological wellbeing, with a discoverable feed, named authorship
+    that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://amandaanngregory.com/
+  - https://www.amandaanngregory.com/my-6-most-popular-psychology-today-blogs/feed/
+  - https://www.amandaanngregory.com/amanda-ann-gregory-trauma-speaker-author/
+  scores:
+    editorial_quality: 70
+    trust: 82
+    reach: 57
+    freshness: 62
+    ux: 84
+    impact: 54
+- id: firstaidproadelaide-com-au
+  name: First Aid Pro Adelaide
+  canonical_url: https://firstaidproadelaide.com.au/
+  country: AU
+  best_for: mental health and psychological wellbeing
+  reason: First Aid Pro Adelaide concentrates on mental health and psychological wellbeing, with a discoverable feed, clear
+    ownership context that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://firstaidproadelaide.com.au/
+  - https://firstaidproadelaide.com.au/comments/feed/
+  - https://firstaidproadelaide.com.au/about-us/
+  scores:
+    editorial_quality: 66
+    trust: 75
+    reach: 61
+    freshness: 88
+    ux: 76
+    impact: 60
+- id: masterspublichealth-net
+  name: Master's in Public Health Degree Programs
+  canonical_url: https://masterspublichealth.net/
+  country: XX
+  best_for: mental health and psychological wellbeing
+  reason: Master's in Public Health Degree Programs concentrates on mental health and psychological wellbeing, with a visible
+    article archive, clear ownership context that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://masterspublichealth.net/
+  - https://www.masterspublichealth.net/about/
+  scores:
+    editorial_quality: 69
+    trust: 75
+    reach: 72
+    freshness: 45
+    ux: 84
+    impact: 70
+- id: blunt-therapy-com
+  name: Blunt Therapy
+  canonical_url: https://blunt-therapy.com/
+  country: XX
+  best_for: mental health and psychological wellbeing
+  reason: Blunt Therapy concentrates on mental health and psychological wellbeing, with a visible article archive, named authorship
+    that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://blunt-therapy.com/
+  - https://www.blunt-therapy.com/blog
+  scores:
+    editorial_quality: 65
+    trust: 89
+    reach: 62
+    freshness: 62
+    ux: 84
+    impact: 64
+- id: monsterspost-com
+  name: MonstersPost
+  canonical_url: https://monsterspost.com/
+  country: XX
+  best_for: medicine and patient-facing health education
+  reason: MonstersPost concentrates on medicine and patient-facing health education, with a clearly defined editorial focus
+    that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://monsterspost.com/
+  scores:
+    editorial_quality: 63
+    trust: 69
+    reach: 75
+    freshness: 58
+    ux: 84
+    impact: 81
+- id: blog-healthadvocate-com
+  name: Health Advocate Blog
+  canonical_url: https://blog.healthadvocate.com/
+  country: XX
+  best_for: mental health and psychological wellbeing
+  reason: Health Advocate Blog concentrates on mental health and psychological wellbeing, with a discoverable feed, a visible
+    article archive that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://blog.healthadvocate.com/
+  - https://blog.healthadvocate.com/home/feed/
+  scores:
+    editorial_quality: 72
+    trust: 62
+    reach: 65
+    freshness: 62
+    ux: 84
+    impact: 64
+- id: karalydon-com
+  name: Kara Lydon
+  canonical_url: https://karalydon.com/
+  country: XX
+  best_for: nutrition and evidence-aware food decisions
+  reason: Kara Lydon concentrates on nutrition and evidence-aware food decisions, with a visible article archive, clear ownership
+    context that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://karalydon.com/
+  - https://karalydon.com/about/
+  scores:
+    editorial_quality: 63
+    trust: 82
+    reach: 79
+    freshness: 45
+    ux: 84
+    impact: 70
+- id: lifegoalsmag-com
+  name: Life Goals Mag
+  canonical_url: https://lifegoalsmag.com/
+  country: XX
+  best_for: health education and sustainable wellbeing
+  reason: Life Goals Mag concentrates on health education and sustainable wellbeing, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://lifegoalsmag.com/
+  - https://lifegoalsmag.com/blogs-mindfulness-growth/feed/
+  - https://lifegoalsmag.com/about/
+  scores:
+    editorial_quality: 68
+    trust: 89
+    reach: 66
+    freshness: 45
+    ux: 84
+    impact: 62
+- id: mediablog-prnewswire-com
+  name: Beyond Bylines
+  canonical_url: https://mediablog.prnewswire.com/
+  country: XX
+  best_for: mental health and psychological wellbeing
+  reason: Beyond Bylines concentrates on mental health and psychological wellbeing, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://mediablog.prnewswire.com/
+  - https://mediablog.prnewswire.com/2023/01/09/mental-health-blogs/feed/
+  scores:
+    editorial_quality: 72
+    trust: 69
+    reach: 66
+    freshness: 45
+    ux: 84
+    impact: 64
+- id: thebeginnings-com
+  name: The Beginnings
+  canonical_url: https://thebeginnings.com/
+  country: XX
+  best_for: health education and sustainable wellbeing
+  reason: The Beginnings concentrates on health education and sustainable wellbeing, with a clearly defined editorial focus
+    that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://thebeginnings.com/
+  - https://thebeginnings.com/pages/our-story
+  scores:
+    editorial_quality: 63
+    trust: 75
+    reach: 60
+    freshness: 58
+    ux: 84
+    impact: 58
+- id: phspot-org
+  name: PH SPOT
+  canonical_url: https://phspot.org/
+  country: XX
+  best_for: public health and healthcare systems
+  reason: PH SPOT concentrates on public health and healthcare systems, with a discoverable feed, a visible article archive
+    that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://phspot.org/
+  - https://phspot.org/comments/feed/
+  - https://phspot.org/about-us/
+  scores:
+    editorial_quality: 70
+    trust: 75
+    reach: 55
+    freshness: 45
+    ux: 84
+    impact: 58
+- id: kylielepri-com-au
+  name: Kylie Lepri
+  canonical_url: https://kylielepri.com.au/
+  country: AU
+  best_for: mental health and psychological wellbeing
+  reason: Kylie Lepri concentrates on mental health and psychological wellbeing, with a visible article archive, named authorship
+    that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://kylielepri.com.au/
+  - https://kylielepri.com.au/team-of-counsellors-psychotherapists/
+  scores:
+    editorial_quality: 67
+    trust: 82
+    reach: 48
+    freshness: 45
+    ux: 84
+    impact: 53
+- id: asquithlondon-com
+  name: Asquith
+  canonical_url: https://asquithlondon.com/
+  country: XX
+  best_for: health education and sustainable wellbeing
+  reason: Asquith concentrates on health education and sustainable wellbeing, with a clearly defined editorial focus that
+    makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://asquithlondon.com/
+  scores:
+    editorial_quality: 61
+    trust: 69
+    reach: 50
+    freshness: 58
+    ux: 84
+    impact: 62
+- id: muckrack-com
+  name: 'Muck Rack PR Software: Media Monitoring, Database, Reporting'
+  canonical_url: https://muckrack.com/
+  country: XX
+  best_for: mental health and psychological wellbeing
+  reason: 'Muck Rack PR Software: Media Monitoring, Database, Reporting concentrates on mental health and psychological wellbeing,
+    with clear ownership context that makes its current publishing work easier to evaluate.'
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://muckrack.com/
+  - https://muckrack.com/about
+  scores:
+    editorial_quality: 61
+    trust: 77
+    reach: 89
+    freshness: 58
+    ux: 84
+    impact: 85
+- id: bitesofwellness-com
+  name: Bites of Wellness
+  canonical_url: https://bitesofwellness.com/
+  country: XX
+  best_for: health education and sustainable wellbeing
+  reason: Bites of Wellness concentrates on health education and sustainable wellbeing, with a discoverable feed, a visible
+    article archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://bitesofwellness.com/
+  - https://bitesofwellness.com/feed/
+  - https://bitesofwellness.com/about/
+  scores:
+    editorial_quality: 72
+    trust: 82
+    reach: 80
+    freshness: 89
+    ux: 84
+    impact: 82

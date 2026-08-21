@@ -1,0 +1,409 @@
+{
+  "schema_version": 1,
+  "project": "Gatilab Blog Rankings",
+  "edition": "2026-09",
+  "status": "final",
+  "generated_at": "2026-08-21T12:00:00Z",
+  "category": {
+    "slug": "science",
+    "name": "Science",
+    "description": "Research communication and analysis across the physical, life, earth, space, and environmental sciences."
+  },
+  "tracks": {
+    "independent": {
+      "slug": "independent",
+      "label": "Independent Blogs",
+      "count": 100,
+      "items": [
+        {
+          "rank": 1,
+          "id": "backreaction-blogspot-com",
+          "name": "Sabine Hossenfelder: Backreaction",
+          "url": "https://backreaction.blogspot.com/",
+          "country": "XX",
+          "score": 98.0,
+          "movement": "new",
+          "best_for": "space, astronomy, and exploration",
+          "reason": "Sabine Hossenfelder: Backreaction concentrates on space, astronomy, and exploration, with a discoverable feed, clear ownership context that makes its current publishing work easier to evaluate.",
+          "limitation": "Authorship and editorial-policy information is less visible than on higher-ranked publications.",
+          "confidence": "standard",
+          "reviewed_at": "2026-08-21",
+          "evidence_urls": [
+            "https://backreaction.blogspot.com/",
+            "https://backreaction.blogspot.com/feeds/posts/default?alt=rss",
+            "https://backreaction.blogspot.com/p/about.html"
+          ]
+        },
+        {
+          "rank": 2,
+          "id": "realclimate-org",
+          "name": "RealClimate",
+          "url": "https://realclimate.org/",
+          "country": "XX",
+          "score": 97.0,
+          "movement": "new",
+          "best_for": "climate and environmental science",
+          "reason": "RealClimate concentrates on climate and environmental science, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+          "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+          "confidence": "standard",
+          "reviewed_at": "2026-08-21",
+          "evidence_urls": [
+            "https://realclimate.org/",
+            "https://www.realclimate.org/index.php/comments/feed/",
+            "https://www.realclimate.org/index.php/archives/2026/07/this-new-el-nino-is-different/"
+          ]
+        },
+        {
+          "rank": 3,
+          "id": "preposterousuniverse-com",
+          "name": "Preposterous Universe",
+          "url": "https://preposterousuniverse.com/",
+          "country": "XX",
+          "score": 96.0,
+          "movement": "new",
+          "best_for": "physics and the mechanisms behind new research",
+          "reason": "Preposterous Universe concentrates on physics and the mechanisms behind new research, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+          "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+          "confidence": "standard",
+          "reviewed_at": "2026-08-21",
+          "evidence_urls": [
+            "https://preposterousuniverse.com/",
+            "https://preposterousuniverse.com/blog/comments/feed/",
+            "https://www.preposterousuniverse.com/blog/about-this-blog/"
+          ]
+        },
+        {
+          "rank": 4,
+          "id": "southernfriedscience-com",
+          "name": "Southern Fried Science",
+          "url": "https://southernfriedscience.com/",
+          "country": "XX",
+          "score": 95.0,
+          "movement": "new",
+          "best_for": "science reporting and research communication",
+          "reason": "Southern Fried Science concentrates on science reporting and research communication, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+          "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+          "confidence": "standard",
+          "reviewed_at": "2026-08-21",
+          "evidence_urls": [
+            "https://southernfriedscience.com/",
+            "https://www.southernfriedscience.com/comments/feed/"
+          ]
+        },
+        {
+          "rank": 5,
+          "id": "improbable-com",
+          "name": "Improbable Research",
+          "url": "https://improbable.com/",
+          "country": "XX",
+          "score": 94.0,
+          "movement": "new",
+          "best_for": "research findings and science communication",
+          "reason": "Improbable Research concentrates on research findings and science communication, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+          "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+          "confidence": "standard",
+          "reviewed_at": "2026-08-21",
+          "evidence_urls": [
+            "https://improbable.com/",
+            "https://improbable.com/feed/"
+          ]
+        },
+        {
+          "rank": 6,
+          "id": "thephysicsmill-com",
+          "name": "The Physics Mill",
+          "url": "https://thephysicsmill.com/",
+          "country": "XX",
+          "score": 93.0,
+          "movement": "new",
+          "best_for": "physics and the mechanisms behind new research",
+          "reason": "The Physics Mill concentrates on physics and the mechanisms behind new research, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+          "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+          "confidence": "standard",
+          "reviewed_at": "2026-08-21",
+          "evidence_urls": [
+            "https://thephysicsmill.com/",
+            "https://www.thephysicsmill.com/links/feed/",
+            "https://www.thephysicsmill.com/about-the-blog/"
+          ]
+        },
+        {
+          "rank": 7,
+          "id": "nanoscale-blogspot-com",
+          "name": "nanoscale views",
+          "url": "https://nanoscale.blogspot.com/",
+          "country": "XX",
+          "score": 92.0,
+          "movement": "new",
+          "best_for": "physics and the mechanisms behind new research",
+          "reason": "nanoscale views concentrates on physics and the mechanisms behind new research, with a discoverable feed, clear ownership context that makes its current publishing work easier to evaluate.",
+          "limitation": "Authorship and editorial-policy information is less visible than on higher-ranked publications.",
+          "confidence": "standard",
+          "reviewed_at": "2026-08-21",
+          "evidence_urls": [
+            "https://nanoscale.blogspot.com/",
+            "https://nanoscale.blogspot.com/feeds/posts/default?alt=rss",
+            "https://nanoscale.blogspot.com/2026/07/a-brief-serious-note-about-mental.html"
+          ]
+        },
+        {
+          "rank": 8,
+          "id": "4gravitons-com",
+          "name": "4 Gravitons",
+          "url": "https://4gravitons.com/",
+          "country": "XX",
+          "score": 91.0,
+          "movement": "new",
+          "best_for": "physics and the mechanisms behind new research",
+          "reason": "4 Gravitons concentrates on physics and the mechanisms behind new research, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+          "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+          "confidence": "standard",
+          "reviewed_at": "2026-08-21",
+          "evidence_urls": [
+            "https://4gravitons.com/",
+            "https://4gravitons.com/comments/feed/",
+            "https://4gravitons.com/about/"
+          ]
+        },
+        {
+          "rank": 9,
+          "id": "joyfulmicrobe-com",
+          "name": "Joyful Microbe",
+          "url": "https://joyfulmicrobe.com/",
+          "country": "XX",
+          "score": 90.0,
+          "movement": "new",
+          "best_for": "biology, biotechnology, and life science",
+          "reason": "Joyful Microbe concentrates on biology, biotechnology, and life science, with a discoverable feed, clear ownership context that makes its current publishing work easier to evaluate.",
+          "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+          "confidence": "standard",
+          "reviewed_at": "2026-08-21",
+          "evidence_urls": [
+            "https://joyfulmicrobe.com/",
+            "https://joyfulmicrobe.com/comments/feed/",
+            "https://joyfulmicrobe.com/about/"
+          ]
+        },
+        {
+          "rank": 10,
+          "id": "goodsciencewriting-com",
+          "name": "Good Science Writing",
+          "url": "https://goodsciencewriting.com/",
+          "country": "XX",
+          "score": 89.0,
+          "movement": "new",
+          "best_for": "research findings and science communication",
+          "reason": "Good Science Writing concentrates on research findings and science communication, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+          "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+          "confidence": "standard",
+          "reviewed_at": "2026-08-21",
+          "evidence_urls": [
+            "https://goodsciencewriting.com/",
+            "https://goodsciencewriting.com/comments/feed/",
+            "https://goodsciencewriting.com/category/my-articles-about-science/"
+          ]
+        }
+      ]
+    },
+    "publisher_company": {
+      "slug": "publisher_company",
+      "label": "Publisher and Company Blogs",
+      "count": 100,
+      "items": [
+        {
+          "rank": 1,
+          "id": "scientificamerican-com",
+          "name": "Scientific American",
+          "url": "https://scientificamerican.com/",
+          "country": "XX",
+          "score": 98.0,
+          "movement": "new",
+          "best_for": "biology, biotechnology, and life science",
+          "reason": "Scientific American concentrates on biology, biotechnology, and life science, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+          "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+          "confidence": "standard",
+          "reviewed_at": "2026-08-21",
+          "evidence_urls": [
+            "https://scientificamerican.com/",
+            "https://www.scientificamerican.com/platform/syndication/rss/",
+            "https://www.scientificamerican.com/page/about-scientific-american/"
+          ]
+        },
+        {
+          "rank": 2,
+          "id": "sciencenews-org",
+          "name": "Science News",
+          "url": "https://sciencenews.org/",
+          "country": "XX",
+          "score": 97.0,
+          "movement": "new",
+          "best_for": "space, astronomy, and exploration",
+          "reason": "Science News concentrates on space, astronomy, and exploration, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+          "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+          "confidence": "standard",
+          "reviewed_at": "2026-08-21",
+          "evidence_urls": [
+            "https://sciencenews.org/",
+            "https://www.sciencenews.org/comments/feed",
+            "https://www.sciencenews.org/about-science-news"
+          ]
+        },
+        {
+          "rank": 3,
+          "id": "nature-com",
+          "name": "Nature",
+          "url": "https://nature.com/",
+          "country": "XX",
+          "score": 96.0,
+          "movement": "new",
+          "best_for": "biology, biotechnology, and life science",
+          "reason": "Nature concentrates on biology, biotechnology, and life science, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+          "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+          "confidence": "standard",
+          "reviewed_at": "2026-08-21",
+          "evidence_urls": [
+            "https://nature.com/",
+            "https://www.nature.com/nature.rss"
+          ]
+        },
+        {
+          "rank": 4,
+          "id": "newscientist-com",
+          "name": "New Scientist",
+          "url": "https://newscientist.com/",
+          "country": "XX",
+          "score": 95.0,
+          "movement": "new",
+          "best_for": "space, astronomy, and exploration",
+          "reason": "New Scientist concentrates on space, astronomy, and exploration, with a visible article archive, clear ownership context that makes its current publishing work easier to evaluate.",
+          "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+          "confidence": "standard",
+          "reviewed_at": "2026-08-21",
+          "evidence_urls": [
+            "https://newscientist.com/"
+          ]
+        },
+        {
+          "rank": 5,
+          "id": "science-nasa-gov",
+          "name": "NASA Science",
+          "url": "https://science.nasa.gov/",
+          "country": "XX",
+          "score": 94.0,
+          "movement": "new",
+          "best_for": "space, astronomy, and exploration",
+          "reason": "NASA Science concentrates on space, astronomy, and exploration, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+          "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+          "confidence": "standard",
+          "reviewed_at": "2026-08-21",
+          "evidence_urls": [
+            "https://science.nasa.gov/",
+            "https://science.nasa.gov/feed/",
+            "https://science.nasa.gov/about/"
+          ]
+        },
+        {
+          "rank": 6,
+          "id": "popsci-com",
+          "name": "Popular Science",
+          "url": "https://popsci.com/",
+          "country": "XX",
+          "score": 93.0,
+          "movement": "new",
+          "best_for": "space, astronomy, and exploration",
+          "reason": "Popular Science concentrates on space, astronomy, and exploration, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+          "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+          "confidence": "standard",
+          "reviewed_at": "2026-08-21",
+          "evidence_urls": [
+            "https://popsci.com/",
+            "https://www.popsci.com/feed/",
+            "https://www.popsci.com/authors/popular-science-team/"
+          ]
+        },
+        {
+          "rank": 7,
+          "id": "space-com",
+          "name": "Space",
+          "url": "https://space.com/",
+          "country": "XX",
+          "score": 92.0,
+          "movement": "new",
+          "best_for": "space, astronomy, and exploration",
+          "reason": "Space concentrates on space, astronomy, and exploration, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+          "limitation": "The homepage is heavier and more commercially layered than a focused reading experience.",
+          "confidence": "standard",
+          "reviewed_at": "2026-08-21",
+          "evidence_urls": [
+            "https://space.com/",
+            "https://www.space.com/feeds.xml",
+            "https://www.space.com/41418-about-us.html"
+          ]
+        },
+        {
+          "rank": 8,
+          "id": "sciencealert-com",
+          "name": "ScienceAlert",
+          "url": "https://sciencealert.com/",
+          "country": "XX",
+          "score": 91.0,
+          "movement": "new",
+          "best_for": "space, astronomy, and exploration",
+          "reason": "ScienceAlert concentrates on space, astronomy, and exploration, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+          "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+          "confidence": "standard",
+          "reviewed_at": "2026-08-21",
+          "evidence_urls": [
+            "https://sciencealert.com/",
+            "https://www.sciencealert.com/feed/smartformat/",
+            "https://www.sciencealert.com/about-sciencealert"
+          ]
+        },
+        {
+          "rank": 9,
+          "id": "scitechdaily-com",
+          "name": "SciTechDaily",
+          "url": "https://scitechdaily.com/",
+          "country": "XX",
+          "score": 90.0,
+          "movement": "new",
+          "best_for": "space, astronomy, and exploration",
+          "reason": "SciTechDaily concentrates on space, astronomy, and exploration, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+          "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+          "confidence": "standard",
+          "reviewed_at": "2026-08-21",
+          "evidence_urls": [
+            "https://scitechdaily.com/",
+            "https://scitechdaily.com/news/physics/feed/",
+            "https://scitechdaily.com/11000-year-old-grains-reveal-a-surprise-about-the-origins-of-agriculture/"
+          ]
+        },
+        {
+          "rank": 10,
+          "id": "universetoday-com",
+          "name": "Universe Today",
+          "url": "https://universetoday.com/",
+          "country": "XX",
+          "score": 89.0,
+          "movement": "new",
+          "best_for": "space, astronomy, and exploration",
+          "reason": "Universe Today concentrates on space, astronomy, and exploration, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+          "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+          "confidence": "standard",
+          "reviewed_at": "2026-08-21",
+          "evidence_urls": [
+            "https://universetoday.com/",
+            "https://www.universetoday.com/atom.xml",
+            "https://www.universetoday.com/articles/the-planet-that-lied-about-its-own-spin"
+          ]
+        }
+      ]
+    }
+  },
+  "links": {
+    "repository": "https://github.com/wpgaurav/blog-rankings",
+    "methodology": "https://github.com/wpgaurav/blog-rankings/blob/main/METHODOLOGY.md",
+    "independent_markdown": "https://github.com/wpgaurav/blog-rankings/blob/main/dist/markdown/2026-09/science/independent.md",
+    "publisher_company_markdown": "https://github.com/wpgaurav/blog-rankings/blob/main/dist/markdown/2026-09/science/publisher_company.md"
+  }
+}

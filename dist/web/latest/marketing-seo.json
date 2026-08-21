@@ -1,0 +1,394 @@
+{
+  "schema_version": 1,
+  "project": "Gatilab Blog Rankings",
+  "edition": "2026-09",
+  "status": "final",
+  "generated_at": "2026-08-21T12:00:00Z",
+  "category": {
+    "slug": "marketing-seo",
+    "name": "Marketing and SEO",
+    "description": "Evidence-led publishing about search, content, copywriting, distribution, analytics, and paid acquisition."
+  },
+  "tracks": {
+    "independent": {
+      "slug": "independent",
+      "label": "Independent Blogs",
+      "count": 100,
+      "items": [
+        {
+          "rank": 1,
+          "id": "seths-blog",
+          "name": "Seth's Blog",
+          "url": "https://seths.blog/",
+          "country": "XX",
+          "score": 98.0,
+          "movement": "new",
+          "best_for": "concise marketing judgment, positioning, and creative practice",
+          "reason": "Seth Godin uses short observations and durable mental models to connect marketing decisions with trust, attention, and the work of serving a specific audience.",
+          "limitation": "The compact essays rarely provide step-by-step implementation or current channel data.",
+          "confidence": "standard",
+          "reviewed_at": "2026-08-21",
+          "evidence_urls": [
+            "https://seths.blog/",
+            "https://seths.blog/about/"
+          ]
+        },
+        {
+          "rank": 2,
+          "id": "detailed-com",
+          "name": "Detailed",
+          "url": "https://detailed.com/",
+          "country": "XX",
+          "score": 97.0,
+          "movement": "new",
+          "best_for": "advanced SEO analysis, competitive research, and publishing strategy",
+          "reason": "Glen Allsopp publishes unusually detailed, source-backed investigations into search results, affiliate publishing, media ownership, and competitive SEO patterns.",
+          "limitation": "The deliberately selective publishing schedule offers fewer routine updates than a daily SEO news source.",
+          "confidence": "standard",
+          "reviewed_at": "2026-08-21",
+          "evidence_urls": [
+            "https://detailed.com/",
+            "https://detailed.com/feed/"
+          ]
+        },
+        {
+          "rank": 3,
+          "id": "growth-memo-com",
+          "name": "Growth Memo",
+          "url": "https://growth-memo.com/",
+          "country": "XX",
+          "score": 96.0,
+          "movement": "new",
+          "best_for": "strategic SEO, growth systems, and market interpretation",
+          "reason": "Kevin Indig combines search data, product thinking, and executive-level analysis to explain why growth patterns change rather than only reporting that they changed.",
+          "limitation": "The strategic register assumes familiarity with SEO and product-growth fundamentals.",
+          "confidence": "standard",
+          "reviewed_at": "2026-08-21",
+          "evidence_urls": [
+            "https://www.growth-memo.com/",
+            "https://www.growth-memo.com/feed"
+          ]
+        },
+        {
+          "rank": 4,
+          "id": "seofomo-co",
+          "name": "SEOFOMO",
+          "url": "https://seofomo.co/",
+          "country": "XX",
+          "score": 95.0,
+          "movement": "new",
+          "best_for": "curated SEO changes, resources, jobs, and industry discussion",
+          "reason": "Aleyda Solis filters a noisy search industry into a consistent, practical briefing with strong source selection and international coverage.",
+          "limitation": "The newsletter format prioritizes curation over long-form original analysis on every topic.",
+          "confidence": "standard",
+          "reviewed_at": "2026-08-21",
+          "evidence_urls": [
+            "https://www.seofomo.co/"
+          ]
+        },
+        {
+          "rank": 5,
+          "id": "tomcritchlow-com",
+          "name": "Tom Critchlow",
+          "url": "https://tomcritchlow.com/",
+          "country": "XX",
+          "score": 94.0,
+          "movement": "new",
+          "best_for": "independent consulting, strategy, and organizational change",
+          "reason": "Tom Critchlow writes openly about consulting practice, strategic influence, career design, and the organizational reality around marketing work.",
+          "limitation": "The personal essay format is less useful for readers seeking a complete tactical SEO curriculum.",
+          "confidence": "standard",
+          "reviewed_at": "2026-08-21",
+          "evidence_urls": [
+            "https://tomcritchlow.com/",
+            "https://tomcritchlow.com/feed.xml",
+            "https://tomcritchlow.com/about"
+          ]
+        },
+        {
+          "rank": 6,
+          "id": "rosssimmonds-com",
+          "name": "Ross Simmonds",
+          "url": "https://rosssimmonds.com/",
+          "country": "XX",
+          "score": 93.0,
+          "movement": "new",
+          "best_for": "content distribution, B2B marketing, and repurposing systems",
+          "reason": "Ross Simmonds explains how content earns distribution and business value after publication, with practical frameworks for teams that overinvest in creation alone.",
+          "limitation": "Some material naturally leads toward agency services and broader promotional programs.",
+          "confidence": "standard",
+          "reviewed_at": "2026-08-21",
+          "evidence_urls": [
+            "https://rosssimmonds.com/",
+            "https://rosssimmonds.com/comments/feed/",
+            "https://rosssimmonds.com/what-is-this/"
+          ]
+        },
+        {
+          "rank": 7,
+          "id": "julian-com",
+          "name": "Julian Shapiro",
+          "url": "https://julian.com/",
+          "country": "XX",
+          "score": 92.0,
+          "movement": "new",
+          "best_for": "growth strategy, writing, and compact learning guides",
+          "reason": "Julian Shapiro turns complex growth and writing concepts into structured, visual guides that make assumptions and decision paths unusually clear.",
+          "limitation": "The guide library is selective and does not function as a frequent industry-news publication.",
+          "confidence": "standard",
+          "reviewed_at": "2026-08-21",
+          "evidence_urls": [
+            "https://www.julian.com/"
+          ]
+        },
+        {
+          "rank": 8,
+          "id": "brianbalfour-com",
+          "name": "Brian Balfour",
+          "url": "https://brianbalfour.com/",
+          "country": "XX",
+          "score": 91.0,
+          "movement": "new",
+          "best_for": "growth models, retention, product-market fit, and team systems",
+          "reason": "Brian Balfour's essays frame growth as an interacting system of loops, channels, product behavior, and organizational choices rather than a bag of acquisition tactics.",
+          "limitation": "The archive is valuable but publishes less frequently than active growth newsletters.",
+          "confidence": "standard",
+          "reviewed_at": "2026-08-21",
+          "evidence_urls": [
+            "https://brianbalfour.com/",
+            "https://brianbalfour.com/about"
+          ]
+        },
+        {
+          "rank": 9,
+          "id": "learnwhywebuy-com",
+          "name": "Why We Buy",
+          "url": "https://learnwhywebuy.com/",
+          "country": "XX",
+          "score": 90.0,
+          "movement": "new",
+          "best_for": "buyer psychology, customer research, and message design",
+          "reason": "Katelyn Bourgoin translates behavioral science and customer research into concrete marketing decisions without stripping away the conditions and biases that shape them.",
+          "limitation": "The newsletter concentrates on buyer behavior rather than the full marketing operating system.",
+          "confidence": "standard",
+          "reviewed_at": "2026-08-21",
+          "evidence_urls": [
+            "https://learnwhywebuy.com/"
+          ]
+        },
+        {
+          "rank": 10,
+          "id": "marketingexamples-com",
+          "name": "Marketing Examples",
+          "url": "https://marketingexamples.com/",
+          "country": "XX",
+          "score": 89.0,
+          "movement": "new",
+          "best_for": "concise examples of copywriting, landing pages, and distribution",
+          "reason": "Harry Dry teaches marketing through specific examples and visual breakdowns, making the useful difference between weak and effective execution easy to inspect.",
+          "limitation": "The compressed format can simplify context that matters when applying an example in a different market.",
+          "confidence": "standard",
+          "reviewed_at": "2026-08-21",
+          "evidence_urls": [
+            "https://marketingexamples.com/",
+            "https://marketingexamples.com/ads/experiments"
+          ]
+        }
+      ]
+    },
+    "publisher_company": {
+      "slug": "publisher_company",
+      "label": "Publisher and Company Blogs",
+      "count": 100,
+      "items": [
+        {
+          "rank": 1,
+          "id": "ahrefs-com",
+          "name": "Ahrefs Blog",
+          "url": "https://ahrefs.com/blog/",
+          "country": "XX",
+          "score": 98.0,
+          "movement": "new",
+          "best_for": "SEO research, content strategy, and search-led growth",
+          "reason": "Ahrefs combines product data, experiments, clear examples, and experienced practitioners to make SEO advice more testable than generic search tutorials.",
+          "limitation": "The editorial lens naturally favors organic search and the Ahrefs product ecosystem.",
+          "confidence": "standard",
+          "reviewed_at": "2026-08-21",
+          "evidence_urls": [
+            "https://ahrefs.com/blog/"
+          ]
+        },
+        {
+          "rank": 2,
+          "id": "blog-hubspot-com",
+          "name": "HubSpot Blog",
+          "url": "https://blog.hubspot.com/",
+          "country": "XX",
+          "score": 97.0,
+          "movement": "new",
+          "best_for": "broad marketing, sales, service, and operations education",
+          "reason": "HubSpot maintains a large practical library across marketing and revenue operations, with templates and beginner guidance for most common business questions.",
+          "limitation": "Breadth and search scale create uneven depth and originality across individual articles.",
+          "confidence": "standard",
+          "reviewed_at": "2026-08-21",
+          "evidence_urls": [
+            "https://blog.hubspot.com/",
+            "https://blog.hubspot.com/website/rss.xml"
+          ]
+        },
+        {
+          "rank": 3,
+          "id": "semrush-com",
+          "name": "Semrush Blog",
+          "url": "https://semrush.com/blog/",
+          "country": "XX",
+          "score": 96.0,
+          "movement": "new",
+          "best_for": "SEO, competitive research, content, and digital-marketing workflows",
+          "reason": "Semrush publishes current search guidance, original datasets, and product-linked tutorials across a wider digital-marketing scope than most SEO vendors.",
+          "limitation": "High publishing volume and product alignment make editorial depth inconsistent.",
+          "confidence": "standard",
+          "reviewed_at": "2026-08-21",
+          "evidence_urls": [
+            "https://www.semrush.com/blog/",
+            "https://www.semrush.com/company/"
+          ]
+        },
+        {
+          "rank": 4,
+          "id": "moz-com",
+          "name": "Moz Blog",
+          "url": "https://moz.com/blog/",
+          "country": "XX",
+          "score": 95.0,
+          "movement": "new",
+          "best_for": "established SEO education, research, and practitioner perspectives",
+          "reason": "Moz combines a long educational archive with industry research, practitioner contributions, and durable explanations of search fundamentals.",
+          "limitation": "Publication cadence and depth vary across guest contributions and product-led pieces.",
+          "confidence": "standard",
+          "reviewed_at": "2026-08-21",
+          "evidence_urls": [
+            "https://moz.com/blog/",
+            "https://moz.com/feeds/blog.atom",
+            "https://moz.com/about"
+          ]
+        },
+        {
+          "rank": 5,
+          "id": "searchengineland-com",
+          "name": "Search Engine Land",
+          "url": "https://searchengineland.com/",
+          "country": "XX",
+          "score": 94.0,
+          "movement": "new",
+          "best_for": "search-industry news, platform changes, and practitioner analysis",
+          "reason": "Search Engine Land follows Google, Microsoft, paid search, retail media, and SEO changes quickly with named specialist contributors and daily coverage.",
+          "limitation": "The fast news cycle leaves less room for complete implementation guidance in many stories.",
+          "confidence": "standard",
+          "reviewed_at": "2026-08-21",
+          "evidence_urls": [
+            "https://searchengineland.com/",
+            "https://searchengineland.com/feed",
+            "https://searchengineland.com/guide/ai-overviews-vs-featured-snippets"
+          ]
+        },
+        {
+          "rank": 6,
+          "id": "marketingprofs-com",
+          "name": "MarketingProfs",
+          "url": "https://marketingprofs.com/",
+          "country": "XX",
+          "score": 93.0,
+          "movement": "new",
+          "best_for": "B2B marketing education, research, writing, and professional development",
+          "reason": "MarketingProfs connects experienced contributors, training, research, and practical B2B guidance in a library built for working marketers.",
+          "limitation": "Registration and membership boundaries limit access to portions of the archive.",
+          "confidence": "standard",
+          "reviewed_at": "2026-08-21",
+          "evidence_urls": [
+            "https://www.marketingprofs.com/",
+            "https://www.marketingprofs.com/about/contact/"
+          ]
+        },
+        {
+          "rank": 7,
+          "id": "contentmarketinginstitute-com",
+          "name": "Content Marketing Institute",
+          "url": "https://contentmarketinginstitute.com/",
+          "country": "XX",
+          "score": 92.0,
+          "movement": "new",
+          "best_for": "content operations, editorial strategy, teams, and measurement",
+          "reason": "Content Marketing Institute covers the organizational and operational work around content, not only writing and promotion tactics.",
+          "limitation": "Some coverage is shaped around events, vendors, and enterprise content programs.",
+          "confidence": "standard",
+          "reviewed_at": "2026-08-21",
+          "evidence_urls": [
+            "https://contentmarketinginstitute.com/",
+            "https://contentmarketinginstitute.com/author/content-marketing-institute-team"
+          ]
+        },
+        {
+          "rank": 8,
+          "id": "buffer-com",
+          "name": "Buffer Resources",
+          "url": "https://buffer.com/resources/",
+          "country": "XX",
+          "score": 91.0,
+          "movement": "new",
+          "best_for": "social-media practice, creator workflows, and transparent company lessons",
+          "reason": "Buffer mixes practical platform guidance with public experiments and company-operating lessons, giving its educational content a useful first-party layer.",
+          "limitation": "The publication naturally concentrates on social media and the Buffer product context.",
+          "confidence": "standard",
+          "reviewed_at": "2026-08-21",
+          "evidence_urls": [
+            "https://buffer.com/resources/"
+          ]
+        },
+        {
+          "rank": 9,
+          "id": "cxl-com",
+          "name": "CXL Blog",
+          "url": "https://cxl.com/blog/",
+          "country": "XX",
+          "score": 90.0,
+          "movement": "new",
+          "best_for": "experimentation, conversion optimization, analytics, and growth practice",
+          "reason": "CXL publishes specialist guidance with a strong testing and evidence orientation, especially where conversion work crosses research and analytics.",
+          "limitation": "The advanced practitioner focus and training-business context make it less accessible to beginners.",
+          "confidence": "standard",
+          "reviewed_at": "2026-08-21",
+          "evidence_urls": [
+            "https://cxl.com/blog/",
+            "https://cxl.com/institute/live-course/ai-systems-operations-workshop/"
+          ]
+        },
+        {
+          "rank": 10,
+          "id": "copyblogger-com",
+          "name": "Copyblogger",
+          "url": "https://copyblogger.com/",
+          "country": "XX",
+          "score": 89.0,
+          "movement": "new",
+          "best_for": "content marketing, persuasive writing, and audience-led online business",
+          "reason": "Copyblogger's long archive connects writing, audience trust, offers, and digital products in a coherent content-business model.",
+          "limitation": "Older foundational material remains influential, but current publishing is less dominant than during the site's peak.",
+          "confidence": "standard",
+          "reviewed_at": "2026-08-21",
+          "evidence_urls": [
+            "https://copyblogger.com/",
+            "https://copyblogger.com/comments/feed/",
+            "https://copyblogger.com/about/"
+          ]
+        }
+      ]
+    }
+  },
+  "links": {
+    "repository": "https://github.com/wpgaurav/blog-rankings",
+    "methodology": "https://github.com/wpgaurav/blog-rankings/blob/main/METHODOLOGY.md",
+    "independent_markdown": "https://github.com/wpgaurav/blog-rankings/blob/main/dist/markdown/2026-09/marketing-seo/independent.md",
+    "publisher_company_markdown": "https://github.com/wpgaurav/blog-rankings/blob/main/dist/markdown/2026-09/marketing-seo/publisher_company.md"
+  }
+}

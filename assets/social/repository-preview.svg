@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 640" role="img" aria-labelledby="gbr-social-title gbr-social-desc">
+  <title id="gbr-social-title">Gatilab Blog Rankings</title>
+  <desc id="gbr-social-desc">Repository preview showing the measured-momentum ranking ladder and the project's 10 categories, two tracks, and monthly editions.</desc>
+  <defs>
+    <pattern id="gbr-social-dots" width="32" height="32" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="2" fill="#d8cec5" opacity="0.55"/>
+    </pattern>
+  </defs>
+  <rect width="1280" height="640" fill="#faf7f2"/>
+  <rect x="24" y="24" width="1232" height="592" rx="28" fill="url(#gbr-social-dots)" stroke="#d8cec5" stroke-width="2"/>
+  <g id="copy">
+    <text x="80" y="116" font-family="'Google Sans Flex','Google Sans',system-ui,sans-serif" font-size="38" font-weight="700" fill="#b94720">GATILAB RESEARCH</text>
+    <text x="80" y="220" font-family="'Google Sans Flex','Google Sans',system-ui,sans-serif" font-size="76" font-weight="700" fill="#171717">Blog Rankings</text>
+    <text x="80" y="294" font-family="'Google Sans Flex','Google Sans',system-ui,sans-serif" font-size="40" font-weight="400" fill="#4b5563">A public, versioned award for useful blogs.</text>
+    <path d="M80 352 H656" stroke="#cfc4ba" stroke-width="2"/>
+    <text x="80" y="420" font-family="'Google Sans Flex','Google Sans',system-ui,sans-serif" font-size="38" font-weight="600" fill="#1f2937">10 categories</text>
+    <text x="330" y="420" font-family="'Google Sans Flex','Google Sans',system-ui,sans-serif" font-size="38" font-weight="600" fill="#1f2937">2 tracks</text>
+    <text x="530" y="420" font-family="'Google Sans Flex','Google Sans',system-ui,sans-serif" font-size="38" font-weight="600" fill="#1f2937">Monthly editions</text>
+    <text x="80" y="500" font-family="'Google Sans Flex','Google Sans',system-ui,sans-serif" font-size="38" font-weight="400" fill="#6b7280">
+      <tspan x="80" dy="0">Public methodology. Versioned source data.</tspan>
+      <tspan x="80" dy="52">Open nominations and corrections.</tspan>
+    </text>
+  </g>
+  <g id="visual-field" transform="translate(820 150)">
+    <rect x="0" y="0" width="352" height="352" rx="24" fill="#ffffff" stroke="#d8cec5" stroke-width="2"/>
+    <g id="ranking-ladder" transform="translate(54 62) scale(1.15)">
+<rect x="0" y="128" width="64" height="72" rx="8" fill="#b94720"/>
+<circle cx="32" cy="112" r="7" fill="#2f855a"/>
+<rect x="88" y="80" width="64" height="120" rx="8" fill="#b94720"/>
+<circle cx="120" cy="64" r="7" fill="#2f855a"/>
+<rect x="176" y="16" width="64" height="184" rx="8" fill="#b94720"/>
+<circle cx="208" cy="0" r="7" fill="#2f855a"/>
+<path d="M32 112 L120 64 L208 0" fill="none" stroke="#1f2937" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+  </g>
+</svg>

@@ -1,0 +1,1857 @@
+{
+  "schema_version": 1,
+  "edition": "2026-09",
+  "status": "final",
+  "category": {
+    "slug": "food",
+    "name": "Food",
+    "description": "Recipes, culinary technique, restaurant culture, food history, and food science.",
+    "subcategories": [
+      "recipes",
+      "technique",
+      "restaurants",
+      "food-culture",
+      "food-science"
+    ]
+  },
+  "track": {
+    "slug": "independent",
+    "label": "Independent Blogs"
+  },
+  "count": 100,
+  "items": [
+    {
+      "rank": 1,
+      "id": "smittenkitchen-com",
+      "name": "Smitten Kitchen",
+      "url": "https://smittenkitchen.com/",
+      "country": "XX",
+      "score": 98.0,
+      "movement": "new",
+      "best_for": "tested recipes and everyday cooking",
+      "reason": "Smitten Kitchen concentrates on tested recipes and everyday cooking, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://smittenkitchen.com/",
+        "https://smittenkitchen.com/comments/feed/"
+      ]
+    },
+    {
+      "rank": 2,
+      "id": "pinchofyum-com",
+      "name": "Pinch of Yum",
+      "url": "https://pinchofyum.com/",
+      "country": "XX",
+      "score": 97.0,
+      "movement": "new",
+      "best_for": "health-aware recipes and practical cooking",
+      "reason": "Pinch of Yum concentrates on health-aware recipes and practical cooking, with a visible article archive, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://pinchofyum.com/",
+        "https://pinchofyum.com/about"
+      ]
+    },
+    {
+      "rank": 3,
+      "id": "recipetineats-com",
+      "name": "RecipeTin Eats",
+      "url": "https://recipetineats.com/",
+      "country": "XX",
+      "score": 96.0,
+      "movement": "new",
+      "best_for": "tested recipes and everyday cooking",
+      "reason": "RecipeTin Eats concentrates on tested recipes and everyday cooking, with a discoverable feed that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://recipetineats.com/",
+        "https://www.recipetineats.com/comments/feed/",
+        "https://www.recipetineats.com/nagi-recipetin-eats/"
+      ]
+    },
+    {
+      "rank": 4,
+      "id": "cookieandkate-com",
+      "name": "Cookie and Kate",
+      "url": "https://cookieandkate.com/",
+      "country": "XX",
+      "score": 95.0,
+      "movement": "new",
+      "best_for": "health-aware recipes and practical cooking",
+      "reason": "Cookie and Kate concentrates on health-aware recipes and practical cooking, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://cookieandkate.com/",
+        "https://cookieandkate.com/comments/feed/"
+      ]
+    },
+    {
+      "rank": 5,
+      "id": "skinnytaste-com",
+      "name": "Skinnytaste",
+      "url": "https://skinnytaste.com/",
+      "country": "XX",
+      "score": 94.0,
+      "movement": "new",
+      "best_for": "health-aware recipes and practical cooking",
+      "reason": "Skinnytaste concentrates on health-aware recipes and practical cooking, with a clearly defined editorial focus that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://skinnytaste.com/"
+      ]
+    },
+    {
+      "rank": 6,
+      "id": "ohsheglows-com",
+      "name": "Oh She Glows",
+      "url": "https://ohsheglows.com/",
+      "country": "XX",
+      "score": 93.0,
+      "movement": "new",
+      "best_for": "recipes, technique, and food culture",
+      "reason": "Oh She Glows concentrates on recipes, technique, and food culture, with a clearly defined editorial focus that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://ohsheglows.com/"
+      ]
+    },
+    {
+      "rank": 7,
+      "id": "mynewroots-org",
+      "name": "My New Roots",
+      "url": "https://mynewroots.org/",
+      "country": "XX",
+      "score": 92.0,
+      "movement": "new",
+      "best_for": "health-aware recipes and practical cooking",
+      "reason": "My New Roots concentrates on health-aware recipes and practical cooking, with a discoverable feed, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://mynewroots.org/",
+        "https://www.mynewroots.org/comments/feed/",
+        "https://www.mynewroots.org/about/"
+      ]
+    },
+    {
+      "rank": 8,
+      "id": "jocooks-com",
+      "name": "Jo Cooks",
+      "url": "https://jocooks.com/",
+      "country": "XX",
+      "score": 91.0,
+      "movement": "new",
+      "best_for": "tested recipes and everyday cooking",
+      "reason": "Jo Cooks concentrates on tested recipes and everyday cooking, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://jocooks.com/",
+        "https://www.jocooks.com/web-stories/feed/",
+        "https://www.jocooks.com/about/"
+      ]
+    },
+    {
+      "rank": 9,
+      "id": "carlsbadcravings-com",
+      "name": "Carlsbad Cravings",
+      "url": "https://carlsbadcravings.com/",
+      "country": "XX",
+      "score": 90.0,
+      "movement": "new",
+      "best_for": "health-aware recipes and practical cooking",
+      "reason": "Carlsbad Cravings concentrates on health-aware recipes and practical cooking, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Authorship and editorial-policy information is less visible than on higher-ranked publications.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://carlsbadcravings.com/",
+        "https://carlsbadcravings.com/comments/feed/",
+        "https://carlsbadcravings.com/about/"
+      ]
+    },
+    {
+      "rank": 10,
+      "id": "minimalistbaker-com",
+      "name": "Minimalist Baker",
+      "url": "https://minimalistbaker.com/",
+      "country": "XX",
+      "score": 89.0,
+      "movement": "new",
+      "best_for": "baking, pastry, and dependable technique",
+      "reason": "Minimalist Baker concentrates on baking, pastry, and dependable technique, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://minimalistbaker.com/",
+        "https://minimalistbaker.com/comments/feed/",
+        "https://minimalistbaker.com/about/"
+      ]
+    },
+    {
+      "rank": 11,
+      "id": "fortheloveofcooking-net",
+      "name": "For the Love of Cooking Homepage",
+      "url": "https://fortheloveofcooking.net/",
+      "country": "XX",
+      "score": 81.5,
+      "movement": "new",
+      "best_for": "health-aware recipes and practical cooking",
+      "reason": "For the Love of Cooking Homepage concentrates on health-aware recipes and practical cooking, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://fortheloveofcooking.net/",
+        "https://fortheloveofcooking.net/comments/feed",
+        "https://fortheloveofcooking.net/about"
+      ]
+    },
+    {
+      "rank": 12,
+      "id": "thatskinnychickcanbake-com",
+      "name": "That Skinny Chick Can Bake",
+      "url": "https://thatskinnychickcanbake.com/",
+      "country": "XX",
+      "score": 79.7,
+      "movement": "new",
+      "best_for": "tested recipes and everyday cooking",
+      "reason": "That Skinny Chick Can Bake concentrates on tested recipes and everyday cooking, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://thatskinnychickcanbake.com/",
+        "https://www.thatskinnychickcanbake.com/feed/",
+        "https://www.thatskinnychickcanbake.com/about-me-that-skinny-chick-can-bake/"
+      ]
+    },
+    {
+      "rank": 13,
+      "id": "cooktoria-com",
+      "name": "COOKTORIA",
+      "url": "https://cooktoria.com/",
+      "country": "XX",
+      "score": 79.4,
+      "movement": "new",
+      "best_for": "health-aware recipes and practical cooking",
+      "reason": "COOKTORIA concentrates on health-aware recipes and practical cooking, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://cooktoria.com/",
+        "https://cooktoria.com/feed/atom/",
+        "https://cooktoria.com/about-me/"
+      ]
+    },
+    {
+      "rank": 14,
+      "id": "reluctantgourmet-com",
+      "name": "The Reluctant Gourmet",
+      "url": "https://reluctantgourmet.com/",
+      "country": "XX",
+      "score": 78.5,
+      "movement": "new",
+      "best_for": "culinary technique and food science",
+      "reason": "The Reluctant Gourmet concentrates on culinary technique and food science, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://reluctantgourmet.com/",
+        "https://reluctantgourmet.com/feed/"
+      ]
+    },
+    {
+      "rank": 15,
+      "id": "scrummylane-com",
+      "name": "Scrummy Lane",
+      "url": "https://scrummylane.com/",
+      "country": "XX",
+      "score": 78.1,
+      "movement": "new",
+      "best_for": "health-aware recipes and practical cooking",
+      "reason": "Scrummy Lane concentrates on health-aware recipes and practical cooking, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://scrummylane.com/",
+        "https://scrummylane.com/comments/feed/",
+        "https://scrummylane.com/about/"
+      ]
+    },
+    {
+      "rank": 16,
+      "id": "mamavation-com",
+      "name": "MAMAVATION",
+      "url": "https://mamavation.com/",
+      "country": "XX",
+      "score": 77.2,
+      "movement": "new",
+      "best_for": "health-aware recipes and practical cooking",
+      "reason": "MAMAVATION concentrates on health-aware recipes and practical cooking, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://mamavation.com/",
+        "https://mamavation.com/comments/feed",
+        "https://mamavation.com/about-leah-segedie"
+      ]
+    },
+    {
+      "rank": 17,
+      "id": "maangchi-com",
+      "name": "Cooking Korean food with Maangchi",
+      "url": "https://maangchi.com/",
+      "country": "XX",
+      "score": 77.1,
+      "movement": "new",
+      "best_for": "tested recipes and everyday cooking",
+      "reason": "Cooking Korean food with Maangchi concentrates on tested recipes and everyday cooking, with a discoverable feed, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://maangchi.com/",
+        "https://www.maangchi.com/comments/feed"
+      ]
+    },
+    {
+      "rank": 18,
+      "id": "betterbakingbible-com",
+      "name": "Better Baking Bible",
+      "url": "https://betterbakingbible.com/",
+      "country": "XX",
+      "score": 76.8,
+      "movement": "new",
+      "best_for": "baking, pastry, and dependable technique",
+      "reason": "Better Baking Bible concentrates on baking, pastry, and dependable technique, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://betterbakingbible.com/",
+        "https://betterbakingbible.com/comments/feed/"
+      ]
+    },
+    {
+      "rank": 19,
+      "id": "healthy-delicious-com",
+      "name": "Healthy Delicious",
+      "url": "https://healthy-delicious.com/",
+      "country": "XX",
+      "score": 76.5,
+      "movement": "new",
+      "best_for": "health-aware recipes and practical cooking",
+      "reason": "Healthy Delicious concentrates on health-aware recipes and practical cooking, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://healthy-delicious.com/",
+        "https://www.healthy-delicious.com/web-stories/feed/",
+        "https://www.healthy-delicious.com/about-me/"
+      ]
+    },
+    {
+      "rank": 20,
+      "id": "toriavey-com",
+      "name": "Tori Avey",
+      "url": "https://toriavey.com/",
+      "country": "XX",
+      "score": 76.3,
+      "movement": "new",
+      "best_for": "health-aware recipes and practical cooking",
+      "reason": "Tori Avey concentrates on health-aware recipes and practical cooking, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://toriavey.com/",
+        "https://toriavey.com/web-stories/feed/",
+        "https://toriavey.com/about/"
+      ]
+    },
+    {
+      "rank": 21,
+      "id": "drizzleanddip-com",
+      "name": "Drizzle and Dip • Top South African Food Photography and Recipe Blog",
+      "url": "https://drizzleanddip.com/",
+      "country": "XX",
+      "score": 76.0,
+      "movement": "new",
+      "best_for": "tested recipes and everyday cooking",
+      "reason": "Drizzle and Dip • Top South African Food Photography and Recipe Blog concentrates on tested recipes and everyday cooking, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://drizzleanddip.com/",
+        "https://drizzleanddip.com/comments/feed/",
+        "https://drizzleanddip.com/about/"
+      ]
+    },
+    {
+      "rank": 22,
+      "id": "thechunkychef-com",
+      "name": "The Chunky Chef",
+      "url": "https://thechunkychef.com/",
+      "country": "XX",
+      "score": 75.5,
+      "movement": "new",
+      "best_for": "restaurants, chefs, and food culture",
+      "reason": "The Chunky Chef concentrates on restaurants, chefs, and food culture, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://thechunkychef.com/",
+        "https://www.thechunkychef.com/web-stories/feed/",
+        "https://www.thechunkychef.com/about/"
+      ]
+    },
+    {
+      "rank": 23,
+      "id": "bakingbites-com",
+      "name": "Baking Bites",
+      "url": "https://bakingbites.com/",
+      "country": "XX",
+      "score": 74.8,
+      "movement": "new",
+      "best_for": "baking, pastry, and dependable technique",
+      "reason": "Baking Bites concentrates on baking, pastry, and dependable technique, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://bakingbites.com/",
+        "https://bakingbites.com/comments/feed/",
+        "https://bakingbites.com/about/"
+      ]
+    },
+    {
+      "rank": 24,
+      "id": "bakewithshivesh-com",
+      "name": "Bake with Shivesh",
+      "url": "https://bakewithshivesh.com/",
+      "country": "XX",
+      "score": 74.3,
+      "movement": "new",
+      "best_for": "baking, pastry, and dependable technique",
+      "reason": "Bake with Shivesh concentrates on baking, pastry, and dependable technique, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://bakewithshivesh.com/",
+        "https://bakewithshivesh.com/web-stories/feed/",
+        "https://bakewithshivesh.com/about-me/"
+      ]
+    },
+    {
+      "rank": 25,
+      "id": "masterblogging-com",
+      "name": "Master Blogging",
+      "url": "https://masterblogging.com/",
+      "country": "XX",
+      "score": 74.3,
+      "movement": "new",
+      "best_for": "culinary technique and food science",
+      "reason": "Master Blogging concentrates on culinary technique and food science, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://masterblogging.com/",
+        "https://masterblogging.com/comments/feed/",
+        "https://masterblogging.com/about/"
+      ]
+    },
+    {
+      "rank": 26,
+      "id": "centurypast-org",
+      "name": "Century Past",
+      "url": "https://centurypast.org/",
+      "country": "XX",
+      "score": 73.8,
+      "movement": "new",
+      "best_for": "tested recipes and everyday cooking",
+      "reason": "Century Past concentrates on tested recipes and everyday cooking, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://centurypast.org/",
+        "https://centurypast.org/comments/feed/",
+        "https://centurypast.org/about-us/"
+      ]
+    },
+    {
+      "rank": 27,
+      "id": "betterbakerclub-com",
+      "name": "Better Baker Club",
+      "url": "https://betterbakerclub.com/",
+      "country": "XX",
+      "score": 73.6,
+      "movement": "new",
+      "best_for": "baking, pastry, and dependable technique",
+      "reason": "Better Baker Club concentrates on baking, pastry, and dependable technique, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://betterbakerclub.com/",
+        "https://betterbakerclub.com/comments/feed/",
+        "https://betterbakerclub.com/about/"
+      ]
+    },
+    {
+      "rank": 28,
+      "id": "lizshealthytable-com",
+      "name": "Lizs Healthy Table",
+      "url": "https://lizshealthytable.com/",
+      "country": "XX",
+      "score": 73.6,
+      "movement": "new",
+      "best_for": "health-aware recipes and practical cooking",
+      "reason": "Lizs Healthy Table concentrates on health-aware recipes and practical cooking, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://lizshealthytable.com/",
+        "https://www.lizshealthytable.com/comments/feed/"
+      ]
+    },
+    {
+      "rank": 29,
+      "id": "cleaneatingkitchen-com",
+      "name": "Clean Eating Kitchen",
+      "url": "https://cleaneatingkitchen.com/",
+      "country": "XX",
+      "score": 73.5,
+      "movement": "new",
+      "best_for": "health-aware recipes and practical cooking",
+      "reason": "Clean Eating Kitchen concentrates on health-aware recipes and practical cooking, with a visible article archive, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://cleaneatingkitchen.com/",
+        "https://www.cleaneatingkitchen.com/about/"
+      ]
+    },
+    {
+      "rank": 30,
+      "id": "goop-com",
+      "name": "Goop",
+      "url": "https://goop.com/",
+      "country": "XX",
+      "score": 73.4,
+      "movement": "new",
+      "best_for": "tested recipes and everyday cooking",
+      "reason": "Goop concentrates on tested recipes and everyday cooking, with clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://goop.com/",
+        "https://goop.com/beauty/personal-care/roxana-saidi-tache-morning-routine?click=eyJpbmRleCI6InByb2R1Y3Rpb25fZ29vcF9wYXlsb2FkX3Bvc3RzIiwicG9zaXRpb24iOiIyIn0"
+      ]
+    },
+    {
+      "rank": 31,
+      "id": "kitchenprojects-substack-com",
+      "name": "Kitchen Projects",
+      "url": "https://kitchenprojects.substack.com/",
+      "country": "XX",
+      "score": 72.8,
+      "movement": "new",
+      "best_for": "tested recipes and everyday cooking",
+      "reason": "Kitchen Projects concentrates on tested recipes and everyday cooking, with a discoverable feed that makes its current publishing work easier to evaluate.",
+      "limitation": "Authorship and editorial-policy information is less visible than on higher-ranked publications.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://kitchenprojects.substack.com/",
+        "https://kitchenprojects.substack.com/feed",
+        "https://kitchenprojects.substack.com/about"
+      ]
+    },
+    {
+      "rank": 32,
+      "id": "frugalnutrition-com",
+      "name": "Frugal Nutrition",
+      "url": "https://frugalnutrition.com/",
+      "country": "XX",
+      "score": 72.7,
+      "movement": "new",
+      "best_for": "health-aware recipes and practical cooking",
+      "reason": "Frugal Nutrition concentrates on health-aware recipes and practical cooking, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://frugalnutrition.com/",
+        "https://www.frugalnutrition.com/comments/feed/"
+      ]
+    },
+    {
+      "rank": 33,
+      "id": "nourishedbynic-com",
+      "name": "Nourished by Nic",
+      "url": "https://nourishedbynic.com/",
+      "country": "XX",
+      "score": 72.5,
+      "movement": "new",
+      "best_for": "health-aware recipes and practical cooking",
+      "reason": "Nourished by Nic concentrates on health-aware recipes and practical cooking, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://nourishedbynic.com/",
+        "https://nourishedbynic.com/web-stories/feed/"
+      ]
+    },
+    {
+      "rank": 34,
+      "id": "thehealthyfamilyandhome-com",
+      "name": "The Healthy Family and Home™",
+      "url": "https://thehealthyfamilyandhome.com/",
+      "country": "XX",
+      "score": 72.1,
+      "movement": "new",
+      "best_for": "health-aware recipes and practical cooking",
+      "reason": "The Healthy Family and Home™ concentrates on health-aware recipes and practical cooking, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://thehealthyfamilyandhome.com/",
+        "https://thehealthyfamilyandhome.com/comments/feed/"
+      ]
+    },
+    {
+      "rank": 35,
+      "id": "naturallyella-com",
+      "name": "Naturally Ella",
+      "url": "https://naturallyella.com/",
+      "country": "XX",
+      "score": 72.0,
+      "movement": "new",
+      "best_for": "culinary technique and food science",
+      "reason": "Naturally Ella concentrates on culinary technique and food science, with clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://naturallyella.com/"
+      ]
+    },
+    {
+      "rank": 36,
+      "id": "bestfoodblog-net",
+      "name": "Best Food Blog",
+      "url": "https://bestfoodblog.net/",
+      "country": "XX",
+      "score": 71.4,
+      "movement": "new",
+      "best_for": "culinary technique and food science",
+      "reason": "Best Food Blog concentrates on culinary technique and food science, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://bestfoodblog.net/",
+        "https://www.bestfoodblog.net/archive/rss/",
+        "https://www.bestfoodblog.net/about/"
+      ]
+    },
+    {
+      "rank": 37,
+      "id": "anybodycanbake-com",
+      "name": "Anybody Can Bake",
+      "url": "https://anybodycanbake.com/",
+      "country": "XX",
+      "score": 70.8,
+      "movement": "new",
+      "best_for": "baking, pastry, and dependable technique",
+      "reason": "Anybody Can Bake concentrates on baking, pastry, and dependable technique, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://anybodycanbake.com/",
+        "https://anybodycanbake.com/comments/feed/"
+      ]
+    },
+    {
+      "rank": 38,
+      "id": "thebakingexplorer-com",
+      "name": "The Baking Explorer",
+      "url": "https://thebakingexplorer.com/",
+      "country": "XX",
+      "score": 70.5,
+      "movement": "new",
+      "best_for": "baking, pastry, and dependable technique",
+      "reason": "The Baking Explorer concentrates on baking, pastry, and dependable technique, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://thebakingexplorer.com/",
+        "https://thebakingexplorer.com/comments/feed/"
+      ]
+    },
+    {
+      "rank": 39,
+      "id": "abbeythefoodscientist-com",
+      "name": "Abbey The Food Scientist",
+      "url": "https://abbeythefoodscientist.com/",
+      "country": "XX",
+      "score": 70.5,
+      "movement": "new",
+      "best_for": "culinary technique and food science",
+      "reason": "Abbey The Food Scientist concentrates on culinary technique and food science, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://abbeythefoodscientist.com/",
+        "https://abbeythefoodscientist.com/comments/feed/",
+        "https://abbeythefoodscientist.com/about-me/"
+      ]
+    },
+    {
+      "rank": 40,
+      "id": "andrewzimmern-substack-com",
+      "name": "Andrew Zimmern's Spilled Milk",
+      "url": "https://andrewzimmern.substack.com/",
+      "country": "XX",
+      "score": 70.5,
+      "movement": "new",
+      "best_for": "recipes, technique, and food culture",
+      "reason": "Andrew Zimmern's Spilled Milk concentrates on recipes, technique, and food culture, with a discoverable feed that makes its current publishing work easier to evaluate.",
+      "limitation": "Authorship and editorial-policy information is less visible than on higher-ranked publications.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://andrewzimmern.substack.com/",
+        "https://andrewzimmern.substack.com/feed"
+      ]
+    },
+    {
+      "rank": 41,
+      "id": "foolproofbaking-com",
+      "name": "FoolProofBaking",
+      "url": "https://foolproofbaking.com/",
+      "country": "XX",
+      "score": 70.3,
+      "movement": "new",
+      "best_for": "baking, pastry, and dependable technique",
+      "reason": "FoolProofBaking concentrates on baking, pastry, and dependable technique, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://foolproofbaking.com/",
+        "https://foolproofbaking.com/comments/feed/",
+        "https://foolproofbaking.com/about/"
+      ]
+    },
+    {
+      "rank": 42,
+      "id": "mountainmamacooks-com",
+      "name": "Mountain Mama Cooks",
+      "url": "https://mountainmamacooks.com/",
+      "country": "XX",
+      "score": 70.3,
+      "movement": "new",
+      "best_for": "health-aware recipes and practical cooking",
+      "reason": "Mountain Mama Cooks concentrates on health-aware recipes and practical cooking, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://mountainmamacooks.com/",
+        "https://mountainmamacooks.com/the-goods-favorite-healthy-food-blogs/feed/",
+        "https://mountainmamacooks.com/about/"
+      ]
+    },
+    {
+      "rank": 43,
+      "id": "davidleite-substack-com",
+      "name": "The David Blahg",
+      "url": "https://davidleite.substack.com/",
+      "country": "XX",
+      "score": 70.3,
+      "movement": "new",
+      "best_for": "tested recipes and everyday cooking",
+      "reason": "The David Blahg concentrates on tested recipes and everyday cooking, with a discoverable feed that makes its current publishing work easier to evaluate.",
+      "limitation": "Authorship and editorial-policy information is less visible than on higher-ranked publications.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://davidleite.substack.com/",
+        "https://davidleite.substack.com/feed"
+      ]
+    },
+    {
+      "rank": 44,
+      "id": "zoefrancois-substack-com",
+      "name": "ZoëBakes Newsletter",
+      "url": "https://zoefrancois.substack.com/",
+      "country": "XX",
+      "score": 70.2,
+      "movement": "new",
+      "best_for": "baking, pastry, and dependable technique",
+      "reason": "ZoëBakes Newsletter concentrates on baking, pastry, and dependable technique, with a discoverable feed that makes its current publishing work easier to evaluate.",
+      "limitation": "Authorship and editorial-policy information is less visible than on higher-ranked publications.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://zoefrancois.substack.com/",
+        "https://zoefrancois.substack.com/feed",
+        "https://zoefrancois.substack.com/about"
+      ]
+    },
+    {
+      "rank": 45,
+      "id": "hungry-girl-com",
+      "name": "Hungry-Girl",
+      "url": "https://hungry-girl.com/",
+      "country": "XX",
+      "score": 70.0,
+      "movement": "new",
+      "best_for": "health-aware recipes and practical cooking",
+      "reason": "Hungry-Girl concentrates on health-aware recipes and practical cooking, with a clearly defined editorial focus that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://hungry-girl.com/",
+        "https://www.hungry-girl.com/who-is-hungry-girl"
+      ]
+    },
+    {
+      "rank": 46,
+      "id": "foodies100-co-uk",
+      "name": "Foodies",
+      "url": "https://foodies100.co.uk/",
+      "country": "GB",
+      "score": 69.9,
+      "movement": "new",
+      "best_for": "tested recipes and everyday cooking",
+      "reason": "Foodies concentrates on tested recipes and everyday cooking, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://foodies100.co.uk/",
+        "https://www.foodies100.co.uk/feed/",
+        "https://www.foodies100.co.uk/about/"
+      ]
+    },
+    {
+      "rank": 47,
+      "id": "thefreshloaf-com",
+      "name": "Thefreshloaf",
+      "url": "https://thefreshloaf.com/",
+      "country": "XX",
+      "score": 69.9,
+      "movement": "new",
+      "best_for": "baking, pastry, and dependable technique",
+      "reason": "Thefreshloaf concentrates on baking, pastry, and dependable technique, with a visible article archive, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://thefreshloaf.com/",
+        "https://www.thefreshloaf.com/node/79945/fermented-pickles#comment-553474"
+      ]
+    },
+    {
+      "rank": 48,
+      "id": "food-allwomenstalk-com",
+      "name": "Allwomenstalk",
+      "url": "https://food.allwomenstalk.com/",
+      "country": "XX",
+      "score": 69.8,
+      "movement": "new",
+      "best_for": "baking, pastry, and dependable technique",
+      "reason": "Allwomenstalk concentrates on baking, pastry, and dependable technique, with a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://food.allwomenstalk.com/",
+        "https://food.allwomenstalk.com/inspiring-whole-foods-blogs-to-follow/"
+      ]
+    },
+    {
+      "rank": 49,
+      "id": "patisseriemakesperfect-co-uk",
+      "name": "Patisserie Makes Perfect",
+      "url": "https://patisseriemakesperfect.co.uk/",
+      "country": "GB",
+      "score": 69.7,
+      "movement": "new",
+      "best_for": "tested recipes and everyday cooking",
+      "reason": "Patisserie Makes Perfect concentrates on tested recipes and everyday cooking, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://patisseriemakesperfect.co.uk/",
+        "https://www.patisseriemakesperfect.co.uk/comments/feed/",
+        "https://www.patisseriemakesperfect.co.uk/about/"
+      ]
+    },
+    {
+      "rank": 50,
+      "id": "happycow-net",
+      "name": "Find Vegan & Vegetarian Restaurants Near Me",
+      "url": "https://happycow.net/",
+      "country": "XX",
+      "score": 69.7,
+      "movement": "new",
+      "best_for": "health-aware recipes and practical cooking",
+      "reason": "Find Vegan & Vegetarian Restaurants Near Me concentrates on health-aware recipes and practical cooking, with a clearly defined editorial focus that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://happycow.net/",
+        "https://www.happycow.net/blog/10-useful-homemade-spice-blends-for-your-pantry/feed/"
+      ]
+    },
+    {
+      "rank": 51,
+      "id": "crumbtopbaking-com",
+      "name": "Crumb Top Baking",
+      "url": "https://crumbtopbaking.com/",
+      "country": "XX",
+      "score": 69.5,
+      "movement": "new",
+      "best_for": "baking, pastry, and dependable technique",
+      "reason": "Crumb Top Baking concentrates on baking, pastry, and dependable technique, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://crumbtopbaking.com/",
+        "https://www.crumbtopbaking.com/comments/feed/"
+      ]
+    },
+    {
+      "rank": 52,
+      "id": "susanality-substack-com",
+      "name": "Susanality",
+      "url": "https://susanality.substack.com/",
+      "country": "XX",
+      "score": 69.5,
+      "movement": "new",
+      "best_for": "tested recipes and everyday cooking",
+      "reason": "Susanality concentrates on tested recipes and everyday cooking, with a discoverable feed that makes its current publishing work easier to evaluate.",
+      "limitation": "Authorship and editorial-policy information is less visible than on higher-ranked publications.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://susanality.substack.com/",
+        "https://susanality.substack.com/feed"
+      ]
+    },
+    {
+      "rank": 53,
+      "id": "lillieeatsandtells-com",
+      "name": "Lillie Eats and Tells",
+      "url": "https://lillieeatsandtells.com/",
+      "country": "XX",
+      "score": 69.5,
+      "movement": "new",
+      "best_for": "tested recipes and everyday cooking",
+      "reason": "Lillie Eats and Tells concentrates on tested recipes and everyday cooking, with a visible article archive, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://lillieeatsandtells.com/"
+      ]
+    },
+    {
+      "rank": 54,
+      "id": "daniellewalker-substack-com",
+      "name": "Make It Good with Danielle Walker",
+      "url": "https://daniellewalker.substack.com/",
+      "country": "XX",
+      "score": 69.4,
+      "movement": "new",
+      "best_for": "tested recipes and everyday cooking",
+      "reason": "Make It Good with Danielle Walker concentrates on tested recipes and everyday cooking, with a discoverable feed that makes its current publishing work easier to evaluate.",
+      "limitation": "Some complete material may require registration, membership, or a paid subscription.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://daniellewalker.substack.com/",
+        "https://daniellewalker.substack.com/feed"
+      ]
+    },
+    {
+      "rank": 55,
+      "id": "mob-teamtailor-com",
+      "name": "Mob",
+      "url": "https://mob.teamtailor.com/",
+      "country": "XX",
+      "score": 69.2,
+      "movement": "new",
+      "best_for": "tested recipes and everyday cooking",
+      "reason": "Mob concentrates on tested recipes and everyday cooking, with a discoverable feed, named authorship that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://mob.teamtailor.com/",
+        "https://careers.mob.co.uk/jobs.rss"
+      ]
+    },
+    {
+      "rank": 56,
+      "id": "healthynexercise-com",
+      "name": "Mr. Healthy & Ms. Exercise",
+      "url": "https://healthynexercise.com/",
+      "country": "XX",
+      "score": 69.1,
+      "movement": "new",
+      "best_for": "health-aware recipes and practical cooking",
+      "reason": "Mr. Healthy & Ms. Exercise concentrates on health-aware recipes and practical cooking, with a discoverable feed, named authorship that makes its current publishing work easier to evaluate.",
+      "limitation": "The homepage is heavier and more commercially layered than a focused reading experience.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://healthynexercise.com/",
+        "https://healthynexercise.com/healthy-recipes/feed/",
+        "https://healthynexercise.com/about-healthy-n-exercise/"
+      ]
+    },
+    {
+      "rank": 57,
+      "id": "thebookery-org",
+      "name": "The Bookery",
+      "url": "https://thebookery.org/",
+      "country": "XX",
+      "score": 69.0,
+      "movement": "new",
+      "best_for": "baking, pastry, and dependable technique",
+      "reason": "The Bookery concentrates on baking, pastry, and dependable technique, with a discoverable feed, named authorship that makes its current publishing work easier to evaluate.",
+      "limitation": "The homepage is heavier and more commercially layered than a focused reading experience.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://thebookery.org/",
+        "https://www.thebookery.org/blog-feed.xml",
+        "https://www.thebookery.org/about"
+      ]
+    },
+    {
+      "rank": 58,
+      "id": "veggirlrd-com",
+      "name": "Veg Girl RD",
+      "url": "https://veggirlrd.com/",
+      "country": "XX",
+      "score": 68.6,
+      "movement": "new",
+      "best_for": "health-aware recipes and practical cooking",
+      "reason": "Veg Girl RD concentrates on health-aware recipes and practical cooking, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://veggirlrd.com/",
+        "https://www.veggirlrd.com/my-5-favorite-recipe-blogs-that-might-be-your-favorite-too/feed/",
+        "https://www.veggirlrd.com/about/"
+      ]
+    },
+    {
+      "rank": 59,
+      "id": "fitbottomedgirls-com",
+      "name": "Fit Bottomed Girls",
+      "url": "https://fitbottomedgirls.com/",
+      "country": "XX",
+      "score": 68.4,
+      "movement": "new",
+      "best_for": "health-aware recipes and practical cooking",
+      "reason": "Fit Bottomed Girls concentrates on health-aware recipes and practical cooking, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://fitbottomedgirls.com/",
+        "https://fitbottomedgirls.com/web-stories/feed/",
+        "https://fitbottomedgirls.com/about-us/contact/"
+      ]
+    },
+    {
+      "rank": 60,
+      "id": "sarahcopeland-substack-com",
+      "name": "EDIBLE LIVING by Sarah Copeland",
+      "url": "https://sarahcopeland.substack.com/",
+      "country": "XX",
+      "score": 67.7,
+      "movement": "new",
+      "best_for": "recipes, technique, and food culture",
+      "reason": "EDIBLE LIVING by Sarah Copeland concentrates on recipes, technique, and food culture, with a discoverable feed that makes its current publishing work easier to evaluate.",
+      "limitation": "Authorship and editorial-policy information is less visible than on higher-ranked publications.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://sarahcopeland.substack.com/",
+        "https://sarahcopeland.substack.com/feed"
+      ]
+    },
+    {
+      "rank": 61,
+      "id": "moniquecormack-com",
+      "name": "Monique Cormack Nutrition",
+      "url": "https://moniquecormack.com/",
+      "country": "XX",
+      "score": 67.5,
+      "movement": "new",
+      "best_for": "health-aware recipes and practical cooking",
+      "reason": "Monique Cormack Nutrition concentrates on health-aware recipes and practical cooking, with a visible article archive, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://moniquecormack.com/",
+        "https://moniquecormack.com/about"
+      ]
+    },
+    {
+      "rank": 62,
+      "id": "smittenkitchen-substack-com",
+      "name": "the smitten kitchen digest",
+      "url": "https://smittenkitchen.substack.com/",
+      "country": "XX",
+      "score": 67.2,
+      "movement": "new",
+      "best_for": "tested recipes and everyday cooking",
+      "reason": "the smitten kitchen digest concentrates on tested recipes and everyday cooking, with a discoverable feed that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://smittenkitchen.substack.com/",
+        "https://smittenkitchen.substack.com/feed?sectionId=263339"
+      ]
+    },
+    {
+      "rank": 63,
+      "id": "haveyourcakelizprueitt-substack-com",
+      "name": "Have Your Cake",
+      "url": "https://haveyourcakelizprueitt.substack.com/",
+      "country": "XX",
+      "score": 67.2,
+      "movement": "new",
+      "best_for": "baking, pastry, and dependable technique",
+      "reason": "Have Your Cake concentrates on baking, pastry, and dependable technique, with a discoverable feed that makes its current publishing work easier to evaluate.",
+      "limitation": "Authorship and editorial-policy information is less visible than on higher-ranked publications.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://haveyourcakelizprueitt.substack.com/",
+        "https://haveyourcakelizprueitt.substack.com/feed"
+      ]
+    },
+    {
+      "rank": 64,
+      "id": "blog-wilton-com",
+      "name": "Wilton Sweet Baking",
+      "url": "https://blog.wilton.com/",
+      "country": "XX",
+      "score": 67.2,
+      "movement": "new",
+      "best_for": "baking, pastry, and dependable technique",
+      "reason": "Wilton Sweet Baking concentrates on baking, pastry, and dependable technique, with a visible article archive, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://blog.wilton.com/",
+        "https://blog.wilton.com/web-stories/feed/"
+      ]
+    },
+    {
+      "rank": 65,
+      "id": "thepancakeprincess-substack-com",
+      "name": "Tasting Notes",
+      "url": "https://thepancakeprincess.substack.com/",
+      "country": "XX",
+      "score": 66.8,
+      "movement": "new",
+      "best_for": "baking, pastry, and dependable technique",
+      "reason": "Tasting Notes concentrates on baking, pastry, and dependable technique, with a discoverable feed that makes its current publishing work easier to evaluate.",
+      "limitation": "Authorship and editorial-policy information is less visible than on higher-ranked publications.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://thepancakeprincess.substack.com/",
+        "https://thepancakeprincess.substack.com/feed"
+      ]
+    },
+    {
+      "rank": 66,
+      "id": "theclubb-co",
+      "name": "Clubb",
+      "url": "https://theclubb.co/",
+      "country": "XX",
+      "score": 66.8,
+      "movement": "new",
+      "best_for": "restaurants, chefs, and food culture",
+      "reason": "Clubb concentrates on restaurants, chefs, and food culture, with named authorship, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://theclubb.co/",
+        "https://www.theclubb.co/about"
+      ]
+    },
+    {
+      "rank": 67,
+      "id": "entertainingwithbeth-substack-com",
+      "name": "Entertaining with Beth",
+      "url": "https://entertainingwithbeth.substack.com/",
+      "country": "XX",
+      "score": 66.5,
+      "movement": "new",
+      "best_for": "tested recipes and everyday cooking",
+      "reason": "Entertaining with Beth concentrates on tested recipes and everyday cooking, with a discoverable feed that makes its current publishing work easier to evaluate.",
+      "limitation": "Authorship and editorial-policy information is less visible than on higher-ranked publications.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://entertainingwithbeth.substack.com/",
+        "https://entertainingwithbeth.substack.com/feed"
+      ]
+    },
+    {
+      "rank": 68,
+      "id": "tessahuff-substack-com",
+      "name": "Baker's Notes",
+      "url": "https://tessahuff.substack.com/",
+      "country": "XX",
+      "score": 66.5,
+      "movement": "new",
+      "best_for": "tested recipes and everyday cooking",
+      "reason": "Baker's Notes concentrates on tested recipes and everyday cooking, with a discoverable feed that makes its current publishing work easier to evaluate.",
+      "limitation": "Authorship and editorial-policy information is less visible than on higher-ranked publications.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://tessahuff.substack.com/",
+        "https://tessahuff.substack.com/feed"
+      ]
+    },
+    {
+      "rank": 69,
+      "id": "recipestonourish-com",
+      "name": "Recipes to Nourish",
+      "url": "https://recipestonourish.com/",
+      "country": "XX",
+      "score": 66.3,
+      "movement": "new",
+      "best_for": "health-aware recipes and practical cooking",
+      "reason": "Recipes to Nourish concentrates on health-aware recipes and practical cooking, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://recipestonourish.com/",
+        "https://www.recipestonourish.com/web-stories/feed/",
+        "https://www.recipestonourish.com/about/"
+      ]
+    },
+    {
+      "rank": 70,
+      "id": "stitchandsalt-com",
+      "name": "Stitch & Salt",
+      "url": "https://stitchandsalt.com/",
+      "country": "XX",
+      "score": 66.1,
+      "movement": "new",
+      "best_for": "health-aware recipes and practical cooking",
+      "reason": "Stitch & Salt concentrates on health-aware recipes and practical cooking, with a visible article archive, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://stitchandsalt.com/"
+      ]
+    },
+    {
+      "rank": 71,
+      "id": "recipejay-com",
+      "name": "RecipeJay",
+      "url": "https://recipejay.com/",
+      "country": "XX",
+      "score": 66.0,
+      "movement": "new",
+      "best_for": "baking, pastry, and dependable technique",
+      "reason": "RecipeJay concentrates on baking, pastry, and dependable technique, with a visible article archive, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://recipejay.com/",
+        "https://recipejay.com/about"
+      ]
+    },
+    {
+      "rank": 72,
+      "id": "vittles-substack-com",
+      "name": "Vittles",
+      "url": "https://vittles.substack.com/",
+      "country": "XX",
+      "score": 66.0,
+      "movement": "new",
+      "best_for": "recipes, technique, and food culture",
+      "reason": "Vittles concentrates on recipes, technique, and food culture, with a discoverable feed that makes its current publishing work easier to evaluate.",
+      "limitation": "Authorship and editorial-policy information is less visible than on higher-ranked publications.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://vittles.substack.com/",
+        "https://www.vittlesmagazine.com/feed"
+      ]
+    },
+    {
+      "rank": 73,
+      "id": "biteofthebakes-com",
+      "name": "Biteofthebakes | Delicious and Easy Dessert Recipes",
+      "url": "https://biteofthebakes.com/",
+      "country": "XX",
+      "score": 66.0,
+      "movement": "new",
+      "best_for": "baking, pastry, and dependable technique",
+      "reason": "Biteofthebakes | Delicious and Easy Dessert Recipes concentrates on baking, pastry, and dependable technique, with a discoverable feed, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Authorship and editorial-policy information is less visible than on higher-ranked publications.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://biteofthebakes.com/",
+        "https://biteofthebakes.com/comments/feed/",
+        "https://biteofthebakes.com/about-me/"
+      ]
+    },
+    {
+      "rank": 74,
+      "id": "tastebuds-substack-com",
+      "name": "Tastebuds",
+      "url": "https://tastebuds.substack.com/",
+      "country": "XX",
+      "score": 65.8,
+      "movement": "new",
+      "best_for": "tested recipes and everyday cooking",
+      "reason": "Tastebuds concentrates on tested recipes and everyday cooking, with a discoverable feed that makes its current publishing work easier to evaluate.",
+      "limitation": "Authorship and editorial-policy information is less visible than on higher-ranked publications.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://tastebuds.substack.com/",
+        "https://tastebuds.substack.com/feed"
+      ]
+    },
+    {
+      "rank": 75,
+      "id": "getfitwithcedar-com",
+      "name": "Get Fit with Cedar",
+      "url": "https://getfitwithcedar.com/",
+      "country": "XX",
+      "score": 65.7,
+      "movement": "new",
+      "best_for": "health-aware recipes and practical cooking",
+      "reason": "Get Fit with Cedar concentrates on health-aware recipes and practical cooking, with a discoverable feed, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://getfitwithcedar.com/",
+        "https://www.getfitwithcedar.com/comments/feed/",
+        "https://www.getfitwithcedar.com/about/"
+      ]
+    },
+    {
+      "rank": 76,
+      "id": "theseasonalkitchen-substack-com",
+      "name": "The Seasonal Kitchen",
+      "url": "https://theseasonalkitchen.substack.com/",
+      "country": "XX",
+      "score": 65.5,
+      "movement": "new",
+      "best_for": "baking, pastry, and dependable technique",
+      "reason": "The Seasonal Kitchen concentrates on baking, pastry, and dependable technique, with a discoverable feed that makes its current publishing work easier to evaluate.",
+      "limitation": "Authorship and editorial-policy information is less visible than on higher-ranked publications.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://theseasonalkitchen.substack.com/",
+        "https://theseasonalkitchen.substack.com/feed"
+      ]
+    },
+    {
+      "rank": 77,
+      "id": "bakeandnourish-com",
+      "name": "BAKE & NOURISH",
+      "url": "https://bakeandnourish.com/",
+      "country": "XX",
+      "score": 65.5,
+      "movement": "new",
+      "best_for": "baking, pastry, and dependable technique",
+      "reason": "BAKE & NOURISH concentrates on baking, pastry, and dependable technique, with a discoverable feed that makes its current publishing work easier to evaluate.",
+      "limitation": "Authorship and editorial-policy information is less visible than on higher-ranked publications.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://bakeandnourish.com/",
+        "https://bakeandnourish.com/en/comments/feed/",
+        "https://bakeandnourish.com/en/myinspiration/#"
+      ]
+    },
+    {
+      "rank": 78,
+      "id": "the-fit-foodie-com",
+      "name": "The Fit Foodie",
+      "url": "https://the-fit-foodie.com/",
+      "country": "XX",
+      "score": 65.0,
+      "movement": "new",
+      "best_for": "health-aware recipes and practical cooking",
+      "reason": "The Fit Foodie concentrates on health-aware recipes and practical cooking, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://the-fit-foodie.com/",
+        "https://the-fit-foodie.com/comments/feed/",
+        "https://the-fit-foodie.com/about-the-fit-foodie/"
+      ]
+    },
+    {
+      "rank": 79,
+      "id": "thehouseofhealthy-com",
+      "name": "The House of Healthy",
+      "url": "https://thehouseofhealthy.com/",
+      "country": "XX",
+      "score": 64.8,
+      "movement": "new",
+      "best_for": "baking, pastry, and dependable technique",
+      "reason": "The House of Healthy concentrates on baking, pastry, and dependable technique, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://thehouseofhealthy.com/",
+        "https://thehouseofhealthy.com/comments/feed/",
+        "https://thehouseofhealthy.com/about-2/"
+      ]
+    },
+    {
+      "rank": 80,
+      "id": "cancookwilltravel-com",
+      "name": "Can Cook, Will Travel",
+      "url": "https://cancookwilltravel.com/",
+      "country": "XX",
+      "score": 64.8,
+      "movement": "new",
+      "best_for": "baking, pastry, and dependable technique",
+      "reason": "Can Cook, Will Travel concentrates on baking, pastry, and dependable technique, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://cancookwilltravel.com/",
+        "https://cancookwilltravel.com/blog-crushes-baking-blogs/feed/",
+        "https://cancookwilltravel.com/about-ccwt/"
+      ]
+    },
+    {
+      "rank": 81,
+      "id": "simplygreenrebekah-com",
+      "name": "Simply Living Green",
+      "url": "https://simplygreenrebekah.com/",
+      "country": "XX",
+      "score": 64.6,
+      "movement": "new",
+      "best_for": "health-aware recipes and practical cooking",
+      "reason": "Simply Living Green concentrates on health-aware recipes and practical cooking, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://simplygreenrebekah.com/",
+        "https://simplygreenrebekah.com/clean-eating-blogs/feed/",
+        "https://simplygreenrebekah.com/about-me/"
+      ]
+    },
+    {
+      "rank": 82,
+      "id": "picklebystephmarch-substack-com",
+      "name": "Pickle by Steph March",
+      "url": "https://picklebystephmarch.substack.com/",
+      "country": "XX",
+      "score": 64.6,
+      "movement": "new",
+      "best_for": "tested recipes and everyday cooking",
+      "reason": "Pickle by Steph March concentrates on tested recipes and everyday cooking, with a discoverable feed that makes its current publishing work easier to evaluate.",
+      "limitation": "Authorship and editorial-policy information is less visible than on higher-ranked publications.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://picklebystephmarch.substack.com/",
+        "https://picklebystephmarch.substack.com/feed"
+      ]
+    },
+    {
+      "rank": 83,
+      "id": "eatsomesalad-substack-com",
+      "name": "The Department of Salad: Official Bulletin",
+      "url": "https://eatsomesalad.substack.com/",
+      "country": "XX",
+      "score": 64.3,
+      "movement": "new",
+      "best_for": "tested recipes and everyday cooking",
+      "reason": "The Department of Salad: Official Bulletin concentrates on tested recipes and everyday cooking, with a discoverable feed that makes its current publishing work easier to evaluate.",
+      "limitation": "Authorship and editorial-policy information is less visible than on higher-ranked publications.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://eatsomesalad.substack.com/",
+        "https://emilyrnunn.substack.com/feed"
+      ]
+    },
+    {
+      "rank": 84,
+      "id": "projectvibrancy-substack-com",
+      "name": "Project Vibrancy Newsletter by Stephanie A. Meyer",
+      "url": "https://projectvibrancy.substack.com/",
+      "country": "XX",
+      "score": 64.2,
+      "movement": "new",
+      "best_for": "health-aware recipes and practical cooking",
+      "reason": "Project Vibrancy Newsletter by Stephanie A. Meyer concentrates on health-aware recipes and practical cooking, with a discoverable feed that makes its current publishing work easier to evaluate.",
+      "limitation": "Authorship and editorial-policy information is less visible than on higher-ranked publications.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://projectvibrancy.substack.com/",
+        "https://projectvibrancy.substack.com/feed"
+      ]
+    },
+    {
+      "rank": 85,
+      "id": "meredithamand-com",
+      "name": "An Open Home by Meredith Amand - Building a simpler and greener life",
+      "url": "https://meredithamand.com/",
+      "country": "XX",
+      "score": 64.1,
+      "movement": "new",
+      "best_for": "tested recipes and everyday cooking",
+      "reason": "An Open Home by Meredith Amand - Building a simpler and greener life concentrates on tested recipes and everyday cooking, with a discoverable feed, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://meredithamand.com/",
+        "https://meredithamand.com/comments/feed/",
+        "https://meredithamand.com/about/"
+      ]
+    },
+    {
+      "rank": 86,
+      "id": "consumingla-com",
+      "name": "Consuming LA - The Los Angeles Food Blog",
+      "url": "https://consumingla.com/",
+      "country": "XX",
+      "score": 64.1,
+      "movement": "new",
+      "best_for": "restaurants, chefs, and food culture",
+      "reason": "Consuming LA - The Los Angeles Food Blog concentrates on restaurants, chefs, and food culture, with a discoverable feed, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://consumingla.com/",
+        "https://www.consumingla.com/comments/feed/",
+        "https://www.consumingla.com/2018/08/07/dialogue-santa-monica/"
+      ]
+    },
+    {
+      "rank": 87,
+      "id": "stylehills-com",
+      "name": "Stylehills",
+      "url": "https://stylehills.com/",
+      "country": "XX",
+      "score": 64.0,
+      "movement": "new",
+      "best_for": "culinary technique and food science",
+      "reason": "Stylehills concentrates on culinary technique and food science, with a discoverable feed, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://stylehills.com/",
+        "https://stylehills.com/comments/feed/",
+        "https://stylehills.com/about/"
+      ]
+    },
+    {
+      "rank": 88,
+      "id": "bakingobsession-com",
+      "name": "Baking Obsession",
+      "url": "https://bakingobsession.com/",
+      "country": "XX",
+      "score": 64.0,
+      "movement": "new",
+      "best_for": "baking, pastry, and dependable technique",
+      "reason": "Baking Obsession concentrates on baking, pastry, and dependable technique, with a discoverable feed, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://bakingobsession.com/",
+        "https://www.bakingobsession.com/comments/feed/",
+        "https://www.bakingobsession.com/about/"
+      ]
+    },
+    {
+      "rank": 89,
+      "id": "pastasocialclub-com",
+      "name": "Pasta Social Club",
+      "url": "https://pastasocialclub.com/",
+      "country": "XX",
+      "score": 63.4,
+      "movement": "new",
+      "best_for": "tested recipes and everyday cooking",
+      "reason": "Pasta Social Club concentrates on tested recipes and everyday cooking, with a discoverable feed, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://pastasocialclub.com/",
+        "https://www.pastasocialclub.com/blog-feed.xml",
+        "https://www.pastasocialclub.com/about"
+      ]
+    },
+    {
+      "rank": 90,
+      "id": "spoilednyc-com",
+      "name": "spoiled NYC",
+      "url": "https://spoilednyc.com/",
+      "country": "XX",
+      "score": 63.2,
+      "movement": "new",
+      "best_for": "recipes, technique, and food culture",
+      "reason": "spoiled NYC concentrates on recipes, technique, and food culture, with a clearly defined editorial focus that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://spoilednyc.com/"
+      ]
+    },
+    {
+      "rank": 91,
+      "id": "niksharma-kit-com",
+      "name": "Posts",
+      "url": "https://niksharma.kit.com/",
+      "country": "XX",
+      "score": 63.1,
+      "movement": "new",
+      "best_for": "tested recipes and everyday cooking",
+      "reason": "Posts concentrates on tested recipes and everyday cooking, with a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://niksharma.kit.com/"
+      ]
+    },
+    {
+      "rank": 92,
+      "id": "bitten-blogs-nytimes-com",
+      "name": "Food",
+      "url": "https://archive.nytimes.com/dinersjournal.blogs.nytimes.com/",
+      "country": "XX",
+      "score": 62.9,
+      "movement": "new",
+      "best_for": "restaurants, chefs, and food culture",
+      "reason": "Food concentrates on restaurants, chefs, and food culture, with a clearly defined editorial focus that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://archive.nytimes.com/dinersjournal.blogs.nytimes.com/"
+      ]
+    },
+    {
+      "rank": 93,
+      "id": "realbakingwithrose-com",
+      "name": "Real Baking with Rose",
+      "url": "https://realbakingwithrose.com/",
+      "country": "XX",
+      "score": 62.4,
+      "movement": "new",
+      "best_for": "baking, pastry, and dependable technique",
+      "reason": "Real Baking with Rose concentrates on baking, pastry, and dependable technique, with clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://realbakingwithrose.com/"
+      ]
+    },
+    {
+      "rank": 94,
+      "id": "sarasbakingblog-com",
+      "name": "Sara’s Baking Blog",
+      "url": "https://sarasbakingblog.com/",
+      "country": "XX",
+      "score": 62.1,
+      "movement": "new",
+      "best_for": "baking, pastry, and dependable technique",
+      "reason": "Sara’s Baking Blog concentrates on baking, pastry, and dependable technique, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://sarasbakingblog.com/",
+        "https://sarasbakingblog.com/comments/feed/",
+        "https://sarasbakingblog.com/about/"
+      ]
+    },
+    {
+      "rank": 95,
+      "id": "gristle-substack-com",
+      "name": "Notes to Recipes",
+      "url": "https://gristle.substack.com/",
+      "country": "XX",
+      "score": 60.7,
+      "movement": "new",
+      "best_for": "tested recipes and everyday cooking",
+      "reason": "Notes to Recipes concentrates on tested recipes and everyday cooking, with a discoverable feed that makes its current publishing work easier to evaluate.",
+      "limitation": "Authorship and editorial-policy information is less visible than on higher-ranked publications.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://gristle.substack.com/",
+        "https://slaterchef.substack.com/feed"
+      ]
+    },
+    {
+      "rank": 96,
+      "id": "worldsbest100-wordpress-com",
+      "name": "Worlds Best 100",
+      "url": "https://worldsbest100.wordpress.com/",
+      "country": "XX",
+      "score": 59.9,
+      "movement": "new",
+      "best_for": "baking, pastry, and dependable technique",
+      "reason": "Worlds Best 100 concentrates on baking, pastry, and dependable technique, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://worldsbest100.wordpress.com/",
+        "https://worldsbest100.wordpress.com/comments/feed/"
+      ]
+    },
+    {
+      "rank": 97,
+      "id": "dinediaspora-com",
+      "name": "DINE DIASPORA",
+      "url": "https://dinediaspora.com/",
+      "country": "XX",
+      "score": 59.9,
+      "movement": "new",
+      "best_for": "recipes, technique, and food culture",
+      "reason": "DINE DIASPORA concentrates on recipes, technique, and food culture, with a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://dinediaspora.com/"
+      ]
+    },
+    {
+      "rank": 98,
+      "id": "aliciakennedy-news",
+      "name": "From the Desk of Alicia Kennedy",
+      "url": "https://aliciakennedy.news/",
+      "country": "XX",
+      "score": 59.2,
+      "movement": "new",
+      "best_for": "recipes, technique, and food culture",
+      "reason": "From the Desk of Alicia Kennedy concentrates on recipes, technique, and food culture, with a clearly defined editorial focus that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://aliciakennedy.news/"
+      ]
+    },
+    {
+      "rank": 99,
+      "id": "indigestion-substack-com",
+      "name": "In Digestion",
+      "url": "https://indigestion.substack.com/",
+      "country": "XX",
+      "score": 57.9,
+      "movement": "new",
+      "best_for": "recipes, technique, and food culture",
+      "reason": "In Digestion concentrates on recipes, technique, and food culture, with a discoverable feed that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://indigestion.substack.com/",
+        "https://indigestion.substack.com/feed"
+      ]
+    },
+    {
+      "rank": 100,
+      "id": "store-heritagefoodsusa-com",
+      "name": "Heritage Foods",
+      "url": "https://store.heritagefoodsusa.com/",
+      "country": "XX",
+      "score": 56.8,
+      "movement": "new",
+      "best_for": "health-aware recipes and practical cooking",
+      "reason": "Heritage Foods concentrates on health-aware recipes and practical cooking, with a clearly defined editorial focus that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://store.heritagefoodsusa.com/"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1866 @@
+{
+  "schema_version": 1,
+  "edition": "2026-09",
+  "status": "final",
+  "category": {
+    "slug": "technology",
+    "name": "Technology",
+    "description": "Reporting, analysis, reviews, and teaching about software, devices, AI, security, and the systems shaping technology.",
+    "subcategories": [
+      "consumer-technology",
+      "software",
+      "artificial-intelligence",
+      "cybersecurity",
+      "wordpress"
+    ]
+  },
+  "track": {
+    "slug": "independent",
+    "label": "Independent Blogs"
+  },
+  "count": 100,
+  "items": [
+    {
+      "rank": 1,
+      "id": "stratechery-com",
+      "name": "Stratechery",
+      "url": "https://stratechery.com/",
+      "country": "XX",
+      "score": 98.0,
+      "movement": "new",
+      "best_for": "technology strategy and platform business analysis",
+      "reason": "Ben Thompson connects product decisions, distribution, market structure, and platform power in a consistent analytical framework.",
+      "limitation": "Much of the complete analysis and archive access requires a paid subscription.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://stratechery.com/",
+        "https://stratechery.com/about/"
+      ]
+    },
+    {
+      "rank": 2,
+      "id": "daringfireball-net",
+      "name": "Daring Fireball",
+      "url": "https://daringfireball.net/",
+      "country": "XX",
+      "score": 97.0,
+      "movement": "new",
+      "best_for": "Apple, interface, and technology-industry commentary",
+      "reason": "John Gruber combines close product observation with a distinctive editorial position and a long, searchable record of corrections and follow-up.",
+      "limitation": "The Apple-centered lens and link-blog format are narrower than a general technology publication.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://daringfireball.net/",
+        "https://daringfireball.net/feeds/main",
+        "https://daringfireball.net/colophon/"
+      ]
+    },
+    {
+      "rank": 3,
+      "id": "newsletter-pragmaticengineer-com",
+      "name": "The Pragmatic Engineer",
+      "url": "https://newsletter.pragmaticengineer.com/",
+      "country": "XX",
+      "score": 96.0,
+      "movement": "new",
+      "best_for": "software engineering careers, teams, and industry practice",
+      "reason": "Gergely Orosz turns engineering-management reporting, interviews, and operator evidence into practical explanations for working developers.",
+      "limitation": "Many complete reports and deep dives are available only to paid subscribers.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://newsletter.pragmaticengineer.com/",
+        "https://newsletter.pragmaticengineer.com/feed"
+      ]
+    },
+    {
+      "rank": 4,
+      "id": "simonwillison-net",
+      "name": "Simon Willison's Weblog",
+      "url": "https://simonwillison.net/",
+      "country": "XX",
+      "score": 95.0,
+      "movement": "new",
+      "best_for": "hands-on AI, Python, data, and open-source experiments",
+      "reason": "Simon Willison publishes reproducible technical notes, code, demos, and source links quickly enough to make a fast-moving field inspectable.",
+      "limitation": "The chronological notebook format can require more reader context than a structured beginner guide.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://simonwillison.net/",
+        "https://simonwillison.net/atom/everything/",
+        "https://simonwillison.net/about/"
+      ]
+    },
+    {
+      "rank": 5,
+      "id": "schneier-com",
+      "name": "Schneier on Security",
+      "url": "https://schneier.com/",
+      "country": "XX",
+      "score": 94.0,
+      "movement": "new",
+      "best_for": "security policy, cryptography, risk, and public-interest analysis",
+      "reason": "Bruce Schneier pairs technical security knowledge with policy context, primary links, and a durable archive that helps readers follow long-running issues.",
+      "limitation": "The site mixes short linked commentary with longer analysis, so depth varies by post.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://www.schneier.com/",
+        "https://www.schneier.com/comments/feed/",
+        "https://www.schneier.com/blog/about/"
+      ]
+    },
+    {
+      "rank": 6,
+      "id": "krebsonsecurity-com",
+      "name": "Krebs on Security",
+      "url": "https://krebsonsecurity.com/",
+      "country": "XX",
+      "score": 93.0,
+      "movement": "new",
+      "best_for": "cybercrime investigations and security incident reporting",
+      "reason": "Brian Krebs produces original reporting on breaches, fraud networks, identity crime, and the people and infrastructure behind security incidents.",
+      "limitation": "The investigative focus is deliberately narrower than enterprise-security training or broad product coverage.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://krebsonsecurity.com/",
+        "https://krebsonsecurity.com/comments/feed/",
+        "https://krebsonsecurity.com/about/"
+      ]
+    },
+    {
+      "rank": 7,
+      "id": "platformer-news",
+      "name": "Platformer",
+      "url": "https://platformer.news/",
+      "country": "XX",
+      "score": 92.0,
+      "movement": "new",
+      "best_for": "social platforms, policy, moderation, and technology power",
+      "reason": "Platformer reports on the decisions and institutions governing large online platforms, with a clear distinction between reporting and analysis.",
+      "limitation": "Full access to some reporting and community discussions requires a subscription.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://www.platformer.news/",
+        "https://www.platformer.news/rss/",
+        "https://www.platformer.news/about/"
+      ]
+    },
+    {
+      "rank": 8,
+      "id": "404media-co",
+      "name": "404 Media",
+      "url": "https://404media.co/",
+      "country": "XX",
+      "score": 91.0,
+      "movement": "new",
+      "best_for": "original investigations into technology, surveillance, and internet culture",
+      "reason": "The worker-owned newsroom regularly produces source-led investigations that larger technology outlets follow and cite.",
+      "limitation": "Some complete articles and community features are limited to paid members.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://www.404media.co/",
+        "https://www.404media.co/rss/",
+        "https://www.404media.co/about/"
+      ]
+    },
+    {
+      "rank": 9,
+      "id": "ben-evans-com",
+      "name": "Benedict Evans",
+      "url": "https://ben-evans.com/",
+      "country": "XX",
+      "score": 90.0,
+      "movement": "new",
+      "best_for": "technology trends, market shifts, and strategic synthesis",
+      "reason": "Benedict Evans uses market data, historical comparison, and compact models to separate durable platform shifts from short-term technology noise.",
+      "limitation": "The high-level strategic view offers fewer implementation details for readers seeking tutorials.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://www.ben-evans.com/",
+        "https://www.ben-evans.com/contact"
+      ]
+    },
+    {
+      "rank": 10,
+      "id": "tedium-co",
+      "name": "Tedium",
+      "url": "https://tedium.co/",
+      "country": "XX",
+      "score": 89.0,
+      "movement": "new",
+      "best_for": "overlooked technology history and internet culture",
+      "reason": "Ernie Smith researches ordinary technologies and forgotten web history deeply enough to make apparently minor subjects useful and memorable.",
+      "limitation": "The deliberately eclectic subject selection is less useful for readers tracking one narrow industry beat.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://tedium.co/",
+        "https://tedium.co/what-is-tedium"
+      ]
+    },
+    {
+      "rank": 11,
+      "id": "github-blog",
+      "name": "The GitHub Blog",
+      "url": "https://github.blog/",
+      "country": "XX",
+      "score": 84.4,
+      "movement": "new",
+      "best_for": "software engineering and developer practice",
+      "reason": "The GitHub Blog concentrates on software engineering and developer practice, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://github.blog/",
+        "https://github.blog/ai-and-ml/feed/",
+        "https://github.blog/ai-and-ml/github-copilot/how-the-github-legal-team-used-copilot-cli-to-streamline-their-workflows/"
+      ]
+    },
+    {
+      "rank": 12,
+      "id": "gizmodo-com",
+      "name": "Gizmodo",
+      "url": "https://gizmodo.com/",
+      "country": "XX",
+      "score": 82.8,
+      "movement": "new",
+      "best_for": "technology reporting and practical analysis",
+      "reason": "Gizmodo concentrates on technology reporting and practical analysis, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://gizmodo.com/",
+        "https://gizmodo.com/feed",
+        "https://gizmodo.com/former-spirit-employees-arent-happy-about-its-ai-deal-with-google-2000801201"
+      ]
+    },
+    {
+      "rank": 13,
+      "id": "troyhunt-com",
+      "name": "Troy Hunt",
+      "url": "https://troyhunt.com/",
+      "country": "XX",
+      "score": 82.7,
+      "movement": "new",
+      "best_for": "AI systems and their practical consequences",
+      "reason": "Troy Hunt concentrates on AI systems and their practical consequences, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://troyhunt.com/",
+        "https://www.troyhunt.com/rss/",
+        "https://www.troyhunt.com/about/"
+      ]
+    },
+    {
+      "rank": 14,
+      "id": "towardsdatascience-com",
+      "name": "Towards Data Science",
+      "url": "https://towardsdatascience.com/",
+      "country": "XX",
+      "score": 82.2,
+      "movement": "new",
+      "best_for": "software engineering and developer practice",
+      "reason": "Towards Data Science concentrates on software engineering and developer practice, with a discoverable feed, named authorship that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://towardsdatascience.com/",
+        "https://towardsdatascience.com/feed/",
+        "https://towardsdatascience.com/graph-engineering-isnt-about-more-connections-its-about-which-ones-get-used/"
+      ]
+    },
+    {
+      "rank": 15,
+      "id": "wpexplorer-com",
+      "name": "WPExplorer",
+      "url": "https://wpexplorer.com/",
+      "country": "XX",
+      "score": 80.5,
+      "movement": "new",
+      "best_for": "WordPress publishing and development",
+      "reason": "WPExplorer concentrates on WordPress publishing and development, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://wpexplorer.com/",
+        "https://www.wpexplorer.com/feed/",
+        "https://www.wpexplorer.com/about/"
+      ]
+    },
+    {
+      "rank": 16,
+      "id": "onlinedegrees-sandiego-edu",
+      "name": "University of San Diego Online Degrees",
+      "url": "https://onlinedegrees.sandiego.edu/",
+      "country": "XX",
+      "score": 80.2,
+      "movement": "new",
+      "best_for": "security, privacy, and cyber risk",
+      "reason": "University of San Diego Online Degrees concentrates on security, privacy, and cyber risk, with a discoverable feed, named authorship that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://onlinedegrees.sandiego.edu/",
+        "https://onlinedegrees.sandiego.edu/feed/",
+        "https://onlinedegrees.sandiego.edu/about/"
+      ]
+    },
+    {
+      "rank": 17,
+      "id": "analyticsvidhya-com",
+      "name": "Analytics Vidhya",
+      "url": "https://analyticsvidhya.com/",
+      "country": "XX",
+      "score": 80.1,
+      "movement": "new",
+      "best_for": "software engineering and developer practice",
+      "reason": "Analytics Vidhya concentrates on software engineering and developer practice, with named authorship, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://analyticsvidhya.com/",
+        "https://www.analyticsvidhya.com/web-stories/feed/",
+        "https://www.analyticsvidhya.com/blog/2017/09/common-machine-learning-algorithms/"
+      ]
+    },
+    {
+      "rank": 18,
+      "id": "robinwieruch-de",
+      "name": "Robin Wieruch",
+      "url": "https://robinwieruch.de/",
+      "country": "DE",
+      "score": 79.2,
+      "movement": "new",
+      "best_for": "software engineering and developer practice",
+      "reason": "Robin Wieruch concentrates on software engineering and developer practice, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Authorship and editorial-policy information is less visible than on higher-ranked publications.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://robinwieruch.de/",
+        "https://www.robinwieruch.de/index.xml",
+        "https://www.robinwieruch.de/about/"
+      ]
+    },
+    {
+      "rank": 19,
+      "id": "labnol-org",
+      "name": "Digital Inspiration",
+      "url": "https://labnol.org/",
+      "country": "XX",
+      "score": 78.5,
+      "movement": "new",
+      "best_for": "software engineering and developer practice",
+      "reason": "Digital Inspiration concentrates on software engineering and developer practice, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://labnol.org/",
+        "https://www.labnol.org/rss.xml",
+        "https://www.labnol.org/about"
+      ]
+    },
+    {
+      "rank": 20,
+      "id": "flaviocopes-com",
+      "name": "Flavio Copes",
+      "url": "https://flaviocopes.com/",
+      "country": "XX",
+      "score": 77.8,
+      "movement": "new",
+      "best_for": "software engineering and developer practice",
+      "reason": "Flavio Copes concentrates on software engineering and developer practice, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://flaviocopes.com/",
+        "https://flaviocopes.com/rss.xml",
+        "https://flaviocopes.com/about"
+      ]
+    },
+    {
+      "rank": 21,
+      "id": "growthlist-co",
+      "name": "GrowthList",
+      "url": "https://growthlist.co/",
+      "country": "XX",
+      "score": 77.5,
+      "movement": "new",
+      "best_for": "technology reporting and practical analysis",
+      "reason": "GrowthList concentrates on technology reporting and practical analysis, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://growthlist.co/",
+        "https://growthlist.co/feed/",
+        "https://growthlist.co/contact/"
+      ]
+    },
+    {
+      "rank": 22,
+      "id": "amitmerchant-com",
+      "name": "Amit Merchant",
+      "url": "https://amitmerchant.com/",
+      "country": "XX",
+      "score": 76.4,
+      "movement": "new",
+      "best_for": "AI systems and their practical consequences",
+      "reason": "Amit Merchant concentrates on AI systems and their practical consequences, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://amitmerchant.com/",
+        "https://amitmerchant.com/feed.xml",
+        "https://amitmerchant.com/about"
+      ]
+    },
+    {
+      "rank": 23,
+      "id": "ryanschultz-com",
+      "name": "Ryan Schultz",
+      "url": "https://ryanschultz.com/",
+      "country": "XX",
+      "score": 76.3,
+      "movement": "new",
+      "best_for": "AI systems and their practical consequences",
+      "reason": "Ryan Schultz concentrates on AI systems and their practical consequences, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://ryanschultz.com/",
+        "https://ryanschultz.com/comments/feed/",
+        "https://ryanschultz.com/about/"
+      ]
+    },
+    {
+      "rank": 24,
+      "id": "hackreactor-com",
+      "name": "Hack Reactor",
+      "url": "https://hackreactor.com/",
+      "country": "XX",
+      "score": 75.2,
+      "movement": "new",
+      "best_for": "software engineering and developer practice",
+      "reason": "Hack Reactor concentrates on software engineering and developer practice, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://hackreactor.com/",
+        "https://www.hackreactor.com/comments/feed/",
+        "https://www.hackreactor.com/resources/request-syllabus/"
+      ]
+    },
+    {
+      "rank": 25,
+      "id": "ahmadawais-com",
+      "name": "Ahmad Awais",
+      "url": "https://ahmadawais.com/",
+      "country": "XX",
+      "score": 74.7,
+      "movement": "new",
+      "best_for": "software engineering and developer practice",
+      "reason": "Ahmad Awais concentrates on software engineering and developer practice, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://ahmadawais.com/",
+        "https://ahmadawais.com/comments/feed/",
+        "https://ahmadawais.com/about/"
+      ]
+    },
+    {
+      "rank": 26,
+      "id": "web-strategist-com",
+      "name": "Jeremiah Owyang",
+      "url": "https://web-strategist.com/",
+      "country": "XX",
+      "score": 74.6,
+      "movement": "new",
+      "best_for": "technology reporting and practical analysis",
+      "reason": "Jeremiah Owyang concentrates on technology reporting and practical analysis, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://web-strategist.com/",
+        "https://web-strategist.com/blog/comments/feed/",
+        "https://web-strategist.com/blog/about/"
+      ]
+    },
+    {
+      "rank": 27,
+      "id": "cringely-com",
+      "name": "I, Cringely - on technology",
+      "url": "https://cringely.com/",
+      "country": "XX",
+      "score": 74.5,
+      "movement": "new",
+      "best_for": "technology reporting and practical analysis",
+      "reason": "I, Cringely - on technology concentrates on technology reporting and practical analysis, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Authorship and editorial-policy information is less visible than on higher-ranked publications.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://cringely.com/",
+        "https://www.cringely.com/comments/feed/",
+        "https://www.cringely.com/bout-bob/"
+      ]
+    },
+    {
+      "rank": 28,
+      "id": "engineering-leanix-net",
+      "name": "LeanIX Engineering",
+      "url": "https://engineering.leanix.net/",
+      "country": "XX",
+      "score": 74.5,
+      "movement": "new",
+      "best_for": "software engineering and developer practice",
+      "reason": "LeanIX Engineering concentrates on software engineering and developer practice, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://engineering.leanix.net/",
+        "https://engineering.leanix.net/feed.xml",
+        "https://engineering.leanix.net/about/"
+      ]
+    },
+    {
+      "rank": 29,
+      "id": "antjanus-com",
+      "name": "Antonin Januska",
+      "url": "https://antjanus.com/",
+      "country": "XX",
+      "score": 74.3,
+      "movement": "new",
+      "best_for": "software engineering and developer practice",
+      "reason": "Antonin Januska concentrates on software engineering and developer practice, with a discoverable feed, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://antjanus.com/",
+        "https://antjanus.com/rss.xml",
+        "https://antjanus.com/about"
+      ]
+    },
+    {
+      "rank": 30,
+      "id": "smakosh-com",
+      "name": "Smakosh",
+      "url": "https://smakosh.com/",
+      "country": "XX",
+      "score": 74.3,
+      "movement": "new",
+      "best_for": "software engineering and developer practice",
+      "reason": "Smakosh concentrates on software engineering and developer practice, with a discoverable feed, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://smakosh.com/",
+        "https://smakosh.com/atom",
+        "https://smakosh.com/about"
+      ]
+    },
+    {
+      "rank": 31,
+      "id": "kentcdodds-com",
+      "name": "Kent C. Dodds GitHub YouTube 𝕏 RSS",
+      "url": "https://kentcdodds.com/",
+      "country": "XX",
+      "score": 73.4,
+      "movement": "new",
+      "best_for": "software engineering and developer practice",
+      "reason": "Kent C. Dodds GitHub YouTube 𝕏 RSS concentrates on software engineering and developer practice, with named authorship, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://kentcdodds.com/",
+        "https://kentcdodds.com/about"
+      ]
+    },
+    {
+      "rank": 32,
+      "id": "mostlyblogging-com",
+      "name": "Mostly Blogging",
+      "url": "https://mostlyblogging.com/",
+      "country": "XX",
+      "score": 73.1,
+      "movement": "new",
+      "best_for": "AI systems and their practical consequences",
+      "reason": "Mostly Blogging concentrates on AI systems and their practical consequences, with a visible article archive, named authorship that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://mostlyblogging.com/",
+        "https://www.mostlyblogging.com/higher-education/feed/",
+        "https://www.mostlyblogging.com/about/"
+      ]
+    },
+    {
+      "rank": 33,
+      "id": "practicaldev-herokuapp-com-freetls-fastly-net",
+      "name": "DEV Community",
+      "url": "https://practicaldev-herokuapp-com.freetls.fastly.net/",
+      "country": "XX",
+      "score": 72.8,
+      "movement": "new",
+      "best_for": "software engineering and developer practice",
+      "reason": "DEV Community concentrates on software engineering and developer practice, with a discoverable feed, named authorship that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://practicaldev-herokuapp-com.freetls.fastly.net/",
+        "https://dev.to/feed",
+        "https://practicaldev-herokuapp-com.freetls.fastly.net/about"
+      ]
+    },
+    {
+      "rank": 34,
+      "id": "mediadesignschool-com",
+      "name": "Media Design School at Strayer: Gaming, VFX & Design Courses",
+      "url": "https://mediadesignschool.com/",
+      "country": "XX",
+      "score": 72.7,
+      "movement": "new",
+      "best_for": "technology reporting and practical analysis",
+      "reason": "Media Design School at Strayer: Gaming, VFX & Design Courses concentrates on technology reporting and practical analysis, with a visible article archive, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://mediadesignschool.com/",
+        "https://www.mediadesignschool.com:443/about/our-story"
+      ]
+    },
+    {
+      "rank": 35,
+      "id": "lornajane-net",
+      "name": "LornaJane's Website",
+      "url": "https://lornajane.net/",
+      "country": "XX",
+      "score": 72.6,
+      "movement": "new",
+      "best_for": "software engineering and developer practice",
+      "reason": "LornaJane's Website concentrates on software engineering and developer practice, with a discoverable feed, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Authorship and editorial-policy information is less visible than on higher-ranked publications.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://lornajane.net/",
+        "https://lornajane.net/feed",
+        "https://lornajane.net/pages/about.html"
+      ]
+    },
+    {
+      "rank": 36,
+      "id": "akismet-com",
+      "name": "Akismet",
+      "url": "https://akismet.com/",
+      "country": "XX",
+      "score": 72.5,
+      "movement": "new",
+      "best_for": "AI systems and their practical consequences",
+      "reason": "Akismet concentrates on AI systems and their practical consequences, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Authorship and editorial-policy information is less visible than on higher-ranked publications.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://akismet.com/",
+        "https://akismet.com/privacy/feed/"
+      ]
+    },
+    {
+      "rank": 37,
+      "id": "letsreachsuccess-com",
+      "name": "Let's Reach Success",
+      "url": "https://letsreachsuccess.com/",
+      "country": "XX",
+      "score": 72.5,
+      "movement": "new",
+      "best_for": "technology reporting and practical analysis",
+      "reason": "Let's Reach Success concentrates on technology reporting and practical analysis, with a visible article archive, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://letsreachsuccess.com/",
+        "https://letsreachsuccess.com/about/"
+      ]
+    },
+    {
+      "rank": 38,
+      "id": "tonyxu-io",
+      "name": "Tony Xu Blog",
+      "url": "https://tonyxu.io/",
+      "country": "XX",
+      "score": 72.2,
+      "movement": "new",
+      "best_for": "software engineering and developer practice",
+      "reason": "Tony Xu Blog concentrates on software engineering and developer practice, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Authorship and editorial-policy information is less visible than on higher-ranked publications.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://tonyxu.io/",
+        "https://tonyxu.io/rss/zh.xml",
+        "https://tonyxu.io/about/"
+      ]
+    },
+    {
+      "rank": 39,
+      "id": "hacdias-com",
+      "name": "Henrique Dias",
+      "url": "https://hacdias.com/",
+      "country": "XX",
+      "score": 72.0,
+      "movement": "new",
+      "best_for": "software engineering and developer practice",
+      "reason": "Henrique Dias concentrates on software engineering and developer practice, with a discoverable feed, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Authorship and editorial-policy information is less visible than on higher-ranked publications.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://hacdias.com/",
+        "https://hacdias.com/feed.xml",
+        "https://hacdias.com/about/"
+      ]
+    },
+    {
+      "rank": 40,
+      "id": "jlelse-blog",
+      "name": "Jan-Lukas Else",
+      "url": "https://jlelse.blog/",
+      "country": "XX",
+      "score": 71.8,
+      "movement": "new",
+      "best_for": "technology reporting and practical analysis",
+      "reason": "Jan-Lukas Else concentrates on technology reporting and practical analysis, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://jlelse.blog/",
+        "https://janlukas.blog/.atom",
+        "https://janlukas.blog/about"
+      ]
+    },
+    {
+      "rank": 41,
+      "id": "matthiasnoback-nl",
+      "name": "Matthias Noback",
+      "url": "https://matthiasnoback.nl/",
+      "country": "NL",
+      "score": 71.7,
+      "movement": "new",
+      "best_for": "software engineering and developer practice",
+      "reason": "Matthias Noback concentrates on software engineering and developer practice, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Authorship and editorial-policy information is less visible than on higher-ranked publications.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://matthiasnoback.nl/",
+        "https://matthiasnoback.nl/index.xml",
+        "https://matthiasnoback.nl/about-me/"
+      ]
+    },
+    {
+      "rank": 42,
+      "id": "khaledgarbaya-net",
+      "name": "Khaled Garbaya",
+      "url": "https://khaledgarbaya.net/",
+      "country": "XX",
+      "score": 71.5,
+      "movement": "new",
+      "best_for": "software engineering and developer practice",
+      "reason": "Khaled Garbaya concentrates on software engineering and developer practice, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://khaledgarbaya.net/",
+        "https://khaledgarbaya.net/til-rss.xml",
+        "https://khaledgarbaya.net/about"
+      ]
+    },
+    {
+      "rank": 43,
+      "id": "technmarketing-com",
+      "name": "Tech N Marketing",
+      "url": "https://technmarketing.com/",
+      "country": "XX",
+      "score": 71.4,
+      "movement": "new",
+      "best_for": "technology reporting and practical analysis",
+      "reason": "Tech N Marketing concentrates on technology reporting and practical analysis, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://technmarketing.com/",
+        "https://technmarketing.com/comments/feed/",
+        "https://technmarketing.com/about-2/"
+      ]
+    },
+    {
+      "rank": 44,
+      "id": "sizovs-net",
+      "name": "Eduard Sizov",
+      "url": "https://sizovs.net/",
+      "country": "XX",
+      "score": 71.2,
+      "movement": "new",
+      "best_for": "software engineering and developer practice",
+      "reason": "Eduard Sizov concentrates on software engineering and developer practice, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Authorship and editorial-policy information is less visible than on higher-ranked publications.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://sizovs.net/",
+        "https://sizovs.net/feed.xml",
+        "https://sizovs.net/about"
+      ]
+    },
+    {
+      "rank": 45,
+      "id": "simonofhh-tech",
+      "name": "SimonOfHH",
+      "url": "https://simonofhh.tech/",
+      "country": "XX",
+      "score": 71.0,
+      "movement": "new",
+      "best_for": "technology reporting and practical analysis",
+      "reason": "SimonOfHH concentrates on technology reporting and practical analysis, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://simonofhh.tech/",
+        "https://simonofhh.tech/comments/feed/",
+        "https://simonofhh.tech/about-me/"
+      ]
+    },
+    {
+      "rank": 46,
+      "id": "thomashunter-name",
+      "name": "Thomas Hunter II",
+      "url": "https://thomashunter.name/",
+      "country": "XX",
+      "score": 70.3,
+      "movement": "new",
+      "best_for": "software engineering and developer practice",
+      "reason": "Thomas Hunter II concentrates on software engineering and developer practice, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Authorship and editorial-policy information is less visible than on higher-ranked publications.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://thomashunter.name/",
+        "https://thomashunter.name/feed.rss"
+      ]
+    },
+    {
+      "rank": 47,
+      "id": "tannerlinsley-com",
+      "name": "Tanner Linsley",
+      "url": "https://tannerlinsley.com/",
+      "country": "XX",
+      "score": 70.2,
+      "movement": "new",
+      "best_for": "software engineering and developer practice",
+      "reason": "Tanner Linsley concentrates on software engineering and developer practice, with a discoverable feed, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Authorship and editorial-policy information is less visible than on higher-ranked publications.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://tannerlinsley.com/",
+        "https://tannerlinsley.com/feed.xml",
+        "https://tannerlinsley.com/about"
+      ]
+    },
+    {
+      "rank": 48,
+      "id": "thomaskekeisen-de",
+      "name": "Thomas Kekeisen-Schanz - thomaskekeisen.de",
+      "url": "https://thomaskekeisen.de/",
+      "country": "DE",
+      "score": 69.8,
+      "movement": "new",
+      "best_for": "security, privacy, and cyber risk",
+      "reason": "Thomas Kekeisen-Schanz - thomaskekeisen.de concentrates on security, privacy, and cyber risk, with a discoverable feed, named authorship that makes its current publishing work easier to evaluate.",
+      "limitation": "Authorship and editorial-policy information is less visible than on higher-ranked publications.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://thomaskekeisen.de/",
+        "https://thomaskekeisen.de/en/rss.xml",
+        "https://thomaskekeisen.de/en/blog/first-world-problems-refugees"
+      ]
+    },
+    {
+      "rank": 49,
+      "id": "egghead-io",
+      "name": "egghead.io",
+      "url": "https://egghead.io/",
+      "country": "XX",
+      "score": 69.5,
+      "movement": "new",
+      "best_for": "software engineering and developer practice",
+      "reason": "egghead.io concentrates on software engineering and developer practice, with a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://egghead.io/"
+      ]
+    },
+    {
+      "rank": 50,
+      "id": "healeycodes-com",
+      "name": "Healeycodes",
+      "url": "https://healeycodes.com/",
+      "country": "XX",
+      "score": 69.3,
+      "movement": "new",
+      "best_for": "software engineering and developer practice",
+      "reason": "Healeycodes concentrates on software engineering and developer practice, with a discoverable feed that makes its current publishing work easier to evaluate.",
+      "limitation": "Authorship and editorial-policy information is less visible than on higher-ranked publications.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://healeycodes.com/",
+        "https://healeycodes.com/feed.xml"
+      ]
+    },
+    {
+      "rank": 51,
+      "id": "christianfei-com",
+      "name": "cri.dev",
+      "url": "https://christianfei.com/",
+      "country": "XX",
+      "score": 69.2,
+      "movement": "new",
+      "best_for": "software engineering and developer practice",
+      "reason": "cri.dev concentrates on software engineering and developer practice, with a discoverable feed, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://christianfei.com/",
+        "https://cri.dev/rss.xml",
+        "https://cri.dev/about/"
+      ]
+    },
+    {
+      "rank": 52,
+      "id": "portal-gigaom-com",
+      "name": "GigaOm",
+      "url": "https://portal.gigaom.com/",
+      "country": "XX",
+      "score": 69.2,
+      "movement": "new",
+      "best_for": "technology reporting and practical analysis",
+      "reason": "GigaOm concentrates on technology reporting and practical analysis, with a discoverable feed that makes its current publishing work easier to evaluate.",
+      "limitation": "Authorship and editorial-policy information is less visible than on higher-ranked publications.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://portal.gigaom.com/",
+        "https://portal.gigaom.com/rss/videos"
+      ]
+    },
+    {
+      "rank": 53,
+      "id": "roelofjanelsinga-com",
+      "name": "Experienced Freelance PHP Laravel & Golang Developer",
+      "url": "https://roelofjanelsinga.com/",
+      "country": "XX",
+      "score": 68.7,
+      "movement": "new",
+      "best_for": "software engineering and developer practice",
+      "reason": "Experienced Freelance PHP Laravel & Golang Developer concentrates on software engineering and developer practice, with a visible article archive, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://roelofjanelsinga.com/",
+        "https://roelofjanelsinga.com/articles/php-modernization-business-case/"
+      ]
+    },
+    {
+      "rank": 54,
+      "id": "linknovate-com",
+      "name": "Linknovate",
+      "url": "https://linknovate.com/",
+      "country": "XX",
+      "score": 68.7,
+      "movement": "new",
+      "best_for": "technology reporting and practical analysis",
+      "reason": "Linknovate concentrates on technology reporting and practical analysis, with a visible article archive, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://linknovate.com/"
+      ]
+    },
+    {
+      "rank": 55,
+      "id": "blog-georgi-yanev-com",
+      "name": "Georgi Yanev",
+      "url": "https://blog.georgi-yanev.com/",
+      "country": "XX",
+      "score": 68.5,
+      "movement": "new",
+      "best_for": "software engineering and developer practice",
+      "reason": "Georgi Yanev concentrates on software engineering and developer practice, with a discoverable feed, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Authorship and editorial-policy information is less visible than on higher-ranked publications.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://blog.georgi-yanev.com/",
+        "https://blog.georgi-yanev.com/feed.xml",
+        "https://blog.georgi-yanev.com/about/"
+      ]
+    },
+    {
+      "rank": 56,
+      "id": "bool-dev",
+      "name": "bool.dev",
+      "url": "https://bool.dev/",
+      "country": "XX",
+      "score": 68.4,
+      "movement": "new",
+      "best_for": "software engineering and developer practice",
+      "reason": "bool.dev concentrates on software engineering and developer practice, with a visible article archive, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://bool.dev/",
+        "https://bool.dev/about"
+      ]
+    },
+    {
+      "rank": 57,
+      "id": "mike-biful-co",
+      "name": "mikebifulco.com",
+      "url": "https://mike.biful.co/",
+      "country": "XX",
+      "score": 68.2,
+      "movement": "new",
+      "best_for": "software engineering and developer practice",
+      "reason": "mikebifulco.com concentrates on software engineering and developer practice, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Authorship and editorial-policy information is less visible than on higher-ranked publications.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://mike.biful.co/",
+        "https://mikebifulco.com/rss.xml",
+        "https://mikebifulco.com/about"
+      ]
+    },
+    {
+      "rank": 58,
+      "id": "paulox-net",
+      "name": "Paolo Melchiorre",
+      "url": "https://paulox.net/",
+      "country": "XX",
+      "score": 68.2,
+      "movement": "new",
+      "best_for": "software engineering and developer practice",
+      "reason": "Paolo Melchiorre concentrates on software engineering and developer practice, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Authorship and editorial-policy information is less visible than on higher-ranked publications.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://paulox.net/",
+        "https://www.paulox.net/feed.xml"
+      ]
+    },
+    {
+      "rank": 59,
+      "id": "mansipandit2024-medium-com",
+      "name": "Mansipandit2024",
+      "url": "https://mansipandit2024.medium.com/",
+      "country": "XX",
+      "score": 67.8,
+      "movement": "new",
+      "best_for": "software engineering and developer practice",
+      "reason": "Mansipandit2024 concentrates on software engineering and developer practice, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://mansipandit2024.medium.com/",
+        "https://medium.com/feed/@mansipandit2024",
+        "https://mansipandit2024.medium.com/about"
+      ]
+    },
+    {
+      "rank": 60,
+      "id": "robkendal-co-uk",
+      "name": "Freelance Web Developer",
+      "url": "https://robkendal.co.uk/",
+      "country": "GB",
+      "score": 67.7,
+      "movement": "new",
+      "best_for": "software engineering and developer practice",
+      "reason": "Freelance Web Developer concentrates on software engineering and developer practice, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://robkendal.co.uk/",
+        "https://robkendal.co.uk/rss.xml",
+        "https://robkendal.co.uk/about"
+      ]
+    },
+    {
+      "rank": 61,
+      "id": "codymclain-com",
+      "name": "Cody McLain",
+      "url": "https://codymclain.com/",
+      "country": "XX",
+      "score": 67.5,
+      "movement": "new",
+      "best_for": "AI systems and their practical consequences",
+      "reason": "Cody McLain concentrates on AI systems and their practical consequences, with a visible article archive, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://codymclain.com/",
+        "https://www.codymclain.com/blog/knowing-when-to-quit"
+      ]
+    },
+    {
+      "rank": 62,
+      "id": "taniarascia-com",
+      "name": "Tania Rascia's Website",
+      "url": "https://taniarascia.com/",
+      "country": "XX",
+      "score": 67.1,
+      "movement": "new",
+      "best_for": "software engineering and developer practice",
+      "reason": "Tania Rascia's Website concentrates on software engineering and developer practice, with a discoverable feed that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://taniarascia.com/",
+        "https://www.taniarascia.com/rss.xml",
+        "https://www.taniarascia.com/me/"
+      ]
+    },
+    {
+      "rank": 63,
+      "id": "blog-netnerds-net",
+      "name": "Chrissy LeMaire's blog",
+      "url": "https://blog.netnerds.net/",
+      "country": "XX",
+      "score": 66.8,
+      "movement": "new",
+      "best_for": "AI systems and their practical consequences",
+      "reason": "Chrissy LeMaire's blog concentrates on AI systems and their practical consequences, with a discoverable feed, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://blog.netnerds.net/",
+        "https://blog.netnerds.net/index.xml",
+        "https://blog.netnerds.net/about/"
+      ]
+    },
+    {
+      "rank": 64,
+      "id": "blog-tdwright-co-uk",
+      "name": "Tom Wrights Code",
+      "url": "https://blog.tdwright.co.uk/",
+      "country": "GB",
+      "score": 66.0,
+      "movement": "new",
+      "best_for": "software engineering and developer practice",
+      "reason": "Tom Wrights Code concentrates on software engineering and developer practice, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://blog.tdwright.co.uk/",
+        "https://blog.tdwright.co.uk/2019/01/06/10-great-tech-blogs-you-should-read-that-are-written-by-women/feed/",
+        "https://blog.tdwright.co.uk/about-tom/"
+      ]
+    },
+    {
+      "rank": 65,
+      "id": "pravin-dev",
+      "name": "Pravin on Software",
+      "url": "https://pravin.dev/",
+      "country": "XX",
+      "score": 65.7,
+      "movement": "new",
+      "best_for": "software engineering and developer practice",
+      "reason": "Pravin on Software concentrates on software engineering and developer practice, with a visible article archive, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://pravin.dev/",
+        "https://pravin.dev/about/"
+      ]
+    },
+    {
+      "rank": 66,
+      "id": "dailydevstatus-com",
+      "name": "daily.dev Status",
+      "url": "https://dailydevstatus.com/",
+      "country": "XX",
+      "score": 65.4,
+      "movement": "new",
+      "best_for": "AI systems and their practical consequences",
+      "reason": "daily.dev Status concentrates on AI systems and their practical consequences, with a discoverable feed, named authorship that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://dailydevstatus.com/",
+        "https://www.dailydevstatus.com/history.atom"
+      ]
+    },
+    {
+      "rank": 67,
+      "id": "peterthaleikis-com",
+      "name": "Peter Thaleikis",
+      "url": "https://peterthaleikis.com/",
+      "country": "XX",
+      "score": 65.1,
+      "movement": "new",
+      "best_for": "software engineering and developer practice",
+      "reason": "Peter Thaleikis concentrates on software engineering and developer practice, with a visible article archive, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://peterthaleikis.com/",
+        "https://peterthaleikis.com/about/"
+      ]
+    },
+    {
+      "rank": 68,
+      "id": "marcysutton-com",
+      "name": "Marcysutton",
+      "url": "https://marcysutton.com/",
+      "country": "XX",
+      "score": 65.1,
+      "movement": "new",
+      "best_for": "software engineering and developer practice",
+      "reason": "Marcysutton concentrates on software engineering and developer practice, with clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://marcysutton.com/"
+      ]
+    },
+    {
+      "rank": 69,
+      "id": "jonkuperman-com",
+      "name": "Jon Kuperman",
+      "url": "https://jonkuperman.com/",
+      "country": "XX",
+      "score": 65.0,
+      "movement": "new",
+      "best_for": "software engineering and developer practice",
+      "reason": "Jon Kuperman concentrates on software engineering and developer practice, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://jonkuperman.com/",
+        "https://jonkuperman.com/feed/feed.xml",
+        "https://jonkuperman.com/about/"
+      ]
+    },
+    {
+      "rank": 70,
+      "id": "chiamakaikeanyi-dev",
+      "name": "Chiamaka Ikeanyi",
+      "url": "https://chiamakaikeanyi.dev/",
+      "country": "XX",
+      "score": 65.0,
+      "movement": "new",
+      "best_for": "software engineering and developer practice",
+      "reason": "Chiamaka Ikeanyi concentrates on software engineering and developer practice, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://chiamakaikeanyi.dev/",
+        "https://chiamakaikeanyi.dev/rss.xml"
+      ]
+    },
+    {
+      "rank": 71,
+      "id": "tomanistor-com",
+      "name": "Toma Nistor",
+      "url": "https://tomanistor.com/",
+      "country": "XX",
+      "score": 64.9,
+      "movement": "new",
+      "best_for": "software engineering and developer practice",
+      "reason": "Toma Nistor concentrates on software engineering and developer practice, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://tomanistor.com/",
+        "https://tomanistor.com/blog/index.xml",
+        "https://tomanistor.com/#about"
+      ]
+    },
+    {
+      "rank": 72,
+      "id": "kevinjalbert-com",
+      "name": "Kevin Jalbert's Blog",
+      "url": "https://kevinjalbert.com/",
+      "country": "XX",
+      "score": 64.7,
+      "movement": "new",
+      "best_for": "software engineering and developer practice",
+      "reason": "Kevin Jalbert's Blog concentrates on software engineering and developer practice, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://kevinjalbert.com/",
+        "https://kevinjalbert.com/rss.xml",
+        "https://kevinjalbert.com/about/"
+      ]
+    },
+    {
+      "rank": 73,
+      "id": "amitness-com",
+      "name": "Amit Chaudhary",
+      "url": "https://amitness.com/",
+      "country": "XX",
+      "score": 64.7,
+      "movement": "new",
+      "best_for": "AI systems and their practical consequences",
+      "reason": "Amit Chaudhary concentrates on AI systems and their practical consequences, with a discoverable feed, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://amitness.com/",
+        "https://amitness.com/index.xml",
+        "https://amitness.com/about.html"
+      ]
+    },
+    {
+      "rank": 74,
+      "id": "barbarianmeetscoding-com",
+      "name": "Barbarian Meets Coding",
+      "url": "https://barbarianmeetscoding.com/",
+      "country": "XX",
+      "score": 64.5,
+      "movement": "new",
+      "best_for": "software engineering and developer practice",
+      "reason": "Barbarian Meets Coding concentrates on software engineering and developer practice, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://barbarianmeetscoding.com/",
+        "https://www.barbarianmeetscoding.com/about/"
+      ]
+    },
+    {
+      "rank": 75,
+      "id": "sobolevn-me",
+      "name": "sobolevn's personal blog",
+      "url": "https://sobolevn.me/",
+      "country": "XX",
+      "score": 64.5,
+      "movement": "new",
+      "best_for": "software engineering and developer practice",
+      "reason": "sobolevn's personal blog concentrates on software engineering and developer practice, with a discoverable feed, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Authorship and editorial-policy information is less visible than on higher-ranked publications.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://sobolevn.me/",
+        "https://sobolevn.me/feed.xml"
+      ]
+    },
+    {
+      "rank": 76,
+      "id": "khalilstemmler-com",
+      "name": "Khalil Stemmler",
+      "url": "https://khalilstemmler.com/",
+      "country": "XX",
+      "score": 64.4,
+      "movement": "new",
+      "best_for": "AI systems and their practical consequences",
+      "reason": "Khalil Stemmler concentrates on AI systems and their practical consequences, with clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://khalilstemmler.com/"
+      ]
+    },
+    {
+      "rank": 77,
+      "id": "engguidebook-com",
+      "name": "The Software Engineer's Guidebook",
+      "url": "https://engguidebook.com/",
+      "country": "XX",
+      "score": 64.2,
+      "movement": "new",
+      "best_for": "software engineering and developer practice",
+      "reason": "The Software Engineer's Guidebook concentrates on software engineering and developer practice, with clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://engguidebook.com/"
+      ]
+    },
+    {
+      "rank": 78,
+      "id": "digitaldrummerj-me",
+      "name": "Justin James",
+      "url": "https://digitaldrummerj.me/",
+      "country": "XX",
+      "score": 64.0,
+      "movement": "new",
+      "best_for": "software engineering and developer practice",
+      "reason": "Justin James concentrates on software engineering and developer practice, with a discoverable feed, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://digitaldrummerj.me/",
+        "https://digitaldrummerj.me//feed.xml",
+        "https://digitaldrummerj.me/about/"
+      ]
+    },
+    {
+      "rank": 79,
+      "id": "conversionleadership-com",
+      "name": "Digital Marketing Automation",
+      "url": "https://conversionleadership.com/",
+      "country": "XX",
+      "score": 63.7,
+      "movement": "new",
+      "best_for": "technology reporting and practical analysis",
+      "reason": "Digital Marketing Automation concentrates on technology reporting and practical analysis, with a discoverable feed, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://conversionleadership.com/",
+        "https://www.conversionleadership.com/comments/feed/"
+      ]
+    },
+    {
+      "rank": 80,
+      "id": "devtools-tech",
+      "name": "Devtools Tech",
+      "url": "https://devtools.tech/",
+      "country": "XX",
+      "score": 63.4,
+      "movement": "new",
+      "best_for": "technology reporting and practical analysis",
+      "reason": "Devtools Tech concentrates on technology reporting and practical analysis, with clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://devtools.tech/"
+      ]
+    },
+    {
+      "rank": 81,
+      "id": "jarv-is",
+      "name": "Jake Jarvis",
+      "url": "https://jarv.is/",
+      "country": "XX",
+      "score": 63.1,
+      "movement": "new",
+      "best_for": "software engineering and developer practice",
+      "reason": "Jake Jarvis concentrates on software engineering and developer practice, with a discoverable feed that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://jarv.is/",
+        "https://jarv.is/feed.atom",
+        "https://jarv.is/notes/tailwind-hater"
+      ]
+    },
+    {
+      "rank": 82,
+      "id": "jonpauluritis-com",
+      "name": "JonPaulUritis.com",
+      "url": "https://jonpauluritis.com/",
+      "country": "XX",
+      "score": 63.0,
+      "movement": "new",
+      "best_for": "AI systems and their practical consequences",
+      "reason": "JonPaulUritis.com concentrates on AI systems and their practical consequences, with a discoverable feed, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Authorship and editorial-policy information is less visible than on higher-ranked publications.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://jonpauluritis.com/",
+        "https://jonpauluritis.com/feed.xml"
+      ]
+    },
+    {
+      "rank": 83,
+      "id": "qa-workitconsultants-in",
+      "name": "WorkitConsultants",
+      "url": "https://qa.workitconsultants.in/",
+      "country": "IN",
+      "score": 63.0,
+      "movement": "new",
+      "best_for": "software engineering and developer practice",
+      "reason": "WorkitConsultants concentrates on software engineering and developer practice, with named authorship, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://qa.workitconsultants.in/"
+      ]
+    },
+    {
+      "rank": 84,
+      "id": "ego-systemdef-com",
+      "name": "Ego",
+      "url": "https://ego.systemdef.com/",
+      "country": "XX",
+      "score": 62.5,
+      "movement": "new",
+      "best_for": "software engineering and developer practice",
+      "reason": "Ego concentrates on software engineering and developer practice, with a visible article archive, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://ego.systemdef.com/"
+      ]
+    },
+    {
+      "rank": 85,
+      "id": "laceyhenschel-com",
+      "name": "Lacey Henschel",
+      "url": "https://laceyhenschel.com/",
+      "country": "XX",
+      "score": 62.2,
+      "movement": "new",
+      "best_for": "technology reporting and practical analysis",
+      "reason": "Lacey Henschel concentrates on technology reporting and practical analysis, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://laceyhenschel.com/",
+        "https://www.laceyhenschel.com/blog/2022/11/7/7-things-i-learned-about-github-actions"
+      ]
+    },
+    {
+      "rank": 86,
+      "id": "shodipoayomide-com",
+      "name": "Shodipo Ayomide",
+      "url": "https://shodipoayomide.com/",
+      "country": "XX",
+      "score": 62.1,
+      "movement": "new",
+      "best_for": "software engineering and developer practice",
+      "reason": "Shodipo Ayomide concentrates on software engineering and developer practice, with a discoverable feed that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://shodipoayomide.com/",
+        "https://shodipoayomide.com/rss.xml"
+      ]
+    },
+    {
+      "rank": 87,
+      "id": "bloggingfordevs-com",
+      "name": "Blogging for Devs: Free Email Course & Newsletter",
+      "url": "https://bloggingfordevs.com/",
+      "country": "XX",
+      "score": 62.1,
+      "movement": "new",
+      "best_for": "software engineering and developer practice",
+      "reason": "Blogging for Devs: Free Email Course & Newsletter concentrates on software engineering and developer practice, with a clearly defined editorial focus that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://bloggingfordevs.com/"
+      ]
+    },
+    {
+      "rank": 88,
+      "id": "pcmaffey-com",
+      "name": "P.C. Maffey",
+      "url": "https://pcmaffey.com/",
+      "country": "XX",
+      "score": 61.9,
+      "movement": "new",
+      "best_for": "software engineering and developer practice",
+      "reason": "P.C. Maffey concentrates on software engineering and developer practice, with a discoverable feed that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://pcmaffey.com/",
+        "https://pcmaffey.com/rss.xml"
+      ]
+    },
+    {
+      "rank": 89,
+      "id": "elijahlynn-net",
+      "name": "All posts",
+      "url": "https://elijahlynn.net/",
+      "country": "XX",
+      "score": 61.8,
+      "movement": "new",
+      "best_for": "technology reporting and practical analysis",
+      "reason": "All posts concentrates on technology reporting and practical analysis, with a discoverable feed, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Authorship and editorial-policy information is less visible than on higher-ranked publications.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://elijahlynn.net/",
+        "https://www.elijahlynn.net/rss.xml"
+      ]
+    },
+    {
+      "rank": 90,
+      "id": "hillelfuld-com",
+      "name": "Hillel Fuld- Global Speaker, Startup Guy, Marketing Dude",
+      "url": "https://hillelfuld.com/",
+      "country": "XX",
+      "score": 61.8,
+      "movement": "new",
+      "best_for": "technology reporting and practical analysis",
+      "reason": "Hillel Fuld- Global Speaker, Startup Guy, Marketing Dude concentrates on technology reporting and practical analysis, with a clearly defined editorial focus that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://hillelfuld.com/"
+      ]
+    },
+    {
+      "rank": 91,
+      "id": "jchiatt-com",
+      "name": "J.C. Hiatt",
+      "url": "https://jchiatt.com/",
+      "country": "XX",
+      "score": 61.7,
+      "movement": "new",
+      "best_for": "software engineering and developer practice",
+      "reason": "J.C. Hiatt concentrates on software engineering and developer practice, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://jchiatt.com/",
+        "https://jchiatt.com/rss/feed.xml",
+        "https://jchiatt.com/about"
+      ]
+    },
+    {
+      "rank": 92,
+      "id": "simongilbert-net",
+      "name": "Software Development Blog covering everything full stack!",
+      "url": "https://simongilbert.net/",
+      "country": "XX",
+      "score": 61.5,
+      "movement": "new",
+      "best_for": "software engineering and developer practice",
+      "reason": "Software Development Blog covering everything full stack! concentrates on software engineering and developer practice, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://simongilbert.net/",
+        "https://simongilbert.net/index.xml",
+        "https://simongilbert.net/post/setting-up-the-serverless-lambda-framework-within-aws/"
+      ]
+    },
+    {
+      "rank": 93,
+      "id": "joeblogsonline-com",
+      "name": "Joe Blogs",
+      "url": "https://joeblogsonline.com/",
+      "country": "XX",
+      "score": 61.5,
+      "movement": "new",
+      "best_for": "technology reporting and practical analysis",
+      "reason": "Joe Blogs concentrates on technology reporting and practical analysis, with a discoverable feed that makes its current publishing work easier to evaluate.",
+      "limitation": "Authorship and editorial-policy information is less visible than on higher-ranked publications.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://joeblogsonline.com/",
+        "https://www.joeblogsonline.com/blog-feed.xml"
+      ]
+    },
+    {
+      "rank": 94,
+      "id": "blog-jeremyshaw-co-nz",
+      "name": "Jeremy Shaw Blog",
+      "url": "https://blog.jeremyshaw.co.nz/",
+      "country": "NZ",
+      "score": 61.1,
+      "movement": "new",
+      "best_for": "software engineering and developer practice",
+      "reason": "Jeremy Shaw Blog concentrates on software engineering and developer practice, with a discoverable feed, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://blog.jeremyshaw.co.nz/",
+        "https://blog.jeremyshaw.co.nz/atom.xml"
+      ]
+    },
+    {
+      "rank": 95,
+      "id": "engineeringblogs-dev",
+      "name": "Engineering Blogs",
+      "url": "https://engineeringblogs.dev/",
+      "country": "XX",
+      "score": 60.9,
+      "movement": "new",
+      "best_for": "software engineering and developer practice",
+      "reason": "Engineering Blogs concentrates on software engineering and developer practice, with clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://engineeringblogs.dev/"
+      ]
+    },
+    {
+      "rank": 96,
+      "id": "sweblogs-fyi",
+      "name": "Home Page",
+      "url": "https://sweblogs.fyi/",
+      "country": "XX",
+      "score": 60.8,
+      "movement": "new",
+      "best_for": "software engineering and developer practice",
+      "reason": "Home Page concentrates on software engineering and developer practice, with a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://sweblogs.fyi/"
+      ]
+    },
+    {
+      "rank": 97,
+      "id": "omar-engineer",
+      "name": "Omar Bahareth",
+      "url": "https://omar.engineer/",
+      "country": "XX",
+      "score": 59.1,
+      "movement": "new",
+      "best_for": "software engineering and developer practice",
+      "reason": "Omar Bahareth concentrates on software engineering and developer practice, with a discoverable feed that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://omar.engineer/",
+        "https://omar.engineer/rss.xml"
+      ]
+    },
+    {
+      "rank": 98,
+      "id": "devinline-com",
+      "name": "DevInline - Tech Blog",
+      "url": "https://devinline.com/",
+      "country": "XX",
+      "score": 59.0,
+      "movement": "new",
+      "best_for": "software engineering and developer practice",
+      "reason": "DevInline - Tech Blog concentrates on software engineering and developer practice, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://devinline.com/",
+        "https://www.devinline.com/feeds/posts/default?alt=rss"
+      ]
+    },
+    {
+      "rank": 99,
+      "id": "kreyz-com",
+      "name": "KREY{Z}",
+      "url": "https://kreyz.com/",
+      "country": "XX",
+      "score": 57.8,
+      "movement": "new",
+      "best_for": "software engineering and developer practice",
+      "reason": "KREY{Z} concentrates on software engineering and developer practice, with a discoverable feed that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://kreyz.com/",
+        "https://kreyz.com/welcome-to-http-kreyz-com/feed"
+      ]
+    },
+    {
+      "rank": 100,
+      "id": "jwstanly-com",
+      "name": "Jwstanly",
+      "url": "https://jwstanly.com/",
+      "country": "XX",
+      "score": 57.5,
+      "movement": "new",
+      "best_for": "software engineering and developer practice",
+      "reason": "Jwstanly concentrates on software engineering and developer practice, with a clearly defined editorial focus that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://jwstanly.com/"
+      ]
+    }
+  ]
+}

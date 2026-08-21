@@ -1,0 +1,17 @@
+{
+  "$schema": "https://playground.wordpress.net/blueprint-schema.json",
+  "preferredVersions": {
+    "php": "8.3",
+    "wp": "latest"
+  },
+  "steps": [
+    {
+      "step": "activateTheme",
+      "themeFolderName": "md-new"
+    },
+    {
+      "step": "runPHP",
+      "code": "<?php\nrequire_once '/wordpress/wp-load.php';\n$checks = array(\n  'stylesheet' => get_stylesheet(),\n  'fetch_function' => function_exists('gatilab_br_get_payload'),\n  'validator_function' => function_exists('gatilab_br_validate_payload'),\n  'categories' => function_exists('gatilab_br_categories') ? count(gatilab_br_categories()) : 0,\n  'hub_template' => file_exists(get_stylesheet_directory() . '/templates/blog-rankings-hub.php'),\n  'category_template' => file_exists(get_stylesheet_directory() . '/templates/blog-ranking-category.php'),\n);\nif ($checks['stylesheet'] !== 'md-new' || !$checks['fetch_function'] || !$checks['validator_function'] || $checks['categories'] !== 10 || !$checks['hub_template'] || !$checks['category_template']) {\n  throw new Exception(wp_json_encode($checks));\n}\necho wp_json_encode($checks);\n"
+    }
+  ]
+}
