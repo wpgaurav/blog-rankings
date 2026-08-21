@@ -1,0 +1,2080 @@
+schema_version: 1
+edition: 2026-09
+published_at: '2026-08-21T12:00:00Z'
+status: final
+category: food
+track: publisher_company
+entries:
+- id: tastingtable-com
+  name: Tasting Table
+  canonical_url: https://tastingtable.com/
+  country: XX
+  best_for: restaurants, chefs, and food culture
+  reason: Tasting Table concentrates on restaurants, chefs, and food culture, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://tastingtable.com/
+  - https://www.tastingtable.com/category/restaurants/feed/
+  - https://www.tastingtable.com/about/
+  scores:
+    editorial_quality: 91
+    trust: 90
+    reach: 89
+    freshness: 90
+    ux: 89
+    impact: 90
+- id: southernliving-com
+  name: Southern Living
+  canonical_url: https://southernliving.com/
+  country: XX
+  best_for: restaurants, chefs, and food culture
+  reason: Southern Living concentrates on restaurants, chefs, and food culture, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://southernliving.com/
+  - https://feeds-api.dotdashmeredith.com/v1/rss/google/3b38970f-fdba-47da-810e-30d3d1921e9a
+  - https://www.southernliving.com/about-us-6502349
+  scores:
+    editorial_quality: 90
+    trust: 89
+    reach: 88
+    freshness: 89
+    ux: 88
+    impact: 89
+- id: bonappetit-com
+  name: Bon Appétit
+  canonical_url: https://bonappetit.com/
+  country: XX
+  best_for: restaurants, chefs, and food culture
+  reason: Bon Appétit concentrates on restaurants, chefs, and food culture, with a discoverable feed, named authorship that
+    makes its current publishing work easier to evaluate.
+  limitation: The homepage is heavier and more commercially layered than a focused reading experience.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://bonappetit.com/
+  - https://www.bonappetit.com/feed/rss
+  - https://www.bonappetit.com/story/about-us
+  scores:
+    editorial_quality: 98
+    trust: 97
+    reach: 96
+    freshness: 97
+    ux: 96
+    impact: 97
+- id: seriouseats-com
+  name: Serious Eats
+  canonical_url: https://seriouseats.com/
+  country: XX
+  best_for: baking, pastry, and dependable technique
+  reason: Serious Eats concentrates on baking, pastry, and dependable technique, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://seriouseats.com/
+  - https://feeds-api.dotdashmeredith.com/v1/rss/google/ad57d421-0ff5-41e7-a5da-f2167b6d7f7a
+  - https://www.seriouseats.com/about-us-5120006
+  scores:
+    editorial_quality: 99
+    trust: 98
+    reach: 97
+    freshness: 98
+    ux: 97
+    impact: 98
+- id: saveur-com
+  name: Saveur
+  canonical_url: https://saveur.com/
+  country: XX
+  best_for: baking, pastry, and dependable technique
+  reason: Saveur concentrates on baking, pastry, and dependable technique, with a discoverable feed, named authorship that
+    makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://saveur.com/
+  - https://www.saveur.com/feed/
+  - https://www.saveur.com/meet-the-team/
+  scores:
+    editorial_quality: 93
+    trust: 92
+    reach: 91
+    freshness: 92
+    ux: 91
+    impact: 92
+- id: eatingwell-com
+  name: EatingWell
+  canonical_url: https://eatingwell.com/
+  country: XX
+  best_for: health-aware recipes and practical cooking
+  reason: EatingWell concentrates on health-aware recipes and practical cooking, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://eatingwell.com/
+  - https://feeds-api.dotdashmeredith.com/v1/rss/google/dcbd6d38-4ab3-42e8-a5f6-37a8a48ceb94
+  - https://www.eatingwell.com/about-us-6743412
+  scores:
+    editorial_quality: 95
+    trust: 94
+    reach: 93
+    freshness: 94
+    ux: 93
+    impact: 94
+- id: allrecipes-com
+  name: Allrecipes
+  canonical_url: https://allrecipes.com/
+  country: XX
+  best_for: health-aware recipes and practical cooking
+  reason: Allrecipes concentrates on health-aware recipes and practical cooking, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://allrecipes.com/
+  - https://feeds-api.dotdashmeredith.com/v1/rss/google/b7b38185-8fbc-47f4-b74d-c7f27b0b09c6
+  - https://www.allrecipes.com/about-us-6648102
+  scores:
+    editorial_quality: 94
+    trust: 93
+    reach: 92
+    freshness: 93
+    ux: 92
+    impact: 93
+- id: thekitchn-com
+  name: The Kitchn
+  canonical_url: https://thekitchn.com/
+  country: XX
+  best_for: culinary technique and food science
+  reason: The Kitchn concentrates on culinary technique and food science, with a clearly defined editorial focus that makes
+    its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://thekitchn.com/
+  scores:
+    editorial_quality: 96
+    trust: 95
+    reach: 94
+    freshness: 95
+    ux: 94
+    impact: 95
+- id: foodandwine-com
+  name: Food & Wine
+  canonical_url: https://foodandwine.com/
+  country: XX
+  best_for: restaurants, chefs, and food culture
+  reason: Food & Wine concentrates on restaurants, chefs, and food culture, with a discoverable feed, named authorship that
+    makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://foodandwine.com/
+  - https://feeds-api.dotdashmeredith.com/v1/rss/google/fdd0cc60-6e85-462a-a071-58da5a17711f
+  scores:
+    editorial_quality: 97
+    trust: 96
+    reach: 95
+    freshness: 96
+    ux: 95
+    impact: 96
+- id: foodnetwork-com
+  name: Food Network
+  canonical_url: https://foodnetwork.com/
+  country: XX
+  best_for: health-aware recipes and practical cooking
+  reason: Food Network concentrates on health-aware recipes and practical cooking, with a clearly defined editorial focus
+    that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://foodnetwork.com/
+  scores:
+    editorial_quality: 92
+    trust: 91
+    reach: 90
+    freshness: 91
+    ux: 90
+    impact: 91
+- id: popsci-com
+  name: Popular Science
+  canonical_url: https://popsci.com/
+  country: XX
+  best_for: health-aware recipes and practical cooking
+  reason: Popular Science concentrates on health-aware recipes and practical cooking, with a discoverable feed, a visible
+    article archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://popsci.com/
+  - https://www.popsci.com/feed/
+  - https://www.popsci.com/authors/popular-science-team/
+  scores:
+    editorial_quality: 72
+    trust: 89
+    reach: 89
+    freshness: 89
+    ux: 84
+    impact: 84
+- id: farmflavor-com
+  name: Farm Flavor
+  canonical_url: https://farmflavor.com/
+  country: XX
+  best_for: restaurants, chefs, and food culture
+  reason: Farm Flavor concentrates on restaurants, chefs, and food culture, with clear ownership context that makes its current
+    publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://farmflavor.com/
+  - https://farmflavor.com/about/
+  scores:
+    editorial_quality: 69
+    trust: 87
+    reach: 74
+    freshness: 88
+    ux: 84
+    impact: 68
+- id: esquire-com
+  name: Esquire
+  canonical_url: https://esquire.com/
+  country: XX
+  best_for: restaurants, chefs, and food culture
+  reason: Esquire concentrates on restaurants, chefs, and food culture, with clear ownership context that makes its current
+    publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://esquire.com/
+  - https://www.esquire.com/rss/all.xml
+  - https://www.esquire.com/about/a26377/about-us/
+  scores:
+    editorial_quality: 65
+    trust: 87
+    reach: 89
+    freshness: 89
+    ux: 84
+    impact: 86
+- id: themuse-com
+  name: The Muse
+  canonical_url: https://themuse.com/
+  country: XX
+  best_for: culinary technique and food science
+  reason: The Muse concentrates on culinary technique and food science, with a visible article archive, clear ownership context
+    that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://themuse.com/
+  - https://www.themuse.com/about
+  scores:
+    editorial_quality: 67
+    trust: 80
+    reach: 89
+    freshness: 66
+    ux: 84
+    impact: 86
+- id: foodandtravel-com
+  name: Food and Travel Magazine
+  canonical_url: https://foodandtravel.com/
+  country: XX
+  best_for: tested recipes and everyday cooking
+  reason: Food and Travel Magazine concentrates on tested recipes and everyday cooking, with a visible article archive, clear
+    ownership context that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://foodandtravel.com/
+  - https://foodandtravel.com/about
+  scores:
+    editorial_quality: 69
+    trust: 87
+    reach: 69
+    freshness: 89
+    ux: 84
+    impact: 74
+- id: culturedmag-com
+  name: Cultured Mag
+  canonical_url: https://culturedmag.com/
+  country: XX
+  best_for: recipes, technique, and food culture
+  reason: Cultured Mag concentrates on recipes, technique, and food culture, with a discoverable feed, a visible article archive
+    that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://culturedmag.com/
+  - https://www.culturedmag.com/food/feed/
+  - https://www.culturedmag.com/about/
+  scores:
+    editorial_quality: 70
+    trust: 87
+    reach: 75
+    freshness: 89
+    ux: 84
+    impact: 76
+- id: cen-acs-org
+  name: Chemical & Engineering News
+  canonical_url: https://cen.acs.org/
+  country: XX
+  best_for: health-aware recipes and practical cooking
+  reason: Chemical & Engineering News concentrates on health-aware recipes and practical cooking, with a visible article archive,
+    clear ownership context that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://cen.acs.org/
+  - https://cen.acs.org/static/about/aboutus.html
+  scores:
+    editorial_quality: 65
+    trust: 87
+    reach: 82
+    freshness: 66
+    ux: 84
+    impact: 80
+- id: baltimoremagazine-com
+  name: Baltimore Magazine
+  canonical_url: https://baltimoremagazine.com/
+  country: XX
+  best_for: restaurants, chefs, and food culture
+  reason: Baltimore Magazine concentrates on restaurants, chefs, and food culture, with a visible article archive, named authorship
+    that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://baltimoremagazine.com/
+  - https://www.baltimoremagazine.com/about-us/
+  scores:
+    editorial_quality: 63
+    trust: 89
+    reach: 85
+    freshness: 66
+    ux: 84
+    impact: 74
+- id: thefoodieaffair-com
+  name: The Foodie Affair
+  canonical_url: https://thefoodieaffair.com/
+  country: XX
+  best_for: health-aware recipes and practical cooking
+  reason: The Foodie Affair concentrates on health-aware recipes and practical cooking, with a discoverable feed, a visible
+    article archive that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://thefoodieaffair.com/
+  - https://www.thefoodieaffair.com/web-stories/feed/
+  - https://www.thefoodieaffair.com/about/
+  scores:
+    editorial_quality: 72
+    trust: 89
+    reach: 69
+    freshness: 62
+    ux: 84
+    impact: 73
+- id: chewtheworld-com
+  name: Let's Chew The World
+  canonical_url: https://chewtheworld.com/
+  country: XX
+  best_for: health-aware recipes and practical cooking
+  reason: Let's Chew The World concentrates on health-aware recipes and practical cooking, with a discoverable feed, a visible
+    article archive that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://chewtheworld.com/
+  - https://chewtheworld.com/comments/feed/
+  - https://chewtheworld.com/about-chew-the-world/
+  scores:
+    editorial_quality: 74
+    trust: 89
+    reach: 58
+    freshness: 45
+    ux: 84
+    impact: 60
+- id: alacarteconnections-com
+  name: A La Carte Connections
+  canonical_url: https://alacarteconnections.com/
+  country: XX
+  best_for: culinary technique and food science
+  reason: A La Carte Connections concentrates on culinary technique and food science, with a discoverable feed, clear ownership
+    context that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://alacarteconnections.com/
+  - https://alacarteconnections.com/comments/feed/
+  - https://alacarteconnections.com/about/
+  scores:
+    editorial_quality: 64
+    trust: 80
+    reach: 45
+    freshness: 45
+    ux: 84
+    impact: 50
+- id: thedailymeal-com
+  name: Daily Meal
+  canonical_url: https://thedailymeal.com/
+  country: XX
+  best_for: restaurants, chefs, and food culture
+  reason: Daily Meal concentrates on restaurants, chefs, and food culture, with a discoverable feed, a visible article archive
+    that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://thedailymeal.com/
+  - https://www.thedailymeal.com/feed/
+  - https://www.thedailymeal.com:443/about/
+  scores:
+    editorial_quality: 80
+    trust: 80
+    reach: 89
+    freshness: 89
+    ux: 84
+    impact: 89
+- id: creditdonkey-com
+  name: CreditDonkey
+  canonical_url: https://creditdonkey.com/
+  country: XX
+  best_for: restaurants, chefs, and food culture
+  reason: CreditDonkey concentrates on restaurants, chefs, and food culture, with a discoverable feed, clear ownership context
+    that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://creditdonkey.com/
+  - https://www.creditdonkey.com/about-us.html
+  scores:
+    editorial_quality: 74
+    trust: 89
+    reach: 79
+    freshness: 45
+    ux: 84
+    impact: 76
+- id: wholebiteblog-com
+  name: The Whole Bite
+  canonical_url: https://wholebiteblog.com/
+  country: XX
+  best_for: baking, pastry, and dependable technique
+  reason: The Whole Bite concentrates on baking, pastry, and dependable technique, with a visible article archive, clear ownership
+    context that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://wholebiteblog.com/
+  - https://wholebiteblog.com/about
+  scores:
+    editorial_quality: 65
+    trust: 87
+    reach: 52
+    freshness: 66
+    ux: 84
+    impact: 63
+- id: cntraveler-com
+  name: Condé Nast Traveler
+  canonical_url: https://cntraveler.com/
+  country: XX
+  best_for: restaurants, chefs, and food culture
+  reason: Condé Nast Traveler concentrates on restaurants, chefs, and food culture, with a discoverable feed, clear ownership
+    context that makes its current publishing work easier to evaluate.
+  limitation: The homepage is heavier and more commercially layered than a focused reading experience.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://cntraveler.com/
+  - https://www.cntraveler.com/feed/rss
+  - https://www.cntraveler.com/info/about-us
+  scores:
+    editorial_quality: 70
+    trust: 80
+    reach: 89
+    freshness: 89
+    ux: 76
+    impact: 89
+- id: blog-mandalasystem-com
+  name: Mandala AI. Blog
+  canonical_url: https://blog.mandalasystem.com/
+  country: XX
+  best_for: culinary technique and food science
+  reason: Mandala AI. Blog concentrates on culinary technique and food science, with a visible article archive, clear ownership
+    context that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://blog.mandalasystem.com/
+  scores:
+    editorial_quality: 65
+    trust: 83
+    reach: 53
+    freshness: 66
+    ux: 84
+    impact: 56
+- id: thespicetrain-com
+  name: The Spice Train
+  canonical_url: https://thespicetrain.com/
+  country: XX
+  best_for: tested recipes and everyday cooking
+  reason: The Spice Train concentrates on tested recipes and everyday cooking, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://thespicetrain.com/
+  - https://thespicetrain.com/comments/feed/
+  - https://thespicetrain.com/about/
+  scores:
+    editorial_quality: 70
+    trust: 75
+    reach: 62
+    freshness: 89
+    ux: 84
+    impact: 67
+- id: vuelio-com
+  name: Vuelio
+  canonical_url: https://vuelio.com/
+  country: XX
+  best_for: baking, pastry, and dependable technique
+  reason: Vuelio concentrates on baking, pastry, and dependable technique, with a discoverable feed, a visible article archive
+    that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://vuelio.com/
+  - https://www.vuelio.com/uk/feed/
+  - https://www.vuelio.com/uk/about/?clid=main_nav_mobile
+  scores:
+    editorial_quality: 70
+    trust: 89
+    reach: 64
+    freshness: 89
+    ux: 84
+    impact: 83
+- id: thrillist-com
+  name: Thrillist
+  canonical_url: https://thrillist.com/
+  country: XX
+  best_for: restaurants, chefs, and food culture
+  reason: Thrillist concentrates on restaurants, chefs, and food culture, with clear ownership context that makes its current
+    publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://thrillist.com/
+  - https://www.thrillist.com/thrillist-about-us
+  scores:
+    editorial_quality: 63
+    trust: 87
+    reach: 89
+    freshness: 58
+    ux: 76
+    impact: 89
+- id: fliphtml5-com
+  name: Top FlipBook Maker & Digital Publishing Platform
+  canonical_url: https://fliphtml5.com/
+  country: XX
+  best_for: baking, pastry, and dependable technique
+  reason: Top FlipBook Maker & Digital Publishing Platform concentrates on baking, pastry, and dependable technique, with
+    clear ownership context that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://fliphtml5.com/
+  - https://fliphtml5.com/blog/
+  scores:
+    editorial_quality: 67
+    trust: 82
+    reach: 89
+    freshness: 58
+    ux: 84
+    impact: 87
+- id: healthyfood-com
+  name: Healthy Food Guide
+  canonical_url: https://healthyfood.com/
+  country: XX
+  best_for: health-aware recipes and practical cooking
+  reason: Healthy Food Guide concentrates on health-aware recipes and practical cooking, with a discoverable feed, a visible
+    article archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://healthyfood.com/
+  - https://www.healthyfood.com/comments/feed/
+  - https://www.healthyfood.com/our-team/
+  scores:
+    editorial_quality: 72
+    trust: 89
+    reach: 79
+    freshness: 88
+    ux: 84
+    impact: 72
+- id: vegnews-com
+  name: VegNews.com
+  canonical_url: https://vegnews.com/
+  country: XX
+  best_for: health-aware recipes and practical cooking
+  reason: VegNews.com concentrates on health-aware recipes and practical cooking, with a discoverable feed, named authorship
+    that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://vegnews.com/
+  - https://vegnews.com/feed.rss
+  - https://vegnews.com/about/a-tour-of-vegnews
+  scores:
+    editorial_quality: 68
+    trust: 89
+    reach: 82
+    freshness: 89
+    ux: 84
+    impact: 89
+- id: purewow-com
+  name: PureWow
+  canonical_url: https://purewow.com/
+  country: XX
+  best_for: recipes, technique, and food culture
+  reason: PureWow concentrates on recipes, technique, and food culture, with a discoverable feed, named authorship that makes
+    its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://purewow.com/
+  - https://www.purewow.com/rss/feed_national_food.xml
+  - https://www.purewow.com/page/about-us
+  scores:
+    editorial_quality: 66
+    trust: 89
+    reach: 89
+    freshness: 89
+    ux: 84
+    impact: 86
+- id: draxe-com
+  name: Dr. Axe
+  canonical_url: https://draxe.com/
+  country: XX
+  best_for: health-aware recipes and practical cooking
+  reason: Dr. Axe concentrates on health-aware recipes and practical cooking, with a discoverable feed, clear ownership context
+    that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://draxe.com/
+  - https://draxe.com/comments/feed/
+  - https://draxe.com/about-us
+  scores:
+    editorial_quality: 68
+    trust: 82
+    reach: 89
+    freshness: 62
+    ux: 84
+    impact: 89
+- id: tasty-co
+  name: tasty.co
+  canonical_url: https://tasty.co/
+  country: XX
+  best_for: tested recipes and everyday cooking
+  reason: tasty.co concentrates on tested recipes and everyday cooking, with named authorship, clear ownership context that
+    makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://tasty.co/
+  - https://tasty.co/about/privacy
+  scores:
+    editorial_quality: 65
+    trust: 82
+    reach: 89
+    freshness: 45
+    ux: 84
+    impact: 89
+- id: greatist-com
+  name: Greatist
+  canonical_url: https://greatist.com/
+  country: XX
+  best_for: tested recipes and everyday cooking
+  reason: Greatist concentrates on tested recipes and everyday cooking, with named authorship, clear ownership context that
+    makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://greatist.com/
+  - https://greatist.com/about/about-us
+  scores:
+    editorial_quality: 61
+    trust: 89
+    reach: 87
+    freshness: 58
+    ux: 84
+    impact: 89
+- id: heritagefoodsusa-com
+  name: Heritage Foods
+  canonical_url: https://heritagefoodsusa.com/
+  country: XX
+  best_for: health-aware recipes and practical cooking
+  reason: Heritage Foods concentrates on health-aware recipes and practical cooking, with a clearly defined editorial focus
+    that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://heritagefoodsusa.com/
+  - https://heritagefoods.com/blogs/news.atom
+  - https://heritagefoods.com/pages/who-we-are-1
+  scores:
+    editorial_quality: 61
+    trust: 61
+    reach: 55
+    freshness: 89
+    ux: 84
+    impact: 71
+- id: cherrybombe-substack-com
+  name: Cherry Bombe
+  canonical_url: https://cherrybombe.substack.com/
+  country: XX
+  best_for: recipes, technique, and food culture
+  reason: Cherry Bombe concentrates on recipes, technique, and food culture, with a discoverable feed that makes its current
+    publishing work easier to evaluate.
+  limitation: Authorship and editorial-policy information is less visible than on higher-ranked publications.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://cherrybombe.substack.com/
+  - https://cherrybombe.substack.com/feed
+  scores:
+    editorial_quality: 68
+    trust: 62
+    reach: 59
+    freshness: 89
+    ux: 84
+    impact: 76
+- id: eddkimber-substack-com
+  name: The Boy Who Bakes
+  canonical_url: https://eddkimber.substack.com/
+  country: XX
+  best_for: tested recipes and everyday cooking
+  reason: The Boy Who Bakes concentrates on tested recipes and everyday cooking, with a discoverable feed that makes its current
+    publishing work easier to evaluate.
+  limitation: Authorship and editorial-policy information is less visible than on higher-ranked publications.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://eddkimber.substack.com/
+  - https://eddkimber.substack.com/feed
+  scores:
+    editorial_quality: 66
+    trust: 62
+    reach: 58
+    freshness: 89
+    ux: 84
+    impact: 60
+- id: elizabethminchilli-substack-com
+  name: Elizabeth’s Newsletter from Italy
+  canonical_url: https://elizabethminchilli.substack.com/
+  country: XX
+  best_for: recipes, technique, and food culture
+  reason: Elizabeth’s Newsletter from Italy concentrates on recipes, technique, and food culture, with a discoverable feed
+    that makes its current publishing work easier to evaluate.
+  limitation: Authorship and editorial-policy information is less visible than on higher-ranked publications.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://elizabethminchilli.substack.com/
+  - https://elizabethminchilli.substack.com/feed
+  scores:
+    editorial_quality: 66
+    trust: 62
+    reach: 55
+    freshness: 89
+    ux: 84
+    impact: 69
+- id: doriegreenspan-substack-com
+  name: xoxoDorie Newsletter
+  canonical_url: https://doriegreenspan.substack.com/
+  country: XX
+  best_for: recipes, technique, and food culture
+  reason: xoxoDorie Newsletter concentrates on recipes, technique, and food culture, with a discoverable feed that makes its
+    current publishing work easier to evaluate.
+  limitation: Authorship and editorial-policy information is less visible than on higher-ranked publications.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://doriegreenspan.substack.com/
+  - https://doriegreenspan.substack.com/feed
+  scores:
+    editorial_quality: 66
+    trust: 62
+    reach: 55
+    freshness: 89
+    ux: 84
+    impact: 65
+- id: jessiesheehan-substack-com
+  name: Snackable Bakes
+  canonical_url: https://jessiesheehan.substack.com/
+  country: XX
+  best_for: baking, pastry, and dependable technique
+  reason: Snackable Bakes concentrates on baking, pastry, and dependable technique, with a discoverable feed that makes its
+    current publishing work easier to evaluate.
+  limitation: Authorship and editorial-policy information is less visible than on higher-ranked publications.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://jessiesheehan.substack.com/
+  - https://jessiesheehan.substack.com/feed
+  scores:
+    editorial_quality: 68
+    trust: 62
+    reach: 49
+    freshness: 89
+    ux: 84
+    impact: 57
+- id: artisanbryan-substack-com
+  name: Baking Simplified
+  canonical_url: https://artisanbryan.substack.com/
+  country: XX
+  best_for: baking, pastry, and dependable technique
+  reason: Baking Simplified concentrates on baking, pastry, and dependable technique, with a discoverable feed that makes
+    its current publishing work easier to evaluate.
+  limitation: Authorship and editorial-policy information is less visible than on higher-ranked publications.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://artisanbryan.substack.com/
+  - https://artisanbryan.substack.com/feed
+  scores:
+    editorial_quality: 68
+    trust: 62
+    reach: 44
+    freshness: 88
+    ux: 84
+    impact: 57
+- id: bluedoorgatherings-substack-com
+  name: Blue Door's Substack
+  canonical_url: https://bluedoorgatherings.substack.com/
+  country: XX
+  best_for: restaurants, chefs, and food culture
+  reason: Blue Door's Substack concentrates on restaurants, chefs, and food culture, with a discoverable feed that makes its
+    current publishing work easier to evaluate.
+  limitation: Authorship and editorial-policy information is less visible than on higher-ranked publications.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://bluedoorgatherings.substack.com/
+  - https://bluedoorgatherings.substack.com/feed
+  scores:
+    editorial_quality: 68
+    trust: 62
+    reach: 42
+    freshness: 89
+    ux: 84
+    impact: 55
+- id: mikebakesnyc-substack-com
+  name: MikeBakesNYC
+  canonical_url: https://mikebakesnyc.substack.com/
+  country: XX
+  best_for: tested recipes and everyday cooking
+  reason: MikeBakesNYC concentrates on tested recipes and everyday cooking, with a discoverable feed that makes its current
+    publishing work easier to evaluate.
+  limitation: Authorship and editorial-policy information is less visible than on higher-ranked publications.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://mikebakesnyc.substack.com/
+  - https://mikebakesnyc.substack.com/feed
+  scores:
+    editorial_quality: 68
+    trust: 62
+    reach: 41
+    freshness: 88
+    ux: 84
+    impact: 56
+- id: apieceofcake-substack-com
+  name: A Piece of Cake
+  canonical_url: https://apieceofcake.substack.com/
+  country: XX
+  best_for: tested recipes and everyday cooking
+  reason: A Piece of Cake concentrates on tested recipes and everyday cooking, with a discoverable feed that makes its current
+    publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://apieceofcake.substack.com/
+  - https://apieceofcake.substack.com/feed
+  scores:
+    editorial_quality: 66
+    trust: 62
+    reach: 48
+    freshness: 45
+    ux: 84
+    impact: 60
+- id: elizabethstark-substack-com
+  name: Right Now
+  canonical_url: https://elizabethstark.substack.com/
+  country: XX
+  best_for: tested recipes and everyday cooking
+  reason: Right Now concentrates on tested recipes and everyday cooking, with a discoverable feed that makes its current publishing
+    work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://elizabethstark.substack.com/
+  - https://elizabethstark.substack.com/feed
+  scores:
+    editorial_quality: 66
+    trust: 62
+    reach: 45
+    freshness: 45
+    ux: 84
+    impact: 62
+- id: homebaking-substack-com
+  name: Home Baking
+  canonical_url: https://homebaking.substack.com/
+  country: XX
+  best_for: baking, pastry, and dependable technique
+  reason: Home Baking concentrates on baking, pastry, and dependable technique, with a discoverable feed that makes its current
+    publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://homebaking.substack.com/
+  - https://homebaking.substack.com/feed
+  scores:
+    editorial_quality: 64
+    trust: 62
+    reach: 46
+    freshness: 45
+    ux: 84
+    impact: 49
+- id: scrapsfood-substack-com
+  name: Scraps
+  canonical_url: https://scrapsfood.substack.com/
+  country: XX
+  best_for: tested recipes and everyday cooking
+  reason: Scraps concentrates on tested recipes and everyday cooking, with a discoverable feed that makes its current publishing
+    work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://scrapsfood.substack.com/
+  - https://scrapsfood.substack.com/feed
+  scores:
+    editorial_quality: 66
+    trust: 62
+    reach: 42
+    freshness: 45
+    ux: 84
+    impact: 56
+- id: davidlebovitz-substack-com
+  name: David Lebovitz Newsletter
+  canonical_url: https://davidlebovitz.substack.com/
+  country: XX
+  best_for: tested recipes and everyday cooking
+  reason: David Lebovitz Newsletter concentrates on tested recipes and everyday cooking, with a discoverable feed that makes
+    its current publishing work easier to evaluate.
+  limitation: Authorship and editorial-policy information is less visible than on higher-ranked publications.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://davidlebovitz.substack.com/
+  - https://davidlebovitz.substack.com/feed
+  scores:
+    editorial_quality: 68
+    trust: 62
+    reach: 73
+    freshness: 89
+    ux: 84
+    impact: 77
+- id: niksharma-substack-com
+  name: The Flavor Files
+  canonical_url: https://niksharma.substack.com/
+  country: XX
+  best_for: culinary technique and food science
+  reason: The Flavor Files concentrates on culinary technique and food science, with a discoverable feed that makes its current
+    publishing work easier to evaluate.
+  limitation: Authorship and editorial-policy information is less visible than on higher-ranked publications.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://niksharma.substack.com/
+  - https://niksharma.substack.com/feed
+  scores:
+    editorial_quality: 70
+    trust: 62
+    reach: 65
+    freshness: 78
+    ux: 84
+    impact: 64
+- id: stealthisrecipe-substack-com
+  name: Steal This Recipe
+  canonical_url: https://stealthisrecipe.substack.com/
+  country: XX
+  best_for: restaurants, chefs, and food culture
+  reason: Steal This Recipe concentrates on restaurants, chefs, and food culture, with a discoverable feed that makes its
+    current publishing work easier to evaluate.
+  limitation: Authorship and editorial-policy information is less visible than on higher-ranked publications.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://stealthisrecipe.substack.com/
+  - https://stealthisrecipe.substack.com/feed
+  scores:
+    editorial_quality: 70
+    trust: 62
+    reach: 44
+    freshness: 88
+    ux: 84
+    impact: 59
+- id: huffpost-com
+  name: HuffPost
+  canonical_url: https://huffpost.com/
+  country: XX
+  best_for: health-aware recipes and practical cooking
+  reason: HuffPost concentrates on health-aware recipes and practical cooking, with a visible article archive, clear ownership
+    context that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://huffpost.com/
+  - https://www.huffpost.com/entry/trump-aide-natalie-harp_n_6a85e15fe4b0e9f1dd27042f?origin=top-ad-recirc
+  scores:
+    editorial_quality: 71
+    trust: 82
+    reach: 89
+    freshness: 89
+    ux: 76
+    impact: 89
+- id: everyday-uniforms-com
+  name: Everyday Uniforms
+  canonical_url: https://everyday-uniforms.com/
+  country: XX
+  best_for: restaurants, chefs, and food culture
+  reason: Everyday Uniforms concentrates on restaurants, chefs, and food culture, with clear ownership context that makes
+    its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://everyday-uniforms.com/
+  - https://everyday-uniforms.com/pages/about-us
+  scores:
+    editorial_quality: 67
+    trust: 82
+    reach: 56
+    freshness: 58
+    ux: 84
+    impact: 56
+- id: wpzoom-com
+  name: WPZOOM
+  canonical_url: https://wpzoom.com/
+  country: XX
+  best_for: baking, pastry, and dependable technique
+  reason: WPZOOM concentrates on baking, pastry, and dependable technique, with a discoverable feed, named authorship that
+    makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://wpzoom.com/
+  - https://feeds2.feedburner.com/wpzoom
+  - https://www.wpzoom.com/about/
+  scores:
+    editorial_quality: 76
+    trust: 89
+    reach: 72
+    freshness: 89
+    ux: 84
+    impact: 86
+- id: chefspencil-com
+  name: Chef's Pencil
+  canonical_url: https://chefspencil.com/
+  country: XX
+  best_for: restaurants, chefs, and food culture
+  reason: Chef's Pencil concentrates on restaurants, chefs, and food culture, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://chefspencil.com/
+  - https://www.chefspencil.com/web-stories/feed/
+  - https://www.chefspencil.com/about-us/
+  scores:
+    editorial_quality: 74
+    trust: 82
+    reach: 86
+    freshness: 89
+    ux: 84
+    impact: 72
+- id: thelocalpalate-com
+  name: The Local Palate
+  canonical_url: https://thelocalpalate.com/
+  country: XX
+  best_for: restaurants, chefs, and food culture
+  reason: The Local Palate concentrates on restaurants, chefs, and food culture, with a discoverable feed, clear ownership
+    context that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://thelocalpalate.com/
+  - https://thelocalpalate.com/comments/feed/
+  - https://thelocalpalate.com/100-things-we-love-about-southern-food/
+  scores:
+    editorial_quality: 74
+    trust: 82
+    reach: 78
+    freshness: 89
+    ux: 84
+    impact: 79
+- id: thewoksoflife-com
+  name: The Woks of Life
+  canonical_url: https://thewoksoflife.com/
+  country: XX
+  best_for: recipes, technique, and food culture
+  reason: The Woks of Life concentrates on recipes, technique, and food culture, with a discoverable feed, named authorship
+    that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://thewoksoflife.com/
+  - https://thewoksoflife.com/comments/feed/
+  - https://thewoksoflife.com/about/
+  scores:
+    editorial_quality: 66
+    trust: 89
+    reach: 89
+    freshness: 89
+    ux: 84
+    impact: 86
+- id: influencermarketinghub-com
+  name: Influencer Marketing Hub
+  canonical_url: https://influencermarketinghub.com/
+  country: XX
+  best_for: culinary technique and food science
+  reason: Influencer Marketing Hub concentrates on culinary technique and food science, with a discoverable feed, a visible
+    article archive that makes its current publishing work easier to evaluate.
+  limitation: Authorship and editorial-policy information is less visible than on higher-ranked publications.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://influencermarketinghub.com/
+  - https://influencermarketinghub.com/web-stories/feed/
+  scores:
+    editorial_quality: 74
+    trust: 62
+    reach: 81
+    freshness: 89
+    ux: 84
+    impact: 80
+- id: pittsburghmagazine-com
+  name: Pittsburgh Magazine
+  canonical_url: https://pittsburghmagazine.com/
+  country: XX
+  best_for: restaurants, chefs, and food culture
+  reason: Pittsburgh Magazine concentrates on restaurants, chefs, and food culture, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://pittsburghmagazine.com/
+  - https://www.pittsburghmagazine.com/feed/
+  - https://www.pittsburghmagazine.com/about-us/privacy-policy/
+  scores:
+    editorial_quality: 68
+    trust: 89
+    reach: 80
+    freshness: 89
+    ux: 84
+    impact: 74
+- id: andershusa-com
+  name: Anders & Kaitlin
+  canonical_url: https://andershusa.com/
+  country: XX
+  best_for: restaurants, chefs, and food culture
+  reason: Anders & Kaitlin concentrates on restaurants, chefs, and food culture, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://andershusa.com/
+  - https://andershusa.com/comments/feed/
+  - https://andershusa.com/about/
+  scores:
+    editorial_quality: 72
+    trust: 89
+    reach: 68
+    freshness: 89
+    ux: 84
+    impact: 60
+- id: recipecard-io
+  name: Recipe Card Blocks
+  canonical_url: https://recipecard.io/
+  country: XX
+  best_for: tested recipes and everyday cooking
+  reason: Recipe Card Blocks concentrates on tested recipes and everyday cooking, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://recipecard.io/
+  - https://recipecard.io/feed/
+  - https://recipecard.io/support/
+  scores:
+    editorial_quality: 70
+    trust: 82
+    reach: 79
+    freshness: 78
+    ux: 84
+    impact: 86
+- id: eatgosee-com
+  name: Eat Go See
+  canonical_url: https://eatgosee.com/
+  country: XX
+  best_for: restaurants, chefs, and food culture
+  reason: Eat Go See concentrates on restaurants, chefs, and food culture, with a discoverable feed, a visible article archive
+    that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://eatgosee.com/
+  - https://eatgosee.com/travel_category/eat/feed/
+  - https://eatgosee.com/about/
+  scores:
+    editorial_quality: 76
+    trust: 75
+    reach: 59
+    freshness: 89
+    ux: 84
+    impact: 55
+- id: sweetpotatosoul-com
+  name: Sweet Potato Soul
+  canonical_url: https://sweetpotatosoul.com/
+  country: XX
+  best_for: health-aware recipes and practical cooking
+  reason: Sweet Potato Soul concentrates on health-aware recipes and practical cooking, with a discoverable feed, a visible
+    article archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://sweetpotatosoul.com/
+  - https://sweetpotatosoul.com/comments/feed/
+  - https://sweetpotatosoul.com/about-jenne/
+  scores:
+    editorial_quality: 70
+    trust: 75
+    reach: 78
+    freshness: 89
+    ux: 84
+    impact: 74
+- id: nutmegnanny-com
+  name: Nutmeg Nanny
+  canonical_url: https://nutmegnanny.com/
+  country: XX
+  best_for: tested recipes and everyday cooking
+  reason: Nutmeg Nanny concentrates on tested recipes and everyday cooking, with a discoverable feed, a visible article archive
+    that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://nutmegnanny.com/
+  - https://www.nutmegnanny.com/web-stories/feed/
+  - https://www.nutmegnanny.com/about/
+  scores:
+    editorial_quality: 70
+    trust: 82
+    reach: 71
+    freshness: 78
+    ux: 84
+    impact: 74
+- id: wptasty-com
+  name: WP Tasty
+  canonical_url: https://wptasty.com/
+  country: XX
+  best_for: baking, pastry, and dependable technique
+  reason: WP Tasty concentrates on baking, pastry, and dependable technique, with a visible article archive, clear ownership
+    context that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://wptasty.com/
+  - https://www.wptasty.com/about
+  scores:
+    editorial_quality: 69
+    trust: 82
+    reach: 63
+    freshness: 62
+    ux: 84
+    impact: 73
+- id: firstsiteguide-com
+  name: FirstSiteGuide
+  canonical_url: https://firstsiteguide.com/
+  country: XX
+  best_for: tested recipes and everyday cooking
+  reason: FirstSiteGuide concentrates on tested recipes and everyday cooking, with a discoverable feed, clear ownership context
+    that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://firstsiteguide.com/
+  - https://firstsiteguide.com/main-page/feed/
+  - https://firstsiteguide.com/about-us/
+  scores:
+    editorial_quality: 70
+    trust: 82
+    reach: 70
+    freshness: 45
+    ux: 84
+    impact: 72
+- id: booksforchefs-com
+  name: Books for Chefs
+  canonical_url: https://booksforchefs.com/
+  country: XX
+  best_for: baking, pastry, and dependable technique
+  reason: Books for Chefs concentrates on baking, pastry, and dependable technique, with a visible article archive, clear
+    ownership context that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://booksforchefs.com/
+  - https://www.booksforchefs.com/en/content/4-about-us
+  scores:
+    editorial_quality: 67
+    trust: 82
+    reach: 66
+    freshness: 66
+    ux: 84
+    impact: 77
+- id: chipshotz-com
+  name: Chip Weiner
+  canonical_url: https://chipshotz.com/
+  country: XX
+  best_for: restaurants, chefs, and food culture
+  reason: Chip Weiner concentrates on restaurants, chefs, and food culture, with a visible article archive, clear ownership
+    context that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://chipshotz.com/
+  - https://www.chipshotz.com/photogfoodie-blog?format=rss
+  - https://www.chipshotz.com/about-tampa-food-photographer
+  scores:
+    editorial_quality: 67
+    trust: 75
+    reach: 60
+    freshness: 88
+    ux: 84
+    impact: 62
+- id: thefullhelping-com
+  name: The Full Helping
+  canonical_url: https://thefullhelping.com/
+  country: XX
+  best_for: health-aware recipes and practical cooking
+  reason: The Full Helping concentrates on health-aware recipes and practical cooking, with a discoverable feed, clear ownership
+    context that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://thefullhelping.com/
+  - https://www.thefullhelping.com/feed/
+  - https://www.thefullhelping.com/about/
+  scores:
+    editorial_quality: 68
+    trust: 75
+    reach: 75
+    freshness: 62
+    ux: 84
+    impact: 78
+- id: creativeloafing-com
+  name: Creative Loafing
+  canonical_url: https://creativeloafing.com/
+  country: XX
+  best_for: restaurants, chefs, and food culture
+  reason: Creative Loafing concentrates on restaurants, chefs, and food culture, with a visible article archive, clear ownership
+    context that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://creativeloafing.com/
+  scores:
+    editorial_quality: 65
+    trust: 76
+    reach: 77
+    freshness: 66
+    ux: 84
+    impact: 75
+- id: bootstrapped-ventures
+  name: Bootstrapped Ventures
+  canonical_url: https://bootstrapped.ventures/
+  country: XX
+  best_for: tested recipes and everyday cooking
+  reason: Bootstrapped Ventures concentrates on tested recipes and everyday cooking, with a visible article archive, clear
+    ownership context that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://bootstrapped.ventures/
+  - https://bootstrapped.ventures/about-us/
+  scores:
+    editorial_quality: 65
+    trust: 75
+    reach: 59
+    freshness: 89
+    ux: 84
+    impact: 70
+- id: homeperch-com
+  name: Homeperch
+  canonical_url: https://homeperch.com/
+  country: XX
+  best_for: baking, pastry, and dependable technique
+  reason: Homeperch concentrates on baking, pastry, and dependable technique, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://homeperch.com/
+  - https://www.homeperch.com/comments/feed/
+  - https://www.homeperch.com/about/
+  scores:
+    editorial_quality: 72
+    trust: 82
+    reach: 55
+    freshness: 62
+    ux: 84
+    impact: 56
+- id: bocamag-com
+  name: Boca Raton Magazine
+  canonical_url: https://bocamag.com/
+  country: XX
+  best_for: restaurants, chefs, and food culture
+  reason: Boca Raton Magazine concentrates on restaurants, chefs, and food culture, with a discoverable feed, named authorship
+    that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://bocamag.com/
+  - https://bocamag.com/comments/feed/
+  - https://bocamag.com/about/
+  scores:
+    editorial_quality: 66
+    trust: 89
+    reach: 73
+    freshness: 45
+    ux: 84
+    impact: 72
+- id: gadgetsfoodandtravel-com
+  name: Gadgets Food and Travel - Music Too!
+  canonical_url: https://gadgetsfoodandtravel.com/
+  country: XX
+  best_for: tested recipes and everyday cooking
+  reason: Gadgets Food and Travel - Music Too! concentrates on tested recipes and everyday cooking, with a discoverable feed,
+    named authorship that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://gadgetsfoodandtravel.com/
+  - https://www.gadgetsfoodandtravel.com/comments/feed/
+  - https://www.gadgetsfoodandtravel.com/about-gadgetsfoodandtravel-com/
+  scores:
+    editorial_quality: 70
+    trust: 89
+    reach: 48
+    freshness: 45
+    ux: 84
+    impact: 54
+- id: lifeunsweetened-com
+  name: Life Unsweetened
+  canonical_url: https://lifeunsweetened.com/
+  country: XX
+  best_for: health-aware recipes and practical cooking
+  reason: Life Unsweetened concentrates on health-aware recipes and practical cooking, with a discoverable feed, a visible
+    article archive that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://lifeunsweetened.com/
+  - https://www.lifeunsweetened.com/2020/11/04/my-favorite-food-blogs-their-recipes/feed/
+  - https://www.lifeunsweetened.com/about/
+  scores:
+    editorial_quality: 72
+    trust: 82
+    reach: 52
+    freshness: 45
+    ux: 84
+    impact: 55
+- id: chipshotz-squarespace-com
+  name: Chip Weiner
+  canonical_url: https://chipshotz.squarespace.com/
+  country: XX
+  best_for: restaurants, chefs, and food culture
+  reason: Chip Weiner concentrates on restaurants, chefs, and food culture, with a visible article archive, clear ownership
+    context that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://chipshotz.squarespace.com/
+  - https://chipshotz.squarespace.com/about-tampa-food-photographer
+  scores:
+    editorial_quality: 69
+    trust: 75
+    reach: 48
+    freshness: 66
+    ux: 84
+    impact: 71
+- id: biteofthebest-com
+  name: Biteofthebest
+  canonical_url: https://biteofthebest.com/
+  country: XX
+  best_for: restaurants, chefs, and food culture
+  reason: Biteofthebest concentrates on restaurants, chefs, and food culture, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://biteofthebest.com/
+  - https://www.biteofthebest.com/home/feed/
+  - https://www.biteofthebest.com/contact-us/about-us/
+  scores:
+    editorial_quality: 70
+    trust: 82
+    reach: 67
+    freshness: 45
+    ux: 76
+    impact: 58
+- id: scallionpancake-net
+  name: scallionpancake
+  canonical_url: https://scallionpancake.com/
+  country: XX
+  best_for: recipes, technique, and food culture
+  reason: scallionpancake concentrates on recipes, technique, and food culture, with a visible article archive, clear ownership
+    context that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://scallionpancake.com/
+  scores:
+    editorial_quality: 65
+    trust: 76
+    reach: 43
+    freshness: 66
+    ux: 84
+    impact: 61
+- id: acozykitchen-com
+  name: A Cozy Kitchen
+  canonical_url: https://acozykitchen.com/
+  country: XX
+  best_for: tested recipes and everyday cooking
+  reason: A Cozy Kitchen concentrates on tested recipes and everyday cooking, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://acozykitchen.com/
+  - https://www.acozykitchen.com/comments/feed
+  - https://www.acozykitchen.com/about-adrianna
+  scores:
+    editorial_quality: 78
+    trust: 75
+    reach: 87
+    freshness: 89
+    ux: 84
+    impact: 86
+- id: davidlebovitz-com
+  name: David Lebovitz
+  canonical_url: https://davidlebovitz.com/
+  country: XX
+  best_for: restaurants, chefs, and food culture
+  reason: David Lebovitz concentrates on restaurants, chefs, and food culture, with a discoverable feed, clear ownership context
+    that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://davidlebovitz.com/
+  - https://www.davidlebovitz.com/comments/feed/
+  - https://www.davidlebovitz.com/about/
+  scores:
+    editorial_quality: 72
+    trust: 82
+    reach: 88
+    freshness: 88
+    ux: 84
+    impact: 89
+- id: domesticate-me-com
+  name: Recipes by Serena
+  canonical_url: https://domesticate-me.com/
+  country: XX
+  best_for: restaurants, chefs, and food culture
+  reason: Recipes by Serena concentrates on restaurants, chefs, and food culture, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://domesticate-me.com/
+  - https://domesticate-me.com/feed/
+  scores:
+    editorial_quality: 76
+    trust: 69
+    reach: 74
+    freshness: 78
+    ux: 84
+    impact: 64
+- id: britmums-com
+  name: BritMums
+  canonical_url: https://britmums.com/
+  country: XX
+  best_for: baking, pastry, and dependable technique
+  reason: BritMums concentrates on baking, pastry, and dependable technique, with a discoverable feed, a visible article archive
+    that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://britmums.com/
+  - https://www.britmums.com/comments/feed/
+  - https://www.britmums.com/about-britmums-events/
+  scores:
+    editorial_quality: 74
+    trust: 82
+    reach: 65
+    freshness: 45
+    ux: 84
+    impact: 81
+- id: fitfoodiefinds-com
+  name: Fit Foodie Finds
+  canonical_url: https://fitfoodiefinds.com/
+  country: XX
+  best_for: health-aware recipes and practical cooking
+  reason: Fit Foodie Finds concentrates on health-aware recipes and practical cooking, with a discoverable feed, a visible
+    article archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://fitfoodiefinds.com/
+  - https://fitfoodiefinds.com/comments/feed/
+  - https://fitfoodiefinds.com/about-2/
+  scores:
+    editorial_quality: 72
+    trust: 82
+    reach: 86
+    freshness: 89
+    ux: 84
+    impact: 86
+- id: stripedspatula-com
+  name: Striped Spatula
+  canonical_url: https://stripedspatula.com/
+  country: XX
+  best_for: restaurants, chefs, and food culture
+  reason: Striped Spatula concentrates on restaurants, chefs, and food culture, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://stripedspatula.com/
+  - https://stripedspatula.com/web-stories/feed/
+  - https://stripedspatula.com/about/
+  scores:
+    editorial_quality: 74
+    trust: 89
+    reach: 79
+    freshness: 88
+    ux: 84
+    impact: 76
+- id: dominicancooking-com
+  name: Dominican Cooking
+  canonical_url: https://dominicancooking.com/
+  country: XX
+  best_for: tested recipes and everyday cooking
+  reason: Dominican Cooking concentrates on tested recipes and everyday cooking, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://dominicancooking.com/
+  - https://www.dominicancooking.com/comments/feed
+  - https://www.dominicancooking.com/about
+  scores:
+    editorial_quality: 74
+    trust: 82
+    reach: 83
+    freshness: 89
+    ux: 84
+    impact: 75
+- id: wellplated-com
+  name: Well Plated by Erin Clarke
+  canonical_url: https://wellplated.com/
+  country: XX
+  best_for: tested recipes and everyday cooking
+  reason: Well Plated by Erin Clarke concentrates on tested recipes and everyday cooking, with a discoverable feed, a visible
+    article archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://wellplated.com/
+  - https://www.wellplated.com/feed/
+  - https://www.wellplated.com/about/
+  scores:
+    editorial_quality: 70
+    trust: 89
+    reach: 89
+    freshness: 89
+    ux: 84
+    impact: 87
+- id: averiecooks-com
+  name: Averie Cooks
+  canonical_url: https://averiecooks.com/
+  country: XX
+  best_for: tested recipes and everyday cooking
+  reason: Averie Cooks concentrates on tested recipes and everyday cooking, with a discoverable feed, a visible article archive
+    that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://averiecooks.com/
+  - https://www.averiecooks.com/feed/
+  - https://www.averiecooks.com/about/
+  scores:
+    editorial_quality: 70
+    trust: 89
+    reach: 88
+    freshness: 89
+    ux: 84
+    impact: 83
+- id: theflavorbender-com
+  name: The Flavor Bender
+  canonical_url: https://theflavorbender.com/
+  country: XX
+  best_for: baking, pastry, and dependable technique
+  reason: The Flavor Bender concentrates on baking, pastry, and dependable technique, with a discoverable feed, named authorship
+    that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://theflavorbender.com/
+  - https://www.theflavorbender.com/comments/feed/
+  - https://www.theflavorbender.com/author/dini/
+  scores:
+    editorial_quality: 68
+    trust: 89
+    reach: 84
+    freshness: 89
+    ux: 84
+    impact: 77
+- id: halfbakedharvest-com
+  name: Half Baked Harvest
+  canonical_url: https://halfbakedharvest.com/
+  country: XX
+  best_for: tested recipes and everyday cooking
+  reason: Half Baked Harvest concentrates on tested recipes and everyday cooking, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://halfbakedharvest.com/
+  - https://www.halfbakedharvest.com/comments/feed/
+  - https://www.halfbakedharvest.com/meet-tieghan/
+  scores:
+    editorial_quality: 72
+    trust: 75
+    reach: 89
+    freshness: 89
+    ux: 84
+    impact: 86
+- id: recipegirl-com
+  name: Recipe Girl®
+  canonical_url: https://recipegirl.com/
+  country: XX
+  best_for: tested recipes and everyday cooking
+  reason: Recipe Girl® concentrates on tested recipes and everyday cooking, with a discoverable feed, a visible article archive
+    that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://recipegirl.com/
+  - https://www.recipegirl.com/comments/feed/
+  - https://www.recipegirl.com/about/
+  scores:
+    editorial_quality: 72
+    trust: 82
+    reach: 82
+    freshness: 89
+    ux: 84
+    impact: 85
+- id: gimmesomeoven-com
+  name: Gimme Some Oven
+  canonical_url: https://gimmesomeoven.com/
+  country: XX
+  best_for: tested recipes and everyday cooking
+  reason: Gimme Some Oven concentrates on tested recipes and everyday cooking, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://gimmesomeoven.com/
+  - https://www.gimmesomeoven.com/comments/feed/
+  - https://www.gimmesomeoven.com/about/
+  scores:
+    editorial_quality: 70
+    trust: 82
+    reach: 89
+    freshness: 89
+    ux: 84
+    impact: 87
+- id: tasteandtellblog-com
+  name: Taste and Tell
+  canonical_url: https://tasteandtellblog.com/
+  country: XX
+  best_for: tested recipes and everyday cooking
+  reason: Taste and Tell concentrates on tested recipes and everyday cooking, with a discoverable feed, clear ownership context
+    that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://tasteandtellblog.com/
+  - https://www.tasteandtellblog.com/web-stories/feed/
+  - https://www.tasteandtellblog.com/about/
+  scores:
+    editorial_quality: 68
+    trust: 89
+    reach: 82
+    freshness: 78
+    ux: 84
+    impact: 82
+- id: lovefromtheoven-com
+  name: Love From The Oven
+  canonical_url: https://lovefromtheoven.com/
+  country: XX
+  best_for: baking, pastry, and dependable technique
+  reason: Love From The Oven concentrates on baking, pastry, and dependable technique, with a discoverable feed, a visible
+    article archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://lovefromtheoven.com/
+  - https://www.lovefromtheoven.com/web-stories/feed/
+  - https://www.lovefromtheoven.com/about/
+  scores:
+    editorial_quality: 70
+    trust: 82
+    reach: 83
+    freshness: 88
+    ux: 84
+    impact: 78
+- id: aforkstale-com
+  name: A Fork's Tale
+  canonical_url: https://aforkstale.com/
+  country: XX
+  best_for: tested recipes and everyday cooking
+  reason: A Fork's Tale concentrates on tested recipes and everyday cooking, with a discoverable feed, a visible article archive
+    that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://aforkstale.com/
+  - https://www.aforkstale.com/comments/feed/
+  - https://www.aforkstale.com/about-me-2/
+  scores:
+    editorial_quality: 72
+    trust: 82
+    reach: 72
+    freshness: 89
+    ux: 84
+    impact: 69
+- id: thegardengrazer-com
+  name: The Garden Grazer
+  canonical_url: https://thegardengrazer.com/
+  country: XX
+  best_for: health-aware recipes and practical cooking
+  reason: The Garden Grazer concentrates on health-aware recipes and practical cooking, with a discoverable feed, a visible
+    article archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://thegardengrazer.com/
+  - https://www.thegardengrazer.com/comments/feed/
+  - https://www.thegardengrazer.com/about/
+  scores:
+    editorial_quality: 72
+    trust: 82
+    reach: 68
+    freshness: 89
+    ux: 84
+    impact: 70
+- id: tastyeverafter-com
+  name: Tasty Ever After
+  canonical_url: https://tastyeverafter.com/
+  country: XX
+  best_for: tested recipes and everyday cooking
+  reason: Tasty Ever After concentrates on tested recipes and everyday cooking, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://tastyeverafter.com/
+  - https://www.tastyeverafter.com/comments/feed/
+  - https://www.tastyeverafter.com/about-me/
+  scores:
+    editorial_quality: 72
+    trust: 82
+    reach: 66
+    freshness: 89
+    ux: 84
+    impact: 69
+- id: bakingmischief-com
+  name: Baking Mischief
+  canonical_url: https://bakingmischief.com/
+  country: XX
+  best_for: baking, pastry, and dependable technique
+  reason: Baking Mischief concentrates on baking, pastry, and dependable technique, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://bakingmischief.com/
+  - https://bakingmischief.com/web-stories/feed/
+  - https://bakingmischief.com/about/
+  scores:
+    editorial_quality: 74
+    trust: 89
+    reach: 81
+    freshness: 45
+    ux: 84
+    impact: 75
+- id: kalynskitchen-com
+  name: Kalyn's Kitchen
+  canonical_url: https://kalynskitchen.com/
+  country: XX
+  best_for: tested recipes and everyday cooking
+  reason: Kalyn's Kitchen concentrates on tested recipes and everyday cooking, with a visible article archive, clear ownership
+    context that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://kalynskitchen.com/
+  - https://kalynskitchen.com/about/
+  scores:
+    editorial_quality: 67
+    trust: 82
+    reach: 84
+    freshness: 66
+    ux: 84
+    impact: 87
+- id: thefirstmess-com
+  name: The First Mess
+  canonical_url: https://thefirstmess.com/
+  country: XX
+  best_for: health-aware recipes and practical cooking
+  reason: The First Mess concentrates on health-aware recipes and practical cooking, with a visible article archive, clear
+    ownership context that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://thefirstmess.com/
+  - https://thefirstmess.com/about/
+  scores:
+    editorial_quality: 65
+    trust: 75
+    reach: 77
+    freshness: 88
+    ux: 84
+    impact: 84

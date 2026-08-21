@@ -4,6 +4,7 @@
 from __future__ import annotations
 
 import json
+import argparse
 import ssl
 import urllib.error
 import urllib.request
@@ -35,12 +36,16 @@ def check(url: str) -> dict[str, Any]:
 
 
 def main() -> None:
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--canonical-only", action="store_true")
+    args = parser.parse_args()
     urls = set()
     for path in source_files():
         for entry in load_yaml(path)["entries"]:
             urls.add(entry["canonical_url"])
-            urls.update(entry["evidence_urls"])
-    with ThreadPoolExecutor(max_workers=8) as executor:
+            if not args.canonical_only:
+                urls.update(entry["evidence_urls"])
+    with ThreadPoolExecutor(max_workers=32) as executor:
         results = sorted(executor.map(check, sorted(urls)), key=lambda item: item["url"])
     report = {
         "checked": len(results),

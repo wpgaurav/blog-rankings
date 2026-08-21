@@ -5,20 +5,84 @@
   "generated_at": "2026-08-21T12:00:00Z",
   "categories": [
     {
+      "slug": "business",
+      "name": "Business and Entrepreneurship",
+      "description": "Practical publishing about companies, startups, SaaS, leadership, operations, and creator businesses.",
+      "edition": "2026-09",
+      "status": "final",
+      "endpoint": "business.json"
+    },
+    {
+      "slug": "culture-entertainment",
+      "name": "Culture and Entertainment",
+      "description": "Criticism, reporting, and analysis about books, film, television, music, games, and popular culture.",
+      "edition": "2026-09",
+      "status": "final",
+      "endpoint": "culture-entertainment.json"
+    },
+    {
+      "slug": "education",
+      "name": "Education",
+      "description": "Publishing about teaching, learning science, higher education, curriculum, and study practice.",
+      "edition": "2026-09",
+      "status": "final",
+      "endpoint": "education.json"
+    },
+    {
+      "slug": "food",
+      "name": "Food",
+      "description": "Recipes, culinary technique, restaurant culture, food history, and food science.",
+      "edition": "2026-09",
+      "status": "final",
+      "endpoint": "food.json"
+    },
+    {
+      "slug": "health",
+      "name": "Health and Wellness",
+      "description": "Evidence-aware publishing about public health, fitness, nutrition, mental health, and sustainable wellbeing.",
+      "edition": "2026-09",
+      "status": "final",
+      "endpoint": "health.json"
+    },
+    {
       "slug": "marketing-seo",
       "name": "Marketing and SEO",
       "description": "Evidence-led publishing about search, content, copywriting, distribution, analytics, and paid acquisition.",
       "edition": "2026-09",
-      "status": "beta",
+      "status": "final",
       "endpoint": "marketing-seo.json"
+    },
+    {
+      "slug": "personal-finance",
+      "name": "Personal Finance",
+      "description": "Educational publishing about saving, investing, debt, tax, financial planning, and financial independence.",
+      "edition": "2026-09",
+      "status": "final",
+      "endpoint": "personal-finance.json"
+    },
+    {
+      "slug": "science",
+      "name": "Science",
+      "description": "Research communication and analysis across the physical, life, earth, space, and environmental sciences.",
+      "edition": "2026-09",
+      "status": "final",
+      "endpoint": "science.json"
     },
     {
       "slug": "technology",
       "name": "Technology",
       "description": "Reporting, analysis, reviews, and teaching about software, devices, AI, security, and the systems shaping technology.",
       "edition": "2026-09",
-      "status": "beta",
+      "status": "final",
       "endpoint": "technology.json"
+    },
+    {
+      "slug": "travel",
+      "name": "Travel",
+      "description": "Original destination reporting, practical travel guidance, and experience-led cultural coverage.",
+      "edition": "2026-09",
+      "status": "final",
+      "endpoint": "travel.json"
     }
   ]
 }

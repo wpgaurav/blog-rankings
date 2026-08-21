@@ -1,0 +1,2075 @@
+schema_version: 1
+edition: 2026-09
+published_at: '2026-08-21T12:00:00Z'
+status: final
+category: science
+track: publisher_company
+entries:
+- id: popsci-com
+  name: Popular Science
+  canonical_url: https://popsci.com/
+  country: XX
+  best_for: space, astronomy, and exploration
+  reason: Popular Science concentrates on space, astronomy, and exploration, with a discoverable feed, a visible article archive
+    that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://popsci.com/
+  - https://www.popsci.com/feed/
+  - https://www.popsci.com/authors/popular-science-team/
+  scores:
+    editorial_quality: 94
+    trust: 93
+    reach: 92
+    freshness: 93
+    ux: 92
+    impact: 93
+- id: space-com
+  name: Space
+  canonical_url: https://space.com/
+  country: XX
+  best_for: space, astronomy, and exploration
+  reason: Space concentrates on space, astronomy, and exploration, with a discoverable feed, a visible article archive that
+    makes its current publishing work easier to evaluate.
+  limitation: The homepage is heavier and more commercially layered than a focused reading experience.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://space.com/
+  - https://www.space.com/feeds.xml
+  - https://www.space.com/41418-about-us.html
+  scores:
+    editorial_quality: 93
+    trust: 92
+    reach: 91
+    freshness: 92
+    ux: 91
+    impact: 92
+- id: scitechdaily-com
+  name: SciTechDaily
+  canonical_url: https://scitechdaily.com/
+  country: XX
+  best_for: space, astronomy, and exploration
+  reason: SciTechDaily concentrates on space, astronomy, and exploration, with a discoverable feed, a visible article archive
+    that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://scitechdaily.com/
+  - https://scitechdaily.com/news/physics/feed/
+  - https://scitechdaily.com/11000-year-old-grains-reveal-a-surprise-about-the-origins-of-agriculture/
+  scores:
+    editorial_quality: 91
+    trust: 90
+    reach: 89
+    freshness: 90
+    ux: 89
+    impact: 90
+- id: science-nasa-gov
+  name: NASA Science
+  canonical_url: https://science.nasa.gov/
+  country: XX
+  best_for: space, astronomy, and exploration
+  reason: NASA Science concentrates on space, astronomy, and exploration, with a discoverable feed, a visible article archive
+    that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://science.nasa.gov/
+  - https://science.nasa.gov/feed/
+  - https://science.nasa.gov/about/
+  scores:
+    editorial_quality: 95
+    trust: 94
+    reach: 93
+    freshness: 94
+    ux: 93
+    impact: 94
+- id: scientificamerican-com
+  name: Scientific American
+  canonical_url: https://scientificamerican.com/
+  country: XX
+  best_for: biology, biotechnology, and life science
+  reason: Scientific American concentrates on biology, biotechnology, and life science, with a discoverable feed, a visible
+    article archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://scientificamerican.com/
+  - https://www.scientificamerican.com/platform/syndication/rss/
+  - https://www.scientificamerican.com/page/about-scientific-american/
+  scores:
+    editorial_quality: 99
+    trust: 98
+    reach: 97
+    freshness: 98
+    ux: 97
+    impact: 98
+- id: sciencealert-com
+  name: ScienceAlert
+  canonical_url: https://sciencealert.com/
+  country: XX
+  best_for: space, astronomy, and exploration
+  reason: ScienceAlert concentrates on space, astronomy, and exploration, with a discoverable feed, a visible article archive
+    that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://sciencealert.com/
+  - https://www.sciencealert.com/feed/smartformat/
+  - https://www.sciencealert.com/about-sciencealert
+  scores:
+    editorial_quality: 92
+    trust: 91
+    reach: 90
+    freshness: 91
+    ux: 90
+    impact: 91
+- id: sciencenews-org
+  name: Science News
+  canonical_url: https://sciencenews.org/
+  country: XX
+  best_for: space, astronomy, and exploration
+  reason: Science News concentrates on space, astronomy, and exploration, with a discoverable feed, a visible article archive
+    that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://sciencenews.org/
+  - https://www.sciencenews.org/comments/feed
+  - https://www.sciencenews.org/about-science-news
+  scores:
+    editorial_quality: 98
+    trust: 97
+    reach: 96
+    freshness: 97
+    ux: 96
+    impact: 97
+- id: nature-com
+  name: Nature
+  canonical_url: https://nature.com/
+  country: XX
+  best_for: biology, biotechnology, and life science
+  reason: Nature concentrates on biology, biotechnology, and life science, with a discoverable feed, a visible article archive
+    that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://nature.com/
+  - https://www.nature.com/nature.rss
+  scores:
+    editorial_quality: 97
+    trust: 96
+    reach: 95
+    freshness: 96
+    ux: 95
+    impact: 96
+- id: newscientist-com
+  name: New Scientist
+  canonical_url: https://newscientist.com/
+  country: XX
+  best_for: space, astronomy, and exploration
+  reason: New Scientist concentrates on space, astronomy, and exploration, with a visible article archive, clear ownership
+    context that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://newscientist.com/
+  scores:
+    editorial_quality: 96
+    trust: 95
+    reach: 94
+    freshness: 95
+    ux: 94
+    impact: 95
+- id: universetoday-com
+  name: Universe Today
+  canonical_url: https://universetoday.com/
+  country: XX
+  best_for: space, astronomy, and exploration
+  reason: Universe Today concentrates on space, astronomy, and exploration, with a discoverable feed, a visible article archive
+    that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://universetoday.com/
+  - https://www.universetoday.com/atom.xml
+  - https://www.universetoday.com/articles/the-planet-that-lied-about-its-own-spin
+  scores:
+    editorial_quality: 90
+    trust: 89
+    reach: 88
+    freshness: 89
+    ux: 88
+    impact: 89
+- id: blogs-lse-ac-uk
+  name: Lse
+  canonical_url: https://blogs.lse.ac.uk/
+  country: GB
+  best_for: research findings and science communication
+  reason: Lse concentrates on research findings and science communication, with clear ownership context that makes its current
+    publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://blogs.lse.ac.uk/
+  - https://blogs.lse.ac.uk/impactofsocialsciences/2022/04/11/are-personal-academic-blogs-a-thing-of-the-past/feed/
+  - https://blogs.lse.ac.uk/impactofsocialsciences/about/
+  scores:
+    editorial_quality: 63
+    trust: 89
+    reach: 83
+    freshness: 78
+    ux: 84
+    impact: 86
+- id: growthlab-hks-harvard-edu
+  name: Growth Lab
+  canonical_url: https://growthlab.hks.harvard.edu/
+  country: XX
+  best_for: research findings and science communication
+  reason: Growth Lab concentrates on research findings and science communication, with a discoverable feed, clear ownership
+    context that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://growthlab.hks.harvard.edu/
+  - https://growthlab.hks.harvard.edu/feed/atom/
+  - https://growthlab.hks.harvard.edu/about/
+  scores:
+    editorial_quality: 64
+    trust: 87
+    reach: 65
+    freshness: 88
+    ux: 84
+    impact: 65
+- id: nsi-psu-edu
+  name: Penn State National Security Institute
+  canonical_url: https://nsi.psu.edu/
+  country: XX
+  best_for: research findings and science communication
+  reason: Penn State National Security Institute concentrates on research findings and science communication, with a discoverable
+    feed, clear ownership context that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://nsi.psu.edu/
+  - https://nsi.psu.edu/comments/feed/
+  - https://nsi.psu.edu/about/
+  scores:
+    editorial_quality: 66
+    trust: 87
+    reach: 44
+    freshness: 89
+    ux: 84
+    impact: 56
+- id: ascb-org
+  name: ASCB
+  canonical_url: https://ascb.org/
+  country: XX
+  best_for: biology, biotechnology, and life science
+  reason: ASCB concentrates on biology, biotechnology, and life science, with a discoverable feed, a visible article archive
+    that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://ascb.org/
+  - https://www.ascb.org/feed/
+  - https://www.ascb.org/about-ascb/policy-on-research-misconduct/
+  scores:
+    editorial_quality: 72
+    trust: 82
+    reach: 78
+    freshness: 89
+    ux: 84
+    impact: 77
+- id: collins-co-uk
+  name: Collins
+  canonical_url: https://collins.co.uk/
+  country: GB
+  best_for: space, astronomy, and exploration
+  reason: Collins concentrates on space, astronomy, and exploration, with clear ownership context that makes its current publishing
+    work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://collins.co.uk/
+  - https://collins.co.uk/blogs/collins-astronomy.atom
+  - https://collins.co.uk/blogs/collins-astronomy/celebrating-the-summer-solstice
+  scores:
+    editorial_quality: 63
+    trust: 87
+    reach: 75
+    freshness: 89
+    ux: 84
+    impact: 73
+- id: dl-iir-edu-ua
+  name: Iir News
+  canonical_url: https://dl.iir.edu.ua/
+  country: XX
+  best_for: research findings and science communication
+  reason: Iir News concentrates on research findings and science communication, with a visible article archive, clear ownership
+    context that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://dl.iir.edu.ua/
+  - https://dl.iir.edu.ua/about
+  scores:
+    editorial_quality: 67
+    trust: 87
+    reach: 73
+    freshness: 66
+    ux: 84
+    impact: 51
+- id: news-mongabay-com
+  name: Conservation news
+  canonical_url: https://news.mongabay.com/
+  country: XX
+  best_for: climate and environmental science
+  reason: Conservation news concentrates on climate and environmental science, with named authorship, clear ownership context
+    that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://news.mongabay.com/
+  - https://news.mongabay.com/team
+  scores:
+    editorial_quality: 61
+    trust: 89
+    reach: 89
+    freshness: 45
+    ux: 84
+    impact: 89
+- id: climatechangeresources-org
+  name: Climate Change Resources
+  canonical_url: https://climatechangeresources.org/
+  country: XX
+  best_for: climate and environmental science
+  reason: Climate Change Resources concentrates on climate and environmental science, with named authorship, clear ownership
+    context that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://climatechangeresources.org/
+  - https://climatechangeresources.org/about/contact-us/
+  scores:
+    editorial_quality: 63
+    trust: 89
+    reach: 65
+    freshness: 45
+    ux: 84
+    impact: 56
+- id: islandconservation-org
+  name: Island Conservation
+  canonical_url: https://islandconservation.org/
+  country: XX
+  best_for: climate and environmental science
+  reason: Island Conservation concentrates on climate and environmental science, with a discoverable feed, named authorship
+    that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://islandconservation.org/
+  - https://www.islandconservation.org/feed/
+  - https://www.islandconservation.org/about-us/
+  scores:
+    editorial_quality: 66
+    trust: 80
+    reach: 71
+    freshness: 45
+    ux: 84
+    impact: 65
+- id: atmos-earth
+  name: Atmos
+  canonical_url: https://atmos.earth/
+  country: XX
+  best_for: climate and environmental science
+  reason: Atmos concentrates on climate and environmental science, with clear ownership context that makes its current publishing
+    work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://atmos.earth/
+  - https://atmos.earth/about/
+  scores:
+    editorial_quality: 61
+    trust: 73
+    reach: 78
+    freshness: 45
+    ux: 84
+    impact: 79
+- id: autism-org
+  name: Autism Research Institute
+  canonical_url: https://autism.org/
+  country: XX
+  best_for: research findings and science communication
+  reason: Autism Research Institute concentrates on research findings and science communication, with a discoverable feed,
+    a visible article archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://autism.org/
+  - https://autism.org/comments/feed/
+  - https://autism.org/what-is-autism/
+  scores:
+    editorial_quality: 68
+    trust: 89
+    reach: 77
+    freshness: 88
+    ux: 84
+    impact: 67
+- id: unc-edu
+  name: The University of North Carolina at Chapel Hill
+  canonical_url: https://unc.edu/
+  country: XX
+  best_for: research findings and science communication
+  reason: The University of North Carolina at Chapel Hill concentrates on research findings and science communication, with
+    a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.
+  limitation: Some complete material may require registration, membership, or a paid subscription.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://unc.edu/
+  - https://www.unc.edu/comments/feed/
+  - https://www.unc.edu/about/
+  scores:
+    editorial_quality: 70
+    trust: 82
+    reach: 89
+    freshness: 89
+    ux: 84
+    impact: 89
+- id: thenakedscientists-com
+  name: The Naked Scientists
+  canonical_url: https://thenakedscientists.com/
+  country: XX
+  best_for: biology, biotechnology, and life science
+  reason: The Naked Scientists concentrates on biology, biotechnology, and life science, with a discoverable feed, named authorship
+    that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://thenakedscientists.com/
+  - https://www.thenakedscientists.com/naked_scientists_podcast.xml
+  - https://www.thenakedscientists.com/articles/science-news/life
+  scores:
+    editorial_quality: 68
+    trust: 89
+    reach: 79
+    freshness: 89
+    ux: 84
+    impact: 82
+- id: utsouthwestern-edu
+  name: UT Southwestern Medical Center
+  canonical_url: https://utsouthwestern.edu/
+  country: XX
+  best_for: research findings and science communication
+  reason: UT Southwestern Medical Center concentrates on research findings and science communication, with a visible article
+    archive, clear ownership context that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://utsouthwestern.edu/
+  - https://www.utsouthwestern.edu/about-us/
+  scores:
+    editorial_quality: 63
+    trust: 89
+    reach: 89
+    freshness: 66
+    ux: 84
+    impact: 81
+- id: penntap-psu-edu
+  name: PennTAP
+  canonical_url: https://penntap.psu.edu/
+  country: XX
+  best_for: research findings and science communication
+  reason: PennTAP concentrates on research findings and science communication, with a discoverable feed, clear ownership context
+    that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://penntap.psu.edu/
+  - https://penntap.psu.edu/comments/feed/
+  - https://penntap.psu.edu/#
+  scores:
+    editorial_quality: 66
+    trust: 82
+    reach: 54
+    freshness: 89
+    ux: 84
+    impact: 68
+- id: www3-research-ucla-edu
+  name: Www3
+  canonical_url: https://www3.research.ucla.edu/
+  country: XX
+  best_for: research findings and science communication
+  reason: Www3 concentrates on research findings and science communication, with a visible article archive, clear ownership
+    context that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://www3.research.ucla.edu/
+  - https://www3.research.ucla.edu/reo/units/team
+  scores:
+    editorial_quality: 63
+    trust: 68
+    reach: 60
+    freshness: 66
+    ux: 84
+    impact: 56
+- id: originlabs-psu-edu
+  name: OriginLabs
+  canonical_url: https://originlabs.psu.edu/
+  country: XX
+  best_for: research findings and science communication
+  reason: OriginLabs concentrates on research findings and science communication, with a discoverable feed, clear ownership
+    context that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://originlabs.psu.edu/
+  - https://originlabs.psu.edu/comments/feed/
+  - https://originlabs.psu.edu/about/
+  scores:
+    editorial_quality: 66
+    trust: 82
+    reach: 47
+    freshness: 45
+    ux: 84
+    impact: 59
+- id: scienceblog-com
+  name: ScienceBlog.com
+  canonical_url: https://scienceblog.com/
+  country: XX
+  best_for: space, astronomy, and exploration
+  reason: ScienceBlog.com concentrates on space, astronomy, and exploration, with a visible article archive, named authorship
+    that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://scienceblog.com/
+  - https://scienceblog.com/about-us/
+  scores:
+    editorial_quality: 73
+    trust: 89
+    reach: 73
+    freshness: 89
+    ux: 84
+    impact: 73
+- id: associationofsciencecommunicators-org
+  name: Association of Science Communicators
+  canonical_url: https://associationofsciencecommunicators.org/
+  country: XX
+  best_for: science reporting and research communication
+  reason: Association of Science Communicators concentrates on science reporting and research communication, with a discoverable
+    feed, a visible article archive that makes its current publishing work easier to evaluate.
+  limitation: Some complete material may require registration, membership, or a paid subscription.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://associationofsciencecommunicators.org/
+  - https://www.associationofsciencecommunicators.org/comments/feed/
+  - https://www.associationofsciencecommunicators.org/about/
+  scores:
+    editorial_quality: 68
+    trust: 87
+    reach: 61
+    freshness: 88
+    ux: 84
+    impact: 59
+- id: electrochem-org
+  name: ECS
+  canonical_url: https://electrochem.org/
+  country: XX
+  best_for: research findings and science communication
+  reason: ECS concentrates on research findings and science communication, with a discoverable feed, named authorship that
+    makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://electrochem.org/
+  - https://www.electrochem.org/comments/feed
+  - https://www.electrochem.org/about
+  scores:
+    editorial_quality: 66
+    trust: 89
+    reach: 81
+    freshness: 88
+    ux: 84
+    impact: 81
+- id: grist-org
+  name: Grist
+  canonical_url: https://grist.org/
+  country: XX
+  best_for: climate and environmental science
+  reason: Grist concentrates on climate and environmental science, with a visible article archive, named authorship that makes
+    its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://grist.org/
+  - https://grist.org/about/
+  scores:
+    editorial_quality: 67
+    trust: 89
+    reach: 86
+    freshness: 89
+    ux: 84
+    impact: 89
+- id: microbenotes-com
+  name: Microbe Notes
+  canonical_url: https://microbenotes.com/
+  country: XX
+  best_for: biology, biotechnology, and life science
+  reason: Microbe Notes concentrates on biology, biotechnology, and life science, with a visible article archive, named authorship
+    that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://microbenotes.com/
+  - https://microbenotes.com/our-team/
+  scores:
+    editorial_quality: 63
+    trust: 89
+    reach: 86
+    freshness: 89
+    ux: 84
+    impact: 71
+- id: blog-joshuniverse-com
+  name: Universe Media - Josh Universe
+  canonical_url: https://blog.joshuniverse.com/
+  country: XX
+  best_for: space, astronomy, and exploration
+  reason: Universe Media - Josh Universe concentrates on space, astronomy, and exploration, with a discoverable feed, a visible
+    article archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://blog.joshuniverse.com/
+  - https://blog.joshuniverse.com/courses/rss/
+  - https://blog.joshuniverse.com/about/
+  scores:
+    editorial_quality: 70
+    trust: 89
+    reach: 49
+    freshness: 89
+    ux: 84
+    impact: 53
+- id: nasa-gov
+  name: NASA
+  canonical_url: https://nasa.gov/
+  country: XX
+  best_for: space, astronomy, and exploration
+  reason: NASA concentrates on space, astronomy, and exploration, with a discoverable feed, a visible article archive that
+    makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://nasa.gov/
+  - https://www.nasa.gov/feed/
+  - https://www.nasa.gov/about/
+  scores:
+    editorial_quality: 76
+    trust: 89
+    reach: 89
+    freshness: 89
+    ux: 84
+    impact: 88
+- id: the-independent-com
+  name: The Independent
+  canonical_url: https://the-independent.com/
+  country: XX
+  best_for: climate and environmental science
+  reason: The Independent concentrates on climate and environmental science, with a discoverable feed, a visible article archive
+    that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://the-independent.com/
+  - https://www.the-independent.com/independent-newsletters/rss
+  - https://www.the-independent.com/service/external-contributors-policy-7905982.html
+  scores:
+    editorial_quality: 70
+    trust: 89
+    reach: 89
+    freshness: 89
+    ux: 84
+    impact: 86
+- id: statnews-com
+  name: STAT
+  canonical_url: https://statnews.com/
+  country: XX
+  best_for: biology, biotechnology, and life science
+  reason: STAT concentrates on biology, biotechnology, and life science, with a discoverable feed, a visible article archive
+    that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://statnews.com/
+  - https://www.statnews.com/feed/
+  - https://www.statnews.com/about/
+  scores:
+    editorial_quality: 70
+    trust: 89
+    reach: 88
+    freshness: 89
+    ux: 84
+    impact: 80
+- id: physicstoday-aip-org
+  name: PHYSICS TODAY
+  canonical_url: https://physicstoday.aip.org/
+  country: XX
+  best_for: space, astronomy, and exploration
+  reason: PHYSICS TODAY concentrates on space, astronomy, and exploration, with a discoverable feed, named authorship that
+    makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://physicstoday.aip.org/
+  - https://physicstoday.aip.org/index.rss
+  - https://physicstoday.aip.org/about
+  scores:
+    editorial_quality: 70
+    trust: 89
+    reach: 76
+    freshness: 89
+    ux: 84
+    impact: 67
+- id: poynter-org
+  name: Poynter
+  canonical_url: https://poynter.org/
+  country: XX
+  best_for: research findings and science communication
+  reason: Poynter concentrates on research findings and science communication, with a visible article archive, named authorship
+    that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://poynter.org/
+  - https://www.poynter.org/about/
+  scores:
+    editorial_quality: 63
+    trust: 89
+    reach: 88
+    freshness: 78
+    ux: 84
+    impact: 85
+- id: aps-org
+  name: American Physical Society
+  canonical_url: https://aps.org/
+  country: XX
+  best_for: physics and the mechanisms behind new research
+  reason: American Physical Society concentrates on physics and the mechanisms behind new research, with a visible article
+    archive, named authorship that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://aps.org/
+  - https://www.aps.org:443/about
+  scores:
+    editorial_quality: 65
+    trust: 89
+    reach: 89
+    freshness: 66
+    ux: 76
+    impact: 83
+- id: independent-org
+  name: Independent Institute
+  canonical_url: https://independent.org/
+  country: XX
+  best_for: research findings and science communication
+  reason: Independent Institute concentrates on research findings and science communication, with a discoverable feed, named
+    authorship that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://independent.org/
+  - https://www.independent.org/comments/feed/
+  - https://www.independent.org/about/
+  scores:
+    editorial_quality: 64
+    trust: 89
+    reach: 83
+    freshness: 62
+    ux: 84
+    impact: 77
+- id: independentsector-org
+  name: Independent Sector
+  canonical_url: https://independentsector.org/
+  country: XX
+  best_for: research findings and science communication
+  reason: Independent Sector concentrates on research findings and science communication, with a visible article archive,
+    clear ownership context that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://independentsector.org/
+  - https://independentsector.org/about/
+  scores:
+    editorial_quality: 63
+    trust: 87
+    reach: 71
+    freshness: 78
+    ux: 84
+    impact: 70
+- id: chronicle-com
+  name: The Chronicle of Higher Education
+  canonical_url: https://chronicle.com/
+  country: XX
+  best_for: research findings and science communication
+  reason: The Chronicle of Higher Education concentrates on research findings and science communication, with a discoverable
+    feed, named authorship that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://chronicle.com/
+  - https://www.chronicle.com/page/blogs.atom
+  - https://www.chronicle.com/page/about-us
+  scores:
+    editorial_quality: 64
+    trust: 89
+    reach: 89
+    freshness: 45
+    ux: 84
+    impact: 79
+- id: daily-jstor-org
+  name: JSTOR Daily
+  canonical_url: https://daily.jstor.org/
+  country: XX
+  best_for: research findings and science communication
+  reason: JSTOR Daily concentrates on research findings and science communication, with clear ownership context that makes
+    its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://daily.jstor.org/
+  - https://daily.jstor.org/about/
+  scores:
+    editorial_quality: 59
+    trust: 87
+    reach: 87
+    freshness: 62
+    ux: 84
+    impact: 73
+- id: psu-edu
+  name: The Pennsylvania State University
+  canonical_url: https://psu.edu/
+  country: XX
+  best_for: research findings and science communication
+  reason: The Pennsylvania State University concentrates on research findings and science communication, with a visible article
+    archive, clear ownership context that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://psu.edu/
+  - https://www.psu.edu:443/about
+  scores:
+    editorial_quality: 65
+    trust: 89
+    reach: 89
+    freshness: 89
+    ux: 84
+    impact: 89
+- id: physicsworld-com
+  name: Physics World
+  canonical_url: https://physicsworld.com/
+  country: XX
+  best_for: physics and the mechanisms behind new research
+  reason: Physics World concentrates on physics and the mechanisms behind new research, with a visible article archive, named
+    authorship that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://physicsworld.com/
+  - https://physicsworld.com/p/about-us/
+  scores:
+    editorial_quality: 69
+    trust: 89
+    reach: 82
+    freshness: 89
+    ux: 84
+    impact: 84
+- id: nytimes-com
+  name: The New York Times
+  canonical_url: https://nytimes.com/
+  country: XX
+  best_for: space, astronomy, and exploration
+  reason: The New York Times concentrates on space, astronomy, and exploration, with a discoverable feed, named authorship
+    that makes its current publishing work easier to evaluate.
+  limitation: Some complete material may require registration, membership, or a paid subscription.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://nytimes.com/
+  - https://www.nytimes.com/svc/collections/v1/publish/https://www.nytimes.com/section/science/rss.xml
+  scores:
+    editorial_quality: 72
+    trust: 83
+    reach: 89
+    freshness: 89
+    ux: 76
+    impact: 89
+- id: smithsonianmag-com
+  name: 'Smithsonian Magazine: Explore History, Science, Arts & Culture'
+  canonical_url: https://smithsonianmag.com/
+  country: XX
+  best_for: space, astronomy, and exploration
+  reason: 'Smithsonian Magazine: Explore History, Science, Arts & Culture concentrates on space, astronomy, and exploration,
+    with named authorship, clear ownership context that makes its current publishing work easier to evaluate.'
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://smithsonianmag.com/
+  - https://www.smithsonianmag.com/rss/science-nature/
+  - https://www.smithsonianmag.com:443/about/
+  scores:
+    editorial_quality: 65
+    trust: 89
+    reach: 89
+    freshness: 89
+    ux: 84
+    impact: 89
+- id: statista-com
+  name: Statista
+  canonical_url: https://statista.com/
+  country: XX
+  best_for: research findings and science communication
+  reason: Statista concentrates on research findings and science communication, with a visible article archive, named authorship
+    that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://statista.com/
+  - https://www.statista.com/business/about-us/
+  scores:
+    editorial_quality: 65
+    trust: 89
+    reach: 89
+    freshness: 88
+    ux: 84
+    impact: 89
+- id: nypost-com
+  name: New York Post
+  canonical_url: https://nypost.com/
+  country: XX
+  best_for: space, astronomy, and exploration
+  reason: New York Post concentrates on space, astronomy, and exploration, with a discoverable feed, named authorship that
+    makes its current publishing work easier to evaluate.
+  limitation: The homepage is heavier and more commercially layered than a focused reading experience.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://nypost.com/
+  - https://nypost.com/feed/
+  - https://nypost.com/about-new-york-post/
+  scores:
+    editorial_quality: 66
+    trust: 75
+    reach: 89
+    freshness: 89
+    ux: 76
+    impact: 87
+- id: bbc-com
+  name: BBC Home
+  canonical_url: https://bbc.com/
+  country: XX
+  best_for: biology, biotechnology, and life science
+  reason: BBC Home concentrates on biology, biotechnology, and life science, with a visible article archive, named authorship
+    that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://bbc.com/
+  - https://www.bbc.com/editorialguidelines/guidance/links-and-feeds
+  scores:
+    editorial_quality: 65
+    trust: 89
+    reach: 89
+    freshness: 66
+    ux: 84
+    impact: 88
+- id: amazon-science
+  name: Amazon Science
+  canonical_url: https://amazon.science/
+  country: XX
+  best_for: physics and the mechanisms behind new research
+  reason: Amazon Science concentrates on physics and the mechanisms behind new research, with a discoverable feed, named authorship
+    that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://amazon.science/
+  - https://www.amazon.science/index.rss
+  - https://www.amazon.science/academic-engagements/amazon-robotics-hampton-university-team-up-to-establish-robotics-program
+  scores:
+    editorial_quality: 68
+    trust: 82
+    reach: 89
+    freshness: 89
+    ux: 84
+    impact: 87
+- id: theconversation-com
+  name: The Conversation
+  canonical_url: https://theconversation.com/
+  country: XX
+  best_for: research findings and science communication
+  reason: The Conversation concentrates on research findings and science communication, with a visible article archive, named
+    authorship that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://theconversation.com/
+  - https://theconversation.com/what-bts-grammy-boycott-tells-us-about-the-problem-with-asian-pop-as-a-label-288966
+  scores:
+    editorial_quality: 67
+    trust: 89
+    reach: 89
+    freshness: 66
+    ux: 84
+    impact: 89
+- id: fancycomma-com
+  name: Fancy Comma, LLC
+  canonical_url: https://fancycomma.com/
+  country: XX
+  best_for: science reporting and research communication
+  reason: Fancy Comma, LLC concentrates on science reporting and research communication, with a discoverable feed, a visible
+    article archive that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://fancycomma.com/
+  - https://fancycomma.com/2021/06/20/how-to-write-blogs-and-op-eds-for-scicomm/feed/
+  - https://fancycomma.com/about/
+  scores:
+    editorial_quality: 68
+    trust: 89
+    reach: 60
+    freshness: 45
+    ux: 84
+    impact: 57
+- id: theiij-com
+  name: The Institute for Independent Journalists
+  canonical_url: https://theiij.com/
+  country: XX
+  best_for: research findings and science communication
+  reason: The Institute for Independent Journalists concentrates on research findings and science communication, with a visible
+    article archive that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://theiij.com/
+  scores:
+    editorial_quality: 63
+    trust: 75
+    reach: 57
+    freshness: 66
+    ux: 84
+    impact: 57
+- id: particlebites-com
+  name: ParticleBites
+  canonical_url: https://particlebites.com/
+  country: XX
+  best_for: physics and the mechanisms behind new research
+  reason: ParticleBites concentrates on physics and the mechanisms behind new research, with a discoverable feed, a visible
+    article archive that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://particlebites.com/
+  - https://www.particlebites.com/?feed=comments-rss2
+  - https://www.particlebites.com/?page_id=30
+  scores:
+    editorial_quality: 68
+    trust: 61
+    reach: 55
+    freshness: 45
+    ux: 84
+    impact: 64
+- id: wired-com
+  name: WIRED
+  canonical_url: https://wired.com/
+  country: XX
+  best_for: space, astronomy, and exploration
+  reason: WIRED concentrates on space, astronomy, and exploration, with a discoverable feed, clear ownership context that
+    makes its current publishing work easier to evaluate.
+  limitation: The homepage is heavier and more commercially layered than a focused reading experience.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://wired.com/
+  - https://www.wired.com/feed/rss
+  - https://www.wired.com/story/are-digital-wall-calendars-worth-it/
+  scores:
+    editorial_quality: 76
+    trust: 75
+    reach: 89
+    freshness: 89
+    ux: 76
+    impact: 89
+- id: popularmechanics-com
+  name: Popular Mechanics
+  canonical_url: https://popularmechanics.com/
+  country: XX
+  best_for: space, astronomy, and exploration
+  reason: Popular Mechanics concentrates on space, astronomy, and exploration, with clear ownership context that makes its
+    current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://popularmechanics.com/
+  - https://www.popularmechanics.com/rss/all.xml
+  - https://www.popularmechanics.com/about/a40180523/pop-mech-pro-membership-news-benefits/
+  scores:
+    editorial_quality: 63
+    trust: 82
+    reach: 89
+    freshness: 89
+    ux: 84
+    impact: 81
+- id: thestrugglingscientists-com
+  name: The Struggling Scientists
+  canonical_url: https://thestrugglingscientists.com/
+  country: XX
+  best_for: science reporting and research communication
+  reason: The Struggling Scientists concentrates on science reporting and research communication, with a discoverable feed,
+    a visible article archive that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://thestrugglingscientists.com/
+  - https://thestrugglingscientists.com/comments/feed/
+  - https://thestrugglingscientists.com/about/
+  scores:
+    editorial_quality: 68
+    trust: 89
+    reach: 53
+    freshness: 45
+    ux: 84
+    impact: 56
+- id: pewresearch-org
+  name: Pew Research Center
+  canonical_url: https://pewresearch.org/
+  country: XX
+  best_for: research findings and science communication
+  reason: Pew Research Center concentrates on research findings and science communication, with a discoverable feed, a visible
+    article archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://pewresearch.org/
+  - https://www.pewresearch.org/comments/feed/
+  - https://www.pewresearch.org/about/
+  scores:
+    editorial_quality: 74
+    trust: 89
+    reach: 89
+    freshness: 89
+    ux: 84
+    impact: 89
+- id: cnn-com
+  name: CNN
+  canonical_url: https://cnn.com/
+  country: XX
+  best_for: space, astronomy, and exploration
+  reason: CNN concentrates on space, astronomy, and exploration, with a clearly defined editorial focus that makes its current
+    publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://cnn.com/
+  scores:
+    editorial_quality: 65
+    trust: 55
+    reach: 89
+    freshness: 88
+    ux: 76
+    impact: 87
+- id: livescience-com
+  name: Live Science
+  canonical_url: https://livescience.com/
+  country: XX
+  best_for: space, astronomy, and exploration
+  reason: Live Science concentrates on space, astronomy, and exploration, with a discoverable feed, a visible article archive
+    that makes its current publishing work easier to evaluate.
+  limitation: Authorship and editorial-policy information is less visible than on higher-ranked publications.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://livescience.com/
+  - https://www.livescience.com/feeds.xml
+  - https://www.livescience.com/about-live-science
+  scores:
+    editorial_quality: 82
+    trust: 68
+    reach: 89
+    freshness: 89
+    ux: 76
+    impact: 89
+- id: nationalgeographic-com
+  name: National Geographic
+  canonical_url: https://nationalgeographic.com/
+  country: XX
+  best_for: space, astronomy, and exploration
+  reason: National Geographic concentrates on space, astronomy, and exploration, with a visible article archive, named authorship
+    that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://nationalgeographic.com/
+  - https://www.nationalgeographic.com/impact
+  scores:
+    editorial_quality: 69
+    trust: 75
+    reach: 89
+    freshness: 66
+    ux: 84
+    impact: 89
+- id: ctsi-psu-edu
+  name: Clinical and Translational Science Institute
+  canonical_url: https://ctsi.psu.edu/
+  country: XX
+  best_for: research findings and science communication
+  reason: Clinical and Translational Science Institute concentrates on research findings and science communication, with a
+    visible article archive, clear ownership context that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://ctsi.psu.edu/
+  - https://ctsi.psu.edu/echo/about
+  scores:
+    editorial_quality: 67
+    trust: 89
+    reach: 70
+    freshness: 89
+    ux: 84
+    impact: 69
+- id: ciencia-nasa-gov
+  name: NASA Science
+  canonical_url: https://ciencia.nasa.gov/
+  country: XX
+  best_for: space, astronomy, and exploration
+  reason: NASA Science concentrates on space, astronomy, and exploration, with a discoverable feed, a visible article archive
+    that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://ciencia.nasa.gov/
+  - https://ciencia.nasa.gov/feed/
+  - https://ciencia.nasa.gov/about/
+  scores:
+    editorial_quality: 70
+    trust: 89
+    reach: 75
+    freshness: 89
+    ux: 84
+    impact: 80
+- id: scripps-edu
+  name: Scripps Research
+  canonical_url: https://scripps.edu/
+  country: XX
+  best_for: research findings and science communication
+  reason: Scripps Research concentrates on research findings and science communication, with a discoverable feed, clear ownership
+    context that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://scripps.edu/
+  - https://www.scripps.edu/feed/
+  - https://www.scripps.edu/about/
+  scores:
+    editorial_quality: 68
+    trust: 75
+    reach: 82
+    freshness: 89
+    ux: 84
+    impact: 78
+- id: penntoday-upenn-edu
+  name: Penn Today
+  canonical_url: https://penntoday.upenn.edu/
+  country: XX
+  best_for: physics and the mechanisms behind new research
+  reason: Penn Today concentrates on physics and the mechanisms behind new research, with a visible article archive, clear
+    ownership context that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://penntoday.upenn.edu/
+  - https://penntoday.upenn.edu/news/penn-medicine-chop-team-awarded-breakthrough-prize-developing-gene-therapy-inherited-blindness
+  scores:
+    editorial_quality: 65
+    trust: 82
+    reach: 79
+    freshness: 89
+    ux: 84
+    impact: 71
+- id: yalebooks-yale-edu
+  name: Yale University Press
+  canonical_url: https://yalebooks.yale.edu/
+  country: XX
+  best_for: research findings and science communication
+  reason: Yale University Press concentrates on research findings and science communication, with a discoverable feed, named
+    authorship that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://yalebooks.yale.edu/
+  - https://yalebooks.yale.edu/comments/feed/
+  - https://yalebooks.yale.edu/about-us/
+  scores:
+    editorial_quality: 66
+    trust: 89
+    reach: 88
+    freshness: 45
+    ux: 84
+    impact: 77
+- id: icds-psu-edu
+  name: ICDS
+  canonical_url: https://icds.psu.edu/
+  country: XX
+  best_for: physics and the mechanisms behind new research
+  reason: ICDS concentrates on physics and the mechanisms behind new research, with a discoverable feed, clear ownership context
+    that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://icds.psu.edu/
+  - https://icds.psu.edu/comments/feed/
+  - https://icds.psu.edu/about/
+  scores:
+    editorial_quality: 68
+    trust: 82
+    reach: 63
+    freshness: 89
+    ux: 84
+    impact: 62
+- id: researchsupport-psu-edu
+  name: Research Support
+  canonical_url: https://researchsupport.psu.edu/
+  country: XX
+  best_for: research findings and science communication
+  reason: Research Support concentrates on research findings and science communication, with a discoverable feed that makes
+    its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://researchsupport.psu.edu/
+  - https://researchsupport.psu.edu/feed/
+  scores:
+    editorial_quality: 66
+    trust: 69
+    reach: 68
+    freshness: 89
+    ux: 84
+    impact: 67
+- id: physics-mit-edu
+  name: MIT Physics
+  canonical_url: https://physics.mit.edu/
+  country: XX
+  best_for: physics and the mechanisms behind new research
+  reason: MIT Physics concentrates on physics and the mechanisms behind new research, with a discoverable feed, a visible
+    article archive that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://physics.mit.edu/
+  - https://physics.mit.edu/comments/feed/
+  - https://physics.mit.edu/about-physics/
+  scores:
+    editorial_quality: 70
+    trust: 82
+    reach: 78
+    freshness: 45
+    ux: 84
+    impact: 74
+- id: cic-edu
+  name: Council of Independent Colleges
+  canonical_url: https://cic.edu/
+  country: XX
+  best_for: research findings and science communication
+  reason: Council of Independent Colleges concentrates on research findings and science communication, with clear ownership
+    context that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://cic.edu/
+  - https://cic.edu/about/what-we-do
+  scores:
+    editorial_quality: 59
+    trust: 82
+    reach: 75
+    freshness: 62
+    ux: 84
+    impact: 69
+- id: cocoziello-psu-edu
+  name: Cocoziello Institute
+  canonical_url: https://cocoziello.psu.edu/
+  country: XX
+  best_for: climate and environmental science
+  reason: Cocoziello Institute concentrates on climate and environmental science, with a discoverable feed, clear ownership
+    context that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://cocoziello.psu.edu/
+  - https://cocoziello.psu.edu/comments/feed/
+  - https://cocoziello.psu.edu/about/
+  scores:
+    editorial_quality: 66
+    trust: 75
+    reach: 48
+    freshness: 89
+    ux: 84
+    impact: 62
+- id: research-psu-edu
+  name: Penn State Research
+  canonical_url: https://research.psu.edu/
+  country: XX
+  best_for: research findings and science communication
+  reason: Penn State Research concentrates on research findings and science communication, with a discoverable feed that makes
+    its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://research.psu.edu/
+  - https://research.psu.edu/comments/feed/
+  scores:
+    editorial_quality: 64
+    trust: 62
+    reach: 54
+    freshness: 62
+    ux: 84
+    impact: 52
+- id: newswise-com
+  name: Newswise
+  canonical_url: https://newswise.com/
+  country: XX
+  best_for: space, astronomy, and exploration
+  reason: Newswise concentrates on space, astronomy, and exploration, with a discoverable feed, named authorship that makes
+    its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://newswise.com/
+  - https://feeds.feedburner.com/NewswiseBiznews
+  - https://www.newswise.com/space/#
+  scores:
+    editorial_quality: 70
+    trust: 89
+    reach: 84
+    freshness: 89
+    ux: 84
+    impact: 78
+- id: explorescientific-com
+  name: Explore Scientific
+  canonical_url: https://explorescientific.com/
+  country: XX
+  best_for: space, astronomy, and exploration
+  reason: Explore Scientific concentrates on space, astronomy, and exploration, with clear ownership context that makes its
+    current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://explorescientific.com/
+  - https://explorescientific.com/blogs/explorescientific.atom
+  - https://explorescientific.com/pages/about-us
+  scores:
+    editorial_quality: 67
+    trust: 82
+    reach: 83
+    freshness: 88
+    ux: 76
+    impact: 78
+- id: wri-org
+  name: World Resources Institute
+  canonical_url: https://wri.org/
+  country: XX
+  best_for: climate and environmental science
+  reason: World Resources Institute concentrates on climate and environmental science, with a visible article archive, clear
+    ownership context that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://wri.org/
+  - https://www.wri.org/about/experts-staff
+  scores:
+    editorial_quality: 69
+    trust: 89
+    reach: 87
+    freshness: 66
+    ux: 84
+    impact: 89
+- id: blog-elink-io
+  name: elink Blog
+  canonical_url: https://blog.elink.io/
+  country: XX
+  best_for: space, astronomy, and exploration
+  reason: elink Blog concentrates on space, astronomy, and exploration, with a discoverable feed, a visible article archive
+    that makes its current publishing work easier to evaluate.
+  limitation: Authorship and editorial-policy information is less visible than on higher-ranked publications.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://blog.elink.io/
+  - https://blog.elink.io/feed/
+  - https://blog.elink.io/facts-about-content-curation/
+  scores:
+    editorial_quality: 74
+    trust: 68
+    reach: 68
+    freshness: 89
+    ux: 84
+    impact: 60
+- id: ipscell-com
+  name: The Niche
+  canonical_url: https://ipscell.com/
+  country: XX
+  best_for: biology, biotechnology, and life science
+  reason: The Niche concentrates on biology, biotechnology, and life science, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://ipscell.com/
+  - https://ipscell.com/comments/feed/
+  - https://ipscell.com/paul/
+  scores:
+    editorial_quality: 68
+    trust: 82
+    reach: 72
+    freshness: 89
+    ux: 84
+    impact: 69
+- id: biologyonline-com
+  name: Biology Articles, Tutorials & Dictionary Online
+  canonical_url: https://biologyonline.com/
+  country: XX
+  best_for: biology, biotechnology, and life science
+  reason: Biology Articles, Tutorials & Dictionary Online concentrates on biology, biotechnology, and life science, with a
+    discoverable feed that makes its current publishing work easier to evaluate.
+  limitation: Authorship and editorial-policy information is less visible than on higher-ranked publications.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://biologyonline.com/
+  - https://www.biologyonline.com/comments/feed
+  - https://www.biologyonline.com/about-us
+  scores:
+    editorial_quality: 64
+    trust: 61
+    reach: 89
+    freshness: 89
+    ux: 84
+    impact: 74
+- id: astronomypassion-com
+  name: Astronomy Passion
+  canonical_url: https://astronomypassion.com/
+  country: XX
+  best_for: space, astronomy, and exploration
+  reason: Astronomy Passion concentrates on space, astronomy, and exploration, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://astronomypassion.com/
+  - https://www.astronomypassion.com/comments/feed/
+  - https://www.astronomypassion.com/who-we-are/
+  scores:
+    editorial_quality: 72
+    trust: 75
+    reach: 52
+    freshness: 89
+    ux: 84
+    impact: 48
+- id: mongabay-org
+  name: Environmental Journalism and Education
+  canonical_url: https://mongabay.org/
+  country: XX
+  best_for: climate and environmental science
+  reason: Environmental Journalism and Education concentrates on climate and environmental science, with clear ownership context
+    that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://mongabay.org/
+  scores:
+    editorial_quality: 61
+    trust: 62
+    reach: 68
+    freshness: 58
+    ux: 84
+    impact: 87
+- id: calacademy-org
+  name: California Academy of Sciences
+  canonical_url: https://calacademy.org/
+  country: XX
+  best_for: science reporting and research communication
+  reason: California Academy of Sciences concentrates on science reporting and research communication, with a visible article
+    archive, clear ownership context that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://calacademy.org/
+  - https://www.calacademy.org/about-us
+  scores:
+    editorial_quality: 65
+    trust: 77
+    reach: 89
+    freshness: 66
+    ux: 84
+    impact: 89
+- id: botany-one
+  name: Botany One
+  canonical_url: https://botany.one/
+  country: XX
+  best_for: biology, biotechnology, and life science
+  reason: Botany One concentrates on biology, biotechnology, and life science, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://botany.one/
+  - https://www.botany.one/rss/
+  - https://www.botany.one/about/
+  scores:
+    editorial_quality: 72
+    trust: 75
+    reach: 66
+    freshness: 89
+    ux: 84
+    impact: 73
+- id: ibiology-org
+  name: iBiology
+  canonical_url: https://ibiology.org/
+  country: XX
+  best_for: biology, biotechnology, and life science
+  reason: iBiology concentrates on biology, biotechnology, and life science, with a visible article archive, clear ownership
+    context that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://ibiology.org/
+  - https://www.ibiology.org/about/
+  scores:
+    editorial_quality: 65
+    trust: 82
+    reach: 77
+    freshness: 45
+    ux: 84
+    impact: 79
+- id: geniuslabgear-com
+  name: Genius Lab Gear
+  canonical_url: https://geniuslabgear.com/
+  country: XX
+  best_for: physics and the mechanisms behind new research
+  reason: Genius Lab Gear concentrates on physics and the mechanisms behind new research, with clear ownership context that
+    makes its current publishing work easier to evaluate.
+  limitation: Some complete material may require registration, membership, or a paid subscription.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://geniuslabgear.com/
+  - https://geniuslabgear.com/pages/about-us
+  scores:
+    editorial_quality: 65
+    trust: 75
+    reach: 70
+    freshness: 58
+    ux: 84
+    impact: 62
+- id: blogs-scientificamerican-com
+  name: Scientific American
+  canonical_url: https://blogs.scientificamerican.com/
+  country: XX
+  best_for: research findings and science communication
+  reason: Scientific American concentrates on research findings and science communication, with a discoverable feed, a visible
+    article archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://blogs.scientificamerican.com/
+  - https://www.scientificamerican.com/platform/syndication/rss/
+  scores:
+    editorial_quality: 78
+    trust: 83
+    reach: 57
+    freshness: 78
+    ux: 84
+    impact: 88
+- id: atascientific-com-au
+  name: ATA Scientific
+  canonical_url: https://atascientific.com.au/
+  country: AU
+  best_for: physics and the mechanisms behind new research
+  reason: ATA Scientific concentrates on physics and the mechanisms behind new research, with clear ownership context that
+    makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://atascientific.com.au/
+  - https://www.atascientific.com.au/about/
+  scores:
+    editorial_quality: 67
+    trust: 82
+    reach: 70
+    freshness: 88
+    ux: 84
+    impact: 69
+- id: astronomy-com
+  name: Astronomy Magazine
+  canonical_url: https://astronomy.com/
+  country: XX
+  best_for: space, astronomy, and exploration
+  reason: Astronomy Magazine concentrates on space, astronomy, and exploration, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://astronomy.com/
+  - https://www.astronomy.com/comments/feed/
+  - https://www.astronomy.com/about-us/
+  scores:
+    editorial_quality: 72
+    trust: 82
+    reach: 89
+    freshness: 89
+    ux: 84
+    impact: 79
+- id: golifescience-com
+  name: Go Life Science
+  canonical_url: https://golifescience.com/
+  country: XX
+  best_for: biology, biotechnology, and life science
+  reason: Go Life Science concentrates on biology, biotechnology, and life science, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://golifescience.com/
+  - https://golifescience.com/comments/feed/
+  scores:
+    editorial_quality: 72
+    trust: 69
+    reach: 69
+    freshness: 78
+    ux: 84
+    impact: 57
+- id: blog-thespaceacademy-org
+  name: The Space Academy Blog
+  canonical_url: https://blog.thespaceacademy.org/
+  country: XX
+  best_for: space, astronomy, and exploration
+  reason: The Space Academy Blog concentrates on space, astronomy, and exploration, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://blog.thespaceacademy.org/
+  - https://blog.thespaceacademy.org/feeds/posts/default?alt=rss
+  - https://blog.thespaceacademy.org/search/label/About%20Universe
+  scores:
+    editorial_quality: 74
+    trust: 68
+    reach: 47
+    freshness: 45
+    ux: 84
+    impact: 53
+- id: biologyblogs-in
+  name: Biology Blogs
+  canonical_url: https://biologyblogs.in/
+  country: IN
+  best_for: biology, biotechnology, and life science
+  reason: Biology Blogs concentrates on biology, biotechnology, and life science, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://biologyblogs.in/
+  - https://biologyblogs.in/comments/feed/
+  scores:
+    editorial_quality: 72
+    trust: 55
+    reach: 45
+    freshness: 62
+    ux: 84
+    impact: 48
+- id: news-stanford-edu
+  name: Stanford Report
+  canonical_url: https://news.stanford.edu/
+  country: XX
+  best_for: biology, biotechnology, and life science
+  reason: Stanford Report concentrates on biology, biotechnology, and life science, with a visible article archive, clear
+    ownership context that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://news.stanford.edu/
+  scores:
+    editorial_quality: 65
+    trust: 71
+    reach: 86
+    freshness: 66
+    ux: 84
+    impact: 76
+- id: cfa-harvard-edu
+  name: Cfa
+  canonical_url: https://cfa.harvard.edu/
+  country: XX
+  best_for: space, astronomy, and exploration
+  reason: Cfa concentrates on space, astronomy, and exploration, with clear ownership context that makes its current publishing
+    work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://cfa.harvard.edu/
+  - https://www.cfa.harvard.edu/about
+  scores:
+    editorial_quality: 65
+    trust: 77
+    reach: 48
+    freshness: 89
+    ux: 84
+    impact: 64
+- id: science-data-nasa-gov
+  name: Science Data Portal
+  canonical_url: https://science.data.nasa.gov/
+  country: XX
+  best_for: space, astronomy, and exploration
+  reason: Science Data Portal concentrates on space, astronomy, and exploration, with a visible article archive, clear ownership
+    context that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://science.data.nasa.gov/
+  - https://science.data.nasa.gov/blog
+  scores:
+    editorial_quality: 67
+    trust: 84
+    reach: 56
+    freshness: 66
+    ux: 84
+    impact: 61
+- id: blogs-mtu-edu
+  name: Michigan Tech Blogs
+  canonical_url: https://blogs.mtu.edu/
+  country: XX
+  best_for: biology, biotechnology, and life science
+  reason: Michigan Tech Blogs concentrates on biology, biotechnology, and life science, with a discoverable feed, a visible
+    article archive that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://blogs.mtu.edu/
+  - https://blogs.mtu.edu/biological/feed/
+  scores:
+    editorial_quality: 70
+    trust: 71
+    reach: 71
+    freshness: 45
+    ux: 84
+    impact: 63
+- id: climatechangefork-blog-brooklyn-edu
+  name: ClimateChangeFork
+  canonical_url: https://climatechangefork.blog.brooklyn.edu/
+  country: XX
+  best_for: climate and environmental science
+  reason: ClimateChangeFork concentrates on climate and environmental science, with a discoverable feed, named authorship
+    that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://climatechangefork.blog.brooklyn.edu/
+  - https://climatechangefork.blog.brooklyn.edu/comments/feed/
+  scores:
+    editorial_quality: 66
+    trust: 64
+    reach: 56
+    freshness: 89
+    ux: 70
+    impact: 63
+- id: biology-washington-edu
+  name: Biology
+  canonical_url: https://biology.washington.edu/
+  country: XX
+  best_for: biology, biotechnology, and life science
+  reason: Biology concentrates on biology, biotechnology, and life science, with a visible article archive, clear ownership
+    context that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://biology.washington.edu/
+  scores:
+    editorial_quality: 63
+    trust: 77
+    reach: 60
+    freshness: 66
+    ux: 84
+    impact: 55
+- id: bgsa-web-unc-edu
+  name: Biology Graduate Student Association
+  canonical_url: https://bgsa.web.unc.edu/
+  country: XX
+  best_for: biology, biotechnology, and life science
+  reason: Biology Graduate Student Association concentrates on biology, biotechnology, and life science, with a discoverable
+    feed, clear ownership context that makes its current publishing work easier to evaluate.
+  limitation: Authorship and editorial-policy information is less visible than on higher-ranked publications.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://bgsa.web.unc.edu/
+  - https://bgsa.web.unc.edu/feed/
+  scores:
+    editorial_quality: 66
+    trust: 57
+    reach: 46
+    freshness: 89
+    ux: 84
+    impact: 51
+- id: thedebrief-org
+  name: The Debrief
+  canonical_url: https://thedebrief.org/
+  country: XX
+  best_for: physics and the mechanisms behind new research
+  reason: The Debrief concentrates on physics and the mechanisms behind new research, with a discoverable feed, a visible
+    article archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://thedebrief.org/
+  - https://thedebrief.org/category/physics/feed/
+  - https://thedebrief.org/about/
+  scores:
+    editorial_quality: 72
+    trust: 89
+    reach: 77
+    freshness: 89
+    ux: 84
+    impact: 72
+- id: elearningindustry-com
+  name: eLearning Industry
+  canonical_url: https://elearningindustry.com/
+  country: XX
+  best_for: research findings and science communication
+  reason: eLearning Industry concentrates on research findings and science communication, with a discoverable feed, a visible
+    article archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://elearningindustry.com/
+  - https://feeds.feedburner.com/elearningindustry
+  - https://elearningindustry.com/microlearning-isnt-shorter-courses-its-a-different-way-of-thinking-about-retention
+  scores:
+    editorial_quality: 68
+    trust: 89
+    reach: 87
+    freshness: 89
+    ux: 84
+    impact: 79

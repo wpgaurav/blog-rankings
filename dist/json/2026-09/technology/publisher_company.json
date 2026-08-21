@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "edition": "2026-09",
-  "status": "beta",
+  "status": "final",
   "category": {
     "slug": "technology",
     "name": "Technology",
@@ -18,37 +18,39 @@
     "slug": "publisher_company",
     "label": "Publisher and Company Blogs"
   },
-  "count": 10,
+  "count": 100,
   "items": [
     {
       "rank": 1,
-      "id": "wired",
+      "id": "wired-com",
       "name": "WIRED",
       "url": "https://wired.com/",
-      "country": "US",
-      "score": 92.9,
+      "country": "XX",
+      "score": 98.0,
       "movement": "new",
       "best_for": "technology reporting with science, business, and cultural context",
       "reason": "WIRED combines original reporting, investigations, product coverage, and long-form analysis across technology's social and commercial consequences.",
       "limitation": "The broad remit and subscription model make depth and access uneven across sections.",
-      "confidence": "provisional",
+      "confidence": "standard",
       "reviewed_at": "2026-08-21",
       "evidence_urls": [
-        "https://www.wired.com/"
+        "https://www.wired.com/",
+        "https://www.wired.com/feed/rss",
+        "https://www.wired.com/story/are-digital-wall-calendars-worth-it/"
       ]
     },
     {
       "rank": 2,
-      "id": "ars-technica",
+      "id": "arstechnica-com",
       "name": "Ars Technica",
       "url": "https://arstechnica.com/",
-      "country": "US",
-      "score": 92.5,
+      "country": "XX",
+      "score": 97.0,
       "movement": "new",
       "best_for": "technically literate reporting on computing, policy, science, and security",
       "reason": "Ars Technica explains mechanisms and consequences with more technical depth than most general technology publications while maintaining a strong reporting desk.",
       "limitation": "Its detail and assumed background can feel dense for casual readers.",
-      "confidence": "provisional",
+      "confidence": "standard",
       "reviewed_at": "2026-08-21",
       "evidence_urls": [
         "https://arstechnica.com/"
@@ -56,138 +58,1817 @@
     },
     {
       "rank": 3,
-      "id": "the-verge",
+      "id": "theverge-com",
       "name": "The Verge",
       "url": "https://theverge.com/",
-      "country": "US",
-      "score": 91.9,
+      "country": "XX",
+      "score": 96.0,
       "movement": "new",
       "best_for": "consumer technology, platforms, policy, and product culture",
       "reason": "The Verge pairs fast reporting with strong visual storytelling, product expertise, and analysis of how technology changes everyday behavior.",
       "limitation": "Its editorial voice and high publishing volume can produce uneven depth across individual stories.",
-      "confidence": "provisional",
+      "confidence": "standard",
       "reviewed_at": "2026-08-21",
       "evidence_urls": [
-        "https://www.theverge.com/"
+        "https://www.theverge.com/",
+        "https://www.theverge.com/rss/index.xml",
+        "https://www.theverge.com/about-the-verge"
       ]
     },
     {
       "rank": 4,
-      "id": "mit-technology-review",
+      "id": "technologyreview-com",
       "name": "MIT Technology Review",
       "url": "https://technologyreview.com/",
-      "country": "US",
-      "score": 91.6,
+      "country": "XX",
+      "score": 95.0,
       "movement": "new",
       "best_for": "emerging technology, AI, climate, biotechnology, and policy",
       "reason": "MIT Technology Review connects research and industry developments to public consequences with specialist reporting and an unusually clear evidence boundary.",
       "limitation": "A subscription is required for much of the complete reporting.",
-      "confidence": "provisional",
+      "confidence": "standard",
       "reviewed_at": "2026-08-21",
       "evidence_urls": [
-        "https://www.technologyreview.com/"
+        "https://www.technologyreview.com/",
+        "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/"
       ]
     },
     {
       "rank": 5,
-      "id": "ieee-spectrum",
-      "name": "IEEE Spectrum",
-      "url": "https://spectrum.ieee.org/",
-      "country": "US",
-      "score": 89.5,
-      "movement": "new",
-      "best_for": "engineering, robotics, electronics, energy, and applied research",
-      "reason": "IEEE Spectrum covers working technologies through engineers, specialist reporters, technical diagrams, and close attention to how systems are built.",
-      "limitation": "Its engineering focus is narrower than general consumer or startup coverage.",
-      "confidence": "provisional",
-      "reviewed_at": "2026-08-21",
-      "evidence_urls": [
-        "https://spectrum.ieee.org/"
-      ]
-    },
-    {
-      "rank": 6,
-      "id": "toms-hardware",
-      "name": "Tom's Hardware",
-      "url": "https://tomshardware.com/",
-      "country": "US",
-      "score": 89.0,
-      "movement": "new",
-      "best_for": "PC hardware testing, components, benchmarks, and buying decisions",
-      "reason": "Tom's Hardware combines a deep testing archive with current component news, benchmark methodology, and practical system-building coverage.",
-      "limitation": "Commercial buying coverage can overwhelm readers who want broader technology analysis.",
-      "confidence": "provisional",
-      "reviewed_at": "2026-08-21",
-      "evidence_urls": [
-        "https://www.tomshardware.com/"
-      ]
-    },
-    {
-      "rank": 7,
-      "id": "techcrunch",
+      "id": "techcrunch-com",
       "name": "TechCrunch",
       "url": "https://techcrunch.com/",
-      "country": "US",
-      "score": 89.0,
+      "country": "XX",
+      "score": 94.0,
       "movement": "new",
       "best_for": "startups, venture capital, product launches, and technology business news",
       "reason": "TechCrunch maintains one of the broadest active reporting networks for startup funding, company changes, product announcements, and venture markets.",
       "limitation": "The speed and volume of coverage leave less room for depth in many daily stories.",
-      "confidence": "provisional",
+      "confidence": "standard",
       "reviewed_at": "2026-08-21",
       "evidence_urls": [
-        "https://techcrunch.com/"
+        "https://techcrunch.com/",
+        "https://techcrunch.com/feed/",
+        "https://techcrunch.com/about-techcrunch/"
+      ]
+    },
+    {
+      "rank": 6,
+      "id": "spectrum-ieee-org",
+      "name": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/",
+      "country": "XX",
+      "score": 93.0,
+      "movement": "new",
+      "best_for": "engineering, robotics, electronics, energy, and applied research",
+      "reason": "IEEE Spectrum covers working technologies through engineers, specialist reporters, technical diagrams, and close attention to how systems are built.",
+      "limitation": "Its engineering focus is narrower than general consumer or startup coverage.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://spectrum.ieee.org/",
+        "https://spectrum.ieee.org/feeds/feed.rss",
+        "https://spectrum.ieee.org/about"
+      ]
+    },
+    {
+      "rank": 7,
+      "id": "tomshardware-com",
+      "name": "Tom's Hardware",
+      "url": "https://tomshardware.com/",
+      "country": "XX",
+      "score": 92.0,
+      "movement": "new",
+      "best_for": "PC hardware testing, components, benchmarks, and buying decisions",
+      "reason": "Tom's Hardware combines a deep testing archive with current component news, benchmark methodology, and practical system-building coverage.",
+      "limitation": "Commercial buying coverage can overwhelm readers who want broader technology analysis.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://www.tomshardware.com/",
+        "https://www.tomshardware.com/feeds.xml"
       ]
     },
     {
       "rank": 8,
-      "id": "android-authority",
+      "id": "androidauthority-com",
       "name": "Android Authority",
       "url": "https://androidauthority.com/",
-      "country": "US",
-      "score": 87.3,
+      "country": "XX",
+      "score": 91.0,
       "movement": "new",
       "best_for": "Android devices, mobile software, testing, and buying guidance",
       "reason": "Android Authority combines a focused mobile beat with product testing, explainers, opinion, and a large archive of practical device guidance.",
       "limitation": "The consumer-device focus leaves limited room for broader software and technology policy.",
-      "confidence": "provisional",
+      "confidence": "standard",
       "reviewed_at": "2026-08-21",
       "evidence_urls": [
-        "https://www.androidauthority.com/"
+        "https://www.androidauthority.com/",
+        "https://www.androidauthority.com/feed",
+        "https://www.androidauthority.com/pixel-11-pro-one-week-later-impressions-3699430/"
       ]
     },
     {
       "rank": 9,
-      "id": "engadget",
+      "id": "engadget-com",
       "name": "Engadget",
       "url": "https://engadget.com/",
-      "country": "US",
-      "score": 86.7,
+      "country": "XX",
+      "score": 90.0,
       "movement": "new",
       "best_for": "consumer electronics news, reviews, and major industry events",
       "reason": "Engadget maintains broad daily consumer-technology coverage with experienced reviewers and useful event reporting.",
       "limitation": "High publishing volume and commercial coverage make individual article depth inconsistent.",
-      "confidence": "provisional",
+      "confidence": "standard",
       "reviewed_at": "2026-08-21",
       "evidence_urls": [
-        "https://www.engadget.com/"
+        "https://www.engadget.com/",
+        "https://www.engadget.com/feed/",
+        "https://www.engadget.com/about/"
       ]
     },
     {
       "rank": 10,
-      "id": "nine-to-five-mac",
+      "id": "9to5mac-com",
       "name": "9to5Mac",
       "url": "https://9to5mac.com/",
-      "country": "US",
-      "score": 86.2,
+      "country": "XX",
+      "score": 89.0,
       "movement": "new",
       "best_for": "Apple news, software releases, devices, and ecosystem reporting",
       "reason": "9to5Mac follows Apple products and software continuously, often surfacing release details and ecosystem changes before general outlets catch up.",
       "limitation": "Its narrow Apple focus and fast news cycle produce less value outside that ecosystem.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://9to5mac.com/",
+        "https://9to5mac.com/web-stories/feed/",
+        "https://9to5mac.com/about/"
+      ]
+    },
+    {
+      "rank": 11,
+      "id": "cnet-com",
+      "name": "CNET",
+      "url": "https://cnet.com/",
+      "country": "XX",
+      "score": 85.6,
+      "movement": "new",
+      "best_for": "security, privacy, and cyber risk",
+      "reason": "CNET concentrates on security, privacy, and cyber risk, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://cnet.com/",
+        "https://www.cnet.com/tech/services-and-software/cybersecurity/feed/",
+        "https://www.cnet.com/tech/gaming/valve-warns-steam-machine-buyers-about-scam-messages-after-cyberattack/"
+      ]
+    },
+    {
+      "rank": 12,
+      "id": "computerworld-com",
+      "name": "Computerworld",
+      "url": "https://computerworld.com/",
+      "country": "XX",
+      "score": 84.5,
+      "movement": "new",
+      "best_for": "software engineering and developer practice",
+      "reason": "Computerworld concentrates on software engineering and developer practice, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://computerworld.com/",
+        "https://www.computerworld.com/comments/feed/",
+        "https://www.computerworld.com/article/4204562/google-selfie-security.html"
+      ]
+    },
+    {
+      "rank": 13,
+      "id": "csoonline-com",
+      "name": "CSO Online",
+      "url": "https://csoonline.com/",
+      "country": "XX",
+      "score": 84.0,
+      "movement": "new",
+      "best_for": "security, privacy, and cyber risk",
+      "reason": "CSO Online concentrates on security, privacy, and cyber risk, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://csoonline.com/",
+        "https://www.csoonline.com/comments/feed/",
+        "https://www.csoonline.com/article/4210776/openai-presidents-blog-pushing-agentic-ai-most-notable-for-what-it-did-not-say-2.html"
+      ]
+    },
+    {
+      "rank": 14,
+      "id": "mashable-com",
+      "name": "Mashable",
+      "url": "https://mashable.com/",
+      "country": "XX",
+      "score": 84.0,
+      "movement": "new",
+      "best_for": "AI systems and their practical consequences",
+      "reason": "Mashable concentrates on AI systems and their practical consequences, with a discoverable feed, named authorship that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://mashable.com/",
+        "https://mashable.com/feeds/rss/all",
+        "https://mashable.com/tech/chatgpt-for-teens-what-to-know"
+      ]
+    },
+    {
+      "rank": 15,
+      "id": "bleepingcomputer-com",
+      "name": "BleepingComputer",
+      "url": "https://bleepingcomputer.com/",
+      "country": "XX",
+      "score": 83.6,
+      "movement": "new",
+      "best_for": "security, privacy, and cyber risk",
+      "reason": "BleepingComputer concentrates on security, privacy, and cyber risk, with a discoverable feed, named authorship that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://bleepingcomputer.com/",
+        "https://www.bleepingcomputer.com/feed/",
+        "https://www.bleepingcomputer.com/about/"
+      ]
+    },
+    {
+      "rank": 16,
+      "id": "extremetech-com",
+      "name": "ExtremeTech",
+      "url": "https://extremetech.com/",
+      "country": "XX",
+      "score": 83.2,
+      "movement": "new",
+      "best_for": "software engineering and developer practice",
+      "reason": "ExtremeTech concentrates on software engineering and developer practice, with a discoverable feed, named authorship that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://extremetech.com/",
+        "https://www.extremetech.com/feed",
+        "https://www.extremetech.com/about"
+      ]
+    },
+    {
+      "rank": 17,
+      "id": "techspot-com",
+      "name": "TechSpot",
+      "url": "https://techspot.com/",
+      "country": "XX",
+      "score": 83.2,
+      "movement": "new",
+      "best_for": "technology reporting and practical analysis",
+      "reason": "TechSpot concentrates on technology reporting and practical analysis, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://techspot.com/",
+        "https://www.techspot.com/backend.xml",
+        "https://www.techspot.com/community/topics/pew-survey-52-of-americans-now-more-concerned-than-excited-about-ai.298529/"
+      ]
+    },
+    {
+      "rank": 18,
+      "id": "geekwire-com",
+      "name": "GeekWire",
+      "url": "https://geekwire.com/",
+      "country": "XX",
+      "score": 83.0,
+      "movement": "new",
+      "best_for": "technology reporting and practical analysis",
+      "reason": "GeekWire concentrates on technology reporting and practical analysis, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://geekwire.com/",
+        "https://www.geekwire.com/feed/",
+        "https://www.geekwire.com/#"
+      ]
+    },
+    {
+      "rank": 19,
+      "id": "securityweek-com",
+      "name": "SecurityWeek",
+      "url": "https://securityweek.com/",
+      "country": "XX",
+      "score": 83.0,
+      "movement": "new",
+      "best_for": "security, privacy, and cyber risk",
+      "reason": "SecurityWeek concentrates on security, privacy, and cyber risk, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://securityweek.com/",
+        "https://www.securityweek.com/feed/",
+        "https://www.securityweek.com/contributors/stevedurbin/"
+      ]
+    },
+    {
+      "rank": 20,
+      "id": "wpbeginner-com",
+      "name": "WPBeginner",
+      "url": "https://wpbeginner.com/",
+      "country": "XX",
+      "score": 83.0,
+      "movement": "new",
+      "best_for": "WordPress publishing and development",
+      "reason": "WPBeginner concentrates on WordPress publishing and development, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://wpbeginner.com/",
+        "https://www.wpbeginner.com/comments/feed/",
+        "https://www.wpbeginner.com/about-wpbeginner/"
+      ]
+    },
+    {
+      "rank": 21,
+      "id": "techradar-com",
+      "name": "TechRadar",
+      "url": "https://techradar.com/",
+      "country": "XX",
+      "score": 82.6,
+      "movement": "new",
+      "best_for": "AI systems and their practical consequences",
+      "reason": "TechRadar concentrates on AI systems and their practical consequences, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The homepage is heavier and more commercially layered than a focused reading experience.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://techradar.com/",
+        "https://www.techradar.com/feeds.xml",
+        "https://www.techradar.com/computing/virtual-reality-augmented-reality/meta-smart-glasses-could-soon-be-banned-in-cinemas-says-uk-trade-body-but-this-time-its-more-about-piracy-than-privacy"
+      ]
+    },
+    {
+      "rank": 22,
+      "id": "vox-com",
+      "name": "Vox",
+      "url": "https://vox.com/",
+      "country": "XX",
+      "score": 82.6,
+      "movement": "new",
+      "best_for": "AI systems and their practical consequences",
+      "reason": "Vox concentrates on AI systems and their practical consequences, with a discoverable feed, named authorship that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://vox.com/",
+        "https://www.vox.com/rss/technology/index.xml",
+        "https://www.vox.com/politics/492722/supreme-court-texas-app-store-free-speech-students-engaged"
+      ]
+    },
+    {
+      "rank": 23,
+      "id": "slashdot-org",
+      "name": "Slashdot: News for nerds, stuff that matters, & software Bluesky",
+      "url": "https://slashdot.org/",
+      "country": "XX",
+      "score": 82.3,
+      "movement": "new",
+      "best_for": "software engineering and developer practice",
+      "reason": "Slashdot: News for nerds, stuff that matters, & software Bluesky concentrates on software engineering and developer practice, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://slashdot.org/",
+        "https://rss.slashdot.org/Slashdot/slashdotMain",
+        "https://slashdot.org/faq/slashmeta.shtml"
+      ]
+    },
+    {
+      "rank": 24,
+      "id": "bgr-com",
+      "name": "BGR",
+      "url": "https://bgr.com/",
+      "country": "XX",
+      "score": 82.0,
+      "movement": "new",
+      "best_for": "AI systems and their practical consequences",
+      "reason": "BGR concentrates on AI systems and their practical consequences, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://bgr.com/",
+        "https://www.bgr.com/feed/",
+        "https://www.bgr.com/about/"
+      ]
+    },
+    {
+      "rank": 25,
+      "id": "slashgear-com",
+      "name": "SlashGear",
+      "url": "https://slashgear.com/",
+      "country": "XX",
+      "score": 81.4,
+      "movement": "new",
+      "best_for": "AI systems and their practical consequences",
+      "reason": "SlashGear concentrates on AI systems and their practical consequences, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://slashgear.com/",
+        "https://www.slashgear.com/feed/",
+        "https://www.slashgear.com/about/"
+      ]
+    },
+    {
+      "rank": 26,
+      "id": "thehackernews-com",
+      "name": "The Hacker News",
+      "url": "https://thehackernews.com/",
+      "country": "XX",
+      "score": 81.2,
+      "movement": "new",
+      "best_for": "security, privacy, and cyber risk",
+      "reason": "The Hacker News concentrates on security, privacy, and cyber risk, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
       "confidence": "provisional",
       "reviewed_at": "2026-08-21",
       "evidence_urls": [
-        "https://9to5mac.com/"
+        "https://thehackernews.com/",
+        "https://thehackernews.com/feeds/posts/default",
+        "https://thehackernews.com/p/about-us.html"
+      ]
+    },
+    {
+      "rank": 27,
+      "id": "macworld-com",
+      "name": "Macworld",
+      "url": "https://macworld.com/",
+      "country": "XX",
+      "score": 81.2,
+      "movement": "new",
+      "best_for": "AI systems and their practical consequences",
+      "reason": "Macworld concentrates on AI systems and their practical consequences, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://macworld.com/",
+        "https://www.macworld.com/comments/feed",
+        "https://www.macworld.com/about"
+      ]
+    },
+    {
+      "rank": 28,
+      "id": "technewsworld-com",
+      "name": "TechNewsWorld",
+      "url": "https://technewsworld.com/",
+      "country": "XX",
+      "score": 80.7,
+      "movement": "new",
+      "best_for": "security, privacy, and cyber risk",
+      "reason": "TechNewsWorld concentrates on security, privacy, and cyber risk, with a discoverable feed, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://technewsworld.com/",
+        "https://www.technewsworld.com/section/tech-blog/feed",
+        "https://www.technewsworld.com/story/the-world-cup-var-scandal-wasnt-really-about-technology-180447.html"
+      ]
+    },
+    {
+      "rank": 29,
+      "id": "openai-com",
+      "name": "OpenAI",
+      "url": "https://openai.com/",
+      "country": "XX",
+      "score": 80.1,
+      "movement": "new",
+      "best_for": "AI systems and their practical consequences",
+      "reason": "OpenAI concentrates on AI systems and their practical consequences, with a visible article archive, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://openai.com/",
+        "https://openai.com/news/rss.xml",
+        "https://openai.com/about/"
+      ]
+    },
+    {
+      "rank": 30,
+      "id": "infosecurity-magazine-com",
+      "name": "Infosecurity Magazine",
+      "url": "https://infosecurity-magazine.com/",
+      "country": "XX",
+      "score": 80.0,
+      "movement": "new",
+      "best_for": "security, privacy, and cyber risk",
+      "reason": "Infosecurity Magazine concentrates on security, privacy, and cyber risk, with named authorship that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://infosecurity-magazine.com/",
+        "https://www.infosecurity-magazine.com/about/"
+      ]
+    },
+    {
+      "rank": 31,
+      "id": "tripleten-com",
+      "name": "TripleTen",
+      "url": "https://tripleten.com/",
+      "country": "XX",
+      "score": 79.7,
+      "movement": "new",
+      "best_for": "software engineering and developer practice",
+      "reason": "TripleTen concentrates on software engineering and developer practice, with a visible article archive, named authorship that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://tripleten.com/",
+        "https://tripleten.com/blog/posts/rss.xml"
+      ]
+    },
+    {
+      "rank": 32,
+      "id": "howtogeek-com",
+      "name": "How-To Geek",
+      "url": "https://howtogeek.com/",
+      "country": "XX",
+      "score": 79.7,
+      "movement": "new",
+      "best_for": "AI systems and their practical consequences",
+      "reason": "How-To Geek concentrates on AI systems and their practical consequences, with a visible article archive, named authorship that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://howtogeek.com/",
+        "https://www.howtogeek.com/pixel-11-hilight-led-feature-makes-me-worry-about-google/"
+      ]
+    },
+    {
+      "rank": 33,
+      "id": "marktechpost-com",
+      "name": "MarkTechPost",
+      "url": "https://marktechpost.com/",
+      "country": "XX",
+      "score": 79.2,
+      "movement": "new",
+      "best_for": "software engineering and developer practice",
+      "reason": "MarkTechPost concentrates on software engineering and developer practice, with a discoverable feed, named authorship that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://marktechpost.com/",
+        "https://www.marktechpost.com/feed/"
+      ]
+    },
+    {
+      "rank": 34,
+      "id": "techbusinessnews-com-au",
+      "name": "Tech Business News",
+      "url": "https://techbusinessnews.com.au/",
+      "country": "AU",
+      "score": 78.8,
+      "movement": "new",
+      "best_for": "technology reporting and practical analysis",
+      "reason": "Tech Business News concentrates on technology reporting and practical analysis, with a discoverable feed, named authorship that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://techbusinessnews.com.au/",
+        "https://www.techbusinessnews.com.au/feed/",
+        "https://www.techbusinessnews.com.au/#"
+      ]
+    },
+    {
+      "rank": 35,
+      "id": "grahamcluley-com",
+      "name": "Graham Cluley",
+      "url": "https://grahamcluley.com/",
+      "country": "XX",
+      "score": 78.4,
+      "movement": "new",
+      "best_for": "security, privacy, and cyber risk",
+      "reason": "Graham Cluley concentrates on security, privacy, and cyber risk, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://grahamcluley.com/",
+        "https://grahamcluley.com/feed/",
+        "https://grahamcluley.com/about/"
+      ]
+    },
+    {
+      "rank": 36,
+      "id": "8thlight-com",
+      "name": "8th Light",
+      "url": "https://8thlight.com/",
+      "country": "XX",
+      "score": 78.4,
+      "movement": "new",
+      "best_for": "software engineering and developer practice",
+      "reason": "8th Light concentrates on software engineering and developer practice, with a discoverable feed, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://8thlight.com/",
+        "https://8thlight.com/insights/feed/atom.xml",
+        "https://8thlight.com/about"
+      ]
+    },
+    {
+      "rank": 37,
+      "id": "thenextweb-com",
+      "name": "TNW",
+      "url": "https://thenextweb.com/",
+      "country": "XX",
+      "score": 78.3,
+      "movement": "new",
+      "best_for": "technology reporting and practical analysis",
+      "reason": "TNW concentrates on technology reporting and practical analysis, with a visible article archive, named authorship that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://thenextweb.com/",
+        "https://thenextweb.com/news/chatgpt-imessage-plugin-apple-privacy"
+      ]
+    },
+    {
+      "rank": 38,
+      "id": "wordpress-org",
+      "name": "WordPress.org",
+      "url": "https://wordpress.org/",
+      "country": "XX",
+      "score": 78.2,
+      "movement": "new",
+      "best_for": "software engineering and developer practice",
+      "reason": "WordPress.org concentrates on software engineering and developer practice, with a discoverable feed, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://wordpress.org/",
+        "https://wordpress.org/showcase/comments/feed/",
+        "https://wordpress.org/about/"
+      ]
+    },
+    {
+      "rank": 39,
+      "id": "towardsai-net",
+      "name": "Towards AI",
+      "url": "https://towardsai.net/",
+      "country": "XX",
+      "score": 78.2,
+      "movement": "new",
+      "best_for": "AI systems and their practical consequences",
+      "reason": "Towards AI concentrates on AI systems and their practical consequences, with clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://towardsai.net/",
+        "https://towardsai.com/feed",
+        "https://towardsai.com/academy/about/"
+      ]
+    },
+    {
+      "rank": 40,
+      "id": "auth0-com",
+      "name": "Auth0",
+      "url": "https://auth0.com/",
+      "country": "XX",
+      "score": 78.1,
+      "movement": "new",
+      "best_for": "AI systems and their practical consequences",
+      "reason": "Auth0 concentrates on AI systems and their practical consequences, with named authorship that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://auth0.com/",
+        "https://auth0.com/blog/rss.xml"
+      ]
+    },
+    {
+      "rank": 41,
+      "id": "informationweek-com",
+      "name": "Information Week",
+      "url": "https://informationweek.com/",
+      "country": "XX",
+      "score": 77.9,
+      "movement": "new",
+      "best_for": "technology reporting and practical analysis",
+      "reason": "Information Week concentrates on technology reporting and practical analysis, with a visible article archive, named authorship that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://informationweek.com/",
+        "https://www.informationweek.com/about-us"
+      ]
+    },
+    {
+      "rank": 42,
+      "id": "engineering-fb-com",
+      "name": "Engineering at Meta",
+      "url": "https://engineering.fb.com/",
+      "country": "XX",
+      "score": 77.8,
+      "movement": "new",
+      "best_for": "software engineering and developer practice",
+      "reason": "Engineering at Meta concentrates on software engineering and developer practice, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://engineering.fb.com/",
+        "https://engineering.fb.com/category/ai-research/feed/"
+      ]
+    },
+    {
+      "rank": 43,
+      "id": "prnews-io",
+      "name": "PRNEWS.io",
+      "url": "https://prnews.io/",
+      "country": "XX",
+      "score": 77.6,
+      "movement": "new",
+      "best_for": "security, privacy, and cyber risk",
+      "reason": "PRNEWS.io concentrates on security, privacy, and cyber risk, with a visible article archive, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://prnews.io/",
+        "https://prnews.io/about/"
+      ]
+    },
+    {
+      "rank": 44,
+      "id": "huggingface-co",
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/",
+      "country": "XX",
+      "score": 77.6,
+      "movement": "new",
+      "best_for": "AI systems and their practical consequences",
+      "reason": "Hugging Face concentrates on AI systems and their practical consequences, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Authorship and editorial-policy information is less visible than on higher-ranked publications.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://huggingface.co/",
+        "https://huggingface.co/blog/feed.xml",
+        "https://huggingface.co/enterprise"
+      ]
+    },
+    {
+      "rank": 45,
+      "id": "techneeds-com",
+      "name": "Techneeds",
+      "url": "https://techneeds.com/",
+      "country": "XX",
+      "score": 77.5,
+      "movement": "new",
+      "best_for": "software engineering and developer practice",
+      "reason": "Techneeds concentrates on software engineering and developer practice, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://techneeds.com/",
+        "https://www.techneeds.com/comments/feed/",
+        "https://www.techneeds.com/about-us/"
+      ]
+    },
+    {
+      "rank": 46,
+      "id": "bookingpressplugin-com",
+      "name": "WordPress Booking Plugin for Appointment - BookingPress",
+      "url": "https://bookingpressplugin.com/",
+      "country": "XX",
+      "score": 77.2,
+      "movement": "new",
+      "best_for": "WordPress publishing and development",
+      "reason": "WordPress Booking Plugin for Appointment - BookingPress concentrates on WordPress publishing and development, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://bookingpressplugin.com/",
+        "https://www.bookingpressplugin.com/comments/feed/",
+        "https://www.bookingpressplugin.com/support/"
+      ]
+    },
+    {
+      "rank": 47,
+      "id": "rehack-com",
+      "name": "ReHack",
+      "url": "https://rehack.com/",
+      "country": "XX",
+      "score": 77.2,
+      "movement": "new",
+      "best_for": "security, privacy, and cyber risk",
+      "reason": "ReHack concentrates on security, privacy, and cyber risk, with a visible article archive, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://rehack.com/",
+        "https://rehack.com/ai/ai-bubble/"
+      ]
+    },
+    {
+      "rank": 48,
+      "id": "blog-bit-ai",
+      "name": "Bit",
+      "url": "https://blog.bit.ai/",
+      "country": "XX",
+      "score": 77.1,
+      "movement": "new",
+      "best_for": "AI systems and their practical consequences",
+      "reason": "Bit concentrates on AI systems and their practical consequences, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://blog.bit.ai/",
+        "https://blog.bit.ai/comments/feed/",
+        "https://blog.bit.ai/team-collaboration-hub/"
+      ]
+    },
+    {
+      "rank": 49,
+      "id": "machinelearningmastery-com",
+      "name": "MachineLearningMastery.com",
+      "url": "https://machinelearningmastery.com/",
+      "country": "XX",
+      "score": 77.0,
+      "movement": "new",
+      "best_for": "software engineering and developer practice",
+      "reason": "MachineLearningMastery.com concentrates on software engineering and developer practice, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://machinelearningmastery.com/",
+        "https://machinelearningmastery.com/a-gentle-introduction-to-using-r-markdown/feed/",
+        "https://machinelearningmastery.com/about/"
+      ]
+    },
+    {
+      "rank": 50,
+      "id": "hackernoon-com",
+      "name": "HackerNoon",
+      "url": "https://hackernoon.com/",
+      "country": "XX",
+      "score": 76.9,
+      "movement": "new",
+      "best_for": "software engineering and developer practice",
+      "reason": "HackerNoon concentrates on software engineering and developer practice, with a visible article archive, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://hackernoon.com/"
+      ]
+    },
+    {
+      "rank": 51,
+      "id": "brainhub-eu",
+      "name": "Brainhub",
+      "url": "https://brainhub.eu/",
+      "country": "XX",
+      "score": 76.6,
+      "movement": "new",
+      "best_for": "software engineering and developer practice",
+      "reason": "Brainhub concentrates on software engineering and developer practice, with named authorship, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://brainhub.eu/",
+        "https://brainhub.eu/library/rss.xml",
+        "https://brainhub.eu/services/team-augmentation"
+      ]
+    },
+    {
+      "rank": 52,
+      "id": "ectnews-com",
+      "name": "ECT News Network",
+      "url": "https://ectnews.com/",
+      "country": "XX",
+      "score": 76.5,
+      "movement": "new",
+      "best_for": "technology reporting and practical analysis",
+      "reason": "ECT News Network concentrates on technology reporting and practical analysis, with a discoverable feed, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://ectnews.com/",
+        "https://www.ectnews.com/feed/",
+        "https://www.ectnews.com/about"
+      ]
+    },
+    {
+      "rank": 53,
+      "id": "thescalers-com",
+      "name": "The Scalers",
+      "url": "https://thescalers.com/",
+      "country": "XX",
+      "score": 76.5,
+      "movement": "new",
+      "best_for": "software engineering and developer practice",
+      "reason": "The Scalers concentrates on software engineering and developer practice, with a discoverable feed, named authorship that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://thescalers.com/",
+        "https://thescalers.com/comments/feed/",
+        "https://thescalers.com/development-team-extension/"
+      ]
+    },
+    {
+      "rank": 54,
+      "id": "zencoder-ai",
+      "name": "Zencoder",
+      "url": "https://zencoder.ai/",
+      "country": "XX",
+      "score": 76.4,
+      "movement": "new",
+      "best_for": "software engineering and developer practice",
+      "reason": "Zencoder concentrates on software engineering and developer practice, with clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://zencoder.ai/",
+        "https://zencoder.ai/blog/rss.xml",
+        "https://zencoder.ai/about"
+      ]
+    },
+    {
+      "rank": 55,
+      "id": "daily-dev",
+      "name": "daily.dev",
+      "url": "https://daily.dev/",
+      "country": "XX",
+      "score": 76.3,
+      "movement": "new",
+      "best_for": "software engineering and developer practice",
+      "reason": "daily.dev concentrates on software engineering and developer practice, with a visible article archive, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://daily.dev/",
+        "https://daily.dev/posts/community-take-see-what-other-developers-think-about-a-post-bkduk0um3"
+      ]
+    },
+    {
+      "rank": 56,
+      "id": "blog-1byte-com",
+      "name": "1Byte",
+      "url": "https://blog.1byte.com/",
+      "country": "XX",
+      "score": 76.2,
+      "movement": "new",
+      "best_for": "security, privacy, and cyber risk",
+      "reason": "1Byte concentrates on security, privacy, and cyber risk, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://blog.1byte.com/",
+        "https://blog.1byte.com/comments/feed/"
+      ]
+    },
+    {
+      "rank": 57,
+      "id": "engineering-squarespace-com",
+      "name": "Squarespace Engineering Blog",
+      "url": "https://engineering.squarespace.com/",
+      "country": "XX",
+      "score": 76.2,
+      "movement": "new",
+      "best_for": "software engineering and developer practice",
+      "reason": "Squarespace Engineering Blog concentrates on software engineering and developer practice, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://engineering.squarespace.com/",
+        "https://engineering.squarespace.com/blog?format=rss",
+        "https://engineering.squarespace.com/about"
+      ]
+    },
+    {
+      "rank": 58,
+      "id": "codesupply-co",
+      "name": "Code Supply Co.",
+      "url": "https://codesupply.co/",
+      "country": "XX",
+      "score": 76.0,
+      "movement": "new",
+      "best_for": "security, privacy, and cyber risk",
+      "reason": "Code Supply Co. concentrates on security, privacy, and cyber risk, with a visible article archive, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://codesupply.co/",
+        "https://codesupply.co/pages/about-us/"
+      ]
+    },
+    {
+      "rank": 59,
+      "id": "datamation-com",
+      "name": "Datamation",
+      "url": "https://datamation.com/",
+      "country": "XX",
+      "score": 75.7,
+      "movement": "new",
+      "best_for": "security, privacy, and cyber risk",
+      "reason": "Datamation concentrates on security, privacy, and cyber risk, with a discoverable feed, named authorship that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://datamation.com/",
+        "https://www.datamation.com/comments/feed/"
+      ]
+    },
+    {
+      "rank": 60,
+      "id": "techprate-com",
+      "name": "TechPrate",
+      "url": "https://techprate.com/",
+      "country": "XX",
+      "score": 75.5,
+      "movement": "new",
+      "best_for": "devices and consumer technology",
+      "reason": "TechPrate concentrates on devices and consumer technology, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://techprate.com/",
+        "https://www.techprate.com/comments/feed/",
+        "https://www.techprate.com/about/"
+      ]
+    },
+    {
+      "rank": 61,
+      "id": "techcommuters-com",
+      "name": "TechCommuters - Know Tech Well",
+      "url": "https://techcommuters.com/",
+      "country": "XX",
+      "score": 75.5,
+      "movement": "new",
+      "best_for": "software engineering and developer practice",
+      "reason": "TechCommuters - Know Tech Well concentrates on software engineering and developer practice, with clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://techcommuters.com/",
+        "https://www.techcommuters.com/about-us/"
+      ]
+    },
+    {
+      "rank": 62,
+      "id": "claude-com",
+      "name": "Claude",
+      "url": "https://claude.com/",
+      "country": "XX",
+      "score": 75.5,
+      "movement": "new",
+      "best_for": "AI systems and their practical consequences",
+      "reason": "Claude concentrates on AI systems and their practical consequences, with named authorship that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://claude.com/",
+        "https://claude.com/blog/#"
+      ]
+    },
+    {
+      "rank": 63,
+      "id": "developer-ibm-com",
+      "name": "@ibmdeveloper",
+      "url": "https://developer.ibm.com/",
+      "country": "XX",
+      "score": 75.4,
+      "movement": "new",
+      "best_for": "software engineering and developer practice",
+      "reason": "@ibmdeveloper concentrates on software engineering and developer practice, with clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://developer.ibm.com/",
+        "https://developer.ibm.com/about/?lang=en"
+      ]
+    },
+    {
+      "rank": 64,
+      "id": "topbots-com",
+      "name": "TOPBOTS",
+      "url": "https://topbots.com/",
+      "country": "XX",
+      "score": 75.3,
+      "movement": "new",
+      "best_for": "AI systems and their practical consequences",
+      "reason": "TOPBOTS concentrates on AI systems and their practical consequences, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://topbots.com/",
+        "https://www.topbots.com/comments/feed/",
+        "https://www.topbots.com/guest-writer-editorial-content-guidelines/"
+      ]
+    },
+    {
+      "rank": 65,
+      "id": "blog-google",
+      "name": "blog.google",
+      "url": "https://blog.google/",
+      "country": "XX",
+      "score": 75.2,
+      "movement": "new",
+      "best_for": "security, privacy, and cyber risk",
+      "reason": "blog.google concentrates on security, privacy, and cyber risk, with a visible article archive, named authorship that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://blog.google/"
+      ]
+    },
+    {
+      "rank": 66,
+      "id": "manofmany-com",
+      "name": "Man of Many",
+      "url": "https://manofmany.com/",
+      "country": "XX",
+      "score": 75.2,
+      "movement": "new",
+      "best_for": "technology reporting and practical analysis",
+      "reason": "Man of Many concentrates on technology reporting and practical analysis, with named authorship, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://manofmany.com/",
+        "https://manofmany.com/watches/tag-heuer-team-ikuzawa-bamford-carrera-glassbox"
+      ]
+    },
+    {
+      "rank": 67,
+      "id": "news-mit-edu",
+      "name": "MIT News",
+      "url": "https://news.mit.edu/",
+      "country": "XX",
+      "score": 75.0,
+      "movement": "new",
+      "best_for": "technology reporting and practical analysis",
+      "reason": "MIT News concentrates on technology reporting and practical analysis, with a visible article archive, named authorship that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://news.mit.edu/"
+      ]
+    },
+    {
+      "rank": 68,
+      "id": "wearedevelopers-com",
+      "name": "WeAreDevelopers",
+      "url": "https://wearedevelopers.com/",
+      "country": "XX",
+      "score": 74.9,
+      "movement": "new",
+      "best_for": "software engineering and developer practice",
+      "reason": "WeAreDevelopers concentrates on software engineering and developer practice, with a visible article archive, named authorship that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://wearedevelopers.com/",
+        "https://www.wearedevelopers.com/about-labs"
+      ]
+    },
+    {
+      "rank": 69,
+      "id": "s9solution-com",
+      "name": "s9solution.com",
+      "url": "https://s9solution.com/",
+      "country": "XX",
+      "score": 74.7,
+      "movement": "new",
+      "best_for": "security, privacy, and cyber risk",
+      "reason": "s9solution.com concentrates on security, privacy, and cyber risk, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://s9solution.com/",
+        "https://s9solution.com/comments/feed/",
+        "https://s9solution.com/about/"
+      ]
+    },
+    {
+      "rank": 70,
+      "id": "salesforce-com",
+      "name": "Salesforce",
+      "url": "https://salesforce.com/",
+      "country": "XX",
+      "score": 74.7,
+      "movement": "new",
+      "best_for": "AI systems and their practical consequences",
+      "reason": "Salesforce concentrates on AI systems and their practical consequences, with a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://salesforce.com/",
+        "https://www.salesforce.com/slack/"
+      ]
+    },
+    {
+      "rank": 71,
+      "id": "tech-olx-com",
+      "name": "Tech",
+      "url": "https://tech.olx.com/",
+      "country": "XX",
+      "score": 74.5,
+      "movement": "new",
+      "best_for": "software engineering and developer practice",
+      "reason": "Tech concentrates on software engineering and developer practice, with a discoverable feed, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://tech.olx.com/",
+        "https://tech.olx.com/feed",
+        "https://tech.olx.com/about?source=collection_home_page----761b019b483f-----0-----------------------------------"
+      ]
+    },
+    {
+      "rank": 72,
+      "id": "caffeinatedkyle-com",
+      "name": "Caffeinatedkyle",
+      "url": "https://caffeinatedkyle.com/",
+      "country": "XX",
+      "score": 74.3,
+      "movement": "new",
+      "best_for": "technology reporting and practical analysis",
+      "reason": "Caffeinatedkyle concentrates on technology reporting and practical analysis, with a visible article archive, named authorship that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://caffeinatedkyle.com/",
+        "https://caffeinatedkyle.com/about/"
+      ]
+    },
+    {
+      "rank": 73,
+      "id": "blog-honeybadger-io",
+      "name": "Honeybadger",
+      "url": "https://honeybadger.io/blog/",
+      "country": "XX",
+      "score": 74.0,
+      "movement": "new",
+      "best_for": "software engineering and developer practice",
+      "reason": "Honeybadger concentrates on software engineering and developer practice, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://www.honeybadger.io/blog/",
+        "https://www.honeybadger.io/blog/feed.xml",
+        "https://www.honeybadger.io/about/"
+      ]
+    },
+    {
+      "rank": 74,
+      "id": "ghost-org",
+      "name": "Ghost - The Professional Publishing Platform",
+      "url": "https://ghost.org/",
+      "country": "XX",
+      "score": 74.0,
+      "movement": "new",
+      "best_for": "AI systems and their practical consequences",
+      "reason": "Ghost - The Professional Publishing Platform concentrates on AI systems and their practical consequences, with clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://ghost.org/",
+        "https://ghost.org/about/"
+      ]
+    },
+    {
+      "rank": 75,
+      "id": "developers-googleblog-com",
+      "name": "Developers",
+      "url": "https://developers.googleblog.com/",
+      "country": "XX",
+      "score": 73.8,
+      "movement": "new",
+      "best_for": "software engineering and developer practice",
+      "reason": "Developers concentrates on software engineering and developer practice, with a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://developers.googleblog.com/",
+        "https://developers.googleblog.com/heygen-x-google-cloud-bringing-avatar-iv-to-tpus/"
+      ]
+    },
+    {
+      "rank": 76,
+      "id": "darkreading-com",
+      "name": "Dark Reading",
+      "url": "https://darkreading.com/",
+      "country": "XX",
+      "score": 73.2,
+      "movement": "new",
+      "best_for": "security, privacy, and cyber risk",
+      "reason": "Dark Reading concentrates on security, privacy, and cyber risk, with named authorship, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://darkreading.com/"
+      ]
+    },
+    {
+      "rank": 77,
+      "id": "aimagazine-com",
+      "name": "The Latest AI News, Insights and Reports",
+      "url": "https://aimagazine.com/",
+      "country": "XX",
+      "score": 73.1,
+      "movement": "new",
+      "best_for": "AI systems and their practical consequences",
+      "reason": "The Latest AI News, Insights and Reports concentrates on AI systems and their practical consequences, with named authorship, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://aimagazine.com/",
+        "https://aimagazine.com/news/anthropic-research-shows-how-evil-ai-can-lie-and-sabotage"
+      ]
+    },
+    {
+      "rank": 78,
+      "id": "tech-eu",
+      "name": "Tech.eu",
+      "url": "https://tech.eu/",
+      "country": "XX",
+      "score": 72.8,
+      "movement": "new",
+      "best_for": "technology reporting and practical analysis",
+      "reason": "Tech.eu concentrates on technology reporting and practical analysis, with named authorship, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://tech.eu/",
+        "https://tech.eu/about-us/"
+      ]
+    },
+    {
+      "rank": 79,
+      "id": "tech-instacart-com",
+      "name": "Tech",
+      "url": "https://tech.instacart.com/",
+      "country": "XX",
+      "score": 72.6,
+      "movement": "new",
+      "best_for": "software engineering and developer practice",
+      "reason": "Tech concentrates on software engineering and developer practice, with a discoverable feed, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://tech.instacart.com/",
+        "https://tech.instacart.com/feed"
+      ]
+    },
+    {
+      "rank": 80,
+      "id": "archiveprogram-github-com",
+      "name": "GitHub Archive Program",
+      "url": "https://archiveprogram.github.com/",
+      "country": "XX",
+      "score": 72.4,
+      "movement": "new",
+      "best_for": "software engineering and developer practice",
+      "reason": "GitHub Archive Program concentrates on software engineering and developer practice, with a discoverable feed that makes its current publishing work easier to evaluate.",
+      "limitation": "Authorship and editorial-policy information is less visible than on higher-ranked publications.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://archiveprogram.github.com/",
+        "https://archiveprogram.github.com/feed.xml"
+      ]
+    },
+    {
+      "rank": 81,
+      "id": "cybermagazine-com",
+      "name": "Home of Cybersecurity News",
+      "url": "https://cybermagazine.com/",
+      "country": "XX",
+      "score": 72.0,
+      "movement": "new",
+      "best_for": "security, privacy, and cyber risk",
+      "reason": "Home of Cybersecurity News concentrates on security, privacy, and cyber risk, with clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://cybermagazine.com/",
+        "https://cybermagazine.com/about"
+      ]
+    },
+    {
+      "rank": 82,
+      "id": "themegrill-com",
+      "name": "ThemeGrill",
+      "url": "https://themegrill.com/",
+      "country": "XX",
+      "score": 72.0,
+      "movement": "new",
+      "best_for": "WordPress publishing and development",
+      "reason": "ThemeGrill concentrates on WordPress publishing and development, with a discoverable feed, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://themegrill.com/",
+        "https://themegrill.com/blog/most-popular-wordpress-blogs-to-follow/feed/",
+        "https://themegrill.com/about/"
+      ]
+    },
+    {
+      "rank": 83,
+      "id": "techlife-blog",
+      "name": "TechLife — AI, Software Engineering & Emerging Technology",
+      "url": "https://techlife.blog/",
+      "country": "XX",
+      "score": 71.5,
+      "movement": "new",
+      "best_for": "software engineering and developer practice",
+      "reason": "TechLife — AI, Software Engineering & Emerging Technology concentrates on software engineering and developer practice, with a discoverable feed, named authorship that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://techlife.blog/",
+        "https://techlife.blog/rss.xml",
+        "https://techlife.blog/about"
+      ]
+    },
+    {
+      "rank": 84,
+      "id": "blog-codeship-com",
+      "name": "CloudBees Blog",
+      "url": "https://blog.codeship.com/",
+      "country": "XX",
+      "score": 71.3,
+      "movement": "new",
+      "best_for": "security, privacy, and cyber risk",
+      "reason": "CloudBees Blog concentrates on security, privacy, and cyber risk, with a discoverable feed, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://blog.codeship.com/",
+        "https://www.cloudbees.com/blog/rss.xml",
+        "https://www.cloudbees.com/about-us"
+      ]
+    },
+    {
+      "rank": 85,
+      "id": "blog-lerner-co-il",
+      "name": "LernerPython",
+      "url": "https://blog.lerner.co.il/",
+      "country": "XX",
+      "score": 70.8,
+      "movement": "new",
+      "best_for": "software engineering and developer practice",
+      "reason": "LernerPython concentrates on software engineering and developer practice, with a discoverable feed, named authorship that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://blog.lerner.co.il/",
+        "https://lernerpython.com/feed/",
+        "https://lernerpython.com/product/team-membership/"
+      ]
+    },
+    {
+      "rank": 86,
+      "id": "engineering-indeedblog-com",
+      "name": "Indeed Engineering Blog",
+      "url": "https://engineering.indeedblog.com/",
+      "country": "XX",
+      "score": 70.5,
+      "movement": "new",
+      "best_for": "software engineering and developer practice",
+      "reason": "Indeed Engineering Blog concentrates on software engineering and developer practice, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Authorship and editorial-policy information is less visible than on higher-ranked publications.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://engineering.indeedblog.com/",
+        "https://engineering.indeedblog.com/comments/feed/"
+      ]
+    },
+    {
+      "rank": 87,
+      "id": "techthelead-com",
+      "name": "TechTheLead",
+      "url": "https://techthelead.com/",
+      "country": "XX",
+      "score": 70.5,
+      "movement": "new",
+      "best_for": "technology reporting and practical analysis",
+      "reason": "TechTheLead concentrates on technology reporting and practical analysis, with a discoverable feed, named authorship that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://techthelead.com/",
+        "https://techthelead.com/comments/feed/",
+        "https://techthelead.com/lan-parties-book-nostalgia-merrit-k/"
+      ]
+    },
+    {
+      "rank": 88,
+      "id": "eng-lyft-com",
+      "name": "Eng",
+      "url": "https://eng.lyft.com/",
+      "country": "XX",
+      "score": 70.0,
+      "movement": "new",
+      "best_for": "software engineering and developer practice",
+      "reason": "Eng concentrates on software engineering and developer practice, with a discoverable feed, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://eng.lyft.com/",
+        "https://eng.lyft.com/feed"
+      ]
+    },
+    {
+      "rank": 89,
+      "id": "izood-net",
+      "name": "Izood",
+      "url": "https://izood.net/",
+      "country": "XX",
+      "score": 69.9,
+      "movement": "new",
+      "best_for": "software engineering and developer practice",
+      "reason": "Izood concentrates on software engineering and developer practice, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://izood.net/",
+        "https://izood.net/technology/software-engineering-blog/feed/",
+        "https://izood.net/izood-submit_post/"
+      ]
+    },
+    {
+      "rank": 90,
+      "id": "developer-wordpress-com",
+      "name": "WordPress.com Developer Resources",
+      "url": "https://developer.wordpress.com/",
+      "country": "XX",
+      "score": 69.9,
+      "movement": "new",
+      "best_for": "software engineering and developer practice",
+      "reason": "WordPress.com Developer Resources concentrates on software engineering and developer practice, with a discoverable feed, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://developer.wordpress.com/",
+        "https://developer.wordpress.com/comments/feed/"
+      ]
+    },
+    {
+      "rank": 91,
+      "id": "deliveroo-engineering",
+      "name": "deliveroo.engineering",
+      "url": "https://deliveroo.engineering/",
+      "country": "XX",
+      "score": 69.2,
+      "movement": "new",
+      "best_for": "software engineering and developer practice",
+      "reason": "deliveroo.engineering concentrates on software engineering and developer practice, with a discoverable feed, named authorship that makes its current publishing work easier to evaluate.",
+      "limitation": "Authorship and editorial-policy information is less visible than on higher-ranked publications.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://deliveroo.engineering/",
+        "https://deliveroo.engineering/feed.xml",
+        "https://deliveroo.engineering/authors/"
+      ]
+    },
+    {
+      "rank": 92,
+      "id": "tech-homeaway-com",
+      "name": "Tech",
+      "url": "https://tech.homeaway.com/",
+      "country": "XX",
+      "score": 68.7,
+      "movement": "new",
+      "best_for": "technology reporting and practical analysis",
+      "reason": "Tech concentrates on technology reporting and practical analysis, with a discoverable feed, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://tech.homeaway.com/",
+        "https://medium.com/feed/expedia-group-tech",
+        "https://medium.com/about?autoplay=1"
+      ]
+    },
+    {
+      "rank": 93,
+      "id": "fairygodboss-com",
+      "name": "Fairygodboss",
+      "url": "https://fairygodboss.com/",
+      "country": "XX",
+      "score": 68.3,
+      "movement": "new",
+      "best_for": "AI systems and their practical consequences",
+      "reason": "Fairygodboss concentrates on AI systems and their practical consequences, with a clearly defined editorial focus that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://fairygodboss.com/"
+      ]
+    },
+    {
+      "rank": 94,
+      "id": "resources-plainenglish-io",
+      "name": "Resources",
+      "url": "https://resources.plainenglish.io/",
+      "country": "XX",
+      "score": 68.2,
+      "movement": "new",
+      "best_for": "software engineering and developer practice",
+      "reason": "Resources concentrates on software engineering and developer practice, with named authorship that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://resources.plainenglish.io/",
+        "https://resources.plainenglish.io/what-are-the-best-author-contributor-platforms-for-developers"
+      ]
+    },
+    {
+      "rank": 95,
+      "id": "benchling-engineering",
+      "name": "Benchling",
+      "url": "https://benchling.engineering/",
+      "country": "XX",
+      "score": 67.8,
+      "movement": "new",
+      "best_for": "software engineering and developer practice",
+      "reason": "Benchling concentrates on software engineering and developer practice, with a discoverable feed, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://benchling.engineering/",
+        "https://benchling.engineering/feed"
+      ]
+    },
+    {
+      "rank": 96,
+      "id": "careers-logixtek-com",
+      "name": "Logix Technology Careers",
+      "url": "https://careers.logixtek.com/",
+      "country": "XX",
+      "score": 66.8,
+      "movement": "new",
+      "best_for": "software engineering and developer practice",
+      "reason": "Logix Technology Careers concentrates on software engineering and developer practice, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://careers.logixtek.com/",
+        "https://careers.logixtek.com/feed/",
+        "https://careers.logixtek.com/beautiful-tet-gifts-a-tradition-of-appreciation-and-team-unity/"
+      ]
+    },
+    {
+      "rank": 97,
+      "id": "onlinehikes-com",
+      "name": "Online Hikes",
+      "url": "https://onlinehikes.com/",
+      "country": "XX",
+      "score": 66.8,
+      "movement": "new",
+      "best_for": "technology reporting and practical analysis",
+      "reason": "Online Hikes concentrates on technology reporting and practical analysis, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://onlinehikes.com/",
+        "https://onlinehikes.com/rss/",
+        "https://onlinehikes.com/video-marketing-do-for-your-brand/"
+      ]
+    },
+    {
+      "rank": 98,
+      "id": "victoria-dev",
+      "name": "victoria.dev",
+      "url": "https://victoria.dev/",
+      "country": "XX",
+      "score": 66.7,
+      "movement": "new",
+      "best_for": "software engineering and developer practice",
+      "reason": "victoria.dev concentrates on software engineering and developer practice, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://victoria.dev/",
+        "https://victoria.dev/index.xml"
+      ]
+    },
+    {
+      "rank": 99,
+      "id": "tech-just-eat-com",
+      "name": "Tech",
+      "url": "https://tech.just-eat.com/",
+      "country": "XX",
+      "score": 65.2,
+      "movement": "new",
+      "best_for": "technology reporting and practical analysis",
+      "reason": "Tech concentrates on technology reporting and practical analysis, with a discoverable feed, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://tech.just-eat.com/",
+        "https://medium.com/feed/justeattakeaway-tech"
+      ]
+    },
+    {
+      "rank": 100,
+      "id": "blog-moove-it-com",
+      "name": "Qubika",
+      "url": "https://blog.moove-it.com/",
+      "country": "XX",
+      "score": 63.0,
+      "movement": "new",
+      "best_for": "software engineering and developer practice",
+      "reason": "Qubika concentrates on software engineering and developer practice, with a discoverable feed, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://blog.moove-it.com/",
+        "https://qubika.com/comments/feed/",
+        "https://qubika.com/about-us/"
       ]
     }
   ]

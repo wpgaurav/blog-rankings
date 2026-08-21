@@ -5,6 +5,7 @@ from __future__ import annotations
 
 import json
 import re
+from collections import defaultdict
 from pathlib import Path
 
 from common import (
@@ -26,16 +27,23 @@ NOFOLLOW_LINK = re.compile(r'<a\s+href="https://[^\"]+"\s+rel="nofollow noopener
 
 def validate_sources() -> None:
     known = categories()
-    seen_ids: set[str] = set()
+    id_categories: defaultdict[str, set[str]] = defaultdict(set)
+    category_ids: defaultdict[str, set[str]] = defaultdict(set)
     for path in source_files():
         source = load_yaml(path)
         validate_document(source, SOURCE_SCHEMA, str(path.relative_to(ROOT)))
         if source["category"] not in known:
             raise RankingsError(f"{path}: unknown category")
         for entry in source["entries"]:
-            if entry["id"] in seen_ids:
-                raise RankingsError(f"duplicate publication id: {entry['id']}")
-            seen_ids.add(entry["id"])
+            if entry["id"] in category_ids[source["category"]]:
+                raise RankingsError(f"duplicate publication id inside {source['category']}: {entry['id']}")
+            category_ids[source["category"]].add(entry["id"])
+            id_categories[entry["id"]].add(source["category"])
+    for publication_id, publication_categories in id_categories.items():
+        if len(publication_categories) > 2:
+            raise RankingsError(
+                f"publication appears in more than two categories: {publication_id} ({len(publication_categories)})"
+            )
 
 
 def validate_generated() -> None:

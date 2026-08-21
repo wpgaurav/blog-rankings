@@ -188,10 +188,17 @@ def build() -> None:
         },
     )
     write_json(ROOT / "dist" / "changes" / f"{latest_edition}.json", changes)
+    all_final = all(item["status"] == "final" for item in index_categories)
     release_lines = [
         f"# {latest_edition} Edition",
         "",
-        "This is a beta platform edition. Every listed entry is provisional until the full Top 100 and second-review gates pass.",
+        (
+            "This complete edition contains 100 Independent Blogs and 100 Publisher and Company Blogs in each of 10 categories."
+            if all_final
+            else "This is a beta platform edition. Every listed entry is provisional until the full Top 100 gate passes."
+        ),
+        "",
+        "Category Winner badges remain unissued until an independent second reviewer completes that governance gate.",
         "",
     ]
     for item in index_categories:

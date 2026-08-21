@@ -24,6 +24,7 @@ jobs:
       - run: python -m pip install -r requirements.txt
       - run: python scripts/build.py
       - run: python scripts/validate.py
+      - run: python scripts/audit_final_sources.py --source data/rankings
       - run: python -m unittest discover -s tests
       - run: python scripts/check_links.py
       - uses: actions/upload-artifact@v7

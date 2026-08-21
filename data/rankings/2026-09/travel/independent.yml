@@ -1,0 +1,2100 @@
+schema_version: 1
+edition: 2026-09
+published_at: '2026-08-21T12:00:00Z'
+status: final
+category: travel
+track: independent
+entries:
+- id: adventurouskate-com
+  name: Adventurous Kate
+  canonical_url: https://adventurouskate.com/
+  country: XX
+  best_for: solo travel and independent trip planning
+  reason: Adventurous Kate concentrates on solo travel and independent trip planning, with a discoverable feed, a visible
+    article archive that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://adventurouskate.com/
+  - https://www.adventurouskate.com/web-stories/feed/
+  - https://www.adventurouskate.com/about-this-blog/
+  scores:
+    editorial_quality: 98
+    trust: 97
+    reach: 96
+    freshness: 97
+    ux: 96
+    impact: 97
+- id: neverendingfootsteps-com
+  name: Never Ending Footsteps
+  canonical_url: https://neverendingfootsteps.com/
+  country: XX
+  best_for: travel planning and destination insight
+  reason: Never Ending Footsteps concentrates on travel planning and destination insight, with a discoverable feed, a visible
+    article archive that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://neverendingfootsteps.com/
+  - https://www.neverendingfootsteps.com/feed/
+  - https://www.neverendingfootsteps.com/about-lauren/
+  scores:
+    editorial_quality: 91
+    trust: 90
+    reach: 89
+    freshness: 90
+    ux: 89
+    impact: 90
+- id: oneikathetraveller-com
+  name: Oneika the Traveller
+  canonical_url: https://oneikathetraveller.com/
+  country: XX
+  best_for: travel planning and destination insight
+  reason: Oneika the Traveller concentrates on travel planning and destination insight, with a discoverable feed, a visible
+    article archive that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://oneikathetraveller.com/
+  - https://www.oneikathetraveller.com/comments/feed
+  - https://www.oneikathetraveller.com/about-oneika-2
+  scores:
+    editorial_quality: 90
+    trust: 89
+    reach: 88
+    freshness: 89
+    ux: 88
+    impact: 89
+- id: wanderingearl-com
+  name: Wandering Earl
+  canonical_url: https://wanderingearl.com/
+  country: XX
+  best_for: travel planning and destination insight
+  reason: Wandering Earl concentrates on travel planning and destination insight, with a visible article archive, named authorship
+    that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://wanderingearl.com/
+  - https://wanderingearl.com/about/
+  scores:
+    editorial_quality: 96
+    trust: 95
+    reach: 94
+    freshness: 95
+    ux: 94
+    impact: 95
+- id: thebrokebackpacker-com
+  name: The Broke Backpacker
+  canonical_url: https://thebrokebackpacker.com/
+  country: XX
+  best_for: budget travel and long-term exploration
+  reason: The Broke Backpacker concentrates on budget travel and long-term exploration, with a visible article archive, named
+    authorship that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://thebrokebackpacker.com/
+  - https://thebrokebackpacker.com/cheap-places-to-travel-broke/#
+  scores:
+    editorial_quality: 93
+    trust: 92
+    reach: 91
+    freshness: 92
+    ux: 91
+    impact: 92
+- id: findingtheuniverse-com
+  name: Finding the Universe
+  canonical_url: https://findingtheuniverse.com/
+  country: XX
+  best_for: travel planning and destination insight
+  reason: Finding the Universe concentrates on travel planning and destination insight, with a discoverable feed, a visible
+    article archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://findingtheuniverse.com/
+  - https://www.findingtheuniverse.com/comments/feed/
+  - https://www.findingtheuniverse.com/about-me/
+  scores:
+    editorial_quality: 94
+    trust: 93
+    reach: 92
+    freshness: 93
+    ux: 92
+    impact: 93
+- id: handluggageonly-co-uk
+  name: Hand Luggage Only
+  canonical_url: https://handluggageonly.co.uk/
+  country: GB
+  best_for: travel planning and destination insight
+  reason: Hand Luggage Only concentrates on travel planning and destination insight, with a discoverable feed, clear ownership
+    context that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://handluggageonly.co.uk/
+  - https://handluggageonly.co.uk/feed/
+  - https://handluggageonly.co.uk/about/
+  scores:
+    editorial_quality: 92
+    trust: 91
+    reach: 90
+    freshness: 91
+    ux: 90
+    impact: 91
+- id: expertvagabond-com
+  name: Expert Vagabond
+  canonical_url: https://expertvagabond.com/
+  country: XX
+  best_for: family travel and practical itineraries
+  reason: Expert Vagabond concentrates on family travel and practical itineraries, with a visible article archive, clear ownership
+    context that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://expertvagabond.com/
+  scores:
+    editorial_quality: 97
+    trust: 96
+    reach: 95
+    freshness: 96
+    ux: 95
+    impact: 96
+- id: ytravelblog-com
+  name: Y Travel Blog
+  canonical_url: https://ytravelblog.com/
+  country: XX
+  best_for: travel planning and destination insight
+  reason: Y Travel Blog concentrates on travel planning and destination insight, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://ytravelblog.com/
+  - https://www.ytravelblog.com/web-stories/feed/
+  - https://www.ytravelblog.com/about-us/
+  scores:
+    editorial_quality: 95
+    trust: 94
+    reach: 93
+    freshness: 94
+    ux: 93
+    impact: 94
+- id: nomadicmatt-com
+  name: Nomadic Matt
+  canonical_url: https://nomadicmatt.com/
+  country: XX
+  best_for: solo travel and independent trip planning
+  reason: Nomadic Matt concentrates on solo travel and independent trip planning, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://nomadicmatt.com/
+  - https://www.nomadicmatt.com/travel-blogs/my-current-list-of-favorite-blogs/feed/
+  - https://www.nomadicmatt.com/about-matt/
+  scores:
+    editorial_quality: 99
+    trust: 98
+    reach: 97
+    freshness: 98
+    ux: 97
+    impact: 98
+- id: thesolotravelinstyleblog-com
+  name: The Solo Travel in Style Blog - Inspiring your next destination
+  canonical_url: https://thesolotravelinstyleblog.com/
+  country: XX
+  best_for: solo travel and independent trip planning
+  reason: The Solo Travel in Style Blog - Inspiring your next destination concentrates on solo travel and independent trip
+    planning, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://thesolotravelinstyleblog.com/
+  - https://thesolotravelinstyleblog.com/comments/feed/
+  - https://thesolotravelinstyleblog.com/about-me/
+  scores:
+    editorial_quality: 72
+    trust: 89
+    reach: 63
+    freshness: 89
+    ux: 84
+    impact: 56
+- id: foreverlostintravel-com
+  name: Forever Lost In Travel
+  canonical_url: https://foreverlostintravel.com/
+  country: XX
+  best_for: budget travel and long-term exploration
+  reason: Forever Lost In Travel concentrates on budget travel and long-term exploration, with a discoverable feed, a visible
+    article archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://foreverlostintravel.com/
+  - https://foreverlostintravel.com/comments/feed/
+  - https://foreverlostintravel.com/about/
+  scores:
+    editorial_quality: 70
+    trust: 87
+    reach: 81
+    freshness: 89
+    ux: 84
+    impact: 63
+- id: budgettravelwithgabby-com
+  name: Budget Travel With Gabby
+  canonical_url: https://budgettravelwithgabby.com/
+  country: XX
+  best_for: budget travel and long-term exploration
+  reason: Budget Travel With Gabby concentrates on budget travel and long-term exploration, with a discoverable feed, a visible
+    article archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://budgettravelwithgabby.com/
+  - https://budgettravelwithgabby.com/comments/feed/
+  - https://budgettravelwithgabby.com/about-me-budget-travel-with-gabby/
+  scores:
+    editorial_quality: 68
+    trust: 80
+    reach: 79
+    freshness: 89
+    ux: 84
+    impact: 65
+- id: emmaeatsandexplores-com
+  name: Emma Eats & Explores
+  canonical_url: https://emmaeatsandexplores.com/
+  country: XX
+  best_for: travel planning and destination insight
+  reason: Emma Eats & Explores concentrates on travel planning and destination insight, with a discoverable feed, clear ownership
+    context that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://emmaeatsandexplores.com/
+  - https://emmaeatsandexplores.com/comments/feed/
+  - https://emmaeatsandexplores.com/category/about-me/
+  scores:
+    editorial_quality: 66
+    trust: 87
+    reach: 72
+    freshness: 89
+    ux: 84
+    impact: 71
+- id: cassiethehag-com
+  name: cassiethehag
+  canonical_url: https://cassiethehag.com/
+  country: XX
+  best_for: solo travel and independent trip planning
+  reason: cassiethehag concentrates on solo travel and independent trip planning, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://cassiethehag.com/
+  - https://cassiethehag.com/comments/feed/
+  - https://cassiethehag.com/about/
+  scores:
+    editorial_quality: 70
+    trust: 80
+    reach: 66
+    freshness: 89
+    ux: 84
+    impact: 67
+- id: shortgirltravels-com
+  name: Short Girl Travels
+  canonical_url: https://shortgirltravels.com/
+  country: XX
+  best_for: budget travel and long-term exploration
+  reason: Short Girl Travels concentrates on budget travel and long-term exploration, with a discoverable feed, clear ownership
+    context that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://shortgirltravels.com/
+  - https://shortgirltravels.com/budget-travel-tips-from-a-frugal-financial-pro/feed/
+  - https://shortgirltravels.com/about-me/
+  scores:
+    editorial_quality: 64
+    trust: 80
+    reach: 71
+    freshness: 88
+    ux: 84
+    impact: 53
+- id: quirkytravelguy-com
+  name: Quirky Travel Guy
+  canonical_url: https://quirkytravelguy.com/
+  country: XX
+  best_for: budget travel and long-term exploration
+  reason: Quirky Travel Guy concentrates on budget travel and long-term exploration, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://quirkytravelguy.com/
+  - https://quirkytravelguy.com/comments/feed/
+  scores:
+    editorial_quality: 70
+    trust: 71
+    reach: 77
+    freshness: 78
+    ux: 84
+    impact: 69
+- id: cheapestdestinationsblog-com
+  name: Cheapest Destinations Blog
+  canonical_url: https://cheapestdestinationsblog.com/
+  country: XX
+  best_for: budget travel and long-term exploration
+  reason: Cheapest Destinations Blog concentrates on budget travel and long-term exploration, with a discoverable feed, a
+    visible article archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://cheapestdestinationsblog.com/
+  - https://www.cheapestdestinationsblog.com/comments/feed/
+  - https://www.cheapestdestinationsblog.com/about-me/
+  scores:
+    editorial_quality: 70
+    trust: 89
+    reach: 79
+    freshness: 89
+    ux: 84
+    impact: 74
+- id: gapyearfamily-com
+  name: The Family Gap Year | Travel The World with Kids
+  canonical_url: https://gapyearfamily.com/
+  country: XX
+  best_for: family travel and practical itineraries
+  reason: The Family Gap Year | Travel The World with Kids concentrates on family travel and practical itineraries, with a
+    discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://gapyearfamily.com/
+  - https://www.gapyearfamily.com/feed/
+  - https://www.gapyearfamily.com/about/
+  scores:
+    editorial_quality: 72
+    trust: 80
+    reach: 50
+    freshness: 45
+    ux: 84
+    impact: 52
+- id: thattravelista-com
+  name: That Travelista
+  canonical_url: https://thattravelista.com/
+  country: XX
+  best_for: budget travel and long-term exploration
+  reason: That Travelista concentrates on budget travel and long-term exploration, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://thattravelista.com/
+  - https://thattravelista.com/web-stories/feed/
+  - https://thattravelista.com/about/
+  scores:
+    editorial_quality: 72
+    trust: 87
+    reach: 78
+    freshness: 89
+    ux: 84
+    impact: 60
+- id: onmycanvas-com
+  name: On My Canvas
+  canonical_url: https://onmycanvas.com/
+  country: XX
+  best_for: solo travel and independent trip planning
+  reason: On My Canvas concentrates on solo travel and independent trip planning, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://onmycanvas.com/
+  - https://www.onmycanvas.com/comments/feed/
+  - https://www.onmycanvas.com/about/
+  scores:
+    editorial_quality: 70
+    trust: 87
+    reach: 80
+    freshness: 89
+    ux: 84
+    impact: 63
+- id: thetravelexpert-ie
+  name: The Travel Expert
+  canonical_url: https://thetravelexpert.ie/
+  country: IE
+  best_for: solo travel and independent trip planning
+  reason: The Travel Expert concentrates on solo travel and independent trip planning, with a discoverable feed, a visible
+    article archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://thetravelexpert.ie/
+  - https://thetravelexpert.ie/the-travel-expert-2-4/feed/
+  - https://thetravelexpert.ie/about-me/
+  scores:
+    editorial_quality: 70
+    trust: 89
+    reach: 83
+    freshness: 78
+    ux: 84
+    impact: 66
+- id: lorilovesadventure-com
+  name: Lori Loves Adventure
+  canonical_url: https://lorilovesadventure.com/
+  country: XX
+  best_for: solo travel and independent trip planning
+  reason: Lori Loves Adventure concentrates on solo travel and independent trip planning, with a discoverable feed, a visible
+    article archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://lorilovesadventure.com/
+  - https://lorilovesadventure.com/blogs-for-solo-travel/feed/
+  - https://lorilovesadventure.com/about-midlife-travel-blog/
+  scores:
+    editorial_quality: 72
+    trust: 87
+    reach: 71
+    freshness: 88
+    ux: 84
+    impact: 58
+- id: simplitty-com
+  name: Simplitty | Solo Female Travel Blog by Nicole
+  canonical_url: https://simplitty.com/
+  country: XX
+  best_for: solo travel and independent trip planning
+  reason: Simplitty | Solo Female Travel Blog by Nicole concentrates on solo travel and independent trip planning, with a
+    discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://simplitty.com/
+  - https://www.simplitty.com/comments/feed/
+  - https://www.simplitty.com/about/
+  scores:
+    editorial_quality: 76
+    trust: 89
+    reach: 52
+    freshness: 89
+    ux: 84
+    impact: 57
+- id: detailorientedtraveler-com
+  name: Detail Oriented Traveler
+  canonical_url: https://detailorientedtraveler.com/
+  country: XX
+  best_for: travel planning and destination insight
+  reason: Detail Oriented Traveler concentrates on travel planning and destination insight, with a discoverable feed, a visible
+    article archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://detailorientedtraveler.com/
+  - https://www.detailorientedtraveler.com/comments/feed/
+  - https://www.detailorientedtraveler.com/about-2/
+  scores:
+    editorial_quality: 72
+    trust: 80
+    reach: 75
+    freshness: 89
+    ux: 84
+    impact: 72
+- id: nomadicbackpacker-com
+  name: Nomadic Backpacker
+  canonical_url: https://nomadicbackpacker.com/
+  country: XX
+  best_for: budget travel and long-term exploration
+  reason: Nomadic Backpacker concentrates on budget travel and long-term exploration, with a discoverable feed, a visible
+    article archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://nomadicbackpacker.com/
+  - https://www.nomadicbackpacker.com/budget-travel-hacks/feed
+  - https://www.nomadicbackpacker.com/about
+  scores:
+    editorial_quality: 70
+    trust: 87
+    reach: 71
+    freshness: 89
+    ux: 84
+    impact: 66
+- id: mommytravels-net
+  name: Mommy Travels
+  canonical_url: https://mommytravels.net/
+  country: XX
+  best_for: family travel and practical itineraries
+  reason: Mommy Travels concentrates on family travel and practical itineraries, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: Authorship and editorial-policy information is less visible than on higher-ranked publications.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://mommytravels.net/
+  - https://www.mommytravels.net/comments/feed/
+  - https://www.mommytravels.net/portlandmom/
+  scores:
+    editorial_quality: 70
+    trust: 73
+    reach: 81
+    freshness: 89
+    ux: 84
+    impact: 74
+- id: themomtrotter-com
+  name: The MOM Trotter
+  canonical_url: https://themomtrotter.com/
+  country: XX
+  best_for: family travel and practical itineraries
+  reason: The MOM Trotter concentrates on family travel and practical itineraries, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://themomtrotter.com/
+  - https://themomtrotter.com/web-stories/feed/
+  - https://themomtrotter.com/about-me/
+  scores:
+    editorial_quality: 72
+    trust: 87
+    reach: 61
+    freshness: 88
+    ux: 84
+    impact: 79
+- id: thegypsychiring-com
+  name: The Gypsy Chiring
+  canonical_url: https://thegypsychiring.com/
+  country: XX
+  best_for: adventure travel and outdoor destinations
+  reason: The Gypsy Chiring concentrates on adventure travel and outdoor destinations, with a discoverable feed, a visible
+    article archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://thegypsychiring.com/
+  - https://thegypsychiring.com/comments/feed/
+  - https://thegypsychiring.com/about-me/
+  scores:
+    editorial_quality: 72
+    trust: 87
+    reach: 51
+    freshness: 89
+    ux: 84
+    impact: 57
+- id: venngage-com
+  name: Venngage
+  canonical_url: https://venngage.com/
+  country: XX
+  best_for: travel planning and destination insight
+  reason: Venngage concentrates on travel planning and destination insight, with named authorship, clear ownership context
+    that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://venngage.com/
+  - https://venngage.com/about
+  scores:
+    editorial_quality: 61
+    trust: 87
+    reach: 89
+    freshness: 58
+    ux: 84
+    impact: 84
+- id: weblogtheworld-com
+  name: We Blog The World
+  canonical_url: https://weblogtheworld.com/
+  country: XX
+  best_for: luxury travel and destination experiences
+  reason: We Blog The World concentrates on luxury travel and destination experiences, with a discoverable feed, a visible
+    article archive that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://weblogtheworld.com/
+  - https://weblogtheworld.com/feed
+  - https://weblogtheworld.com/about-wbtw
+  scores:
+    editorial_quality: 68
+    trust: 89
+    reach: 79
+    freshness: 62
+    ux: 84
+    impact: 78
+- id: passingthru-com
+  name: Passing Thru - For the Curious and Thoughtful Traveler
+  canonical_url: https://passingthru.com/
+  country: XX
+  best_for: budget travel and long-term exploration
+  reason: Passing Thru - For the Curious and Thoughtful Traveler concentrates on budget travel and long-term exploration,
+    with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://passingthru.com/
+  - https://passingthru.com/web-stories/feed/
+  - https://passingthru.com/about/
+  scores:
+    editorial_quality: 72
+    trust: 87
+    reach: 76
+    freshness: 45
+    ux: 84
+    impact: 74
+- id: whirled-away-com
+  name: WhirledAway
+  canonical_url: https://whirled-away.com/
+  country: XX
+  best_for: adventure travel and outdoor destinations
+  reason: WhirledAway concentrates on adventure travel and outdoor destinations, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://whirled-away.com/
+  - https://whirled-away.com/comments/feed/
+  - https://whirled-away.com/about/
+  scores:
+    editorial_quality: 70
+    trust: 80
+    reach: 62
+    freshness: 89
+    ux: 84
+    impact: 55
+- id: babycantravel-com
+  name: Baby Can Travel
+  canonical_url: https://babycantravel.com/
+  country: XX
+  best_for: travel planning and destination insight
+  reason: Baby Can Travel concentrates on travel planning and destination insight, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://babycantravel.com/
+  - https://www.babycantravel.com/comments/feed/
+  - https://www.babycantravel.com/about-us/
+  scores:
+    editorial_quality: 70
+    trust: 80
+    reach: 69
+    freshness: 78
+    ux: 84
+    impact: 76
+- id: danielmcbane-com
+  name: DanielMcBane.com
+  canonical_url: https://danielmcbane.com/
+  country: XX
+  best_for: budget travel and long-term exploration
+  reason: DanielMcBane.com concentrates on budget travel and long-term exploration, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://danielmcbane.com/
+  - https://danielmcbane.com/comments/feed/
+  - https://danielmcbane.com/about-me/
+  scores:
+    editorial_quality: 70
+    trust: 89
+    reach: 55
+    freshness: 89
+    ux: 84
+    impact: 63
+- id: mother-ly
+  name: Motherly
+  canonical_url: https://mother.ly/
+  country: XX
+  best_for: family travel and practical itineraries
+  reason: Motherly concentrates on family travel and practical itineraries, with a visible article archive that makes its
+    current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://mother.ly/
+  - https://mother.ly/travel/to-the-parents-worrying-about-flying-with-kids/
+  scores:
+    editorial_quality: 67
+    trust: 73
+    reach: 89
+    freshness: 45
+    ux: 84
+    impact: 83
+- id: thewanderingdaughter-com
+  name: The Wandering Daughter - Family Travel
+  canonical_url: https://thewanderingdaughter.com/
+  country: XX
+  best_for: family travel and practical itineraries
+  reason: The Wandering Daughter - Family Travel concentrates on family travel and practical itineraries, with a discoverable
+    feed, a visible article archive that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://thewanderingdaughter.com/
+  - https://thewanderingdaughter.com/travel-with-kids-blogs/feed/
+  - https://thewanderingdaughter.com/about/
+  scores:
+    editorial_quality: 70
+    trust: 87
+    reach: 67
+    freshness: 45
+    ux: 84
+    impact: 79
+- id: solotravelguides-com
+  name: My Blog
+  canonical_url: https://solotravelguides.com/
+  country: XX
+  best_for: solo travel and independent trip planning
+  reason: My Blog concentrates on solo travel and independent trip planning, with a discoverable feed, a visible article archive
+    that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://solotravelguides.com/
+  - https://solotravelguides.com/comments/feed/
+  - https://solotravelguides.com/about/
+  scores:
+    editorial_quality: 70
+    trust: 87
+    reach: 45
+    freshness: 78
+    ux: 84
+    impact: 57
+- id: everydayfamilytravel-blog
+  name: Everyday Family Travel
+  canonical_url: https://everydayfamilytravel.blog/
+  country: XX
+  best_for: family travel and practical itineraries
+  reason: Everyday Family Travel concentrates on family travel and practical itineraries, with a discoverable feed, a visible
+    article archive that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://everydayfamilytravel.blog/
+  - https://everydayfamilytravel.blog/comments/feed/
+  - https://everydayfamilytravel.blog/about/
+  scores:
+    editorial_quality: 70
+    trust: 87
+    reach: 56
+    freshness: 62
+    ux: 84
+    impact: 53
+- id: travelswithmyboys-co-uk
+  name: Travels With My Boys
+  canonical_url: https://travelswithmyboys.co.uk/
+  country: GB
+  best_for: family travel and practical itineraries
+  reason: Travels With My Boys concentrates on family travel and practical itineraries, with a discoverable feed, a visible
+    article archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://travelswithmyboys.co.uk/
+  - https://www.travelswithmyboys.co.uk/comments/feed/
+  - https://www.travelswithmyboys.co.uk/about-to-go-tips/
+  scores:
+    editorial_quality: 68
+    trust: 89
+    reach: 49
+    freshness: 78
+    ux: 84
+    impact: 59
+- id: actuallymummy-co-uk
+  name: Actually Mummy
+  canonical_url: https://actuallymummy.co.uk/
+  country: GB
+  best_for: family travel and practical itineraries
+  reason: Actually Mummy concentrates on family travel and practical itineraries, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://actuallymummy.co.uk/
+  - https://actuallymummy.co.uk/comments/feed/
+  - https://actuallymummy.co.uk/about/
+  scores:
+    editorial_quality: 68
+    trust: 87
+    reach: 69
+    freshness: 45
+    ux: 84
+    impact: 72
+- id: enginemailer-com
+  name: Enginemailer
+  canonical_url: https://enginemailer.com/
+  country: XX
+  best_for: travel planning and destination insight
+  reason: Enginemailer concentrates on travel planning and destination insight, with clear ownership context that makes its
+    current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://enginemailer.com/
+  - https://www.enginemailer.com/about-us
+  scores:
+    editorial_quality: 61
+    trust: 87
+    reach: 70
+    freshness: 45
+    ux: 84
+    impact: 85
+- id: planetplodyssey-com
+  name: The Lazy Travel Guide
+  canonical_url: https://planetplodyssey.com/
+  country: XX
+  best_for: travel planning and destination insight
+  reason: The Lazy Travel Guide concentrates on travel planning and destination insight, with a visible article archive, clear
+    ownership context that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://planetplodyssey.com/
+  - https://planetplodyssey.com/about/
+  scores:
+    editorial_quality: 63
+    trust: 89
+    reach: 41
+    freshness: 89
+    ux: 84
+    impact: 49
+- id: tavernatravels-com
+  name: taverna travels
+  canonical_url: https://tavernatravels.com/
+  country: XX
+  best_for: solo travel and independent trip planning
+  reason: taverna travels concentrates on solo travel and independent trip planning, with clear ownership context that makes
+    its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://tavernatravels.com/
+  - https://tavernatravels.com/about
+  scores:
+    editorial_quality: 59
+    trust: 80
+    reach: 76
+    freshness: 45
+    ux: 84
+    impact: 63
+- id: blackkidsdotravel-com
+  name: Black Kids Do Travel
+  canonical_url: https://blackkidsdotravel.com/
+  country: XX
+  best_for: travel planning and destination insight
+  reason: Black Kids Do Travel concentrates on travel planning and destination insight, with a discoverable feed, a visible
+    article archive that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://blackkidsdotravel.com/
+  - https://blackkidsdotravel.com/comments/feed/
+  - https://blackkidsdotravel.com/about/
+  scores:
+    editorial_quality: 70
+    trust: 89
+    reach: 44
+    freshness: 45
+    ux: 84
+    impact: 63
+- id: midnightmom-ca
+  name: Midnight Mom
+  canonical_url: https://midnightmom.ca/
+  country: CA
+  best_for: family travel and practical itineraries
+  reason: Midnight Mom concentrates on family travel and practical itineraries, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://midnightmom.ca/
+  - https://midnightmom.ca/2020/02/16/inspiration-family-travel-bloggers/feed/
+  - https://midnightmom.ca/about/
+  scores:
+    editorial_quality: 68
+    trust: 87
+    reach: 47
+    freshness: 45
+    ux: 84
+    impact: 51
+- id: digitaltravelacademy-com
+  name: Marketing for Travel Agents | Digital Travel Academy
+  canonical_url: https://digitaltravelacademy.com/
+  country: XX
+  best_for: budget travel and long-term exploration
+  reason: Marketing for Travel Agents | Digital Travel Academy concentrates on budget travel and long-term exploration, with
+    a visible article archive, clear ownership context that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://digitaltravelacademy.com/
+  - https://www.digitaltravelacademy.com/about/
+  scores:
+    editorial_quality: 63
+    trust: 80
+    reach: 51
+    freshness: 45
+    ux: 84
+    impact: 53
+- id: travelwithbender-com
+  name: Travel With Bender
+  canonical_url: https://travelwithbender.com/
+  country: XX
+  best_for: adventure travel and outdoor destinations
+  reason: Travel With Bender concentrates on adventure travel and outdoor destinations, with a discoverable feed that makes
+    its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://travelwithbender.com/
+  - https://travelwithbender.com/rssfeed/
+  - https://travelwithbender.com/who-are-we
+  scores:
+    editorial_quality: 70
+    trust: 75
+    reach: 73
+    freshness: 78
+    ux: 84
+    impact: 76
+- id: everythingaiintravel-beehiiv-com
+  name: Everything AI in Travel
+  canonical_url: https://everythingaiintravel.beehiiv.com/
+  country: XX
+  best_for: travel planning and destination insight
+  reason: Everything AI in Travel concentrates on travel planning and destination insight, with clear ownership context that
+    makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://everythingaiintravel.beehiiv.com/
+  - https://everythingaiintravel.beehiiv.com/p/what-you-need-to-know-about-the-eu-s-new-rules-on-ai-is-this-the-new-gdpr
+  scores:
+    editorial_quality: 61
+    trust: 68
+    reach: 49
+    freshness: 58
+    ux: 84
+    impact: 73
+- id: masterblogging-com
+  name: Master Blogging
+  canonical_url: https://masterblogging.com/
+  country: XX
+  best_for: budget travel and long-term exploration
+  reason: Master Blogging concentrates on budget travel and long-term exploration, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://masterblogging.com/
+  - https://masterblogging.com/comments/feed/
+  - https://masterblogging.com/about/
+  scores:
+    editorial_quality: 72
+    trust: 80
+    reach: 71
+    freshness: 89
+    ux: 84
+    impact: 75
+- id: wannabethere-com
+  name: Travel Planning
+  canonical_url: https://wannabethere.com/
+  country: XX
+  best_for: adventure travel and outdoor destinations
+  reason: Travel Planning concentrates on adventure travel and outdoor destinations, with a discoverable feed, clear ownership
+    context that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://wannabethere.com/
+  - https://www.wannabethere.com/tourism-blogs/feed/
+  - https://www.wannabethere.com/about/
+  scores:
+    editorial_quality: 76
+    trust: 87
+    reach: 52
+    freshness: 45
+    ux: 84
+    impact: 54
+- id: newshadesofhippy-com
+  name: New Shades of Hippy
+  canonical_url: https://newshadesofhippy.com/
+  country: XX
+  best_for: solo travel and independent trip planning
+  reason: New Shades of Hippy concentrates on solo travel and independent trip planning, with a discoverable feed, a visible
+    article archive that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://newshadesofhippy.com/
+  - https://newshadesofhippy.com/comments/feed/
+  - https://newshadesofhippy.com/about/
+  scores:
+    editorial_quality: 72
+    trust: 87
+    reach: 47
+    freshness: 45
+    ux: 84
+    impact: 52
+- id: thetraveltextbook-com
+  name: Travel Textbook
+  canonical_url: https://thetraveltextbook.com/
+  country: XX
+  best_for: travel planning and destination insight
+  reason: Travel Textbook concentrates on travel planning and destination insight, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://thetraveltextbook.com/
+  - https://www.thetraveltextbook.com/comments/feed/
+  - https://www.thetraveltextbook.com/about-me/
+  scores:
+    editorial_quality: 70
+    trust: 80
+    reach: 58
+    freshness: 45
+    ux: 84
+    impact: 52
+- id: theluxeinsider-com
+  name: The Luxe Insider
+  canonical_url: https://theluxeinsider.com/
+  country: XX
+  best_for: luxury travel and destination experiences
+  reason: The Luxe Insider concentrates on luxury travel and destination experiences, with a discoverable feed, a visible
+    article archive that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://theluxeinsider.com/
+  - https://www.theluxeinsider.com/hot-lists/10-luxury-travel-blogs-to-follow-in-2024/feed/
+  - https://www.theluxeinsider.com/about/
+  scores:
+    editorial_quality: 70
+    trust: 89
+    reach: 67
+    freshness: 45
+    ux: 84
+    impact: 73
+- id: thelongestwayhome-com
+  name: The Longest Way Home
+  canonical_url: https://thelongestwayhome.com/
+  country: XX
+  best_for: travel planning and destination insight
+  reason: The Longest Way Home concentrates on travel planning and destination insight, with clear ownership context that
+    makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://thelongestwayhome.com/
+  - https://feeds2.feedburner.com/TheLongestWayHome
+  - https://www.thelongestwayhome.com/about.html
+  scores:
+    editorial_quality: 61
+    trust: 80
+    reach: 79
+    freshness: 45
+    ux: 84
+    impact: 76
+- id: outsideonline-com
+  name: Outside Online
+  canonical_url: https://outsideonline.com/
+  country: XX
+  best_for: solo travel and independent trip planning
+  reason: Outside Online concentrates on solo travel and independent trip planning, with a visible article archive that makes
+    its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://outsideonline.com/
+  - https://www.outsideonline.com/culture/feed/
+  - https://www.outsideonline.com/culture/books-media/yesteryear-novel-homesteading-influencers-reality/
+  scores:
+    editorial_quality: 65
+    trust: 66
+    reach: 89
+    freshness: 89
+    ux: 84
+    impact: 87
+- id: crazysexyfuntraveler-com
+  name: Crazy sexy fun traveler - travel blog about adventure and spa
+  canonical_url: https://crazysexyfuntraveler.com/
+  country: XX
+  best_for: adventure travel and outdoor destinations
+  reason: Crazy sexy fun traveler - travel blog about adventure and spa concentrates on adventure travel and outdoor destinations,
+    with a visible article archive, named authorship that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://crazysexyfuntraveler.com/
+  - https://www.crazysexyfuntraveler.com/about/
+  scores:
+    editorial_quality: 69
+    trust: 82
+    reach: 72
+    freshness: 66
+    ux: 84
+    impact: 80
+- id: rockytravel-net
+  name: Solo Travel & Tours of Italy For Over 50
+  canonical_url: https://rockytravel.net/
+  country: XX
+  best_for: solo travel and independent trip planning
+  reason: Solo Travel & Tours of Italy For Over 50 concentrates on solo travel and independent trip planning, with a discoverable
+    feed, clear ownership context that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://rockytravel.net/
+  - https://www.rockytravel.net/rocky-travel-planning-guide/feed/
+  - https://www.rockytravel.net/about/
+  scores:
+    editorial_quality: 70
+    trust: 82
+    reach: 62
+    freshness: 78
+    ux: 84
+    impact: 72
+- id: justonewayticket-com
+  name: Lifestyle & Travel Blog
+  canonical_url: https://justonewayticket.com/
+  country: XX
+  best_for: travel planning and destination insight
+  reason: Lifestyle & Travel Blog concentrates on travel planning and destination insight, with a discoverable feed, clear
+    ownership context that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://justonewayticket.com/
+  - https://www.justonewayticket.com/rss/blog
+  - https://www.justonewayticket.com/about-me/
+  scores:
+    editorial_quality: 66
+    trust: 82
+    reach: 68
+    freshness: 89
+    ux: 84
+    impact: 76
+- id: nerdtravels-com
+  name: Nerd Travels
+  canonical_url: https://nerdtravels.com/
+  country: XX
+  best_for: adventure travel and outdoor destinations
+  reason: Nerd Travels concentrates on adventure travel and outdoor destinations, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://nerdtravels.com/
+  - https://nerdtravels.com/home/feed/
+  - https://nerdtravels.com/about/
+  scores:
+    editorial_quality: 72
+    trust: 82
+    reach: 48
+    freshness: 78
+    ux: 84
+    impact: 60
+- id: flipnomad-com
+  name: Flipnomad
+  canonical_url: https://flipnomad.com/
+  country: XX
+  best_for: budget travel and long-term exploration
+  reason: Flipnomad concentrates on budget travel and long-term exploration, with a discoverable feed, a visible article archive
+    that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://flipnomad.com/
+  - https://flipnomad.com/comments/feed/
+  - https://flipnomad.com/about/
+  scores:
+    editorial_quality: 70
+    trust: 82
+    reach: 49
+    freshness: 78
+    ux: 84
+    impact: 75
+- id: solofriendly-com
+  name: Ly-Solo Friend
+  canonical_url: https://solofriendly.com/
+  country: XX
+  best_for: solo travel and independent trip planning
+  reason: Ly-Solo Friend concentrates on solo travel and independent trip planning, with a discoverable feed, clear ownership
+    context that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://solofriendly.com/
+  - https://solofriendly.com/comments/feed/
+  - https://solofriendly.com/about-the-meeting/
+  scores:
+    editorial_quality: 72
+    trust: 82
+    reach: 53
+    freshness: 45
+    ux: 84
+    impact: 77
+- id: goseewrite-com
+  name: Overland Travel Adventures from Go, See, Write
+  canonical_url: https://goseewrite.com/
+  country: XX
+  best_for: travel planning and destination insight
+  reason: Overland Travel Adventures from Go, See, Write concentrates on travel planning and destination insight, with a discoverable
+    feed, a visible article archive that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://goseewrite.com/
+  - https://www.goseewrite.com/comments/feed/
+  - https://www.goseewrite.com/about/
+  scores:
+    editorial_quality: 72
+    trust: 68
+    reach: 64
+    freshness: 45
+    ux: 84
+    impact: 76
+- id: journeyjottings-com
+  name: Journey Jottings
+  canonical_url: https://journeyjottings.com/
+  country: XX
+  best_for: travel planning and destination insight
+  reason: Journey Jottings concentrates on travel planning and destination insight, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://journeyjottings.com/
+  - https://journeyjottings.com/comments/feed/
+  - https://journeyjottings.com/about/introduction/
+  scores:
+    editorial_quality: 72
+    trust: 75
+    reach: 52
+    freshness: 45
+    ux: 84
+    impact: 67
+- id: captainandclark-blogspot-co-uk
+  name: Captain and Clark
+  canonical_url: https://captainandclark.blogspot.co.uk/
+  country: GB
+  best_for: adventure travel and outdoor destinations
+  reason: Captain and Clark concentrates on adventure travel and outdoor destinations, with a discoverable feed, named authorship
+    that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://captainandclark.blogspot.co.uk/
+  - https://captainandclark.blogspot.com/feeds/posts/default?alt=rss
+  - https://captainandclark.blogspot.com/p/about-us.html
+  scores:
+    editorial_quality: 68
+    trust: 75
+    reach: 39
+    freshness: 45
+    ux: 84
+    impact: 57
+- id: wandering-everywhere-com
+  name: Wandering Everywhere
+  canonical_url: https://wandering-everywhere.com/
+  country: XX
+  best_for: solo travel and independent trip planning
+  reason: Wandering Everywhere concentrates on solo travel and independent trip planning, with a discoverable feed, a visible
+    article archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://wandering-everywhere.com/
+  - https://wandering-everywhere.com/comments/feed/
+  - https://wandering-everywhere.com/about/
+  scores:
+    editorial_quality: 68
+    trust: 80
+    reach: 74
+    freshness: 88
+    ux: 84
+    impact: 66
+- id: thepackablelife-com
+  name: The Packable Life
+  canonical_url: https://thepackablelife.com/
+  country: XX
+  best_for: budget travel and long-term exploration
+  reason: The Packable Life concentrates on budget travel and long-term exploration, with a visible article archive, named
+    authorship that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://thepackablelife.com/
+  - https://www.thepackablelife.com/about
+  scores:
+    editorial_quality: 71
+    trust: 89
+    reach: 73
+    freshness: 45
+    ux: 84
+    impact: 68
+- id: westgatereservations-com
+  name: Westgate Reservations
+  canonical_url: https://westgatereservations.com/
+  country: XX
+  best_for: luxury travel and destination experiences
+  reason: Westgate Reservations concentrates on luxury travel and destination experiences, with a discoverable feed, a visible
+    article archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://westgatereservations.com/
+  - https://www.westgatereservations.com/front-page/feed/
+  - https://www.westgatereservations.com/about/faq/
+  scores:
+    editorial_quality: 70
+    trust: 80
+    reach: 89
+    freshness: 78
+    ux: 84
+    impact: 89
+- id: theluxurytravelexpert-com
+  name: Luxury Travel Expert
+  canonical_url: https://theluxurytravelexpert.com/
+  country: XX
+  best_for: luxury travel and destination experiences
+  reason: Luxury Travel Expert concentrates on luxury travel and destination experiences, with a discoverable feed, a visible
+    article archive that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://theluxurytravelexpert.com/
+  - https://theluxurytravelexpert.com/home/feed/
+  - https://theluxurytravelexpert.com/about/
+  scores:
+    editorial_quality: 72
+    trust: 87
+    reach: 87
+    freshness: 45
+    ux: 84
+    impact: 78
+- id: hellomagazine-com
+  name: HELLO!
+  canonical_url: https://hellomagazine.com/
+  country: XX
+  best_for: luxury travel and destination experiences
+  reason: HELLO! concentrates on luxury travel and destination experiences, with a discoverable feed, a visible article archive
+    that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://hellomagazine.com/
+  - https://www.hellomagazine.com/feeds/rss/any/any/any/50.xml
+  - https://www.hellomagazine.com/about/
+  scores:
+    editorial_quality: 70
+    trust: 89
+    reach: 89
+    freshness: 89
+    ux: 84
+    impact: 87
+- id: untoldmorsels-com
+  name: Untold Morsels - travel blog
+  canonical_url: https://untoldmorsels.com/
+  country: XX
+  best_for: family travel and practical itineraries
+  reason: Untold Morsels - travel blog concentrates on family travel and practical itineraries, with a discoverable feed,
+    clear ownership context that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://untoldmorsels.com/
+  - https://www.untoldmorsels.com/comments/feed/
+  - https://www.untoldmorsels.com/about/travel-blog-roll/#main
+  scores:
+    editorial_quality: 64
+    trust: 89
+    reach: 65
+    freshness: 45
+    ux: 84
+    impact: 64
+- id: world-smith-com
+  name: WorldSmith
+  canonical_url: https://world-smith.com/
+  country: XX
+  best_for: solo travel and independent trip planning
+  reason: WorldSmith concentrates on solo travel and independent trip planning, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://world-smith.com/
+  - https://www.world-smith.com/comments/feed/
+  - https://www.world-smith.com/about-me/
+  scores:
+    editorial_quality: 74
+    trust: 75
+    reach: 58
+    freshness: 78
+    ux: 84
+    impact: 62
+- id: budgettravelbuff-com
+  name: Budget Travel Buff
+  canonical_url: https://budgettravelbuff.com/
+  country: XX
+  best_for: budget travel and long-term exploration
+  reason: Budget Travel Buff concentrates on budget travel and long-term exploration, with a discoverable feed, a visible
+    article archive that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://budgettravelbuff.com/
+  - https://budgettravelbuff.com/comments/feed/
+  - https://budgettravelbuff.com/about/
+  scores:
+    editorial_quality: 70
+    trust: 82
+    reach: 54
+    freshness: 45
+    ux: 84
+    impact: 66
+- id: shaleewanders-com
+  name: Shalee Wanders
+  canonical_url: https://shaleewanders.com/
+  country: XX
+  best_for: adventure travel and outdoor destinations
+  reason: Shalee Wanders concentrates on adventure travel and outdoor destinations, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://shaleewanders.com/
+  - https://shaleewanders.com/eight-travel-blogs-inspire-wanderlust/feed/
+  - https://shaleewanders.com/about/
+  scores:
+    editorial_quality: 72
+    trust: 82
+    reach: 75
+    freshness: 88
+    ux: 84
+    impact: 61
+- id: thetravelisim-com
+  name: thetravelisim.com
+  canonical_url: https://thetravelisim.com/
+  country: XX
+  best_for: budget travel and long-term exploration
+  reason: thetravelisim.com concentrates on budget travel and long-term exploration, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://thetravelisim.com/
+  - https://thetravelisim.com/10-budget-travel-itineraries-that-cut-daily-expenses.html/feed
+  - https://thetravelisim.com/about-us
+  scores:
+    editorial_quality: 70
+    trust: 82
+    reach: 42
+    freshness: 62
+    ux: 84
+    impact: 53
+- id: inhand-substack-com
+  name: In Hand
+  canonical_url: https://inhand.substack.com/
+  country: XX
+  best_for: travel planning and destination insight
+  reason: In Hand concentrates on travel planning and destination insight, with a discoverable feed that makes its current
+    publishing work easier to evaluate.
+  limitation: Authorship and editorial-policy information is less visible than on higher-ranked publications.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://inhand.substack.com/
+  - https://inhand.substack.com/feed
+  scores:
+    editorial_quality: 66
+    trust: 57
+    reach: 48
+    freshness: 89
+    ux: 84
+    impact: 60
+- id: anoteonstyle-substack-com
+  name: A NOTE ON STYLE
+  canonical_url: https://anoteonstyle.substack.com/
+  country: XX
+  best_for: travel planning and destination insight
+  reason: A NOTE ON STYLE concentrates on travel planning and destination insight, with a discoverable feed that makes its
+    current publishing work easier to evaluate.
+  limitation: Authorship and editorial-policy information is less visible than on higher-ranked publications.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://anoteonstyle.substack.com/
+  - https://anoteonstyle.substack.com/feed?sectionId=262452
+  scores:
+    editorial_quality: 64
+    trust: 57
+    reach: 53
+    freshness: 89
+    ux: 84
+    impact: 51
+- id: honeytrek-com
+  name: HoneyTrek
+  canonical_url: https://honeytrek.com/
+  country: XX
+  best_for: travel planning and destination insight
+  reason: HoneyTrek concentrates on travel planning and destination insight, with a discoverable feed, a visible article archive
+    that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://honeytrek.com/
+  - https://www.honeytrek.com/comments/feed/
+  - https://www.honeytrek.com/couples-travel-blog/
+  scores:
+    editorial_quality: 70
+    trust: 75
+    reach: 85
+    freshness: 89
+    ux: 84
+    impact: 82
+- id: lucilehr-com
+  name: Lucile - Paris and France Content Creator
+  canonical_url: https://lucilehr.com/
+  country: XX
+  best_for: solo travel and independent trip planning
+  reason: Lucile - Paris and France Content Creator concentrates on solo travel and independent trip planning, with a visible
+    article archive that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://lucilehr.com/
+  - https://www.lucilehr.com/blog?format=rss
+  scores:
+    editorial_quality: 65
+    trust: 50
+    reach: 66
+    freshness: 45
+    ux: 84
+    impact: 61
+- id: lifewithkrich-com
+  name: Life With Krich
+  canonical_url: https://lifewithkrich.com/
+  country: XX
+  best_for: solo travel and independent trip planning
+  reason: Life With Krich concentrates on solo travel and independent trip planning, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://lifewithkrich.com/
+  - https://lifewithkrich.com/comments/feed/
+  - https://lifewithkrich.com/about-us/
+  scores:
+    editorial_quality: 74
+    trust: 82
+    reach: 60
+    freshness: 89
+    ux: 84
+    impact: 65
+- id: thehappyjetlagger-com
+  name: The Happy Jetlagger
+  canonical_url: https://thehappyjetlagger.com/
+  country: XX
+  best_for: luxury travel and destination experiences
+  reason: The Happy Jetlagger concentrates on luxury travel and destination experiences, with a discoverable feed, a visible
+    article archive that makes its current publishing work easier to evaluate.
+  limitation: Authorship and editorial-policy information is less visible than on higher-ranked publications.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://thehappyjetlagger.com/
+  - https://thehappyjetlagger.com/comments/feed/
+  scores:
+    editorial_quality: 68
+    trust: 55
+    reach: 77
+    freshness: 89
+    ux: 84
+    impact: 67
+- id: amraandelma-com
+  name: Amra and Elma LLC
+  canonical_url: https://amraandelma.com/
+  country: XX
+  best_for: solo travel and independent trip planning
+  reason: Amra and Elma LLC concentrates on solo travel and independent trip planning, with a discoverable feed, named authorship
+    that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://amraandelma.com/
+  - https://www.amraandelma.com/influencer-marketing-agency/feed/
+  scores:
+    editorial_quality: 76
+    trust: 76
+    reach: 79
+    freshness: 70
+    ux: 84
+    impact: 79
+- id: beverlyhillsmagazine-com
+  name: Beverly Hills Magazine
+  canonical_url: https://beverlyhillsmagazine.com/
+  country: XX
+  best_for: budget travel and long-term exploration
+  reason: Beverly Hills Magazine concentrates on budget travel and long-term exploration, with a discoverable feed, a visible
+    article archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://beverlyhillsmagazine.com/
+  - https://www.beverlyhillsmagazine.com/comments/feed/
+  scores:
+    editorial_quality: 72
+    trust: 83
+    reach: 76
+    freshness: 83
+    ux: 84
+    impact: 77
+- id: veronicahanson-com
+  name: Nomad Veronica
+  canonical_url: https://veronicahanson.com/
+  country: XX
+  best_for: family travel and practical itineraries
+  reason: Nomad Veronica concentrates on family travel and practical itineraries, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://veronicahanson.com/
+  - https://veronicahanson.com/web-stories/feed/
+  scores:
+    editorial_quality: 70
+    trust: 83
+    reach: 62
+    freshness: 78
+    ux: 84
+    impact: 64
+- id: bacheloroftravel-com
+  name: Bachelor of Travel
+  canonical_url: https://bacheloroftravel.com/
+  country: XX
+  best_for: adventure travel and outdoor destinations
+  reason: Bachelor of Travel concentrates on adventure travel and outdoor destinations, with a discoverable feed, a visible
+    article archive that makes its current publishing work easier to evaluate.
+  limitation: Authorship and editorial-policy information is less visible than on higher-ranked publications.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://bacheloroftravel.com/
+  - https://bacheloroftravel.com/comments/feed/
+  scores:
+    editorial_quality: 74
+    trust: 62
+    reach: 65
+    freshness: 83
+    ux: 76
+    impact: 54
+- id: mysteryfunhouse-com
+  name: Mystery Fun House
+  canonical_url: https://mysteryfunhouse.com/
+  country: XX
+  best_for: adventure travel and outdoor destinations
+  reason: Mystery Fun House concentrates on adventure travel and outdoor destinations, with a discoverable feed, a visible
+    article archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://mysteryfunhouse.com/
+  - https://mysteryfunhouse.com/feed/
+  scores:
+    editorial_quality: 70
+    trust: 69
+    reach: 69
+    freshness: 75
+    ux: 84
+    impact: 89
+- id: mashmagazine-it-com
+  name: MashMagazine
+  canonical_url: https://mashmagazine.it.com/
+  country: XX
+  best_for: adventure travel and outdoor destinations
+  reason: MashMagazine concentrates on adventure travel and outdoor destinations, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://mashmagazine.it.com/
+  - https://mashmagazine.it.com/comments/feed/
+  scores:
+    editorial_quality: 70
+    trust: 69
+    reach: 49
+    freshness: 83
+    ux: 84
+    impact: 50
+- id: indietraveller-co
+  name: Indie Traveller
+  canonical_url: https://indietraveller.co/
+  country: XX
+  best_for: solo travel and independent trip planning
+  reason: Indie Traveller concentrates on solo travel and independent trip planning, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://indietraveller.co/
+  - https://www.indietraveller.co/comments/feed/
+  scores:
+    editorial_quality: 78
+    trust: 78
+    reach: 88
+    freshness: 78
+    ux: 84
+    impact: 75
+- id: en-paperblog-com
+  name: Paperblog
+  canonical_url: https://en.paperblog.com/
+  country: XX
+  best_for: family travel and practical itineraries
+  reason: Paperblog concentrates on family travel and practical itineraries, with a discoverable feed, named authorship that
+    makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://en.paperblog.com/
+  - https://en.paperblog.com/rss/tags/biology/recents/
+  - https://en.paperblog.com/users/livingwithss/
+  scores:
+    editorial_quality: 68
+    trust: 84
+    reach: 89
+    freshness: 88
+    ux: 84
+    impact: 85
+- id: familyadventuresblog-com
+  name: Familyadventuresblog
+  canonical_url: https://familyadventuresblog.com/
+  country: XX
+  best_for: family travel and practical itineraries
+  reason: Familyadventuresblog concentrates on family travel and practical itineraries, with a discoverable feed, a visible
+    article archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://familyadventuresblog.com/
+  - https://familyadventuresblog.com/comments/feed/
+  scores:
+    editorial_quality: 76
+    trust: 78
+    reach: 75
+    freshness: 78
+    ux: 84
+    impact: 57
+- id: thetravelpockets-com
+  name: Travel Pockets
+  canonical_url: https://thetravelpockets.com/
+  country: XX
+  best_for: solo travel and independent trip planning
+  reason: Travel Pockets concentrates on solo travel and independent trip planning, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://thetravelpockets.com/
+  scores:
+    editorial_quality: 74
+    trust: 71
+    reach: 83
+    freshness: 78
+    ux: 84
+    impact: 71
+- id: budgetyourtrip-com
+  name: Budget Your Trip
+  canonical_url: https://budgetyourtrip.com/
+  country: XX
+  best_for: budget travel and long-term exploration
+  reason: Budget Your Trip concentrates on budget travel and long-term exploration, with a discoverable feed, clear ownership
+    context that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://budgetyourtrip.com/
+  - https://www.budgetyourtrip.com/feed/recent/cities
+  scores:
+    editorial_quality: 70
+    trust: 71
+    reach: 87
+    freshness: 70
+    ux: 84
+    impact: 81
+- id: davestravelcorner-com
+  name: Dave's Travel Corner
+  canonical_url: https://davestravelcorner.com/
+  country: XX
+  best_for: adventure travel and outdoor destinations
+  reason: Dave's Travel Corner concentrates on adventure travel and outdoor destinations, with a discoverable feed, named
+    authorship that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://davestravelcorner.com/
+  - https://www.davestravelcorner.com/comments/feed/
+  scores:
+    editorial_quality: 68
+    trust: 71
+    reach: 85
+    freshness: 70
+    ux: 84
+    impact: 78
+- id: factualamerica-com
+  name: Factual America Podcast
+  canonical_url: https://factualamerica.com/
+  country: XX
+  best_for: adventure travel and outdoor destinations
+  reason: Factual America Podcast concentrates on adventure travel and outdoor destinations, with a visible article archive,
+    clear ownership context that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://factualamerica.com/
+  scores:
+    editorial_quality: 67
+    trust: 71
+    reach: 87
+    freshness: 66
+    ux: 84
+    impact: 83
+- id: grandangletours-com
+  name: Grand Angle
+  canonical_url: https://grandangletours.com/
+  country: XX
+  best_for: adventure travel and outdoor destinations
+  reason: Grand Angle concentrates on adventure travel and outdoor destinations, with a visible article archive, named authorship
+    that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://grandangletours.com/
+  scores:
+    editorial_quality: 71
+    trust: 78
+    reach: 66
+    freshness: 66
+    ux: 84
+    impact: 77
+- id: midlifeglobetrotter-com
+  name: Midlife Globetrotter
+  canonical_url: https://midlifeglobetrotter.com/
+  country: XX
+  best_for: solo travel and independent trip planning
+  reason: Midlife Globetrotter concentrates on solo travel and independent trip planning, with a discoverable feed, a visible
+    article archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://midlifeglobetrotter.com/
+  - https://midlifeglobetrotter.com/comments/feed/
+  scores:
+    editorial_quality: 70
+    trust: 71
+    reach: 82
+    freshness: 78
+    ux: 84
+    impact: 62
+- id: youngadventuress-com
+  name: Young Adventuress
+  canonical_url: https://youngadventuress.com/
+  country: XX
+  best_for: solo travel and independent trip planning
+  reason: Young Adventuress concentrates on solo travel and independent trip planning, with a discoverable feed that makes
+    its current publishing work easier to evaluate.
+  limitation: Authorship and editorial-policy information is less visible than on higher-ranked publications.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://youngadventuress.com/
+  - https://youngadventuress.com/young-adventuress/feed
+  scores:
+    editorial_quality: 72
+    trust: 57
+    reach: 79
+    freshness: 70
+    ux: 84
+    impact: 89
+- id: wheregoesrose-com
+  name: Where Goes Rose?
+  canonical_url: https://wheregoesrose.com/
+  country: XX
+  best_for: solo travel and independent trip planning
+  reason: Where Goes Rose? concentrates on solo travel and independent trip planning, with a discoverable feed, clear ownership
+    context that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://wheregoesrose.com/
+  - https://www.wheregoesrose.com/comments/feed/
+  scores:
+    editorial_quality: 70
+    trust: 64
+    reach: 77
+    freshness: 70
+    ux: 84
+    impact: 69
+- id: 2dadswithbaggage-com
+  name: 2 Dads with Baggage
+  canonical_url: https://2dadswithbaggage.com/
+  country: XX
+  best_for: family travel and practical itineraries
+  reason: 2 Dads with Baggage concentrates on family travel and practical itineraries, with a discoverable feed, a visible
+    article archive that makes its current publishing work easier to evaluate.
+  limitation: Authorship and editorial-policy information is less visible than on higher-ranked publications.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://2dadswithbaggage.com/
+  - https://2dadswithbaggage.com/comments/feed/
+  scores:
+    editorial_quality: 76
+    trust: 50
+    reach: 81
+    freshness: 78
+    ux: 84
+    impact: 73
+- id: fshoq-com
+  name: Fshoq!
+  canonical_url: https://fshoq.com/
+  country: XX
+  best_for: adventure travel and outdoor destinations
+  reason: Fshoq! concentrates on adventure travel and outdoor destinations, with a discoverable feed, a visible article archive
+    that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://fshoq.com/
+  - https://fshoq.com/rss
+  scores:
+    editorial_quality: 74
+    trust: 64
+    reach: 66
+    freshness: 78
+    ux: 84
+    impact: 77

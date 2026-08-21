@@ -1,0 +1,404 @@
+{
+  "schema_version": 1,
+  "project": "Gatilab Blog Rankings",
+  "edition": "2026-09",
+  "status": "final",
+  "generated_at": "2026-08-21T12:00:00Z",
+  "category": {
+    "slug": "health",
+    "name": "Health and Wellness",
+    "description": "Evidence-aware publishing about public health, fitness, nutrition, mental health, and sustainable wellbeing."
+  },
+  "tracks": {
+    "independent": {
+      "slug": "independent",
+      "label": "Independent Blogs",
+      "count": 100,
+      "items": [
+        {
+          "rank": 1,
+          "id": "wellnessmama-com",
+          "name": "Wellness Mama",
+          "url": "https://wellnessmama.com/",
+          "country": "XX",
+          "score": 98.0,
+          "movement": "new",
+          "best_for": "health education and sustainable wellbeing",
+          "reason": "Wellness Mama concentrates on health education and sustainable wellbeing, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+          "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+          "confidence": "standard",
+          "reviewed_at": "2026-08-21",
+          "evidence_urls": [
+            "https://wellnessmama.com/",
+            "https://wellnessmama.com/feed/podcast",
+            "https://wellnessmama.com/about/"
+          ]
+        },
+        {
+          "rank": 2,
+          "id": "blogilates-com",
+          "name": "Blogilates",
+          "url": "https://blogilates.com/",
+          "country": "XX",
+          "score": 97.0,
+          "movement": "new",
+          "best_for": "fitness, exercise, and sustainable training",
+          "reason": "Blogilates concentrates on fitness, exercise, and sustainable training, with a discoverable feed, named authorship that makes its current publishing work easier to evaluate.",
+          "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+          "confidence": "standard",
+          "reviewed_at": "2026-08-21",
+          "evidence_urls": [
+            "https://blogilates.com/",
+            "https://www.blogilates.com/comments/feed/",
+            "https://www.blogilates.com/blog/the-truth-about-running-a-fashion-brand/"
+          ]
+        },
+        {
+          "rank": 3,
+          "id": "runningonrealfood-com",
+          "name": "Running on Real Food",
+          "url": "https://runningonrealfood.com/",
+          "country": "XX",
+          "score": 96.0,
+          "movement": "new",
+          "best_for": "nutrition and evidence-aware food decisions",
+          "reason": "Running on Real Food concentrates on nutrition and evidence-aware food decisions, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+          "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+          "confidence": "standard",
+          "reviewed_at": "2026-08-21",
+          "evidence_urls": [
+            "https://runningonrealfood.com/",
+            "https://runningonrealfood.com/comments/feed/",
+            "https://runningonrealfood.com/about/"
+          ]
+        },
+        {
+          "rank": 4,
+          "id": "katheats-com",
+          "name": "Kath Eats",
+          "url": "https://katheats.com/",
+          "country": "XX",
+          "score": 95.0,
+          "movement": "new",
+          "best_for": "nutrition and evidence-aware food decisions",
+          "reason": "Kath Eats concentrates on nutrition and evidence-aware food decisions, with a discoverable feed that makes its current publishing work easier to evaluate.",
+          "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+          "confidence": "standard",
+          "reviewed_at": "2026-08-21",
+          "evidence_urls": [
+            "https://katheats.com/",
+            "https://www.katheats.com/comments/feed",
+            "https://www.katheats.com/kathrd"
+          ]
+        },
+        {
+          "rank": 5,
+          "id": "nutritionstripped-com",
+          "name": "Nutrition Stripped",
+          "url": "https://nutritionstripped.com/",
+          "country": "XX",
+          "score": 94.0,
+          "movement": "new",
+          "best_for": "nutrition and evidence-aware food decisions",
+          "reason": "Nutrition Stripped concentrates on nutrition and evidence-aware food decisions, with clear ownership context that makes its current publishing work easier to evaluate.",
+          "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+          "confidence": "standard",
+          "reviewed_at": "2026-08-21",
+          "evidence_urls": [
+            "https://nutritionstripped.com/",
+            "https://nutritionstripped.com/recipe-blogs/feed/",
+            "https://nutritionstripped.com/about-nutrition-stripped/"
+          ]
+        },
+        {
+          "rank": 6,
+          "id": "eatingbirdfood-com",
+          "name": "Eating Bird Food",
+          "url": "https://eatingbirdfood.com/",
+          "country": "XX",
+          "score": 93.0,
+          "movement": "new",
+          "best_for": "health education and sustainable wellbeing",
+          "reason": "Eating Bird Food concentrates on health education and sustainable wellbeing, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+          "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+          "confidence": "standard",
+          "reviewed_at": "2026-08-21",
+          "evidence_urls": [
+            "https://eatingbirdfood.com/",
+            "https://www.eatingbirdfood.com/web-stories/feed/",
+            "https://www.eatingbirdfood.com/about/"
+          ]
+        },
+        {
+          "rank": 7,
+          "id": "healthpopuli-com",
+          "name": "HealthPopuli.com",
+          "url": "https://healthpopuli.com/",
+          "country": "XX",
+          "score": 92.0,
+          "movement": "new",
+          "best_for": "public health and healthcare systems",
+          "reason": "HealthPopuli.com concentrates on public health and healthcare systems, with a discoverable feed, clear ownership context that makes its current publishing work easier to evaluate.",
+          "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+          "confidence": "standard",
+          "reviewed_at": "2026-08-21",
+          "evidence_urls": [
+            "https://healthpopuli.com/",
+            "https://www.healthpopuli.com/feed/",
+            "https://www.healthpopuli.com/about-jane/"
+          ]
+        },
+        {
+          "rank": 8,
+          "id": "mamavation-com",
+          "name": "MAMAVATION",
+          "url": "https://mamavation.com/",
+          "country": "XX",
+          "score": 91.0,
+          "movement": "new",
+          "best_for": "mental health and psychological wellbeing",
+          "reason": "MAMAVATION concentrates on mental health and psychological wellbeing, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+          "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+          "confidence": "standard",
+          "reviewed_at": "2026-08-21",
+          "evidence_urls": [
+            "https://mamavation.com/",
+            "https://mamavation.com/comments/feed",
+            "https://mamavation.com/about-leah-segedie"
+          ]
+        },
+        {
+          "rank": 9,
+          "id": "heavenlynnhealthy-com",
+          "name": "Heavenlynn Healthy",
+          "url": "https://heavenlynnhealthy.com/",
+          "country": "XX",
+          "score": 90.0,
+          "movement": "new",
+          "best_for": "nutrition and evidence-aware food decisions",
+          "reason": "Heavenlynn Healthy concentrates on nutrition and evidence-aware food decisions, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+          "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+          "confidence": "standard",
+          "reviewed_at": "2026-08-21",
+          "evidence_urls": [
+            "https://heavenlynnhealthy.com/",
+            "https://www.heavenlynnhealthy.com/healthy-lifestyle/resources/feed/",
+            "https://www.heavenlynnhealthy.com/about-me/"
+          ]
+        },
+        {
+          "rank": 10,
+          "id": "thefrontierpsychiatrists-substack-com",
+          "name": "The Frontier Psychiatrists",
+          "url": "https://thefrontierpsychiatrists.substack.com/",
+          "country": "XX",
+          "score": 89.0,
+          "movement": "new",
+          "best_for": "health education and sustainable wellbeing",
+          "reason": "The Frontier Psychiatrists concentrates on health education and sustainable wellbeing, with a discoverable feed that makes its current publishing work easier to evaluate.",
+          "limitation": "Authorship and editorial-policy information is less visible than on higher-ranked publications.",
+          "confidence": "standard",
+          "reviewed_at": "2026-08-21",
+          "evidence_urls": [
+            "https://thefrontierpsychiatrists.substack.com/",
+            "https://thefrontierpsychiatrists.substack.com/feed"
+          ]
+        }
+      ]
+    },
+    "publisher_company": {
+      "slug": "publisher_company",
+      "label": "Publisher and Company Blogs",
+      "count": 100,
+      "items": [
+        {
+          "rank": 1,
+          "id": "healthline-com",
+          "name": "Healthline",
+          "url": "https://healthline.com/",
+          "country": "XX",
+          "score": 98.0,
+          "movement": "new",
+          "best_for": "mental health and psychological wellbeing",
+          "reason": "Healthline concentrates on mental health and psychological wellbeing, with named authorship, clear ownership context that makes its current publishing work easier to evaluate.",
+          "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+          "confidence": "standard",
+          "reviewed_at": "2026-08-21",
+          "evidence_urls": [
+            "https://healthline.com/"
+          ]
+        },
+        {
+          "rank": 2,
+          "id": "everydayhealth-com",
+          "name": "EverydayHealth.com",
+          "url": "https://everydayhealth.com/",
+          "country": "XX",
+          "score": 97.0,
+          "movement": "new",
+          "best_for": "mental health and psychological wellbeing",
+          "reason": "EverydayHealth.com concentrates on mental health and psychological wellbeing, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+          "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+          "confidence": "standard",
+          "reviewed_at": "2026-08-21",
+          "evidence_urls": [
+            "https://everydayhealth.com/",
+            "https://feeds.everydayhealth.com/google-discover.xml",
+            "https://www.everydayhealth.com/about-us/"
+          ]
+        },
+        {
+          "rank": 3,
+          "id": "health-harvard-edu",
+          "name": "Harvard Health",
+          "url": "https://health.harvard.edu/",
+          "country": "XX",
+          "score": 96.0,
+          "movement": "new",
+          "best_for": "nutrition and evidence-aware food decisions",
+          "reason": "Harvard Health concentrates on nutrition and evidence-aware food decisions, with named authorship, clear ownership context that makes its current publishing work easier to evaluate.",
+          "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+          "confidence": "standard",
+          "reviewed_at": "2026-08-21",
+          "evidence_urls": [
+            "https://health.harvard.edu/",
+            "https://www.health.harvard.edu/about-us"
+          ]
+        },
+        {
+          "rank": 4,
+          "id": "verywellmind-com",
+          "name": "Verywell Mind",
+          "url": "https://verywellmind.com/",
+          "country": "XX",
+          "score": 95.0,
+          "movement": "new",
+          "best_for": "mental health and psychological wellbeing",
+          "reason": "Verywell Mind concentrates on mental health and psychological wellbeing, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+          "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+          "confidence": "standard",
+          "reviewed_at": "2026-08-21",
+          "evidence_urls": [
+            "https://verywellmind.com/",
+            "https://feeds-api.dotdashmeredith.com/v1/rss/google/16385a17-56e3-40a2-b61d-b29e3f7684d6",
+            "https://www.verywellmind.com/about-us-5184564"
+          ]
+        },
+        {
+          "rank": 5,
+          "id": "nutritionfacts-org",
+          "name": "NutritionFacts.org",
+          "url": "https://nutritionfacts.org/",
+          "country": "XX",
+          "score": 94.0,
+          "movement": "new",
+          "best_for": "nutrition and evidence-aware food decisions",
+          "reason": "NutritionFacts.org concentrates on nutrition and evidence-aware food decisions, with a visible article archive, named authorship that makes its current publishing work easier to evaluate.",
+          "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+          "confidence": "standard",
+          "reviewed_at": "2026-08-21",
+          "evidence_urls": [
+            "https://nutritionfacts.org/",
+            "https://nutritionfacts.org/feed/podcast/",
+            "https://nutritionfacts.org/about/"
+          ]
+        },
+        {
+          "rank": 6,
+          "id": "statnews-com",
+          "name": "STAT",
+          "url": "https://statnews.com/",
+          "country": "XX",
+          "score": 93.0,
+          "movement": "new",
+          "best_for": "medicine and patient-facing health education",
+          "reason": "STAT concentrates on medicine and patient-facing health education, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+          "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+          "confidence": "standard",
+          "reviewed_at": "2026-08-21",
+          "evidence_urls": [
+            "https://statnews.com/",
+            "https://www.statnews.com/feed/",
+            "https://www.statnews.com/about/"
+          ]
+        },
+        {
+          "rank": 7,
+          "id": "nami-org",
+          "name": "NAMI",
+          "url": "https://nami.org/",
+          "country": "XX",
+          "score": 92.0,
+          "movement": "new",
+          "best_for": "mental health and psychological wellbeing",
+          "reason": "NAMI concentrates on mental health and psychological wellbeing, with a clearly defined editorial focus that makes its current publishing work easier to evaluate.",
+          "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+          "confidence": "standard",
+          "reviewed_at": "2026-08-21",
+          "evidence_urls": [
+            "https://nami.org/"
+          ]
+        },
+        {
+          "rank": 8,
+          "id": "who-int",
+          "name": "World Health Organization (WHO)",
+          "url": "https://who.int/",
+          "country": "XX",
+          "score": 91.0,
+          "movement": "new",
+          "best_for": "nutrition and evidence-aware food decisions",
+          "reason": "World Health Organization (WHO) concentrates on nutrition and evidence-aware food decisions, with a visible article archive, named authorship that makes its current publishing work easier to evaluate.",
+          "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+          "confidence": "standard",
+          "reviewed_at": "2026-08-21",
+          "evidence_urls": [
+            "https://who.int/"
+          ]
+        },
+        {
+          "rank": 9,
+          "id": "blog-myfitnesspal-com",
+          "name": "MyFitnessPal Blog",
+          "url": "https://blog.myfitnesspal.com/",
+          "country": "XX",
+          "score": 90.0,
+          "movement": "new",
+          "best_for": "fitness, exercise, and sustainable training",
+          "reason": "MyFitnessPal Blog concentrates on fitness, exercise, and sustainable training, with a discoverable feed that makes its current publishing work easier to evaluate.",
+          "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+          "confidence": "standard",
+          "reviewed_at": "2026-08-21",
+          "evidence_urls": [
+            "https://blog.myfitnesspal.com/",
+            "https://blog.myfitnesspal.com/feed/"
+          ]
+        },
+        {
+          "rank": 10,
+          "id": "aarp-org",
+          "name": "AARP",
+          "url": "https://aarp.org/",
+          "country": "XX",
+          "score": 89.0,
+          "movement": "new",
+          "best_for": "fitness, exercise, and sustainable training",
+          "reason": "AARP concentrates on fitness, exercise, and sustainable training, with clear ownership context that makes its current publishing work easier to evaluate.",
+          "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+          "confidence": "standard",
+          "reviewed_at": "2026-08-21",
+          "evidence_urls": [
+            "https://aarp.org/",
+            "https://www.aarp.org/health/conditions-treatments/vaccines-after-50/"
+          ]
+        }
+      ]
+    }
+  },
+  "links": {
+    "repository": "https://github.com/wpgaurav/blog-rankings",
+    "methodology": "https://github.com/wpgaurav/blog-rankings/blob/main/METHODOLOGY.md",
+    "independent_markdown": "https://github.com/wpgaurav/blog-rankings/blob/main/dist/markdown/2026-09/health/independent.md",
+    "publisher_company_markdown": "https://github.com/wpgaurav/blog-rankings/blob/main/dist/markdown/2026-09/health/publisher_company.md"
+  }
+}

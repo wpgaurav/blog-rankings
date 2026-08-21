@@ -2,7 +2,7 @@
   "schema_version": 1,
   "project": "Gatilab Blog Rankings",
   "edition": "2026-09",
-  "status": "beta",
+  "status": "final",
   "generated_at": "2026-08-21T12:00:00Z",
   "category": {
     "slug": "technology",
@@ -13,176 +13,192 @@
     "independent": {
       "slug": "independent",
       "label": "Independent Blogs",
-      "count": 10,
+      "count": 100,
       "items": [
         {
           "rank": 1,
-          "id": "stratechery",
+          "id": "stratechery-com",
           "name": "Stratechery",
           "url": "https://stratechery.com/",
-          "country": "US",
-          "score": 91.0,
+          "country": "XX",
+          "score": 98.0,
           "movement": "new",
           "best_for": "technology strategy and platform business analysis",
           "reason": "Ben Thompson connects product decisions, distribution, market structure, and platform power in a consistent analytical framework.",
           "limitation": "Much of the complete analysis and archive access requires a paid subscription.",
-          "confidence": "provisional",
+          "confidence": "standard",
           "reviewed_at": "2026-08-21",
           "evidence_urls": [
-            "https://stratechery.com/"
+            "https://stratechery.com/",
+            "https://stratechery.com/about/"
           ]
         },
         {
           "rank": 2,
-          "id": "simon-willison",
-          "name": "Simon Willison's Weblog",
-          "url": "https://simonwillison.net/",
-          "country": "US",
-          "score": 90.8,
-          "movement": "new",
-          "best_for": "hands-on AI, Python, data, and open-source experiments",
-          "reason": "Simon Willison publishes reproducible technical notes, code, demos, and source links quickly enough to make a fast-moving field inspectable.",
-          "limitation": "The chronological notebook format can require more reader context than a structured beginner guide.",
-          "confidence": "provisional",
-          "reviewed_at": "2026-08-21",
-          "evidence_urls": [
-            "https://simonwillison.net/"
-          ]
-        },
-        {
-          "rank": 3,
-          "id": "pragmatic-engineer",
-          "name": "The Pragmatic Engineer",
-          "url": "https://newsletter.pragmaticengineer.com/",
-          "country": "NL",
-          "score": 90.3,
-          "movement": "new",
-          "best_for": "software engineering careers, teams, and industry practice",
-          "reason": "Gergely Orosz turns engineering-management reporting, interviews, and operator evidence into practical explanations for working developers.",
-          "limitation": "Many complete reports and deep dives are available only to paid subscribers.",
-          "confidence": "provisional",
-          "reviewed_at": "2026-08-21",
-          "evidence_urls": [
-            "https://newsletter.pragmaticengineer.com/"
-          ]
-        },
-        {
-          "rank": 4,
-          "id": "daring-fireball",
+          "id": "daringfireball-net",
           "name": "Daring Fireball",
           "url": "https://daringfireball.net/",
-          "country": "US",
-          "score": 90.2,
+          "country": "XX",
+          "score": 97.0,
           "movement": "new",
           "best_for": "Apple, interface, and technology-industry commentary",
           "reason": "John Gruber combines close product observation with a distinctive editorial position and a long, searchable record of corrections and follow-up.",
           "limitation": "The Apple-centered lens and link-blog format are narrower than a general technology publication.",
-          "confidence": "provisional",
+          "confidence": "standard",
           "reviewed_at": "2026-08-21",
           "evidence_urls": [
-            "https://daringfireball.net/"
+            "https://daringfireball.net/",
+            "https://daringfireball.net/feeds/main",
+            "https://daringfireball.net/colophon/"
+          ]
+        },
+        {
+          "rank": 3,
+          "id": "newsletter-pragmaticengineer-com",
+          "name": "The Pragmatic Engineer",
+          "url": "https://newsletter.pragmaticengineer.com/",
+          "country": "XX",
+          "score": 96.0,
+          "movement": "new",
+          "best_for": "software engineering careers, teams, and industry practice",
+          "reason": "Gergely Orosz turns engineering-management reporting, interviews, and operator evidence into practical explanations for working developers.",
+          "limitation": "Many complete reports and deep dives are available only to paid subscribers.",
+          "confidence": "standard",
+          "reviewed_at": "2026-08-21",
+          "evidence_urls": [
+            "https://newsletter.pragmaticengineer.com/",
+            "https://newsletter.pragmaticengineer.com/feed"
+          ]
+        },
+        {
+          "rank": 4,
+          "id": "simonwillison-net",
+          "name": "Simon Willison's Weblog",
+          "url": "https://simonwillison.net/",
+          "country": "XX",
+          "score": 95.0,
+          "movement": "new",
+          "best_for": "hands-on AI, Python, data, and open-source experiments",
+          "reason": "Simon Willison publishes reproducible technical notes, code, demos, and source links quickly enough to make a fast-moving field inspectable.",
+          "limitation": "The chronological notebook format can require more reader context than a structured beginner guide.",
+          "confidence": "standard",
+          "reviewed_at": "2026-08-21",
+          "evidence_urls": [
+            "https://simonwillison.net/",
+            "https://simonwillison.net/atom/everything/",
+            "https://simonwillison.net/about/"
           ]
         },
         {
           "rank": 5,
-          "id": "krebs-security",
-          "name": "Krebs on Security",
-          "url": "https://krebsonsecurity.com/",
-          "country": "US",
-          "score": 89.2,
-          "movement": "new",
-          "best_for": "cybercrime investigations and security incident reporting",
-          "reason": "Brian Krebs produces original reporting on breaches, fraud networks, identity crime, and the people and infrastructure behind security incidents.",
-          "limitation": "The investigative focus is deliberately narrower than enterprise-security training or broad product coverage.",
-          "confidence": "provisional",
-          "reviewed_at": "2026-08-21",
-          "evidence_urls": [
-            "https://krebsonsecurity.com/"
-          ]
-        },
-        {
-          "rank": 6,
-          "id": "schneier-security",
+          "id": "schneier-com",
           "name": "Schneier on Security",
           "url": "https://schneier.com/",
-          "country": "US",
-          "score": 89.2,
+          "country": "XX",
+          "score": 94.0,
           "movement": "new",
           "best_for": "security policy, cryptography, risk, and public-interest analysis",
           "reason": "Bruce Schneier pairs technical security knowledge with policy context, primary links, and a durable archive that helps readers follow long-running issues.",
           "limitation": "The site mixes short linked commentary with longer analysis, so depth varies by post.",
-          "confidence": "provisional",
+          "confidence": "standard",
           "reviewed_at": "2026-08-21",
           "evidence_urls": [
-            "https://www.schneier.com/"
+            "https://www.schneier.com/",
+            "https://www.schneier.com/comments/feed/",
+            "https://www.schneier.com/blog/about/"
+          ]
+        },
+        {
+          "rank": 6,
+          "id": "krebsonsecurity-com",
+          "name": "Krebs on Security",
+          "url": "https://krebsonsecurity.com/",
+          "country": "XX",
+          "score": 93.0,
+          "movement": "new",
+          "best_for": "cybercrime investigations and security incident reporting",
+          "reason": "Brian Krebs produces original reporting on breaches, fraud networks, identity crime, and the people and infrastructure behind security incidents.",
+          "limitation": "The investigative focus is deliberately narrower than enterprise-security training or broad product coverage.",
+          "confidence": "standard",
+          "reviewed_at": "2026-08-21",
+          "evidence_urls": [
+            "https://krebsonsecurity.com/",
+            "https://krebsonsecurity.com/comments/feed/",
+            "https://krebsonsecurity.com/about/"
           ]
         },
         {
           "rank": 7,
-          "id": "404-media",
-          "name": "404 Media",
-          "url": "https://404media.co/",
-          "country": "US",
-          "score": 88.2,
-          "movement": "new",
-          "best_for": "original investigations into technology, surveillance, and internet culture",
-          "reason": "The worker-owned newsroom regularly produces source-led investigations that larger technology outlets follow and cite.",
-          "limitation": "Some complete articles and community features are limited to paid members.",
-          "confidence": "provisional",
-          "reviewed_at": "2026-08-21",
-          "evidence_urls": [
-            "https://www.404media.co/"
-          ]
-        },
-        {
-          "rank": 8,
-          "id": "platformer",
+          "id": "platformer-news",
           "name": "Platformer",
           "url": "https://platformer.news/",
-          "country": "US",
-          "score": 87.8,
+          "country": "XX",
+          "score": 92.0,
           "movement": "new",
           "best_for": "social platforms, policy, moderation, and technology power",
           "reason": "Platformer reports on the decisions and institutions governing large online platforms, with a clear distinction between reporting and analysis.",
           "limitation": "Full access to some reporting and community discussions requires a subscription.",
-          "confidence": "provisional",
+          "confidence": "standard",
           "reviewed_at": "2026-08-21",
           "evidence_urls": [
-            "https://www.platformer.news/"
+            "https://www.platformer.news/",
+            "https://www.platformer.news/rss/",
+            "https://www.platformer.news/about/"
+          ]
+        },
+        {
+          "rank": 8,
+          "id": "404media-co",
+          "name": "404 Media",
+          "url": "https://404media.co/",
+          "country": "XX",
+          "score": 91.0,
+          "movement": "new",
+          "best_for": "original investigations into technology, surveillance, and internet culture",
+          "reason": "The worker-owned newsroom regularly produces source-led investigations that larger technology outlets follow and cite.",
+          "limitation": "Some complete articles and community features are limited to paid members.",
+          "confidence": "standard",
+          "reviewed_at": "2026-08-21",
+          "evidence_urls": [
+            "https://www.404media.co/",
+            "https://www.404media.co/rss/",
+            "https://www.404media.co/about/"
           ]
         },
         {
           "rank": 9,
-          "id": "benedict-evans",
+          "id": "ben-evans-com",
           "name": "Benedict Evans",
           "url": "https://ben-evans.com/",
-          "country": "GB",
-          "score": 85.9,
+          "country": "XX",
+          "score": 90.0,
           "movement": "new",
           "best_for": "technology trends, market shifts, and strategic synthesis",
           "reason": "Benedict Evans uses market data, historical comparison, and compact models to separate durable platform shifts from short-term technology noise.",
           "limitation": "The high-level strategic view offers fewer implementation details for readers seeking tutorials.",
-          "confidence": "provisional",
+          "confidence": "standard",
           "reviewed_at": "2026-08-21",
           "evidence_urls": [
-            "https://www.ben-evans.com/"
+            "https://www.ben-evans.com/",
+            "https://www.ben-evans.com/contact"
           ]
         },
         {
           "rank": 10,
-          "id": "tedium",
+          "id": "tedium-co",
           "name": "Tedium",
           "url": "https://tedium.co/",
-          "country": "US",
-          "score": 82.2,
+          "country": "XX",
+          "score": 89.0,
           "movement": "new",
           "best_for": "overlooked technology history and internet culture",
           "reason": "Ernie Smith researches ordinary technologies and forgotten web history deeply enough to make apparently minor subjects useful and memorable.",
           "limitation": "The deliberately eclectic subject selection is less useful for readers tracking one narrow industry beat.",
-          "confidence": "provisional",
+          "confidence": "standard",
           "reviewed_at": "2026-08-21",
           "evidence_urls": [
-            "https://tedium.co/"
+            "https://tedium.co/",
+            "https://tedium.co/what-is-tedium"
           ]
         }
       ]
@@ -190,37 +206,39 @@
     "publisher_company": {
       "slug": "publisher_company",
       "label": "Publisher and Company Blogs",
-      "count": 10,
+      "count": 100,
       "items": [
         {
           "rank": 1,
-          "id": "wired",
+          "id": "wired-com",
           "name": "WIRED",
           "url": "https://wired.com/",
-          "country": "US",
-          "score": 92.9,
+          "country": "XX",
+          "score": 98.0,
           "movement": "new",
           "best_for": "technology reporting with science, business, and cultural context",
           "reason": "WIRED combines original reporting, investigations, product coverage, and long-form analysis across technology's social and commercial consequences.",
           "limitation": "The broad remit and subscription model make depth and access uneven across sections.",
-          "confidence": "provisional",
+          "confidence": "standard",
           "reviewed_at": "2026-08-21",
           "evidence_urls": [
-            "https://www.wired.com/"
+            "https://www.wired.com/",
+            "https://www.wired.com/feed/rss",
+            "https://www.wired.com/story/are-digital-wall-calendars-worth-it/"
           ]
         },
         {
           "rank": 2,
-          "id": "ars-technica",
+          "id": "arstechnica-com",
           "name": "Ars Technica",
           "url": "https://arstechnica.com/",
-          "country": "US",
-          "score": 92.5,
+          "country": "XX",
+          "score": 97.0,
           "movement": "new",
           "best_for": "technically literate reporting on computing, policy, science, and security",
           "reason": "Ars Technica explains mechanisms and consequences with more technical depth than most general technology publications while maintaining a strong reporting desk.",
           "limitation": "Its detail and assumed background can feel dense for casual readers.",
-          "confidence": "provisional",
+          "confidence": "standard",
           "reviewed_at": "2026-08-21",
           "evidence_urls": [
             "https://arstechnica.com/"
@@ -228,138 +246,152 @@
         },
         {
           "rank": 3,
-          "id": "the-verge",
+          "id": "theverge-com",
           "name": "The Verge",
           "url": "https://theverge.com/",
-          "country": "US",
-          "score": 91.9,
+          "country": "XX",
+          "score": 96.0,
           "movement": "new",
           "best_for": "consumer technology, platforms, policy, and product culture",
           "reason": "The Verge pairs fast reporting with strong visual storytelling, product expertise, and analysis of how technology changes everyday behavior.",
           "limitation": "Its editorial voice and high publishing volume can produce uneven depth across individual stories.",
-          "confidence": "provisional",
+          "confidence": "standard",
           "reviewed_at": "2026-08-21",
           "evidence_urls": [
-            "https://www.theverge.com/"
+            "https://www.theverge.com/",
+            "https://www.theverge.com/rss/index.xml",
+            "https://www.theverge.com/about-the-verge"
           ]
         },
         {
           "rank": 4,
-          "id": "mit-technology-review",
+          "id": "technologyreview-com",
           "name": "MIT Technology Review",
           "url": "https://technologyreview.com/",
-          "country": "US",
-          "score": 91.6,
+          "country": "XX",
+          "score": 95.0,
           "movement": "new",
           "best_for": "emerging technology, AI, climate, biotechnology, and policy",
           "reason": "MIT Technology Review connects research and industry developments to public consequences with specialist reporting and an unusually clear evidence boundary.",
           "limitation": "A subscription is required for much of the complete reporting.",
-          "confidence": "provisional",
+          "confidence": "standard",
           "reviewed_at": "2026-08-21",
           "evidence_urls": [
-            "https://www.technologyreview.com/"
+            "https://www.technologyreview.com/",
+            "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/"
           ]
         },
         {
           "rank": 5,
-          "id": "ieee-spectrum",
-          "name": "IEEE Spectrum",
-          "url": "https://spectrum.ieee.org/",
-          "country": "US",
-          "score": 89.5,
-          "movement": "new",
-          "best_for": "engineering, robotics, electronics, energy, and applied research",
-          "reason": "IEEE Spectrum covers working technologies through engineers, specialist reporters, technical diagrams, and close attention to how systems are built.",
-          "limitation": "Its engineering focus is narrower than general consumer or startup coverage.",
-          "confidence": "provisional",
-          "reviewed_at": "2026-08-21",
-          "evidence_urls": [
-            "https://spectrum.ieee.org/"
-          ]
-        },
-        {
-          "rank": 6,
-          "id": "toms-hardware",
-          "name": "Tom's Hardware",
-          "url": "https://tomshardware.com/",
-          "country": "US",
-          "score": 89.0,
-          "movement": "new",
-          "best_for": "PC hardware testing, components, benchmarks, and buying decisions",
-          "reason": "Tom's Hardware combines a deep testing archive with current component news, benchmark methodology, and practical system-building coverage.",
-          "limitation": "Commercial buying coverage can overwhelm readers who want broader technology analysis.",
-          "confidence": "provisional",
-          "reviewed_at": "2026-08-21",
-          "evidence_urls": [
-            "https://www.tomshardware.com/"
-          ]
-        },
-        {
-          "rank": 7,
-          "id": "techcrunch",
+          "id": "techcrunch-com",
           "name": "TechCrunch",
           "url": "https://techcrunch.com/",
-          "country": "US",
-          "score": 89.0,
+          "country": "XX",
+          "score": 94.0,
           "movement": "new",
           "best_for": "startups, venture capital, product launches, and technology business news",
           "reason": "TechCrunch maintains one of the broadest active reporting networks for startup funding, company changes, product announcements, and venture markets.",
           "limitation": "The speed and volume of coverage leave less room for depth in many daily stories.",
-          "confidence": "provisional",
+          "confidence": "standard",
           "reviewed_at": "2026-08-21",
           "evidence_urls": [
-            "https://techcrunch.com/"
+            "https://techcrunch.com/",
+            "https://techcrunch.com/feed/",
+            "https://techcrunch.com/about-techcrunch/"
+          ]
+        },
+        {
+          "rank": 6,
+          "id": "spectrum-ieee-org",
+          "name": "IEEE Spectrum",
+          "url": "https://spectrum.ieee.org/",
+          "country": "XX",
+          "score": 93.0,
+          "movement": "new",
+          "best_for": "engineering, robotics, electronics, energy, and applied research",
+          "reason": "IEEE Spectrum covers working technologies through engineers, specialist reporters, technical diagrams, and close attention to how systems are built.",
+          "limitation": "Its engineering focus is narrower than general consumer or startup coverage.",
+          "confidence": "standard",
+          "reviewed_at": "2026-08-21",
+          "evidence_urls": [
+            "https://spectrum.ieee.org/",
+            "https://spectrum.ieee.org/feeds/feed.rss",
+            "https://spectrum.ieee.org/about"
+          ]
+        },
+        {
+          "rank": 7,
+          "id": "tomshardware-com",
+          "name": "Tom's Hardware",
+          "url": "https://tomshardware.com/",
+          "country": "XX",
+          "score": 92.0,
+          "movement": "new",
+          "best_for": "PC hardware testing, components, benchmarks, and buying decisions",
+          "reason": "Tom's Hardware combines a deep testing archive with current component news, benchmark methodology, and practical system-building coverage.",
+          "limitation": "Commercial buying coverage can overwhelm readers who want broader technology analysis.",
+          "confidence": "standard",
+          "reviewed_at": "2026-08-21",
+          "evidence_urls": [
+            "https://www.tomshardware.com/",
+            "https://www.tomshardware.com/feeds.xml"
           ]
         },
         {
           "rank": 8,
-          "id": "android-authority",
+          "id": "androidauthority-com",
           "name": "Android Authority",
           "url": "https://androidauthority.com/",
-          "country": "US",
-          "score": 87.3,
+          "country": "XX",
+          "score": 91.0,
           "movement": "new",
           "best_for": "Android devices, mobile software, testing, and buying guidance",
           "reason": "Android Authority combines a focused mobile beat with product testing, explainers, opinion, and a large archive of practical device guidance.",
           "limitation": "The consumer-device focus leaves limited room for broader software and technology policy.",
-          "confidence": "provisional",
+          "confidence": "standard",
           "reviewed_at": "2026-08-21",
           "evidence_urls": [
-            "https://www.androidauthority.com/"
+            "https://www.androidauthority.com/",
+            "https://www.androidauthority.com/feed",
+            "https://www.androidauthority.com/pixel-11-pro-one-week-later-impressions-3699430/"
           ]
         },
         {
           "rank": 9,
-          "id": "engadget",
+          "id": "engadget-com",
           "name": "Engadget",
           "url": "https://engadget.com/",
-          "country": "US",
-          "score": 86.7,
+          "country": "XX",
+          "score": 90.0,
           "movement": "new",
           "best_for": "consumer electronics news, reviews, and major industry events",
           "reason": "Engadget maintains broad daily consumer-technology coverage with experienced reviewers and useful event reporting.",
           "limitation": "High publishing volume and commercial coverage make individual article depth inconsistent.",
-          "confidence": "provisional",
+          "confidence": "standard",
           "reviewed_at": "2026-08-21",
           "evidence_urls": [
-            "https://www.engadget.com/"
+            "https://www.engadget.com/",
+            "https://www.engadget.com/feed/",
+            "https://www.engadget.com/about/"
           ]
         },
         {
           "rank": 10,
-          "id": "nine-to-five-mac",
+          "id": "9to5mac-com",
           "name": "9to5Mac",
           "url": "https://9to5mac.com/",
-          "country": "US",
-          "score": 86.2,
+          "country": "XX",
+          "score": 89.0,
           "movement": "new",
           "best_for": "Apple news, software releases, devices, and ecosystem reporting",
           "reason": "9to5Mac follows Apple products and software continuously, often surfacing release details and ecosystem changes before general outlets catch up.",
           "limitation": "Its narrow Apple focus and fast news cycle produce less value outside that ecosystem.",
-          "confidence": "provisional",
+          "confidence": "standard",
           "reviewed_at": "2026-08-21",
           "evidence_urls": [
-            "https://9to5mac.com/"
+            "https://9to5mac.com/",
+            "https://9to5mac.com/web-stories/feed/",
+            "https://9to5mac.com/about/"
           ]
         }
       ]

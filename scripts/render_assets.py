@@ -4,6 +4,7 @@
 from __future__ import annotations
 
 from datetime import date
+import json
 from pathlib import Path
 import textwrap
 from xml.sax.saxutils import escape
@@ -218,6 +219,36 @@ def badge_template(label: str, filename: str) -> None:
     )
 
 
+def issued_badge(category: dict[str, object], track: str, level: str, edition: str) -> str:
+    category_name = str(category["name"])
+    category_lines = textwrap.wrap(category_name, width=18)[:2]
+    category_tspans = "".join(
+        f'<tspan x="400" dy="{0 if index == 0 else 72}">{escape(line)}</tspan>'
+        for index, line in enumerate(category_lines)
+    )
+    if track == "independent":
+        track_label = "INDEPENDENT"
+        track_tspans = '<tspan x="400" dy="0">INDEPENDENT</tspan>'
+    else:
+        track_label = "PUBLISHER + COMPANY"
+        track_tspans = '<tspan x="400" dy="0">PUBLISHER +</tspan><tspan x="400" dy="72">COMPANY</tspan>'
+    body = f'''  <rect width="800" height="800" rx="96" fill="#0f0f0f"/>
+  <rect x="48" y="48" width="704" height="704" rx="64" fill="none" stroke="#3f3f46" stroke-width="4"/>
+  {ladder(280, 68, 1, '#e8836f')}
+  <text x="400" y="340" text-anchor="middle" font-family="{FONT}" font-size="96" font-weight="700" fill="#fafafa">{escape(level)}</text>
+  <text x="400" y="420" text-anchor="middle" font-family="{FONT}" font-size="70" font-weight="600" fill="#e8836f">{track_tspans}</text>
+  <text x="400" y="570" text-anchor="middle" font-family="{FONT}" font-size="70" font-weight="700" fill="#fafafa">{category_tspans}</text>
+  <text x="400" y="742" text-anchor="middle" font-family="{FONT}" font-size="70" font-weight="600" fill="#a1a1aa">{escape(edition)} EDITION</text>'''
+    return svg_document(
+        800,
+        800,
+        f"{category_name} {track_label.title()} {level} badge",
+        f"Issued Gatilab Blog Rankings {level} badge for the {category_name} {track_label.lower()} track in the {edition} edition.",
+        body,
+        f"gbr-issued-{category['slug']}-{track}-{level.lower().replace(' ', '-')}",
+    )
+
+
 def main() -> None:
     category_data = yaml.safe_load((ROOT / "categories.yml").read_text(encoding="utf-8"))["categories"]
     write_asset("identity/ranking-mark.svg", ranking_mark())
@@ -229,6 +260,27 @@ def main() -> None:
     badge_template("CATEGORY WINNER", "category-winner")
     badge_template("TOP 10", "top-10")
     badge_template("TOP 100", "top-100")
+    edition = "2026-09"
+    badge_index = []
+    for category in category_data:
+        for track in ("independent", "publisher_company"):
+            source_path = ROOT / "data" / "rankings" / edition / str(category["slug"]) / f"{track}.yml"
+            source = yaml.safe_load(source_path.read_text(encoding="utf-8"))
+            if source.get("status") != "final" or len(source.get("entries", [])) != 100:
+                raise RuntimeError(f"Cannot issue badges from incomplete source: {source_path}")
+            for level, slug in (("TOP 10", "top-10"), ("TOP 100", "top-100")):
+                relative = f"badges/{edition}/{category['slug']}/{track}-{slug}.svg"
+                write_asset(relative, issued_badge(category, track, level, edition))
+                badge_index.append(
+                    {
+                        "edition": edition,
+                        "category": category["slug"],
+                        "track": track,
+                        "level": level,
+                        "asset": relative,
+                    }
+                )
+    (OUTPUT / "badges" / edition / "index.json").write_text(json.dumps(badge_index, indent=2) + "\n", encoding="utf-8")
     print(f"Generated SVG assets in {OUTPUT} and {PICTURES}")
 
 

@@ -11,7 +11,7 @@ Gatilab presents the Top 10 on the web. This repository publishes the complete T
 
 ## Current Status
 
-The platform is in beta. Technology and Marketing & SEO are the first implementation pilots. Beta data is provisional and cannot produce a Category Winner badge.
+The 2026-09 release candidate contains 10 categories, 2 separate tracks per category, and 100 ranked publications in every track. Top 10 and Top 100 badges are generated from the final data. Category Winner badges remain unissued until an independent second reviewer completes that governance gate.
 
 ## How It Works
 

@@ -1,0 +1,410 @@
+{
+  "schema_version": 1,
+  "project": "Gatilab Blog Rankings",
+  "edition": "2026-09",
+  "status": "final",
+  "generated_at": "2026-08-21T12:00:00Z",
+  "category": {
+    "slug": "culture-entertainment",
+    "name": "Culture and Entertainment",
+    "description": "Criticism, reporting, and analysis about books, film, television, music, games, and popular culture."
+  },
+  "tracks": {
+    "independent": {
+      "slug": "independent",
+      "label": "Independent Blogs",
+      "count": 100,
+      "items": [
+        {
+          "rank": 1,
+          "id": "austinkleon-com",
+          "name": "Austin Kleon",
+          "url": "https://austinkleon.com/",
+          "country": "XX",
+          "score": 98.0,
+          "movement": "new",
+          "best_for": "books, literature, and reading culture",
+          "reason": "Austin Kleon concentrates on books, literature, and reading culture, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+          "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+          "confidence": "standard",
+          "reviewed_at": "2026-08-21",
+          "evidence_urls": [
+            "https://austinkleon.com/",
+            "https://austinkleon.com/comments/feed/",
+            "https://austinkleon.com/about/"
+          ]
+        },
+        {
+          "rank": 2,
+          "id": "atwoodmagazine-com",
+          "name": "Atwood Magazine",
+          "url": "https://atwoodmagazine.com/",
+          "country": "XX",
+          "score": 97.0,
+          "movement": "new",
+          "best_for": "music criticism, discovery, and industry context",
+          "reason": "Atwood Magazine concentrates on music criticism, discovery, and industry context, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+          "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+          "confidence": "standard",
+          "reviewed_at": "2026-08-21",
+          "evidence_urls": [
+            "https://atwoodmagazine.com/",
+            "https://atwoodmagazine.com/comments/feed/",
+            "https://atwoodmagazine.com/about/"
+          ]
+        },
+        {
+          "rank": 3,
+          "id": "jerryjenkins-com",
+          "name": "Jerry Jenkins | Proven Writing Tips",
+          "url": "https://jerryjenkins.com/",
+          "country": "XX",
+          "score": 96.0,
+          "movement": "new",
+          "best_for": "culture, criticism, and entertainment analysis",
+          "reason": "Jerry Jenkins | Proven Writing Tips concentrates on culture, criticism, and entertainment analysis, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+          "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+          "confidence": "standard",
+          "reviewed_at": "2026-08-21",
+          "evidence_urls": [
+            "https://jerryjenkins.com/",
+            "https://jerryjenkins.com/comments/feed/",
+            "https://jerryjenkins.com/about/"
+          ]
+        },
+        {
+          "rank": 4,
+          "id": "noamkroll-com",
+          "name": "Noam Kroll",
+          "url": "https://noamkroll.com/",
+          "country": "XX",
+          "score": 95.0,
+          "movement": "new",
+          "best_for": "books, literature, and reading culture",
+          "reason": "Noam Kroll concentrates on books, literature, and reading culture, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+          "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+          "confidence": "standard",
+          "reviewed_at": "2026-08-21",
+          "evidence_urls": [
+            "https://noamkroll.com/",
+            "https://noamkroll.com/the-7-filmmaking-blogs-you-should-be-reading-bookmarking-today/feed/",
+            "https://noamkroll.com/about-noam/"
+          ]
+        },
+        {
+          "rank": 5,
+          "id": "eclecticmusiclover-com",
+          "name": "ECLECTIC MUSIC LOVER",
+          "url": "https://eclecticmusiclover.com/",
+          "country": "XX",
+          "score": 94.0,
+          "movement": "new",
+          "best_for": "music criticism, discovery, and industry context",
+          "reason": "ECLECTIC MUSIC LOVER concentrates on music criticism, discovery, and industry context, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+          "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+          "confidence": "standard",
+          "reviewed_at": "2026-08-21",
+          "evidence_urls": [
+            "https://eclecticmusiclover.com/",
+            "https://eclecticmusiclover.com/about/feed/",
+            "https://eclecticmusiclover.com/about/#content"
+          ]
+        },
+        {
+          "rank": 6,
+          "id": "stackedbooks-org",
+          "name": "STACKED",
+          "url": "https://stackedbooks.org/",
+          "country": "XX",
+          "score": 93.0,
+          "movement": "new",
+          "best_for": "books, literature, and reading culture",
+          "reason": "STACKED concentrates on books, literature, and reading culture, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+          "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+          "confidence": "standard",
+          "reviewed_at": "2026-08-21",
+          "evidence_urls": [
+            "https://stackedbooks.org/",
+            "https://stackedbooks.org/comments/feed/"
+          ]
+        },
+        {
+          "rank": 7,
+          "id": "arpegi-wordpress-com",
+          "name": "NekoJonez's Gaming Blog",
+          "url": "https://arpegi.wordpress.com/",
+          "country": "XX",
+          "score": 92.0,
+          "movement": "new",
+          "best_for": "games, criticism, and gaming culture",
+          "reason": "NekoJonez's Gaming Blog concentrates on games, criticism, and gaming culture, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+          "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+          "confidence": "standard",
+          "reviewed_at": "2026-08-21",
+          "evidence_urls": [
+            "https://arpegi.wordpress.com/",
+            "https://arpegi.wordpress.com/comments/feed/",
+            "https://arpegi.wordpress.com/about-me/"
+          ]
+        },
+        {
+          "rank": 8,
+          "id": "bohemianbibliophile-com",
+          "name": "Bohemian Bibliophile",
+          "url": "https://bohemianbibliophile.com/",
+          "country": "XX",
+          "score": 91.0,
+          "movement": "new",
+          "best_for": "books, literature, and reading culture",
+          "reason": "Bohemian Bibliophile concentrates on books, literature, and reading culture, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+          "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+          "confidence": "standard",
+          "reviewed_at": "2026-08-21",
+          "evidence_urls": [
+            "https://bohemianbibliophile.com/",
+            "https://bohemianbibliophile.com/comments/feed/",
+            "https://bohemianbibliophile.com/about-bohemian-bibliophile/"
+          ]
+        },
+        {
+          "rank": 9,
+          "id": "thatartsyreadergirl-com",
+          "name": "That Artsy Reader Girl",
+          "url": "https://thatartsyreadergirl.com/",
+          "country": "XX",
+          "score": 90.0,
+          "movement": "new",
+          "best_for": "books, literature, and reading culture",
+          "reason": "That Artsy Reader Girl concentrates on books, literature, and reading culture, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+          "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+          "confidence": "standard",
+          "reviewed_at": "2026-08-21",
+          "evidence_urls": [
+            "https://thatartsyreadergirl.com/",
+            "https://www.thatartsyreadergirl.com/comments/feed/",
+            "https://www.thatartsyreadergirl.com/about-jana/"
+          ]
+        },
+        {
+          "rank": 10,
+          "id": "bookwyrmshoard-com",
+          "name": "The Bookwyrm's Hoard",
+          "url": "https://bookwyrmshoard.com/",
+          "country": "XX",
+          "score": 89.0,
+          "movement": "new",
+          "best_for": "books, literature, and reading culture",
+          "reason": "The Bookwyrm's Hoard concentrates on books, literature, and reading culture, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+          "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+          "confidence": "standard",
+          "reviewed_at": "2026-08-21",
+          "evidence_urls": [
+            "https://bookwyrmshoard.com/",
+            "https://bookwyrmshoard.com/comments/feed/",
+            "https://bookwyrmshoard.com/about-review-policy-contact/"
+          ]
+        }
+      ]
+    },
+    "publisher_company": {
+      "slug": "publisher_company",
+      "label": "Publisher and Company Blogs",
+      "count": 100,
+      "items": [
+        {
+          "rank": 1,
+          "id": "variety-com",
+          "name": "Variety",
+          "url": "https://variety.com/",
+          "country": "XX",
+          "score": 98.0,
+          "movement": "new",
+          "best_for": "film criticism and cinema culture",
+          "reason": "Variety concentrates on film criticism and cinema culture, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+          "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+          "confidence": "standard",
+          "reviewed_at": "2026-08-21",
+          "evidence_urls": [
+            "https://variety.com/",
+            "https://variety.com/feed/rss/",
+            "https://variety.com/2026/film/news/la-mayor-karen-bass-paramount-warner-bros-merger-settle-antitrust-case-1236839410/"
+          ]
+        },
+        {
+          "rank": 2,
+          "id": "rollingstone-com",
+          "name": "Rolling Stone",
+          "url": "https://rollingstone.com/",
+          "country": "XX",
+          "score": 97.0,
+          "movement": "new",
+          "best_for": "film criticism and cinema culture",
+          "reason": "Rolling Stone concentrates on film criticism and cinema culture, with a discoverable feed, named authorship that makes its current publishing work easier to evaluate.",
+          "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+          "confidence": "standard",
+          "reviewed_at": "2026-08-21",
+          "evidence_urls": [
+            "https://rollingstone.com/",
+            "https://www.rollingstone.com/culture/feed/",
+            "https://www.rollingstone.com/culture/culture-features/disney-adults-viral-peter-pan-video-1235611104/"
+          ]
+        },
+        {
+          "rank": 3,
+          "id": "pitchfork-com",
+          "name": "Pitchfork",
+          "url": "https://pitchfork.com/",
+          "country": "XX",
+          "score": 96.0,
+          "movement": "new",
+          "best_for": "books, literature, and reading culture",
+          "reason": "Pitchfork concentrates on books, literature, and reading culture, with a discoverable feed, named authorship that makes its current publishing work easier to evaluate.",
+          "limitation": "The homepage is heavier and more commercially layered than a focused reading experience.",
+          "confidence": "standard",
+          "reviewed_at": "2026-08-21",
+          "evidence_urls": [
+            "https://pitchfork.com/",
+            "https://pitchfork.com/feed/rss",
+            "https://pitchfork.com/story/bibio-and-dorian-concept-announce-collaborative-album-answers/"
+          ]
+        },
+        {
+          "rank": 4,
+          "id": "billboard-com",
+          "name": "Billboard",
+          "url": "https://billboard.com/",
+          "country": "XX",
+          "score": 95.0,
+          "movement": "new",
+          "best_for": "music criticism, discovery, and industry context",
+          "reason": "Billboard concentrates on music criticism, discovery, and industry context, with a discoverable feed, named authorship that makes its current publishing work easier to evaluate.",
+          "limitation": "The homepage is heavier and more commercially layered than a focused reading experience.",
+          "confidence": "standard",
+          "reviewed_at": "2026-08-21",
+          "evidence_urls": [
+            "https://billboard.com/",
+            "https://www.billboard.com/feed/rss/",
+            "https://www.billboard.com/p/kehlani-billboard-cover-story-interview/"
+          ]
+        },
+        {
+          "rank": 5,
+          "id": "newyorker-com",
+          "name": "The New Yorker",
+          "url": "https://newyorker.com/",
+          "country": "XX",
+          "score": 94.0,
+          "movement": "new",
+          "best_for": "books, literature, and reading culture",
+          "reason": "The New Yorker concentrates on books, literature, and reading culture, with a discoverable feed, named authorship that makes its current publishing work easier to evaluate.",
+          "limitation": "The homepage is heavier and more commercially layered than a focused reading experience.",
+          "confidence": "standard",
+          "reviewed_at": "2026-08-21",
+          "evidence_urls": [
+            "https://newyorker.com/",
+            "https://www.newyorker.com/feed/rss",
+            "https://www.newyorker.com/about/digital-access"
+          ]
+        },
+        {
+          "rank": 6,
+          "id": "theatlantic-com",
+          "name": "The Atlantic",
+          "url": "https://theatlantic.com/",
+          "country": "XX",
+          "score": 93.0,
+          "movement": "new",
+          "best_for": "books, literature, and reading culture",
+          "reason": "The Atlantic concentrates on books, literature, and reading culture, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+          "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+          "confidence": "standard",
+          "reviewed_at": "2026-08-21",
+          "evidence_urls": [
+            "https://theatlantic.com/",
+            "https://www.theatlantic.com/feed/best-of/"
+          ]
+        },
+        {
+          "rank": 7,
+          "id": "nytimes-com",
+          "name": "The New York Times",
+          "url": "https://nytimes.com/",
+          "country": "XX",
+          "score": 92.0,
+          "movement": "new",
+          "best_for": "film criticism and cinema culture",
+          "reason": "The New York Times concentrates on film criticism and cinema culture, with a discoverable feed, named authorship that makes its current publishing work easier to evaluate.",
+          "limitation": "Some complete material may require registration, membership, or a paid subscription.",
+          "confidence": "standard",
+          "reviewed_at": "2026-08-21",
+          "evidence_urls": [
+            "https://nytimes.com/",
+            "https://www.nytimes.com/svc/collections/v1/publish/https://www.nytimes.com/section/science/rss.xml"
+          ]
+        },
+        {
+          "rank": 8,
+          "id": "kotaku-com",
+          "name": "Kotaku",
+          "url": "https://kotaku.com/",
+          "country": "XX",
+          "score": 91.0,
+          "movement": "new",
+          "best_for": "games, criticism, and gaming culture",
+          "reason": "Kotaku concentrates on games, criticism, and gaming culture, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+          "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+          "confidence": "standard",
+          "reviewed_at": "2026-08-21",
+          "evidence_urls": [
+            "https://kotaku.com/",
+            "https://kotaku.com/feed",
+            "https://kotaku.com/14-things-we-just-learned-about-the-duskbloods-2000726219"
+          ]
+        },
+        {
+          "rank": 9,
+          "id": "nme-com",
+          "name": "NME",
+          "url": "https://nme.com/",
+          "country": "XX",
+          "score": 90.0,
+          "movement": "new",
+          "best_for": "film criticism and cinema culture",
+          "reason": "NME concentrates on film criticism and cinema culture, with a discoverable feed, named authorship that makes its current publishing work easier to evaluate.",
+          "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+          "confidence": "standard",
+          "reviewed_at": "2026-08-21",
+          "evidence_urls": [
+            "https://nme.com/",
+            "https://www.nme.com/feed"
+          ]
+        },
+        {
+          "rank": 10,
+          "id": "bookriot-com",
+          "name": "BOOK RIOT",
+          "url": "https://bookriot.com/",
+          "country": "XX",
+          "score": 89.0,
+          "movement": "new",
+          "best_for": "books, literature, and reading culture",
+          "reason": "BOOK RIOT concentrates on books, literature, and reading culture, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+          "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+          "confidence": "standard",
+          "reviewed_at": "2026-08-21",
+          "evidence_urls": [
+            "https://bookriot.com/",
+            "https://bookriot.com/comments/feed/",
+            "https://bookriot.com/about/"
+          ]
+        }
+      ]
+    }
+  },
+  "links": {
+    "repository": "https://github.com/wpgaurav/blog-rankings",
+    "methodology": "https://github.com/wpgaurav/blog-rankings/blob/main/METHODOLOGY.md",
+    "independent_markdown": "https://github.com/wpgaurav/blog-rankings/blob/main/dist/markdown/2026-09/culture-entertainment/independent.md",
+    "publisher_company_markdown": "https://github.com/wpgaurav/blog-rankings/blob/main/dist/markdown/2026-09/culture-entertainment/publisher_company.md"
+  }
+}

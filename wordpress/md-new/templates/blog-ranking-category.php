@@ -30,7 +30,13 @@ get_header();
 					<p class="gbr-eyebrow"><?php /* translators: 1: Ranking edition. 2: Ranking status. */ echo esc_html( sprintf( __( '%1$s edition · %2$s', 'md-new' ), $payload['edition'], ucfirst( $payload['status'] ) ) ); ?></p>
 					<h1 id="gbr-title"><?php /* translators: %s: Ranking category name. */ echo esc_html( sprintf( __( '%s Blog Rankings', 'md-new' ), $payload['category']['name'] ) ); ?></h1>
 					<p class="gbr-hero__lede"><?php echo esc_html( $payload['category']['description'] ); ?></p>
-					<p class="gbr-hero__meta"><?php esc_html_e( 'Independent and company-owned publications are ranked separately. Beta results are provisional.', 'md-new' ); ?></p>
+					<p class="gbr-hero__meta">
+						<?php if ( 'beta' === $payload['status'] ) : ?>
+							<?php esc_html_e( 'Independent and company-owned publications are ranked separately. Beta results are provisional.', 'md-new' ); ?>
+						<?php else : ?>
+							<?php esc_html_e( 'Independent and company-owned publications are ranked separately. The complete Top 100 for each track is published in GitHub.', 'md-new' ); ?>
+						<?php endif; ?>
+					</p>
 				</div>
 				<div class="gbr-hero__visual gbr-hero__visual--category">
 					<img src="<?php echo esc_url( MD_CHILD_URL . 'assets/images/blog-rankings/' . $category . '.svg' ); ?>" alt="<?php /* translators: %s: Ranking category name. */ echo esc_attr( sprintf( __( '%s Blog Rankings category graphic', 'md-new' ), $payload['category']['name'] ) ); ?>" width="800" height="450">

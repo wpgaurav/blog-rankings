@@ -1,0 +1,1870 @@
+{
+  "schema_version": 1,
+  "edition": "2026-09",
+  "status": "final",
+  "category": {
+    "slug": "education",
+    "name": "Education",
+    "description": "Publishing about teaching, learning science, higher education, curriculum, and study practice.",
+    "subcategories": [
+      "teaching",
+      "learning-science",
+      "higher-education",
+      "curriculum",
+      "study-skills"
+    ]
+  },
+  "track": {
+    "slug": "publisher_company",
+    "label": "Publisher and Company Blogs"
+  },
+  "count": 100,
+  "items": [
+    {
+      "rank": 1,
+      "id": "edutopia-org",
+      "name": "Edutopia",
+      "url": "https://edutopia.org/",
+      "country": "XX",
+      "score": 98.0,
+      "movement": "new",
+      "best_for": "classroom teaching and educator practice",
+      "reason": "Edutopia concentrates on classroom teaching and educator practice, with named authorship, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://edutopia.org/",
+        "https://www.edutopia.org/about"
+      ]
+    },
+    {
+      "rank": 2,
+      "id": "edweek-org",
+      "name": "Education Week",
+      "url": "https://edweek.org/",
+      "country": "XX",
+      "score": 97.0,
+      "movement": "new",
+      "best_for": "classroom teaching and educator practice",
+      "reason": "Education Week concentrates on classroom teaching and educator practice, with a discoverable feed, named authorship that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://edweek.org/",
+        "https://www.edweek.org/teaching-learning.rss",
+        "https://www.edweek.org/about/"
+      ]
+    },
+    {
+      "rank": 3,
+      "id": "chronicle-com",
+      "name": "The Chronicle of Higher Education",
+      "url": "https://chronicle.com/",
+      "country": "XX",
+      "score": 96.0,
+      "movement": "new",
+      "best_for": "classroom teaching and educator practice",
+      "reason": "The Chronicle of Higher Education concentrates on classroom teaching and educator practice, with a discoverable feed, named authorship that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://chronicle.com/",
+        "https://www.chronicle.com/page/blogs.atom",
+        "https://www.chronicle.com/page/about-us"
+      ]
+    },
+    {
+      "rank": 4,
+      "id": "elearningindustry-com",
+      "name": "eLearning Industry",
+      "url": "https://elearningindustry.com/",
+      "country": "XX",
+      "score": 95.0,
+      "movement": "new",
+      "best_for": "teaching, learning, and education practice",
+      "reason": "eLearning Industry concentrates on teaching, learning, and education practice, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://elearningindustry.com/",
+        "https://feeds.feedburner.com/elearningindustry",
+        "https://elearningindustry.com/microlearning-isnt-shorter-courses-its-a-different-way-of-thinking-about-retention"
+      ]
+    },
+    {
+      "rank": 5,
+      "id": "iste-org",
+      "name": "ISTE",
+      "url": "https://iste.org/",
+      "country": "XX",
+      "score": 94.0,
+      "movement": "new",
+      "best_for": "education technology and digital learning",
+      "reason": "ISTE concentrates on education technology and digital learning, with a visible article archive, named authorship that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://iste.org/",
+        "https://iste.org/about"
+      ]
+    },
+    {
+      "rank": 6,
+      "id": "weareteachers-com",
+      "name": "We Are Teachers",
+      "url": "https://weareteachers.com/",
+      "country": "XX",
+      "score": 93.0,
+      "movement": "new",
+      "best_for": "classroom teaching and educator practice",
+      "reason": "We Are Teachers concentrates on classroom teaching and educator practice, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://weareteachers.com/",
+        "https://www.weareteachers.com/comments/feed/",
+        "https://www.weareteachers.com/quotes-about-education/"
+      ]
+    },
+    {
+      "rank": 7,
+      "id": "teachthought-com",
+      "name": "TeachThought",
+      "url": "https://teachthought.com/",
+      "country": "XX",
+      "score": 92.0,
+      "movement": "new",
+      "best_for": "classroom teaching and educator practice",
+      "reason": "TeachThought concentrates on classroom teaching and educator practice, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://teachthought.com/",
+        "https://www.teachthought.com/feed/",
+        "https://www.teachthought.com/about/"
+      ]
+    },
+    {
+      "rank": 8,
+      "id": "edtechdigest-com",
+      "name": "EdTech Digest",
+      "url": "https://edtechdigest.com/",
+      "country": "XX",
+      "score": 91.0,
+      "movement": "new",
+      "best_for": "education technology and digital learning",
+      "reason": "EdTech Digest concentrates on education technology and digital learning, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://edtechdigest.com/",
+        "https://www.edtechdigest.com/comments/feed/",
+        "https://www.edtechdigest.com/who-we-are/"
+      ]
+    },
+    {
+      "rank": 9,
+      "id": "gettingsmart-com",
+      "name": "Getting Smart",
+      "url": "https://gettingsmart.com/",
+      "country": "XX",
+      "score": 90.0,
+      "movement": "new",
+      "best_for": "teaching, learning, and education practice",
+      "reason": "Getting Smart concentrates on teaching, learning, and education practice, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://gettingsmart.com/",
+        "https://www.gettingsmart.com/comments/feed/",
+        "https://www.gettingsmart.com/podcast/catching-up-job-cliff-enrollment-drop-and-the-hidden-crisis-no-one-is-talking-about/"
+      ]
+    },
+    {
+      "rank": 10,
+      "id": "insidehighered-com",
+      "name": "Inside Higher Ed | Higher Education News, Events and Jobs",
+      "url": "https://insidehighered.com/",
+      "country": "XX",
+      "score": 89.0,
+      "movement": "new",
+      "best_for": "higher education and academic work",
+      "reason": "Inside Higher Ed | Higher Education News, Events and Jobs concentrates on higher education and academic work, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://insidehighered.com/",
+        "https://www.insidehighered.com/rss.xml"
+      ]
+    },
+    {
+      "rank": 11,
+      "id": "techlearning-com",
+      "name": "Tech & Learning",
+      "url": "https://techlearning.com/",
+      "country": "XX",
+      "score": 84.2,
+      "movement": "new",
+      "best_for": "classroom teaching and educator practice",
+      "reason": "Tech & Learning concentrates on classroom teaching and educator practice, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://techlearning.com/",
+        "https://www.techlearning.com/feeds.xml",
+        "https://www.techlearning.com/technology/ai/assessment-after-ai-designing-student-work-to-show-real-thinking"
+      ]
+    },
+    {
+      "rank": 12,
+      "id": "eab-com",
+      "name": "EAB",
+      "url": "https://eab.com/",
+      "country": "XX",
+      "score": 81.7,
+      "movement": "new",
+      "best_for": "higher education and academic work",
+      "reason": "EAB concentrates on higher education and academic work, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://eab.com/",
+        "https://eab.com/resources/blog/strategy-blog/feed/",
+        "https://eab.com/about/"
+      ]
+    },
+    {
+      "rank": 13,
+      "id": "smartbrief-com",
+      "name": "SmartBrief",
+      "url": "https://smartbrief.com/",
+      "country": "XX",
+      "score": 81.2,
+      "movement": "new",
+      "best_for": "classroom teaching and educator practice",
+      "reason": "SmartBrief concentrates on classroom teaching and educator practice, with a discoverable feed, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://smartbrief.com/",
+        "https://www.smartbrief.com/originals/education/edtech/feed",
+        "https://www.smartbrief.com/about-us"
+      ]
+    },
+    {
+      "rank": 14,
+      "id": "edtechreview-in",
+      "name": "EdTechReview",
+      "url": "https://edtechreview.in/",
+      "country": "IN",
+      "score": 80.8,
+      "movement": "new",
+      "best_for": "classroom teaching and educator practice",
+      "reason": "EdTechReview concentrates on classroom teaching and educator practice, with a discoverable feed, named authorship that makes its current publishing work easier to evaluate.",
+      "limitation": "The homepage is heavier and more commercially layered than a focused reading experience.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://edtechreview.in/",
+        "https://www.edtechreview.in/feed/",
+        "https://www.edtechreview.in/about/"
+      ]
+    },
+    {
+      "rank": 15,
+      "id": "ed-gov",
+      "name": "U.S. Department of Education",
+      "url": "https://ed.gov/",
+      "country": "XX",
+      "score": 80.5,
+      "movement": "new",
+      "best_for": "teaching, learning, and education practice",
+      "reason": "U.S. Department of Education concentrates on teaching, learning, and education practice, with a visible article archive, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://ed.gov/",
+        "https://www.ed.gov/about/homeroom-blog#main-content"
+      ]
+    },
+    {
+      "rank": 16,
+      "id": "closeup-org",
+      "name": "Close Up Foundation",
+      "url": "https://closeup.org/",
+      "country": "XX",
+      "score": 80.5,
+      "movement": "new",
+      "best_for": "teaching, learning, and education practice",
+      "reason": "Close Up Foundation concentrates on teaching, learning, and education practice, with a discoverable feed, named authorship that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://closeup.org/",
+        "https://www.closeup.org/comments/feed/",
+        "https://www.closeup.org/about/"
+      ]
+    },
+    {
+      "rank": 17,
+      "id": "ncte-org",
+      "name": "National Council of Teachers of English",
+      "url": "https://ncte.org/",
+      "country": "XX",
+      "score": 80.5,
+      "movement": "new",
+      "best_for": "classroom teaching and educator practice",
+      "reason": "National Council of Teachers of English concentrates on classroom teaching and educator practice, with clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://ncte.org/",
+        "https://ncte.org/about/"
+      ]
+    },
+    {
+      "rank": 18,
+      "id": "oxfordlearning-com",
+      "name": "Oxford Learning",
+      "url": "https://oxfordlearning.com/",
+      "country": "XX",
+      "score": 80.0,
+      "movement": "new",
+      "best_for": "classroom teaching and educator practice",
+      "reason": "Oxford Learning concentrates on classroom teaching and educator practice, with a discoverable feed, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://oxfordlearning.com/",
+        "https://oxfordlearning.com/feed/",
+        "https://oxfordlearning.com/about-us"
+      ]
+    },
+    {
+      "rank": 19,
+      "id": "discoveryeducation-com",
+      "name": "Discovery Education",
+      "url": "https://discoveryeducation.com/",
+      "country": "XX",
+      "score": 79.3,
+      "movement": "new",
+      "best_for": "classroom teaching and educator practice",
+      "reason": "Discovery Education concentrates on classroom teaching and educator practice, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://discoveryeducation.com/",
+        "https://www.discoveryeducation.com/comments/feed/",
+        "https://www.discoveryeducation.com/corporate-partnerships/"
+      ]
+    },
+    {
+      "rank": 20,
+      "id": "moderncampus-com",
+      "name": "Transform Higher Education with Modern Campus Software",
+      "url": "https://moderncampus.com/",
+      "country": "XX",
+      "score": 79.2,
+      "movement": "new",
+      "best_for": "higher education and academic work",
+      "reason": "Transform Higher Education with Modern Campus Software concentrates on higher education and academic work, with a visible article archive, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://moderncampus.com/",
+        "https://moderncampus.com/blog/rss.xml",
+        "https://moderncampus.com/our-story"
+      ]
+    },
+    {
+      "rank": 21,
+      "id": "learningguild-com",
+      "name": "Learning Guild",
+      "url": "https://learningguild.com/",
+      "country": "XX",
+      "score": 79.0,
+      "movement": "new",
+      "best_for": "teaching, learning, and education practice",
+      "reason": "Learning Guild concentrates on teaching, learning, and education practice, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://learningguild.com/",
+        "https://www.learningguild.com/comments/feed/",
+        "https://www.learningguild.com/about-the-guild"
+      ]
+    },
+    {
+      "rank": 22,
+      "id": "blogs-lse-ac-uk",
+      "name": "Lse",
+      "url": "https://blogs.lse.ac.uk/",
+      "country": "GB",
+      "score": 79.0,
+      "movement": "new",
+      "best_for": "teaching, learning, and education practice",
+      "reason": "Lse concentrates on teaching, learning, and education practice, with clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://blogs.lse.ac.uk/",
+        "https://blogs.lse.ac.uk/impactofsocialsciences/2022/04/11/are-personal-academic-blogs-a-thing-of-the-past/feed/",
+        "https://blogs.lse.ac.uk/impactofsocialsciences/about/"
+      ]
+    },
+    {
+      "rank": 23,
+      "id": "elon-edu",
+      "name": "Elon University",
+      "url": "https://elon.edu/",
+      "country": "XX",
+      "score": 78.9,
+      "movement": "new",
+      "best_for": "classroom teaching and educator practice",
+      "reason": "Elon University concentrates on classroom teaching and educator practice, with a discoverable feed, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://elon.edu/",
+        "https://www.elon.edu/u/comments/feed/",
+        "https://www.elon.edu/u/nav-about/"
+      ]
+    },
+    {
+      "rank": 24,
+      "id": "yale-edu",
+      "name": "Yale University",
+      "url": "https://yale.edu/",
+      "country": "XX",
+      "score": 78.9,
+      "movement": "new",
+      "best_for": "higher education and academic work",
+      "reason": "Yale University concentrates on higher education and academic work, with a visible article archive, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://yale.edu/",
+        "https://www.yale.edu/about-yale"
+      ]
+    },
+    {
+      "rank": 25,
+      "id": "thepespecialist-com",
+      "name": "The PE Specialist",
+      "url": "https://thepespecialist.com/",
+      "country": "XX",
+      "score": 78.8,
+      "movement": "new",
+      "best_for": "classroom teaching and educator practice",
+      "reason": "The PE Specialist concentrates on classroom teaching and educator practice, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://thepespecialist.com/",
+        "https://www.thepespecialist.com/comments/feed/",
+        "https://www.thepespecialist.com/about/"
+      ]
+    },
+    {
+      "rank": 26,
+      "id": "utdallas-edu",
+      "name": "The University of Texas at Dallas",
+      "url": "https://utdallas.edu/",
+      "country": "XX",
+      "score": 78.8,
+      "movement": "new",
+      "best_for": "higher education and academic work",
+      "reason": "The University of Texas at Dallas concentrates on higher education and academic work, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://utdallas.edu/",
+        "https://www.utdallas.edu/feed/",
+        "https://www.utdallas.edu/about-us/utd-today/"
+      ]
+    },
+    {
+      "rank": 27,
+      "id": "psychreg-org",
+      "name": "Psychreg",
+      "url": "https://psychreg.org/",
+      "country": "XX",
+      "score": 78.5,
+      "movement": "new",
+      "best_for": "classroom teaching and educator practice",
+      "reason": "Psychreg concentrates on classroom teaching and educator practice, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://psychreg.org/",
+        "https://www.psychreg.org/feed/listdom-listings/",
+        "https://www.psychreg.org/about/"
+      ]
+    },
+    {
+      "rank": 28,
+      "id": "insight-kellogg-northwestern-edu",
+      "name": "Kellogg Insight",
+      "url": "https://insight.kellogg.northwestern.edu/",
+      "country": "XX",
+      "score": 78.5,
+      "movement": "new",
+      "best_for": "higher education and academic work",
+      "reason": "Kellogg Insight concentrates on higher education and academic work, with a discoverable feed, named authorship that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://insight.kellogg.northwestern.edu/",
+        "https://insight.kellogg.northwestern.edu/feed/rss",
+        "https://insight.kellogg.northwestern.edu/about"
+      ]
+    },
+    {
+      "rank": 29,
+      "id": "newslit-org",
+      "name": "The News Literacy Project - For a future founded on facts",
+      "url": "https://newslit.org/",
+      "country": "XX",
+      "score": 78.3,
+      "movement": "new",
+      "best_for": "teaching, learning, and education practice",
+      "reason": "The News Literacy Project - For a future founded on facts concentrates on teaching, learning, and education practice, with a visible article archive, named authorship that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://newslit.org/",
+        "https://newslit.org/about/"
+      ]
+    },
+    {
+      "rank": 30,
+      "id": "iste-ascd-org",
+      "name": "ISTE+ASCD",
+      "url": "https://iste-ascd.org/",
+      "country": "XX",
+      "score": 78.2,
+      "movement": "new",
+      "best_for": "teaching, learning, and education practice",
+      "reason": "ISTE+ASCD concentrates on teaching, learning, and education practice, with named authorship that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://iste-ascd.org/",
+        "https://iste-ascd.org/our-story"
+      ]
+    },
+    {
+      "rank": 31,
+      "id": "bristol-ac-uk",
+      "name": "Bristol",
+      "url": "https://bristol.ac.uk/",
+      "country": "GB",
+      "score": 78.1,
+      "movement": "new",
+      "best_for": "classroom teaching and educator practice",
+      "reason": "Bristol concentrates on classroom teaching and educator practice, with a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://bristol.ac.uk/",
+        "https://www.bristol.ac.uk/university/"
+      ]
+    },
+    {
+      "rank": 32,
+      "id": "timeshighereducation-com",
+      "name": "Times Higher Education (THE)",
+      "url": "https://timeshighereducation.com/",
+      "country": "XX",
+      "score": 77.7,
+      "movement": "new",
+      "best_for": "higher education and academic work",
+      "reason": "Times Higher Education (THE) concentrates on higher education and academic work, with a visible article archive, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://timeshighereducation.com/",
+        "https://www.timeshighereducation.com/campus/about-campus"
+      ]
+    },
+    {
+      "rank": 33,
+      "id": "ucl-ac-uk",
+      "name": "University College London",
+      "url": "https://ucl.ac.uk/",
+      "country": "GB",
+      "score": 77.7,
+      "movement": "new",
+      "best_for": "higher education and academic work",
+      "reason": "University College London concentrates on higher education and academic work, with a visible article archive, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://ucl.ac.uk/",
+        "https://www.ucl.ac.uk/about"
+      ]
+    },
+    {
+      "rank": 34,
+      "id": "site-imsglobal-org",
+      "name": "Site",
+      "url": "https://site.imsglobal.org/",
+      "country": "XX",
+      "score": 77.5,
+      "movement": "new",
+      "best_for": "education technology and digital learning",
+      "reason": "Site concentrates on education technology and digital learning, with a visible article archive, named authorship that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://site.imsglobal.org/",
+        "https://www.1edtech.org/about/leadership#main-content"
+      ]
+    },
+    {
+      "rank": 35,
+      "id": "educatorstechnology-com",
+      "name": "Educatorstechnology",
+      "url": "https://educatorstechnology.com/",
+      "country": "XX",
+      "score": 77.1,
+      "movement": "new",
+      "best_for": "education technology and digital learning",
+      "reason": "Educatorstechnology concentrates on education technology and digital learning, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://educatorstechnology.com/",
+        "https://www.educatorstechnology.com/comments/feed",
+        "https://www.educatorstechnology.com/about/"
+      ]
+    },
+    {
+      "rank": 36,
+      "id": "savvas-com",
+      "name": "K-12 Learning",
+      "url": "https://savvas.com/",
+      "country": "XX",
+      "score": 77.1,
+      "movement": "new",
+      "best_for": "classroom teaching and educator practice",
+      "reason": "K-12 Learning concentrates on classroom teaching and educator practice, with clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://savvas.com/",
+        "https://www.savvas.com/company/learn-about-savvas/about-us"
+      ]
+    },
+    {
+      "rank": 37,
+      "id": "pedagogue-app",
+      "name": "Pedagogue",
+      "url": "https://pedagogue.app/",
+      "country": "XX",
+      "score": 76.5,
+      "movement": "new",
+      "best_for": "classroom teaching and educator practice",
+      "reason": "Pedagogue concentrates on classroom teaching and educator practice, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Authorship and editorial-policy information is less visible than on higher-ranked publications.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://pedagogue.app/",
+        "https://pedagogue.app/comments/feed/"
+      ]
+    },
+    {
+      "rank": 38,
+      "id": "blog-education-com",
+      "name": "Education.com Blog",
+      "url": "https://blog.education.com/",
+      "country": "XX",
+      "score": 76.2,
+      "movement": "new",
+      "best_for": "classroom teaching and educator practice",
+      "reason": "Education.com Blog concentrates on classroom teaching and educator practice, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://blog.education.com/",
+        "https://blog.education.com/feed/"
+      ]
+    },
+    {
+      "rank": 39,
+      "id": "edtechteacher-org",
+      "name": "EdTechTeacher",
+      "url": "https://edtechteacher.org/",
+      "country": "XX",
+      "score": 76.2,
+      "movement": "new",
+      "best_for": "classroom teaching and educator practice",
+      "reason": "EdTechTeacher concentrates on classroom teaching and educator practice, with a discoverable feed, named authorship that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://edtechteacher.org/",
+        "https://edtechteacher.org/feed/",
+        "https://edtechteacher.org/about/"
+      ]
+    },
+    {
+      "rank": 40,
+      "id": "shakeuplearning-com",
+      "name": "Shake Up Learning",
+      "url": "https://shakeuplearning.com/",
+      "country": "XX",
+      "score": 76.1,
+      "movement": "new",
+      "best_for": "teaching, learning, and education practice",
+      "reason": "Shake Up Learning concentrates on teaching, learning, and education practice, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://shakeuplearning.com/",
+        "https://shakeuplearning.libsyn.com/rss"
+      ]
+    },
+    {
+      "rank": 41,
+      "id": "blog-teacherspayteachers-com",
+      "name": "The TPT Blog",
+      "url": "https://blog.teacherspayteachers.com/",
+      "country": "XX",
+      "score": 76.0,
+      "movement": "new",
+      "best_for": "classroom teaching and educator practice",
+      "reason": "The TPT Blog concentrates on classroom teaching and educator practice, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://blog.teacherspayteachers.com/",
+        "https://blog.teacherspayteachers.com/feed/"
+      ]
+    },
+    {
+      "rank": 42,
+      "id": "detailed-com",
+      "name": "Detailed",
+      "url": "https://detailed.com/",
+      "country": "XX",
+      "score": 75.9,
+      "movement": "new",
+      "best_for": "classroom teaching and educator practice",
+      "reason": "Detailed concentrates on classroom teaching and educator practice, with a discoverable feed that makes its current publishing work easier to evaluate.",
+      "limitation": "Authorship and editorial-policy information is less visible than on higher-ranked publications.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://detailed.com/",
+        "https://detailed.com/feed/"
+      ]
+    },
+    {
+      "rank": 43,
+      "id": "nsta-org",
+      "name": "Nsta",
+      "url": "https://nsta.org/",
+      "country": "XX",
+      "score": 75.9,
+      "movement": "new",
+      "best_for": "classroom teaching and educator practice",
+      "reason": "Nsta concentrates on classroom teaching and educator practice, with a visible article archive, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://nsta.org/",
+        "https://www.nsta.org/overview"
+      ]
+    },
+    {
+      "rank": 44,
+      "id": "blog-bit-ai",
+      "name": "Bit",
+      "url": "https://blog.bit.ai/",
+      "country": "XX",
+      "score": 75.8,
+      "movement": "new",
+      "best_for": "education technology and digital learning",
+      "reason": "Bit concentrates on education technology and digital learning, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://blog.bit.ai/",
+        "https://blog.bit.ai/comments/feed/",
+        "https://blog.bit.ai/team-collaboration-hub/"
+      ]
+    },
+    {
+      "rank": 45,
+      "id": "1edtech-org",
+      "name": "1Edtech",
+      "url": "https://1edtech.org/",
+      "country": "XX",
+      "score": 75.8,
+      "movement": "new",
+      "best_for": "education technology and digital learning",
+      "reason": "1Edtech concentrates on education technology and digital learning, with a visible article archive, named authorship that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://1edtech.org/",
+        "https://www.1edtech.org/about/membership"
+      ]
+    },
+    {
+      "rank": 46,
+      "id": "edcircuit-com",
+      "name": "Edcircuit",
+      "url": "https://edcircuit.com/",
+      "country": "XX",
+      "score": 75.6,
+      "movement": "new",
+      "best_for": "education technology and digital learning",
+      "reason": "Edcircuit concentrates on education technology and digital learning, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://edcircuit.com/",
+        "https://edcircuit.com/feed/",
+        "https://edcircuit.com/edcircuit-contributor/"
+      ]
+    },
+    {
+      "rank": 47,
+      "id": "blog-elink-io",
+      "name": "elink Blog",
+      "url": "https://blog.elink.io/",
+      "country": "XX",
+      "score": 75.5,
+      "movement": "new",
+      "best_for": "classroom teaching and educator practice",
+      "reason": "elink Blog concentrates on classroom teaching and educator practice, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Authorship and editorial-policy information is less visible than on higher-ranked publications.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://blog.elink.io/",
+        "https://blog.elink.io/feed/",
+        "https://blog.elink.io/facts-about-content-curation/"
+      ]
+    },
+    {
+      "rank": 48,
+      "id": "exordo-com",
+      "name": "Your Scholarly Events Partner",
+      "url": "https://exordo.com/",
+      "country": "XX",
+      "score": 75.2,
+      "movement": "new",
+      "best_for": "higher education and academic work",
+      "reason": "Your Scholarly Events Partner concentrates on higher education and academic work, with a visible article archive, named authorship that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://exordo.com/",
+        "https://www.exordo.com/about-us"
+      ]
+    },
+    {
+      "rank": 49,
+      "id": "fourwaves-com",
+      "name": "Fourwaves",
+      "url": "https://fourwaves.com/",
+      "country": "XX",
+      "score": 74.9,
+      "movement": "new",
+      "best_for": "higher education and academic work",
+      "reason": "Fourwaves concentrates on higher education and academic work, with a visible article archive, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://fourwaves.com/",
+        "https://fourwaves.com/about-us/"
+      ]
+    },
+    {
+      "rank": 50,
+      "id": "hackernoon-com",
+      "name": "HackerNoon",
+      "url": "https://hackernoon.com/",
+      "country": "XX",
+      "score": 74.8,
+      "movement": "new",
+      "best_for": "higher education and academic work",
+      "reason": "HackerNoon concentrates on higher education and academic work, with a visible article archive, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://hackernoon.com/"
+      ]
+    },
+    {
+      "rank": 51,
+      "id": "learningmole-com",
+      "name": "LearningMole",
+      "url": "https://learningmole.com/",
+      "country": "XX",
+      "score": 74.7,
+      "movement": "new",
+      "best_for": "classroom teaching and educator practice",
+      "reason": "LearningMole concentrates on classroom teaching and educator practice, with a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://learningmole.com/",
+        "https://learningmole.com/#"
+      ]
+    },
+    {
+      "rank": 52,
+      "id": "learningcenter-unc-edu",
+      "name": "The Learning Center",
+      "url": "https://learningcenter.unc.edu/",
+      "country": "XX",
+      "score": 74.6,
+      "movement": "new",
+      "best_for": "learning science and study practice",
+      "reason": "The Learning Center concentrates on learning science and study practice, with a discoverable feed, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Authorship and editorial-policy information is less visible than on higher-ranked publications.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://learningcenter.unc.edu/",
+        "https://learningcenter.unc.edu/feed/",
+        "https://learningcenter.unc.edu/about/"
+      ]
+    },
+    {
+      "rank": 53,
+      "id": "codesupply-co",
+      "name": "Code Supply Co.",
+      "url": "https://codesupply.co/",
+      "country": "XX",
+      "score": 74.5,
+      "movement": "new",
+      "best_for": "classroom teaching and educator practice",
+      "reason": "Code Supply Co. concentrates on classroom teaching and educator practice, with a visible article archive, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://codesupply.co/",
+        "https://codesupply.co/pages/about-us/"
+      ]
+    },
+    {
+      "rank": 54,
+      "id": "tprteaching-com",
+      "name": "TPR Teaching",
+      "url": "https://tprteaching.com/",
+      "country": "XX",
+      "score": 74.3,
+      "movement": "new",
+      "best_for": "classroom teaching and educator practice",
+      "reason": "TPR Teaching concentrates on classroom teaching and educator practice, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://tprteaching.com/",
+        "https://www.tprteaching.com/comments/feed/",
+        "https://www.tprteaching.com/about-tpr-teaching/"
+      ]
+    },
+    {
+      "rank": 55,
+      "id": "nces-ed-gov",
+      "name": "National Center for Education Statistics (NCES)",
+      "url": "https://nces.ed.gov/",
+      "country": "XX",
+      "score": 74.2,
+      "movement": "new",
+      "best_for": "teaching, learning, and education practice",
+      "reason": "National Center for Education Statistics (NCES) concentrates on teaching, learning, and education practice, with a visible article archive, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://nces.ed.gov/",
+        "https://nces.ed.gov/national-center-education-statistics-nces/about"
+      ]
+    },
+    {
+      "rank": 56,
+      "id": "listedtech-com",
+      "name": "ListEdTech",
+      "url": "https://listedtech.com/",
+      "country": "XX",
+      "score": 73.8,
+      "movement": "new",
+      "best_for": "higher education and academic work",
+      "reason": "ListEdTech concentrates on higher education and academic work, with a discoverable feed, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://listedtech.com/",
+        "https://listedtech.com/comments/feed/",
+        "https://listedtech.com/about-us"
+      ]
+    },
+    {
+      "rank": 57,
+      "id": "truthforteachers-com",
+      "name": "Truth For Teachers",
+      "url": "https://truthforteachers.com/",
+      "country": "XX",
+      "score": 73.7,
+      "movement": "new",
+      "best_for": "classroom teaching and educator practice",
+      "reason": "Truth For Teachers concentrates on classroom teaching and educator practice, with named authorship, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://truthforteachers.com/",
+        "https://truthforteachers.com/writers-and-contributors"
+      ]
+    },
+    {
+      "rank": 58,
+      "id": "atascientific-com-au",
+      "name": "ATA Scientific",
+      "url": "https://atascientific.com.au/",
+      "country": "AU",
+      "score": 73.5,
+      "movement": "new",
+      "best_for": "learning science and study practice",
+      "reason": "ATA Scientific concentrates on learning science and study practice, with clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://atascientific.com.au/",
+        "https://www.atascientific.com.au/about/"
+      ]
+    },
+    {
+      "rank": 59,
+      "id": "middleweb-com",
+      "name": "MiddleWeb",
+      "url": "https://middleweb.com/",
+      "country": "XX",
+      "score": 73.4,
+      "movement": "new",
+      "best_for": "classroom teaching and educator practice",
+      "reason": "MiddleWeb concentrates on classroom teaching and educator practice, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://middleweb.com/",
+        "https://www.middleweb.com/bloggers/feed/",
+        "https://www.middleweb.com/11900/middleweb/"
+      ]
+    },
+    {
+      "rank": 60,
+      "id": "teachersoftomorrow-org",
+      "name": "Teachers of Tomorrow",
+      "url": "https://teachersoftomorrow.org/",
+      "country": "XX",
+      "score": 73.2,
+      "movement": "new",
+      "best_for": "classroom teaching and educator practice",
+      "reason": "Teachers of Tomorrow concentrates on classroom teaching and educator practice, with a visible article archive, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://teachersoftomorrow.org/",
+        "https://www.teachersoftomorrow.org/about-us"
+      ]
+    },
+    {
+      "rank": 61,
+      "id": "dl-iir-edu-ua",
+      "name": "Iir News",
+      "url": "https://dl.iir.edu.ua/",
+      "country": "XX",
+      "score": 73.1,
+      "movement": "new",
+      "best_for": "education technology and digital learning",
+      "reason": "Iir News concentrates on education technology and digital learning, with a visible article archive, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://dl.iir.edu.ua/",
+        "https://dl.iir.edu.ua/about"
+      ]
+    },
+    {
+      "rank": 62,
+      "id": "thesupplyroom-co-uk",
+      "name": "The Supply Room",
+      "url": "https://thesupplyroom.co.uk/",
+      "country": "GB",
+      "score": 72.7,
+      "movement": "new",
+      "best_for": "classroom teaching and educator practice",
+      "reason": "The Supply Room concentrates on classroom teaching and educator practice, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://thesupplyroom.co.uk/",
+        "https://www.thesupplyroom.co.uk/comments/feed/",
+        "https://www.thesupplyroom.co.uk/about-us/"
+      ]
+    },
+    {
+      "rank": 63,
+      "id": "mff-org",
+      "name": "Milken Family Foundation",
+      "url": "https://mff.org/",
+      "country": "XX",
+      "score": 72.6,
+      "movement": "new",
+      "best_for": "teaching, learning, and education practice",
+      "reason": "Milken Family Foundation concentrates on teaching, learning, and education practice, with a visible article archive, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://mff.org/",
+        "https://www.mff.org/about-the-foundation/mission-statement/"
+      ]
+    },
+    {
+      "rank": 64,
+      "id": "topnotchtutorials-com",
+      "name": "Topnochtutorials",
+      "url": "https://topnotchtutorials.com/",
+      "country": "XX",
+      "score": 72.5,
+      "movement": "new",
+      "best_for": "classroom teaching and educator practice",
+      "reason": "Topnochtutorials concentrates on classroom teaching and educator practice, with a discoverable feed, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://topnotchtutorials.com/",
+        "https://topnotchtutorials.com/comments/feed/",
+        "https://topnotchtutorials.com/about/"
+      ]
+    },
+    {
+      "rank": 65,
+      "id": "milkeneducatorawards-org",
+      "name": "Milken Educator Awards",
+      "url": "https://milkeneducatorawards.org/",
+      "country": "XX",
+      "score": 72.5,
+      "movement": "new",
+      "best_for": "classroom teaching and educator practice",
+      "reason": "Milken Educator Awards concentrates on classroom teaching and educator practice, with a visible article archive, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://milkeneducatorawards.org/",
+        "https://www.milkeneducatorawards.org/about/home/"
+      ]
+    },
+    {
+      "rank": 66,
+      "id": "oedb-org",
+      "name": "OEDB.org",
+      "url": "https://oedb.org/",
+      "country": "XX",
+      "score": 72.4,
+      "movement": "new",
+      "best_for": "classroom teaching and educator practice",
+      "reason": "OEDB.org concentrates on classroom teaching and educator practice, with a visible article archive, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://oedb.org/",
+        "https://www.oedb.org/about/"
+      ]
+    },
+    {
+      "rank": 67,
+      "id": "readingplus-com",
+      "name": "Reading Plus",
+      "url": "https://readingplus.com/",
+      "country": "XX",
+      "score": 72.0,
+      "movement": "new",
+      "best_for": "classroom teaching and educator practice",
+      "reason": "Reading Plus concentrates on classroom teaching and educator practice, with a discoverable feed, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://readingplus.com/",
+        "https://www.readingplus.com/category/teachers/feed/",
+        "https://www.readingplus.com/about-us/"
+      ]
+    },
+    {
+      "rank": 68,
+      "id": "blogonyourown-com",
+      "name": "Blog On Your Own",
+      "url": "https://blogonyourown.com/",
+      "country": "XX",
+      "score": 71.9,
+      "movement": "new",
+      "best_for": "classroom teaching and educator practice",
+      "reason": "Blog On Your Own concentrates on classroom teaching and educator practice, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://blogonyourown.com/",
+        "https://blogonyourown.com/health-blogs/feed/",
+        "https://blogonyourown.com/about-us/"
+      ]
+    },
+    {
+      "rank": 69,
+      "id": "bscholarly-com",
+      "name": "Bscholarly",
+      "url": "https://bscholarly.com/",
+      "country": "XX",
+      "score": 71.5,
+      "movement": "new",
+      "best_for": "classroom teaching and educator practice",
+      "reason": "Bscholarly concentrates on classroom teaching and educator practice, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://bscholarly.com/",
+        "https://bscholarly.com/comments/feed/",
+        "https://bscholarly.com/about-us/"
+      ]
+    },
+    {
+      "rank": 70,
+      "id": "magicedtech-com",
+      "name": "Magic EdTech",
+      "url": "https://magicedtech.com/",
+      "country": "XX",
+      "score": 71.5,
+      "movement": "new",
+      "best_for": "education technology and digital learning",
+      "reason": "Magic EdTech concentrates on education technology and digital learning, with a discoverable feed, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://magicedtech.com/",
+        "https://www.magicedtech.com/comments/feed/",
+        "https://www.magicedtech.com/about-us/"
+      ]
+    },
+    {
+      "rank": 71,
+      "id": "bestcollegereviews-org",
+      "name": "BestCollegeReviews.org",
+      "url": "https://bestcollegereviews.org/",
+      "country": "XX",
+      "score": 71.4,
+      "movement": "new",
+      "best_for": "classroom teaching and educator practice",
+      "reason": "BestCollegeReviews.org concentrates on classroom teaching and educator practice, with a visible article archive, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://bestcollegereviews.org/",
+        "https://www.bestcollegereviews.org/about/"
+      ]
+    },
+    {
+      "rank": 72,
+      "id": "blog-edpuzzle-com",
+      "name": "Edpuzzle Blog",
+      "url": "https://blog.edpuzzle.com/",
+      "country": "XX",
+      "score": 71.3,
+      "movement": "new",
+      "best_for": "classroom teaching and educator practice",
+      "reason": "Edpuzzle Blog concentrates on classroom teaching and educator practice, with a discoverable feed, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://blog.edpuzzle.com/",
+        "https://blog.edpuzzle.com/rss.xml",
+        "https://blog.edpuzzle.com/free-resources/cinco-de-mayo-video-lesson/"
+      ]
+    },
+    {
+      "rank": 73,
+      "id": "novakeducation-com",
+      "name": "Novak Education",
+      "url": "https://novakeducation.com/",
+      "country": "XX",
+      "score": 71.3,
+      "movement": "new",
+      "best_for": "classroom teaching and educator practice",
+      "reason": "Novak Education concentrates on classroom teaching and educator practice, with named authorship, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://novakeducation.com/",
+        "https://www.novakeducation.com/about"
+      ]
+    },
+    {
+      "rank": 74,
+      "id": "bold-expert",
+      "name": "BOLD",
+      "url": "https://bold.expert/",
+      "country": "XX",
+      "score": 71.2,
+      "movement": "new",
+      "best_for": "learning science and study practice",
+      "reason": "BOLD concentrates on learning science and study practice, with a visible article archive, named authorship that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://bold.expert/",
+        "https://boldscience.org/about/"
+      ]
+    },
+    {
+      "rank": 75,
+      "id": "ivycoach-com",
+      "name": "Ivy Coach",
+      "url": "https://ivycoach.com/",
+      "country": "XX",
+      "score": 71.0,
+      "movement": "new",
+      "best_for": "higher education and academic work",
+      "reason": "Ivy Coach concentrates on higher education and academic work, with clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://ivycoach.com/",
+        "https://www.ivycoach.com/about/college-counseling-experts/"
+      ]
+    },
+    {
+      "rank": 76,
+      "id": "splc-org",
+      "name": "Student Press Law Center",
+      "url": "https://splc.org/",
+      "country": "XX",
+      "score": 70.7,
+      "movement": "new",
+      "best_for": "teaching, learning, and education practice",
+      "reason": "Student Press Law Center concentrates on teaching, learning, and education practice, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://splc.org/",
+        "https://splc.org/2001/03/splc/feed/",
+        "https://splc.org/about/"
+      ]
+    },
+    {
+      "rank": 77,
+      "id": "cikd-ca",
+      "name": "Canadian Institute For Knowledge Development",
+      "url": "https://cikd.ca/",
+      "country": "CA",
+      "score": 70.6,
+      "movement": "new",
+      "best_for": "higher education and academic work",
+      "reason": "Canadian Institute For Knowledge Development concentrates on higher education and academic work, with a discoverable feed, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://cikd.ca/",
+        "https://cikd.ca/comments/feed/",
+        "https://cikd.ca/about-us/"
+      ]
+    },
+    {
+      "rank": 78,
+      "id": "theblogfrog-com",
+      "name": "The Blog Frog",
+      "url": "https://theblogfrog.com/",
+      "country": "XX",
+      "score": 69.5,
+      "movement": "new",
+      "best_for": "classroom teaching and educator practice",
+      "reason": "The Blog Frog concentrates on classroom teaching and educator practice, with a discoverable feed, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://theblogfrog.com/",
+        "https://www.theblogfrog.com/comments/feed/",
+        "https://www.theblogfrog.com/about-us/"
+      ]
+    },
+    {
+      "rank": 79,
+      "id": "neatoday-org",
+      "name": "NEA Today",
+      "url": "https://neatoday.org/",
+      "country": "XX",
+      "score": 69.5,
+      "movement": "new",
+      "best_for": "teaching, learning, and education practice",
+      "reason": "NEA Today concentrates on teaching, learning, and education practice, with a visible article archive, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Some complete material may require registration, membership, or a paid subscription.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://neatoday.org/",
+        "https://www.nea.org/about-nea"
+      ]
+    },
+    {
+      "rank": 80,
+      "id": "bullseye-education",
+      "name": "Bullseye for Schools",
+      "url": "https://bullseye.education/",
+      "country": "XX",
+      "score": 69.4,
+      "movement": "new",
+      "best_for": "classroom teaching and educator practice",
+      "reason": "Bullseye for Schools concentrates on classroom teaching and educator practice, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Authorship and editorial-policy information is less visible than on higher-ranked publications.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://bullseye.education/",
+        "https://bullseye.education/comments/feed/"
+      ]
+    },
+    {
+      "rank": 81,
+      "id": "blog-discoveryeducation-com",
+      "name": "Discovery Education",
+      "url": "https://blog.discoveryeducation.com/",
+      "country": "XX",
+      "score": 69.4,
+      "movement": "new",
+      "best_for": "classroom teaching and educator practice",
+      "reason": "Discovery Education concentrates on classroom teaching and educator practice, with a discoverable feed, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://blog.discoveryeducation.com/",
+        "https://www.discoveryeducation.com/comments/feed/",
+        "https://www.discoveryeducation.com/corporate-partnerships/"
+      ]
+    },
+    {
+      "rank": 82,
+      "id": "hilr-dce-harvard-edu",
+      "name": "Harvard Institute for Learning in Retirement (HILR)",
+      "url": "https://hilr.dce.harvard.edu/",
+      "country": "XX",
+      "score": 69.4,
+      "movement": "new",
+      "best_for": "teaching, learning, and education practice",
+      "reason": "Harvard Institute for Learning in Retirement (HILR) concentrates on teaching, learning, and education practice, with a visible article archive, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://hilr.dce.harvard.edu/",
+        "https://hilr.dce.harvard.edu/about-us/"
+      ]
+    },
+    {
+      "rank": 83,
+      "id": "educationtechnologyinsights-com",
+      "name": "Education Technology Insights",
+      "url": "https://educationtechnologyinsights.com/",
+      "country": "XX",
+      "score": 69.2,
+      "movement": "new",
+      "best_for": "education technology and digital learning",
+      "reason": "Education Technology Insights concentrates on education technology and digital learning, with clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://educationtechnologyinsights.com/",
+        "https://www.educationtechnologyinsights.com/about-us/"
+      ]
+    },
+    {
+      "rank": 84,
+      "id": "intelligentrelations-com",
+      "name": "Intelligent Relations",
+      "url": "https://intelligentrelations.com/",
+      "country": "XX",
+      "score": 69.1,
+      "movement": "new",
+      "best_for": "higher education and academic work",
+      "reason": "Intelligent Relations concentrates on higher education and academic work, with a visible article archive, named authorship that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://intelligentrelations.com/",
+        "https://intelligentrelations.com/about/"
+      ]
+    },
+    {
+      "rank": 85,
+      "id": "plsclasses-com",
+      "name": "PLS Classes",
+      "url": "https://plsclasses.com/",
+      "country": "XX",
+      "score": 68.8,
+      "movement": "new",
+      "best_for": "classroom teaching and educator practice",
+      "reason": "PLS Classes concentrates on classroom teaching and educator practice, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://plsclasses.com/",
+        "https://www.plsclasses.com/comments/feed/",
+        "https://www.plsclasses.com/about/"
+      ]
+    },
+    {
+      "rank": 86,
+      "id": "topeducationdegrees-org",
+      "name": "Top Education Degrees",
+      "url": "https://topeducationdegrees.org/",
+      "country": "XX",
+      "score": 68.8,
+      "movement": "new",
+      "best_for": "classroom teaching and educator practice",
+      "reason": "Top Education Degrees concentrates on classroom teaching and educator practice, with a discoverable feed, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Authorship and editorial-policy information is less visible than on higher-ranked publications.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://topeducationdegrees.org/",
+        "https://www.topeducationdegrees.org/comments/feed/",
+        "https://www.topeducationdegrees.org/about/"
+      ]
+    },
+    {
+      "rank": 87,
+      "id": "dce-harvard-edu",
+      "name": "Harvard Division of Continuing Education",
+      "url": "https://dce.harvard.edu/",
+      "country": "XX",
+      "score": 68.2,
+      "movement": "new",
+      "best_for": "teaching, learning, and education practice",
+      "reason": "Harvard Division of Continuing Education concentrates on teaching, learning, and education practice, with a visible article archive, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://dce.harvard.edu/",
+        "https://dce.harvard.edu/about/"
+      ]
+    },
+    {
+      "rank": 88,
+      "id": "letters-leaves-com",
+      "name": "LETTERS AND LEAVES",
+      "url": "https://letters-leaves.com/",
+      "country": "XX",
+      "score": 67.7,
+      "movement": "new",
+      "best_for": "classroom teaching and educator practice",
+      "reason": "LETTERS AND LEAVES concentrates on classroom teaching and educator practice, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://letters-leaves.com/",
+        "https://letters-leaves.com/comments/feed/",
+        "https://letters-leaves.com/about/"
+      ]
+    },
+    {
+      "rank": 89,
+      "id": "international-savvas-com",
+      "name": "Savvas International",
+      "url": "https://international.savvas.com/",
+      "country": "XX",
+      "score": 67.3,
+      "movement": "new",
+      "best_for": "teaching, learning, and education practice",
+      "reason": "Savvas International concentrates on teaching, learning, and education practice, with clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://international.savvas.com/",
+        "https://international.savvas.com/company/learn-about-savvas/about-us"
+      ]
+    },
+    {
+      "rank": 90,
+      "id": "k12blogs-com",
+      "name": "K-12 Blogs",
+      "url": "https://k12blogs.com/",
+      "country": "XX",
+      "score": 66.8,
+      "movement": "new",
+      "best_for": "classroom teaching and educator practice",
+      "reason": "K-12 Blogs concentrates on classroom teaching and educator practice, with a visible article archive, named authorship that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://k12blogs.com/",
+        "https://www.k12blogs.com/authors/the-74-editorial-team"
+      ]
+    },
+    {
+      "rank": 91,
+      "id": "beyondk12-com",
+      "name": "BeyondK12",
+      "url": "https://beyondk12.com/",
+      "country": "XX",
+      "score": 66.7,
+      "movement": "new",
+      "best_for": "classroom teaching and educator practice",
+      "reason": "BeyondK12 concentrates on classroom teaching and educator practice, with a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://beyondk12.com/"
+      ]
+    },
+    {
+      "rank": 92,
+      "id": "edutech-com",
+      "name": "Edutech",
+      "url": "https://edutech.com/",
+      "country": "XX",
+      "score": 66.4,
+      "movement": "new",
+      "best_for": "classroom teaching and educator practice",
+      "reason": "Edutech concentrates on classroom teaching and educator practice, with named authorship, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://edutech.com/",
+        "https://edutech.com/about"
+      ]
+    },
+    {
+      "rank": 93,
+      "id": "academicresourcecenter-harvard-edu",
+      "name": "Academic Resource Center",
+      "url": "https://academicresourcecenter.harvard.edu/",
+      "country": "XX",
+      "score": 66.2,
+      "movement": "new",
+      "best_for": "teaching, learning, and education practice",
+      "reason": "Academic Resource Center concentrates on teaching, learning, and education practice, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://academicresourcecenter.harvard.edu/",
+        "https://academicresourcecenter.harvard.edu/feed/",
+        "https://academicresourcecenter.harvard.edu/about/"
+      ]
+    },
+    {
+      "rank": 94,
+      "id": "highereducationdigest-com",
+      "name": "Higher Education Digest",
+      "url": "https://highereducationdigest.com/",
+      "country": "XX",
+      "score": 66.2,
+      "movement": "new",
+      "best_for": "higher education and academic work",
+      "reason": "Higher Education Digest concentrates on higher education and academic work, with a discoverable feed, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://highereducationdigest.com/",
+        "https://www.highereducationdigest.com/comments/feed/",
+        "https://www.highereducationdigest.com/about-us/"
+      ]
+    },
+    {
+      "rank": 95,
+      "id": "mentoriablog-azurewebsites-net",
+      "name": "Mentoria",
+      "url": "https://mentoriablog.azurewebsites.net/",
+      "country": "XX",
+      "score": 65.0,
+      "movement": "new",
+      "best_for": "higher education and academic work",
+      "reason": "Mentoria concentrates on higher education and academic work, with a discoverable feed, named authorship that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://mentoriablog.azurewebsites.net/",
+        "https://mentoriablog.azurewebsites.net/10-must-follow-educational-blogs-for-students/feed/"
+      ]
+    },
+    {
+      "rank": 96,
+      "id": "bigeducation-org",
+      "name": "Big Education",
+      "url": "https://bigeducation.org/",
+      "country": "XX",
+      "score": 64.7,
+      "movement": "new",
+      "best_for": "classroom teaching and educator practice",
+      "reason": "Big Education concentrates on classroom teaching and educator practice, with a discoverable feed that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://bigeducation.org/",
+        "https://bigeducation.org/comments/feed/",
+        "https://bigeducation.org/blogs/#"
+      ]
+    },
+    {
+      "rank": 97,
+      "id": "teachingtomorrow-co-uk",
+      "name": "Teaching Tomorrow - Teaching Tomorrow",
+      "url": "https://teachingtomorrow.co.uk/",
+      "country": "GB",
+      "score": 64.4,
+      "movement": "new",
+      "best_for": "classroom teaching and educator practice",
+      "reason": "Teaching Tomorrow - Teaching Tomorrow concentrates on classroom teaching and educator practice, with a visible article archive, named authorship that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://teachingtomorrow.co.uk/",
+        "https://teachingtomorrow.co.uk/about"
+      ]
+    },
+    {
+      "rank": 98,
+      "id": "educationexpress-uts-edu-au",
+      "name": "Education Express",
+      "url": "https://educationexpress.uts.edu.au/",
+      "country": "AU",
+      "score": 62.8,
+      "movement": "new",
+      "best_for": "higher education and academic work",
+      "reason": "Education Express concentrates on higher education and academic work, with a discoverable feed, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://educationexpress.uts.edu.au/",
+        "https://educationexpress.uts.edu.au/blog/2016/11/24/five-must-read-higher-education-blogs/feed/",
+        "https://educationexpress.uts.edu.au/blog/author/team/"
+      ]
+    },
+    {
+      "rank": 99,
+      "id": "blog-eduspire-org",
+      "name": "EDUSPIRE",
+      "url": "https://blog.eduspire.org/",
+      "country": "XX",
+      "score": 62.0,
+      "movement": "new",
+      "best_for": "classroom teaching and educator practice",
+      "reason": "EDUSPIRE concentrates on classroom teaching and educator practice, with a discoverable feed, named authorship that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://blog.eduspire.org/",
+        "https://blog.eduspire.org/comments/feed/"
+      ]
+    },
+    {
+      "rank": 100,
+      "id": "blogs-world-edu",
+      "name": "edu blogs",
+      "url": "https://blogs.world.edu/",
+      "country": "XX",
+      "score": 59.4,
+      "movement": "new",
+      "best_for": "higher education and academic work",
+      "reason": "edu blogs concentrates on higher education and academic work, with a visible article archive, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://blogs.world.edu/"
+      ]
+    }
+  ]
+}

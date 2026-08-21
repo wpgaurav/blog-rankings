@@ -1,0 +1,273 @@
+schema_version: 1
+names:
+  tim.blog: Tim Ferriss
+  mrmoneymustache.com: Mr. Money Mustache
+  affordanything.com: Afford Anything
+  laurenmkaufman.com: Lauren Kaufman
+  learningscientists.org: The Learning Scientists
+  wellnessmama.com: Wellness Mama
+  nami.org: NAMI
+  health.com: Health
+  blog.myfitnesspal.com: MyFitnessPal Blog
+  ohsheglows.com: Oh She Glows
+  thekitchn.com: The Kitchn
+  foodnetwork.com: Food Network
+  smittenkitchen.com: Smitten Kitchen
+  preposterousuniverse.com: Preposterous Universe
+  realclimate.org: RealClimate
+  thephysicsmill.com: The Physics Mill
+  4gravitons.com: 4 Gravitons
+  science.nasa.gov: NASA Science
+  nomadicmatt.com: Nomadic Matt
+  ytravelblog.com: Y Travel Blog
+  oneikathetraveller.com: Oneika the Traveller
+  thefrontierpsychiatrists.substack.com: The Frontier Psychiatrists
+  blog.turbotax.intuit.com: TurboTax Blog
+urls:
+  bitten.blogs.nytimes.com: https://archive.nytimes.com/dinersjournal.blogs.nytimes.com/
+  blog.bufferapp.com: https://buffer.com/resources/
+  blog.close.io: https://close.com/blog/
+  blog.honeybadger.io: https://www.honeybadger.io/blog/
+  bookwidgets.com: https://www.bookwidgets.com/blog
+  decentfilms.com: https://decentfilms.com/
+  everydollar.com: https://www.ramseysolutions.com/articles
+  nautil.us: https://nautil.us/
+  saasholic.com: https://www.saasholic.com/
+  sba.gov: https://www.sba.gov/
+  scallionpancake.net: https://scallionpancake.com/
+  travelagencytribes.com: https://www.travelagencytribes.com/
+exclude_hosts:
+  - claudiashomecooking.com
+  - 247-wellness-club.beehiiv.com
+  - mybreakingviews.com
+categories:
+  technology:
+    independent:
+      - stratechery.com
+      - daringfireball.net
+      - newsletter.pragmaticengineer.com
+      - simonwillison.net
+      - schneier.com
+      - krebsonsecurity.com
+      - platformer.news
+      - 404media.co
+      - ben-evans.com
+      - tedium.co
+    publisher_company:
+      - wired.com
+      - arstechnica.com
+      - theverge.com
+      - technologyreview.com
+      - techcrunch.com
+      - spectrum.ieee.org
+      - tomshardware.com
+      - androidauthority.com
+      - engadget.com
+      - 9to5mac.com
+  business:
+    independent:
+      - tim.blog
+      - feld.com
+      - chrisducker.com
+      - forentrepreneurs.com
+      - davidcummings.org
+      - kellblog.com
+      - noahkagan.com
+      - yaro.blog
+      - learn.justinwelsh.me
+      - 2hourblogger.substack.com
+    publisher_company:
+      - businessinsider.com
+      - entrepreneur.com
+      - hbr.org
+      - smallbiztrends.com
+      - review.firstround.com
+      - techcrunch.com
+      - forbes.com
+      - sloanreview.mit.edu
+      - startupnation.com
+      - allbusiness.com
+  marketing-seo:
+    independent:
+      - seths.blog
+      - detailed.com
+      - growth-memo.com
+      - seofomo.co
+      - tomcritchlow.com
+      - rosssimmonds.com
+      - julian.com
+      - brianbalfour.com
+      - learnwhywebuy.com
+      - marketingexamples.com
+    publisher_company:
+      - ahrefs.com
+      - blog.hubspot.com
+      - semrush.com
+      - moz.com
+      - searchengineland.com
+      - marketingprofs.com
+      - contentmarketinginstitute.com
+      - buffer.com
+      - cxl.com
+      - copyblogger.com
+  personal-finance:
+    independent:
+      - jlcollinsnh.com
+      - budgetsaresexy.com
+      - affordanything.com
+      - financialsamurai.com
+      - mrmoneymustache.com
+      - awealthofcommonsense.com
+      - thehappysaver.com
+      - earlyretirementnow.com
+      - millennialmoney.com
+      - boomerandecho.com
+    publisher_company:
+      - nerdwallet.com
+      - investopedia.com
+      - kiplinger.com
+      - businessinsider.com
+      - cnbc.com
+      - thecollegeinvestor.com
+      - gobankingrates.com
+      - moneywise.com
+      - smartasset.com
+      - blog.turbotax.intuit.com
+  science:
+    independent:
+      - backreaction.blogspot.com
+      - realclimate.org
+      - preposterousuniverse.com
+      - southernfriedscience.com
+      - improbable.com
+      - thephysicsmill.com
+      - nanoscale.blogspot.com
+      - 4gravitons.com
+      - joyfulmicrobe.com
+      - goodsciencewriting.com
+    publisher_company:
+      - scientificamerican.com
+      - sciencenews.org
+      - nature.com
+      - newscientist.com
+      - science.nasa.gov
+      - popsci.com
+      - space.com
+      - sciencealert.com
+      - scitechdaily.com
+      - universetoday.com
+  education:
+    independent:
+      - mathequalslove.net
+      - coolcatteacher.com
+      - alicekeeler.com
+      - ditchthattextbook.com
+      - classtechtips.com
+      - laurenmkaufman.com
+      - catlintucker.com
+      - jenniferfindley.com
+      - teachertoolkit.co.uk
+      - learningscientists.org
+    publisher_company:
+      - edutopia.org
+      - edweek.org
+      - chronicle.com
+      - elearningindustry.com
+      - iste.org
+      - weareteachers.com
+      - teachthought.com
+      - edtechdigest.com
+      - gettingsmart.com
+      - insidehighered.com
+  health:
+    independent:
+      - wellnessmama.com
+      - blogilates.com
+      - runningonrealfood.com
+      - katheats.com
+      - nutritionstripped.com
+      - eatingbirdfood.com
+      - healthpopuli.com
+      - mamavation.com
+      - heavenlynnhealthy.com
+      - thefrontierpsychiatrists.substack.com
+    publisher_company:
+      - healthline.com
+      - everydayhealth.com
+      - health.harvard.edu
+      - verywellmind.com
+      - nutritionfacts.org
+      - statnews.com
+      - nami.org
+      - who.int
+      - blog.myfitnesspal.com
+      - aarp.org
+  travel:
+    independent:
+      - nomadicmatt.com
+      - adventurouskate.com
+      - expertvagabond.com
+      - wanderingearl.com
+      - ytravelblog.com
+      - findingtheuniverse.com
+      - thebrokebackpacker.com
+      - handluggageonly.co.uk
+      - neverendingfootsteps.com
+      - oneikathetraveller.com
+    publisher_company:
+      - travelandleisure.com
+      - cntraveler.com
+      - afar.com
+      - lonelyplanet.com
+      - wanderlustmagazine.com
+      - onemileatatime.com
+      - the-independent.com
+      - vogue.com
+      - sunset.com
+      - atlasandboots.com
+  food:
+    independent:
+      - smittenkitchen.com
+      - pinchofyum.com
+      - recipetineats.com
+      - cookieandkate.com
+      - skinnytaste.com
+      - ohsheglows.com
+      - mynewroots.org
+      - jocooks.com
+      - carlsbadcravings.com
+      - minimalistbaker.com
+    publisher_company:
+      - seriouseats.com
+      - bonappetit.com
+      - foodandwine.com
+      - thekitchn.com
+      - eatingwell.com
+      - allrecipes.com
+      - saveur.com
+      - foodnetwork.com
+      - tastingtable.com
+      - southernliving.com
+  culture-entertainment:
+    independent:
+      - austinkleon.com
+      - atwoodmagazine.com
+      - jerryjenkins.com
+      - noamkroll.com
+      - eclecticmusiclover.com
+      - stackedbooks.org
+      - arpegi.wordpress.com
+      - bohemianbibliophile.com
+      - thatartsyreadergirl.com
+      - bookwyrmshoard.com
+    publisher_company:
+      - variety.com
+      - rollingstone.com
+      - pitchfork.com
+      - billboard.com
+      - newyorker.com
+      - theatlantic.com
+      - nytimes.com
+      - kotaku.com
+      - nme.com
+      - bookriot.com

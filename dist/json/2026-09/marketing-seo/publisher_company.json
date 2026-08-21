@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "edition": "2026-09",
-  "status": "beta",
+  "status": "final",
   "category": {
     "slug": "marketing-seo",
     "name": "Marketing and SEO",
@@ -19,20 +19,20 @@
     "slug": "publisher_company",
     "label": "Publisher and Company Blogs"
   },
-  "count": 10,
+  "count": 100,
   "items": [
     {
       "rank": 1,
-      "id": "ahrefs-blog",
+      "id": "ahrefs-com",
       "name": "Ahrefs Blog",
       "url": "https://ahrefs.com/blog/",
-      "country": "SG",
-      "score": 93.8,
+      "country": "XX",
+      "score": 98.0,
       "movement": "new",
       "best_for": "SEO research, content strategy, and search-led growth",
       "reason": "Ahrefs combines product data, experiments, clear examples, and experienced practitioners to make SEO advice more testable than generic search tutorials.",
       "limitation": "The editorial lens naturally favors organic search and the Ahrefs product ecosystem.",
-      "confidence": "provisional",
+      "confidence": "standard",
       "reviewed_at": "2026-08-21",
       "evidence_urls": [
         "https://ahrefs.com/blog/"
@@ -40,155 +40,1822 @@
     },
     {
       "rank": 2,
-      "id": "semrush-blog",
-      "name": "Semrush Blog",
-      "url": "https://semrush.com/blog/",
-      "country": "US",
-      "score": 90.5,
-      "movement": "new",
-      "best_for": "SEO, competitive research, content, and digital-marketing workflows",
-      "reason": "Semrush publishes current search guidance, original datasets, and product-linked tutorials across a wider digital-marketing scope than most SEO vendors.",
-      "limitation": "High publishing volume and product alignment make editorial depth inconsistent.",
-      "confidence": "provisional",
-      "reviewed_at": "2026-08-21",
-      "evidence_urls": [
-        "https://www.semrush.com/blog/"
-      ]
-    },
-    {
-      "rank": 3,
-      "id": "search-engine-land",
-      "name": "Search Engine Land",
-      "url": "https://searchengineland.com/",
-      "country": "US",
-      "score": 90.3,
-      "movement": "new",
-      "best_for": "search-industry news, platform changes, and practitioner analysis",
-      "reason": "Search Engine Land follows Google, Microsoft, paid search, retail media, and SEO changes quickly with named specialist contributors and daily coverage.",
-      "limitation": "The fast news cycle leaves less room for complete implementation guidance in many stories.",
-      "confidence": "provisional",
-      "reviewed_at": "2026-08-21",
-      "evidence_urls": [
-        "https://searchengineland.com/"
-      ]
-    },
-    {
-      "rank": 4,
-      "id": "hubspot-blog",
+      "id": "blog-hubspot-com",
       "name": "HubSpot Blog",
       "url": "https://blog.hubspot.com/",
-      "country": "US",
-      "score": 90.0,
+      "country": "XX",
+      "score": 97.0,
       "movement": "new",
       "best_for": "broad marketing, sales, service, and operations education",
       "reason": "HubSpot maintains a large practical library across marketing and revenue operations, with templates and beginner guidance for most common business questions.",
       "limitation": "Breadth and search scale create uneven depth and originality across individual articles.",
-      "confidence": "provisional",
+      "confidence": "standard",
       "reviewed_at": "2026-08-21",
       "evidence_urls": [
-        "https://blog.hubspot.com/"
+        "https://blog.hubspot.com/",
+        "https://blog.hubspot.com/website/rss.xml"
+      ]
+    },
+    {
+      "rank": 3,
+      "id": "semrush-com",
+      "name": "Semrush Blog",
+      "url": "https://semrush.com/blog/",
+      "country": "XX",
+      "score": 96.0,
+      "movement": "new",
+      "best_for": "SEO, competitive research, content, and digital-marketing workflows",
+      "reason": "Semrush publishes current search guidance, original datasets, and product-linked tutorials across a wider digital-marketing scope than most SEO vendors.",
+      "limitation": "High publishing volume and product alignment make editorial depth inconsistent.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://www.semrush.com/blog/",
+        "https://www.semrush.com/company/"
+      ]
+    },
+    {
+      "rank": 4,
+      "id": "moz-com",
+      "name": "Moz Blog",
+      "url": "https://moz.com/blog/",
+      "country": "XX",
+      "score": 95.0,
+      "movement": "new",
+      "best_for": "established SEO education, research, and practitioner perspectives",
+      "reason": "Moz combines a long educational archive with industry research, practitioner contributions, and durable explanations of search fundamentals.",
+      "limitation": "Publication cadence and depth vary across guest contributions and product-led pieces.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://moz.com/blog/",
+        "https://moz.com/feeds/blog.atom",
+        "https://moz.com/about"
       ]
     },
     {
       "rank": 5,
-      "id": "buffer-resources",
+      "id": "searchengineland-com",
+      "name": "Search Engine Land",
+      "url": "https://searchengineland.com/",
+      "country": "XX",
+      "score": 94.0,
+      "movement": "new",
+      "best_for": "search-industry news, platform changes, and practitioner analysis",
+      "reason": "Search Engine Land follows Google, Microsoft, paid search, retail media, and SEO changes quickly with named specialist contributors and daily coverage.",
+      "limitation": "The fast news cycle leaves less room for complete implementation guidance in many stories.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://searchengineland.com/",
+        "https://searchengineland.com/feed",
+        "https://searchengineland.com/guide/ai-overviews-vs-featured-snippets"
+      ]
+    },
+    {
+      "rank": 6,
+      "id": "marketingprofs-com",
+      "name": "MarketingProfs",
+      "url": "https://marketingprofs.com/",
+      "country": "XX",
+      "score": 93.0,
+      "movement": "new",
+      "best_for": "B2B marketing education, research, writing, and professional development",
+      "reason": "MarketingProfs connects experienced contributors, training, research, and practical B2B guidance in a library built for working marketers.",
+      "limitation": "Registration and membership boundaries limit access to portions of the archive.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://www.marketingprofs.com/",
+        "https://www.marketingprofs.com/about/contact/"
+      ]
+    },
+    {
+      "rank": 7,
+      "id": "contentmarketinginstitute-com",
+      "name": "Content Marketing Institute",
+      "url": "https://contentmarketinginstitute.com/",
+      "country": "XX",
+      "score": 92.0,
+      "movement": "new",
+      "best_for": "content operations, editorial strategy, teams, and measurement",
+      "reason": "Content Marketing Institute covers the organizational and operational work around content, not only writing and promotion tactics.",
+      "limitation": "Some coverage is shaped around events, vendors, and enterprise content programs.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://contentmarketinginstitute.com/",
+        "https://contentmarketinginstitute.com/author/content-marketing-institute-team"
+      ]
+    },
+    {
+      "rank": 8,
+      "id": "buffer-com",
       "name": "Buffer Resources",
       "url": "https://buffer.com/resources/",
-      "country": "US",
-      "score": 89.0,
+      "country": "XX",
+      "score": 91.0,
       "movement": "new",
       "best_for": "social-media practice, creator workflows, and transparent company lessons",
       "reason": "Buffer mixes practical platform guidance with public experiments and company-operating lessons, giving its educational content a useful first-party layer.",
       "limitation": "The publication naturally concentrates on social media and the Buffer product context.",
-      "confidence": "provisional",
+      "confidence": "standard",
       "reviewed_at": "2026-08-21",
       "evidence_urls": [
         "https://buffer.com/resources/"
       ]
     },
     {
-      "rank": 6,
-      "id": "moz-blog",
-      "name": "Moz Blog",
-      "url": "https://moz.com/blog/",
-      "country": "US",
-      "score": 88.0,
-      "movement": "new",
-      "best_for": "established SEO education, research, and practitioner perspectives",
-      "reason": "Moz combines a long educational archive with industry research, practitioner contributions, and durable explanations of search fundamentals.",
-      "limitation": "Publication cadence and depth vary across guest contributions and product-led pieces.",
-      "confidence": "provisional",
-      "reviewed_at": "2026-08-21",
-      "evidence_urls": [
-        "https://moz.com/blog/"
-      ]
-    },
-    {
-      "rank": 7,
-      "id": "content-marketing-institute",
-      "name": "Content Marketing Institute",
-      "url": "https://contentmarketinginstitute.com/",
-      "country": "US",
-      "score": 86.9,
-      "movement": "new",
-      "best_for": "content operations, editorial strategy, teams, and measurement",
-      "reason": "Content Marketing Institute covers the organizational and operational work around content, not only writing and promotion tactics.",
-      "limitation": "Some coverage is shaped around events, vendors, and enterprise content programs.",
-      "confidence": "provisional",
-      "reviewed_at": "2026-08-21",
-      "evidence_urls": [
-        "https://contentmarketinginstitute.com/"
-      ]
-    },
-    {
-      "rank": 8,
-      "id": "cxl-blog",
+      "rank": 9,
+      "id": "cxl-com",
       "name": "CXL Blog",
       "url": "https://cxl.com/blog/",
-      "country": "US",
-      "score": 86.5,
+      "country": "XX",
+      "score": 90.0,
       "movement": "new",
       "best_for": "experimentation, conversion optimization, analytics, and growth practice",
       "reason": "CXL publishes specialist guidance with a strong testing and evidence orientation, especially where conversion work crosses research and analytics.",
       "limitation": "The advanced practitioner focus and training-business context make it less accessible to beginners.",
-      "confidence": "provisional",
+      "confidence": "standard",
       "reviewed_at": "2026-08-21",
       "evidence_urls": [
-        "https://cxl.com/blog/"
-      ]
-    },
-    {
-      "rank": 9,
-      "id": "marketingprofs",
-      "name": "MarketingProfs",
-      "url": "https://marketingprofs.com/",
-      "country": "US",
-      "score": 86.3,
-      "movement": "new",
-      "best_for": "B2B marketing education, research, writing, and professional development",
-      "reason": "MarketingProfs connects experienced contributors, training, research, and practical B2B guidance in a library built for working marketers.",
-      "limitation": "Registration and membership boundaries limit access to portions of the archive.",
-      "confidence": "provisional",
-      "reviewed_at": "2026-08-21",
-      "evidence_urls": [
-        "https://www.marketingprofs.com/"
+        "https://cxl.com/blog/",
+        "https://cxl.com/institute/live-course/ai-systems-operations-workshop/"
       ]
     },
     {
       "rank": 10,
-      "id": "copyblogger",
+      "id": "copyblogger-com",
       "name": "Copyblogger",
       "url": "https://copyblogger.com/",
-      "country": "US",
-      "score": 84.4,
+      "country": "XX",
+      "score": 89.0,
       "movement": "new",
       "best_for": "content marketing, persuasive writing, and audience-led online business",
       "reason": "Copyblogger's long archive connects writing, audience trust, offers, and digital products in a coherent content-business model.",
       "limitation": "Older foundational material remains influential, but current publishing is less dominant than during the site's peak.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://copyblogger.com/",
+        "https://copyblogger.com/comments/feed/",
+        "https://copyblogger.com/about/"
+      ]
+    },
+    {
+      "rank": 11,
+      "id": "searchenginejournal-com",
+      "name": "Search Engine Journal",
+      "url": "https://searchenginejournal.com/",
+      "country": "XX",
+      "score": 86.4,
+      "movement": "new",
+      "best_for": "SEO and search-led growth",
+      "reason": "Search Engine Journal concentrates on SEO and search-led growth, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://searchenginejournal.com/",
+        "https://www.searchenginejournal.com/category/cms/wp/feed/atom/",
+        "https://www.searchenginejournal.com/about/"
+      ]
+    },
+    {
+      "rank": 12,
+      "id": "socialmediaexaminer-com",
+      "name": "Social Media Examiner",
+      "url": "https://socialmediaexaminer.com/",
+      "country": "XX",
+      "score": 85.4,
+      "movement": "new",
+      "best_for": "social-media strategy and publishing",
+      "reason": "Social Media Examiner concentrates on social-media strategy and publishing, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Some complete material may require registration, membership, or a paid subscription.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://socialmediaexaminer.com/",
+        "https://www.socialmediaexaminer.com/comments/feed/",
+        "https://www.socialmediaexaminer.com/about/"
+      ]
+    },
+    {
+      "rank": 13,
+      "id": "brafton-com",
+      "name": "Brafton",
+      "url": "https://brafton.com/",
+      "country": "XX",
+      "score": 84.6,
+      "movement": "new",
+      "best_for": "content strategy and distribution",
+      "reason": "Brafton concentrates on content strategy and distribution, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://brafton.com/",
+        "https://www.brafton.com/feed/",
+        "https://www.brafton.com/about/"
+      ]
+    },
+    {
+      "rank": 14,
+      "id": "econsultancy-com",
+      "name": "Econsultancy",
+      "url": "https://econsultancy.com/",
+      "country": "XX",
+      "score": 84.0,
+      "movement": "new",
+      "best_for": "marketing strategy and audience growth",
+      "reason": "Econsultancy concentrates on marketing strategy and audience growth, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://econsultancy.com/",
+        "https://econsultancy.com/comments/feed/",
+        "https://econsultancy.com/team-engagement/"
+      ]
+    },
+    {
+      "rank": 15,
+      "id": "seerinteractive-com",
+      "name": "Seer Interactive",
+      "url": "https://seerinteractive.com/",
+      "country": "XX",
+      "score": 83.7,
+      "movement": "new",
+      "best_for": "SEO and search-led growth",
+      "reason": "Seer Interactive concentrates on SEO and search-led growth, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://seerinteractive.com/",
+        "https://www.seerinteractive.com/insights/rss.xml",
+        "https://www.seerinteractive.com/insights#"
+      ]
+    },
+    {
+      "rank": 16,
+      "id": "searchenginewatch-com",
+      "name": "Search Engine Watch",
+      "url": "https://searchenginewatch.com/",
+      "country": "XX",
+      "score": 83.6,
+      "movement": "new",
+      "best_for": "SEO and search-led growth",
+      "reason": "Search Engine Watch concentrates on SEO and search-led growth, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://searchenginewatch.com/",
+        "https://searchenginewatch.com/comments/feed/",
+        "https://searchenginewatch.com/about-us/"
+      ]
+    },
+    {
+      "rank": 17,
+      "id": "socialpilot-co",
+      "name": "SocialPilot",
+      "url": "https://socialpilot.co/",
+      "country": "XX",
+      "score": 83.4,
+      "movement": "new",
+      "best_for": "social-media strategy and publishing",
+      "reason": "SocialPilot concentrates on social-media strategy and publishing, with a discoverable feed, named authorship that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://socialpilot.co/",
+        "https://www.socialpilot.co/feed",
+        "https://www.socialpilot.co/features/teams-management"
+      ]
+    },
+    {
+      "rank": 18,
+      "id": "neilpatel-com",
+      "name": "Neil Patel",
+      "url": "https://neilpatel.com/",
+      "country": "XX",
+      "score": 83.3,
+      "movement": "new",
+      "best_for": "SEO and search-led growth",
+      "reason": "Neil Patel concentrates on SEO and search-led growth, with a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://neilpatel.com/",
+        "https://neilpatel.com/blog/chatgpt-query-source-preferences/"
+      ]
+    },
+    {
+      "rank": 19,
+      "id": "moosend-com",
+      "name": "The Easiest Email Marketing Platform",
+      "url": "https://moosend.com/",
+      "country": "XX",
+      "score": 81.7,
+      "movement": "new",
+      "best_for": "SEO and search-led growth",
+      "reason": "The Easiest Email Marketing Platform concentrates on SEO and search-led growth, with a discoverable feed that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://moosend.com/",
+        "https://moosend.com/comments/feed/"
+      ]
+    },
+    {
+      "rank": 20,
+      "id": "digiday-com",
+      "name": "Digiday",
+      "url": "https://digiday.com/",
+      "country": "XX",
+      "score": 81.2,
+      "movement": "new",
+      "best_for": "marketing strategy and audience growth",
+      "reason": "Digiday concentrates on marketing strategy and audience growth, with a discoverable feed, named authorship that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://digiday.com/",
+        "https://digiday.com/marketing/feed/",
+        "https://digiday.com/masthead/"
+      ]
+    },
+    {
+      "rank": 21,
+      "id": "npdigital-com",
+      "name": "NPD Global",
+      "url": "https://npdigital.com/",
+      "country": "XX",
+      "score": 81.2,
+      "movement": "new",
+      "best_for": "marketing strategy and audience growth",
+      "reason": "NPD Global concentrates on marketing strategy and audience growth, with a discoverable feed, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://npdigital.com/",
+        "https://npdigital.com/feed/",
+        "https://npdigital.com/about/"
+      ]
+    },
+    {
+      "rank": 22,
+      "id": "statista-com",
+      "name": "Statista",
+      "url": "https://statista.com/",
+      "country": "XX",
+      "score": 81.2,
+      "movement": "new",
+      "best_for": "SEO and search-led growth",
+      "reason": "Statista concentrates on SEO and search-led growth, with a visible article archive, named authorship that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://statista.com/",
+        "https://www.statista.com/business/about-us/"
+      ]
+    },
+    {
+      "rank": 23,
+      "id": "colorlib-com",
+      "name": "Colorlib",
+      "url": "https://colorlib.com/",
+      "country": "XX",
+      "score": 80.7,
+      "movement": "new",
+      "best_for": "copywriting and persuasive communication",
+      "reason": "Colorlib concentrates on copywriting and persuasive communication, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://colorlib.com/",
+        "https://colorlib.com/wp/comments/feed/",
+        "https://colorlib.com/wp/about/"
+      ]
+    },
+    {
+      "rank": 24,
+      "id": "later-com",
+      "name": "Later: Influencer Marketing and Social Media Management",
+      "url": "https://later.com/",
+      "country": "XX",
+      "score": 80.6,
+      "movement": "new",
+      "best_for": "social-media strategy and publishing",
+      "reason": "Later: Influencer Marketing and Social Media Management concentrates on social-media strategy and publishing, with a discoverable feed, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://later.com/",
+        "https://later.com/rss.xml",
+        "https://later.com/blog/the-full-funnel-creator-what-youtube-sharkninja-and-adam-w-revealed-about-the-future-of-creator-led-marketing/"
+      ]
+    },
+    {
+      "rank": 25,
+      "id": "blog-hootsuite-com",
+      "name": "Social Media Marketing & Management Dashboard",
+      "url": "https://blog.hootsuite.com/",
+      "country": "XX",
+      "score": 80.5,
+      "movement": "new",
+      "best_for": "social-media strategy and publishing",
+      "reason": "Social Media Marketing & Management Dashboard concentrates on social-media strategy and publishing, with a visible article archive, named authorship that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://blog.hootsuite.com/",
+        "https://blog.hootsuite.com/#"
+      ]
+    },
+    {
+      "rank": 26,
+      "id": "awai-com",
+      "name": "American Writers & Artists Institute",
+      "url": "https://awai.com/",
+      "country": "XX",
+      "score": 80.5,
+      "movement": "new",
+      "best_for": "copywriting and persuasive communication",
+      "reason": "American Writers & Artists Institute concentrates on copywriting and persuasive communication, with a discoverable feed, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://awai.com/",
+        "https://www.awai.com/rss/main/rss.xml",
+        "https://www.awai.com/about/"
+      ]
+    },
+    {
+      "rank": 27,
+      "id": "procopywriters-co-uk",
+      "name": "ProCopywriters | the Alliance of Commercial Writers",
+      "url": "https://procopywriters.co.uk/",
+      "country": "GB",
+      "score": 80.3,
+      "movement": "new",
+      "best_for": "copywriting and persuasive communication",
+      "reason": "ProCopywriters | the Alliance of Commercial Writers concentrates on copywriting and persuasive communication, with a discoverable feed, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
       "confidence": "provisional",
       "reviewed_at": "2026-08-21",
       "evidence_urls": [
-        "https://copyblogger.com/"
+        "https://procopywriters.co.uk/",
+        "https://www.procopywriters.co.uk/feed/atom/",
+        "https://www.procopywriters.co.uk/about-us"
+      ]
+    },
+    {
+      "rank": 28,
+      "id": "theedigital-com",
+      "name": "TheeDigital",
+      "url": "https://theedigital.com/",
+      "country": "XX",
+      "score": 80.2,
+      "movement": "new",
+      "best_for": "SEO and search-led growth",
+      "reason": "TheeDigital concentrates on SEO and search-led growth, with a visible article archive, named authorship that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://theedigital.com/",
+        "https://www.theedigital.com/about"
+      ]
+    },
+    {
+      "rank": 29,
+      "id": "digitalauthority-me",
+      "name": "Digital Authority Partners",
+      "url": "https://digitalauthority.me/",
+      "country": "XX",
+      "score": 79.8,
+      "movement": "new",
+      "best_for": "SEO and search-led growth",
+      "reason": "Digital Authority Partners concentrates on SEO and search-led growth, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://digitalauthority.me/",
+        "https://www.digitalauthority.me/comments/feed/",
+        "https://www.digitalauthority.me/about/"
+      ]
+    },
+    {
+      "rank": 30,
+      "id": "mailchimp-com",
+      "name": "Mailchimp",
+      "url": "https://mailchimp.com/",
+      "country": "XX",
+      "score": 79.2,
+      "movement": "new",
+      "best_for": "marketing strategy and audience growth",
+      "reason": "Mailchimp concentrates on marketing strategy and audience growth, with a visible article archive, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://mailchimp.com/",
+        "https://mailchimp.com/about/security/"
+      ]
+    },
+    {
+      "rank": 31,
+      "id": "referralcandy-com",
+      "name": "ReferralCandy",
+      "url": "https://referralcandy.com/",
+      "country": "XX",
+      "score": 78.7,
+      "movement": "new",
+      "best_for": "content strategy and distribution",
+      "reason": "ReferralCandy concentrates on content strategy and distribution, with a visible article archive, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://referralcandy.com/",
+        "https://referralcandy.com/about"
+      ]
+    },
+    {
+      "rank": 32,
+      "id": "seodesignchicago-com",
+      "name": "SEO Design Chicago",
+      "url": "https://seodesignchicago.com/",
+      "country": "XX",
+      "score": 78.6,
+      "movement": "new",
+      "best_for": "SEO and search-led growth",
+      "reason": "SEO Design Chicago concentrates on SEO and search-led growth, with a discoverable feed, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://seodesignchicago.com/",
+        "https://seodesignchicago.com/comments/feed/",
+        "https://seodesignchicago.com/about/"
+      ]
+    },
+    {
+      "rank": 33,
+      "id": "marketermilk-com",
+      "name": "Marketer Milk: Stay ahead in marketing",
+      "url": "https://marketermilk.com/",
+      "country": "XX",
+      "score": 78.6,
+      "movement": "new",
+      "best_for": "SEO and search-led growth",
+      "reason": "Marketer Milk: Stay ahead in marketing concentrates on SEO and search-led growth, with clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://marketermilk.com/",
+        "https://www.marketermilk.com/blog/rss.xml",
+        "https://www.marketermilk.com/about"
+      ]
+    },
+    {
+      "rank": 34,
+      "id": "engagecoders-com",
+      "name": "Engage Coders | Bridging The Gap",
+      "url": "https://engagecoders.com/",
+      "country": "XX",
+      "score": 78.5,
+      "movement": "new",
+      "best_for": "SEO and search-led growth",
+      "reason": "Engage Coders | Bridging The Gap concentrates on SEO and search-led growth, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://engagecoders.com/",
+        "https://www.engagecoders.com/social-media-marketing-blogs/feed/",
+        "https://www.engagecoders.com/about-us/"
+      ]
+    },
+    {
+      "rank": 35,
+      "id": "hawksem-com",
+      "name": "HawkSEM",
+      "url": "https://hawksem.com/",
+      "country": "XX",
+      "score": 78.4,
+      "movement": "new",
+      "best_for": "SEO and search-led growth",
+      "reason": "HawkSEM concentrates on SEO and search-led growth, with a discoverable feed, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://hawksem.com/",
+        "https://hawksem.com/feed/",
+        "https://hawksem.com/about-us/"
+      ]
+    },
+    {
+      "rank": 36,
+      "id": "embryo-com",
+      "name": "Embryo",
+      "url": "https://embryo.com/",
+      "country": "XX",
+      "score": 78.2,
+      "movement": "new",
+      "best_for": "SEO and search-led growth",
+      "reason": "Embryo concentrates on SEO and search-led growth, with a discoverable feed that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://embryo.com/",
+        "https://embryo.com/feed/",
+        "https://embryo.com/who-we-are/"
+      ]
+    },
+    {
+      "rank": 37,
+      "id": "contentmarketingworld-com",
+      "name": "Content Marketing World",
+      "url": "https://contentmarketingworld.com/",
+      "country": "XX",
+      "score": 78.2,
+      "movement": "new",
+      "best_for": "content strategy and distribution",
+      "reason": "Content Marketing World concentrates on content strategy and distribution, with a discoverable feed, named authorship that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://contentmarketingworld.com/",
+        "https://www.contentmarketingworld.com/comments/feed/",
+        "https://www.contentmarketingworld.com/bring-your-team-multiply-your-impact/"
+      ]
+    },
+    {
+      "rank": 38,
+      "id": "swordandthescript-com",
+      "name": "Sword and the Script",
+      "url": "https://swordandthescript.com/",
+      "country": "XX",
+      "score": 78.0,
+      "movement": "new",
+      "best_for": "social-media strategy and publishing",
+      "reason": "Sword and the Script concentrates on social-media strategy and publishing, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://swordandthescript.com/",
+        "https://www.swordandthescript.com/comments/feed/"
+      ]
+    },
+    {
+      "rank": 39,
+      "id": "backlinko-com",
+      "name": "Backlinko",
+      "url": "https://backlinko.com/",
+      "country": "XX",
+      "score": 77.7,
+      "movement": "new",
+      "best_for": "SEO and search-led growth",
+      "reason": "Backlinko concentrates on SEO and search-led growth, with named authorship, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://backlinko.com/",
+        "https://backlinko.com/audience-research"
+      ]
+    },
+    {
+      "rank": 40,
+      "id": "contently-com",
+      "name": "Contently",
+      "url": "https://contently.com/",
+      "country": "XX",
+      "score": 77.0,
+      "movement": "new",
+      "best_for": "analytics, experimentation, and conversion",
+      "reason": "Contently concentrates on analytics, experimentation, and conversion, with a discoverable feed, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://contently.com/",
+        "https://contently.com/feed/",
+        "https://contently.com/ask-a-content-strategist/"
+      ]
+    },
+    {
+      "rank": 41,
+      "id": "digitalmarketinginstitute-com",
+      "name": "Digital Marketing Certification Online",
+      "url": "https://digitalmarketinginstitute.com/",
+      "country": "XX",
+      "score": 76.5,
+      "movement": "new",
+      "best_for": "SEO and search-led growth",
+      "reason": "Digital Marketing Certification Online concentrates on SEO and search-led growth, with named authorship, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://digitalmarketinginstitute.com/"
+      ]
+    },
+    {
+      "rank": 42,
+      "id": "toprankmarketing-com",
+      "name": "TopRank® Marketing",
+      "url": "https://toprankmarketing.com/",
+      "country": "XX",
+      "score": 76.5,
+      "movement": "new",
+      "best_for": "SEO and search-led growth",
+      "reason": "TopRank® Marketing concentrates on SEO and search-led growth, with named authorship, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://toprankmarketing.com/",
+        "https://www.toprankmarketing.com/about-us/"
+      ]
+    },
+    {
+      "rank": 43,
+      "id": "dailyblogtips-com",
+      "name": "DailyBlogTips.com",
+      "url": "https://dailyblogtips.com/",
+      "country": "XX",
+      "score": 76.3,
+      "movement": "new",
+      "best_for": "SEO and search-led growth",
+      "reason": "DailyBlogTips.com concentrates on SEO and search-led growth, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://dailyblogtips.com/",
+        "https://dailyblogtips.com/web-stories/feed/",
+        "https://dailyblogtips.com/about/"
+      ]
+    },
+    {
+      "rank": 44,
+      "id": "sixthcitymarketing-com",
+      "name": "Sixth City Marketing",
+      "url": "https://sixthcitymarketing.com/",
+      "country": "XX",
+      "score": 75.9,
+      "movement": "new",
+      "best_for": "SEO and search-led growth",
+      "reason": "Sixth City Marketing concentrates on SEO and search-led growth, with a discoverable feed, named authorship that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://sixthcitymarketing.com/",
+        "https://www.sixthcitymarketing.com/comments/feed/",
+        "https://www.sixthcitymarketing.com/about-sixth-city-marketing/case-studies/"
+      ]
+    },
+    {
+      "rank": 45,
+      "id": "towermarketing-net",
+      "name": "Tower Marketing",
+      "url": "https://towermarketing.net/",
+      "country": "XX",
+      "score": 75.5,
+      "movement": "new",
+      "best_for": "SEO and search-led growth",
+      "reason": "Tower Marketing concentrates on SEO and search-led growth, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://towermarketing.net/",
+        "https://www.towermarketing.net/comments/feed/",
+        "https://www.towermarketing.net/about/"
+      ]
+    },
+    {
+      "rank": 46,
+      "id": "marketful-com",
+      "name": "Marketful",
+      "url": "https://marketful.com/",
+      "country": "XX",
+      "score": 75.4,
+      "movement": "new",
+      "best_for": "SEO and search-led growth",
+      "reason": "Marketful concentrates on SEO and search-led growth, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://marketful.com/",
+        "https://marketful.com/feed"
+      ]
+    },
+    {
+      "rank": 47,
+      "id": "buildfire-com",
+      "name": "Buildfire",
+      "url": "https://buildfire.com/",
+      "country": "XX",
+      "score": 75.3,
+      "movement": "new",
+      "best_for": "content strategy and distribution",
+      "reason": "Buildfire concentrates on content strategy and distribution, with a discoverable feed, named authorship that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://buildfire.com/",
+        "https://buildfire.com/comments/feed/",
+        "https://buildfire.com/sports-team-apps/"
+      ]
+    },
+    {
+      "rank": 48,
+      "id": "contentmarketinguniversity-com",
+      "name": "Content Marketing University",
+      "url": "https://contentmarketinguniversity.com/",
+      "country": "XX",
+      "score": 75.0,
+      "movement": "new",
+      "best_for": "content strategy and distribution",
+      "reason": "Content Marketing University concentrates on content strategy and distribution, with a discoverable feed, named authorship that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://contentmarketinguniversity.com/",
+        "https://contentmarketinguniversity.com/comments/feed/"
+      ]
+    },
+    {
+      "rank": 49,
+      "id": "interodigital-com",
+      "name": "Intero Digital",
+      "url": "https://interodigital.com/",
+      "country": "XX",
+      "score": 75.0,
+      "movement": "new",
+      "best_for": "content strategy and distribution",
+      "reason": "Intero Digital concentrates on content strategy and distribution, with a visible article archive, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://interodigital.com/",
+        "https://www.interodigital.com/about/"
+      ]
+    },
+    {
+      "rank": 50,
+      "id": "forrester-com",
+      "name": "Forrester",
+      "url": "https://forrester.com/",
+      "country": "XX",
+      "score": 75.0,
+      "movement": "new",
+      "best_for": "SEO and search-led growth",
+      "reason": "Forrester concentrates on SEO and search-led growth, with clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://forrester.com/",
+        "https://www.forrester.com/about-us/forrester-awards/"
+      ]
+    },
+    {
+      "rank": 51,
+      "id": "sendible-com",
+      "name": "Sendible: Social Media Management Tool with Unlimited Users",
+      "url": "https://sendible.com/",
+      "country": "XX",
+      "score": 74.9,
+      "movement": "new",
+      "best_for": "content strategy and distribution",
+      "reason": "Sendible: Social Media Management Tool with Unlimited Users concentrates on content strategy and distribution, with named authorship, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://sendible.com/",
+        "https://www.sendible.com/features/client-connect?hsLang=en"
+      ]
+    },
+    {
+      "rank": 52,
+      "id": "contentmarketingawards-com",
+      "name": "Content Marketing Awards",
+      "url": "https://contentmarketingawards.com/",
+      "country": "XX",
+      "score": 74.7,
+      "movement": "new",
+      "best_for": "content strategy and distribution",
+      "reason": "Content Marketing Awards concentrates on content strategy and distribution, with a discoverable feed, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://contentmarketingawards.com/",
+        "https://contentmarketingawards.com/comments/feed/"
+      ]
+    },
+    {
+      "rank": 53,
+      "id": "growthrocks-com",
+      "name": "GrowthRocks",
+      "url": "https://growthrocks.com/",
+      "country": "XX",
+      "score": 74.6,
+      "movement": "new",
+      "best_for": "content strategy and distribution",
+      "reason": "GrowthRocks concentrates on content strategy and distribution, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://growthrocks.com/",
+        "https://growthrocks.com/comments/feed/",
+        "https://growthrocks.com/team/"
+      ]
+    },
+    {
+      "rank": 54,
+      "id": "madx-digital",
+      "name": "Search Agency for SaaS",
+      "url": "https://madx.digital/",
+      "country": "XX",
+      "score": 74.6,
+      "movement": "new",
+      "best_for": "SEO and search-led growth",
+      "reason": "Search Agency for SaaS concentrates on SEO and search-led growth, with named authorship, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://madx.digital/",
+        "https://www.madx.digital/learn/rss.xml",
+        "https://www.madx.digital/about"
+      ]
+    },
+    {
+      "rank": 55,
+      "id": "smartinsights-com",
+      "name": "Smart Insights",
+      "url": "https://smartinsights.com/",
+      "country": "XX",
+      "score": 74.1,
+      "movement": "new",
+      "best_for": "marketing strategy and audience growth",
+      "reason": "Smart Insights concentrates on marketing strategy and audience growth, with a discoverable feed, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://smartinsights.com/",
+        "https://www.smartinsights.com/comments/feed/",
+        "https://www.smartinsights.com/about/"
+      ]
+    },
+    {
+      "rank": 56,
+      "id": "mediatraining-ltd-uk",
+      "name": "Media Training Ltd",
+      "url": "https://mediatraining.ltd.uk/",
+      "country": "GB",
+      "score": 74.0,
+      "movement": "new",
+      "best_for": "copywriting and persuasive communication",
+      "reason": "Media Training Ltd concentrates on copywriting and persuasive communication, with a visible article archive, named authorship that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://mediatraining.ltd.uk/",
+        "https://mediatraining.ltd.uk/team-training"
+      ]
+    },
+    {
+      "rank": 57,
+      "id": "contentwriters-com",
+      "name": "Content Writing Agency",
+      "url": "https://contentwriters.com/",
+      "country": "XX",
+      "score": 74.0,
+      "movement": "new",
+      "best_for": "copywriting and persuasive communication",
+      "reason": "Content Writing Agency concentrates on copywriting and persuasive communication, with named authorship that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://contentwriters.com/",
+        "https://contentwriters.com/team"
+      ]
+    },
+    {
+      "rank": 58,
+      "id": "joepulizzi-com",
+      "name": "Joe Pulizzi",
+      "url": "https://joepulizzi.com/",
+      "country": "XX",
+      "score": 73.2,
+      "movement": "new",
+      "best_for": "content strategy and distribution",
+      "reason": "Joe Pulizzi concentrates on content strategy and distribution, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://joepulizzi.com/",
+        "https://www.joepulizzi.com/feed/",
+        "https://www.joepulizzi.com/about/"
+      ]
+    },
+    {
+      "rank": 59,
+      "id": "chaosmap-com",
+      "name": "AI Automation | Digital Advertising Agency | Los Angeles, CA",
+      "url": "https://chaosmap.com/",
+      "country": "XX",
+      "score": 73.0,
+      "movement": "new",
+      "best_for": "SEO and search-led growth",
+      "reason": "AI Automation | Digital Advertising Agency | Los Angeles, CA concentrates on SEO and search-led growth, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://chaosmap.com/",
+        "https://chaosmap.com/comments/feed/",
+        "https://chaosmap.com/about/"
+      ]
+    },
+    {
+      "rank": 60,
+      "id": "brimcove-com",
+      "name": "BrimCove",
+      "url": "https://brimcove.com/",
+      "country": "XX",
+      "score": 72.8,
+      "movement": "new",
+      "best_for": "SEO and search-led growth",
+      "reason": "BrimCove concentrates on SEO and search-led growth, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://brimcove.com/",
+        "https://brimcove.com/comments/feed/",
+        "https://brimcove.com/about"
+      ]
+    },
+    {
+      "rank": 61,
+      "id": "constant-content-com",
+      "name": "Buy Unique Articles & Website Content > Constant Content",
+      "url": "https://constant-content.com/",
+      "country": "XX",
+      "score": 72.8,
+      "movement": "new",
+      "best_for": "copywriting and persuasive communication",
+      "reason": "Buy Unique Articles & Website Content > Constant Content concentrates on copywriting and persuasive communication, with named authorship, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://constant-content.com/",
+        "https://www.constant-content.com:443/area/registerauthor.htm"
+      ]
+    },
+    {
+      "rank": 62,
+      "id": "toprankblog-com",
+      "name": "TopRank® Marketing",
+      "url": "https://toprankblog.com/",
+      "country": "XX",
+      "score": 72.7,
+      "movement": "new",
+      "best_for": "SEO and search-led growth",
+      "reason": "TopRank® Marketing concentrates on SEO and search-led growth, with a visible article archive, named authorship that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://toprankblog.com/",
+        "https://www.toprankmarketing.com/about-us/"
+      ]
+    },
+    {
+      "rank": 63,
+      "id": "alaafiaafrc-org",
+      "name": "Alaafia African Family Center",
+      "url": "https://alaafiaafrc.org/",
+      "country": "XX",
+      "score": 72.5,
+      "movement": "new",
+      "best_for": "SEO and search-led growth",
+      "reason": "Alaafia African Family Center concentrates on SEO and search-led growth, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://alaafiaafrc.org/",
+        "https://alaafiaafrc.org/adtc/12-must-read-social-media-blogs-for-marketers/feed/",
+        "https://alaafiaafrc.org/adtc/about/"
+      ]
+    },
+    {
+      "rank": 64,
+      "id": "advanced-npdigital-com",
+      "name": "NPD Global",
+      "url": "https://advanced.npdigital.com/",
+      "country": "XX",
+      "score": 72.2,
+      "movement": "new",
+      "best_for": "marketing strategy and audience growth",
+      "reason": "NPD Global concentrates on marketing strategy and audience growth, with a discoverable feed, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://advanced.npdigital.com/",
+        "https://advanced.npdigital.com/comments/feed/"
+      ]
+    },
+    {
+      "rank": 65,
+      "id": "heyorca-com",
+      "name": "HeyOrca",
+      "url": "https://heyorca.com/",
+      "country": "XX",
+      "score": 71.9,
+      "movement": "new",
+      "best_for": "social-media strategy and publishing",
+      "reason": "HeyOrca concentrates on social-media strategy and publishing, with clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://heyorca.com/",
+        "https://www.heyorca.com/about"
+      ]
+    },
+    {
+      "rank": 66,
+      "id": "theyardstickagency-co-uk",
+      "name": "The Yardstick Agency",
+      "url": "https://theyardstickagency.co.uk/",
+      "country": "GB",
+      "score": 71.8,
+      "movement": "new",
+      "best_for": "social-media strategy and publishing",
+      "reason": "The Yardstick Agency concentrates on social-media strategy and publishing, with a visible article archive, named authorship that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://theyardstickagency.co.uk/",
+        "https://theyardstickagency.co.uk/about-us"
+      ]
+    },
+    {
+      "rank": 67,
+      "id": "chatterbuzzmedia-com",
+      "name": "Chatter Buzz Media",
+      "url": "https://chatterbuzzmedia.com/",
+      "country": "XX",
+      "score": 71.8,
+      "movement": "new",
+      "best_for": "SEO and search-led growth",
+      "reason": "Chatter Buzz Media concentrates on SEO and search-led growth, with a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://chatterbuzzmedia.com/",
+        "https://www.chatterbuzzmedia.com/company/"
+      ]
+    },
+    {
+      "rank": 68,
+      "id": "deepmind-com",
+      "name": "Google DeepMind",
+      "url": "https://deepmind.com/",
+      "country": "XX",
+      "score": 71.8,
+      "movement": "new",
+      "best_for": "SEO and search-led growth",
+      "reason": "Google DeepMind concentrates on SEO and search-led growth, with a visible article archive, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://deepmind.com/",
+        "https://deepmind.google/about/"
+      ]
+    },
+    {
+      "rank": 69,
+      "id": "dupple-com",
+      "name": "Dupple",
+      "url": "https://dupple.com/",
+      "country": "XX",
+      "score": 71.6,
+      "movement": "new",
+      "best_for": "marketing strategy and audience growth",
+      "reason": "Dupple concentrates on marketing strategy and audience growth, with clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://dupple.com/",
+        "https://dupple.com/about"
+      ]
+    },
+    {
+      "rank": 70,
+      "id": "amsivedigital-com",
+      "name": "Amsive",
+      "url": "https://amsivedigital.com/",
+      "country": "XX",
+      "score": 70.8,
+      "movement": "new",
+      "best_for": "marketing strategy and audience growth",
+      "reason": "Amsive concentrates on marketing strategy and audience growth, with a discoverable feed, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://amsivedigital.com/",
+        "https://www.amsive.com/feed/",
+        "https://www.amsive.com/about/"
+      ]
+    },
+    {
+      "rank": 71,
+      "id": "careerfoundry-com",
+      "name": "CareerFoundry",
+      "url": "https://careerfoundry.com/",
+      "country": "XX",
+      "score": 70.6,
+      "movement": "new",
+      "best_for": "content strategy and distribution",
+      "reason": "CareerFoundry concentrates on content strategy and distribution, with a discoverable feed that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://careerfoundry.com/",
+        "https://careerfoundry.com/en/feed/",
+        "https://careerfoundry.com/en/blog/digital-marketing/digital-marketing-blog/#digital-marketing-blog-seo"
+      ]
+    },
+    {
+      "rank": 72,
+      "id": "buzzency-com",
+      "name": "Buzzency",
+      "url": "https://buzzency.com/",
+      "country": "XX",
+      "score": 70.5,
+      "movement": "new",
+      "best_for": "SEO and search-led growth",
+      "reason": "Buzzency concentrates on SEO and search-led growth, with a discoverable feed, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://buzzency.com/",
+        "https://www.buzzency.com/comments/feed/",
+        "https://www.buzzency.com/about-buzzency/"
+      ]
+    },
+    {
+      "rank": 73,
+      "id": "seotonic-com",
+      "name": "SEOTonic",
+      "url": "https://seotonic.com/",
+      "country": "XX",
+      "score": 70.4,
+      "movement": "new",
+      "best_for": "SEO and search-led growth",
+      "reason": "SEOTonic concentrates on SEO and search-led growth, with a visible article archive, named authorship that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://seotonic.com/"
+      ]
+    },
+    {
+      "rank": 74,
+      "id": "blog-skyvia-com",
+      "name": "Skyvia Blog",
+      "url": "https://blog.skyvia.com/",
+      "country": "XX",
+      "score": 70.3,
+      "movement": "new",
+      "best_for": "analytics, experimentation, and conversion",
+      "reason": "Skyvia Blog concentrates on analytics, experimentation, and conversion, with a discoverable feed, named authorship that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://blog.skyvia.com/",
+        "https://skyvia.com/blog/comments/feed/",
+        "https://skyvia.com/company/"
+      ]
+    },
+    {
+      "rank": 75,
+      "id": "elenaverna-com",
+      "name": "Elena's Growth Scoop",
+      "url": "https://elenaverna.com/",
+      "country": "XX",
+      "score": 70.2,
+      "movement": "new",
+      "best_for": "marketing strategy and audience growth",
+      "reason": "Elena's Growth Scoop concentrates on marketing strategy and audience growth, with a discoverable feed that makes its current publishing work easier to evaluate.",
+      "limitation": "Authorship and editorial-policy information is less visible than on higher-ranked publications.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://elenaverna.com/",
+        "https://www.elenaverna.com/feed"
+      ]
+    },
+    {
+      "rank": 76,
+      "id": "sciencesays-com",
+      "name": "Science-based AI and marketing insights",
+      "url": "https://sciencesays.com/",
+      "country": "XX",
+      "score": 70.0,
+      "movement": "new",
+      "best_for": "SEO and search-led growth",
+      "reason": "Science-based AI and marketing insights concentrates on SEO and search-led growth, with clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://sciencesays.com/",
+        "https://www.sciencesays.com/about"
+      ]
+    },
+    {
+      "rank": 77,
+      "id": "cotasks-com",
+      "name": "CoTask IT Solutions",
+      "url": "https://cotasks.com/",
+      "country": "XX",
+      "score": 69.7,
+      "movement": "new",
+      "best_for": "SEO and search-led growth",
+      "reason": "CoTask IT Solutions concentrates on SEO and search-led growth, with a visible article archive, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://cotasks.com/",
+        "https://cotasks.com/about-us"
+      ]
+    },
+    {
+      "rank": 78,
+      "id": "benchmarkone-com",
+      "name": "BenchmarkONE",
+      "url": "https://benchmarkone.com/",
+      "country": "XX",
+      "score": 69.4,
+      "movement": "new",
+      "best_for": "social-media strategy and publishing",
+      "reason": "BenchmarkONE concentrates on social-media strategy and publishing, with clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://benchmarkone.com/",
+        "https://www.benchmarkone.com/about/"
+      ]
+    },
+    {
+      "rank": 79,
+      "id": "pierreherubel-substack-com",
+      "name": "Pierre's Content Guides",
+      "url": "https://pierreherubel.substack.com/",
+      "country": "XX",
+      "score": 69.2,
+      "movement": "new",
+      "best_for": "content strategy and distribution",
+      "reason": "Pierre's Content Guides concentrates on content strategy and distribution, with a discoverable feed that makes its current publishing work easier to evaluate.",
+      "limitation": "Authorship and editorial-policy information is less visible than on higher-ranked publications.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://pierreherubel.substack.com/",
+        "https://pierreherubel.substack.com/feed"
+      ]
+    },
+    {
+      "rank": 80,
+      "id": "succeedingsmall-co",
+      "name": "Succeeding Small",
+      "url": "https://succeedingsmall.co/",
+      "country": "XX",
+      "score": 69.0,
+      "movement": "new",
+      "best_for": "SEO and search-led growth",
+      "reason": "Succeeding Small concentrates on SEO and search-led growth, with named authorship, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://succeedingsmall.co/",
+        "https://succeedingsmall.co/about-us/"
+      ]
+    },
+    {
+      "rank": 81,
+      "id": "blog-robly-com",
+      "name": "Robly Blog",
+      "url": "https://blog.robly.com/",
+      "country": "XX",
+      "score": 69.0,
+      "movement": "new",
+      "best_for": "social-media strategy and publishing",
+      "reason": "Robly Blog concentrates on social-media strategy and publishing, with clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://blog.robly.com/",
+        "https://blog.robly.com/why-email-engagement-drops-every-summer"
+      ]
+    },
+    {
+      "rank": 82,
+      "id": "reachfirst-com",
+      "name": "Reach First Inc.",
+      "url": "https://reachfirst.com/",
+      "country": "XX",
+      "score": 68.8,
+      "movement": "new",
+      "best_for": "SEO and search-led growth",
+      "reason": "Reach First Inc. concentrates on SEO and search-led growth, with clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://reachfirst.com/",
+        "https://www.reachfirst.com/about-us/"
+      ]
+    },
+    {
+      "rank": 83,
+      "id": "content-whale-com",
+      "name": "Best Content Writing Services",
+      "url": "https://content-whale.com/",
+      "country": "XX",
+      "score": 68.6,
+      "movement": "new",
+      "best_for": "SEO and search-led growth",
+      "reason": "Best Content Writing Services concentrates on SEO and search-led growth, with clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://content-whale.com/",
+        "https://content-whale.com/about-us"
+      ]
+    },
+    {
+      "rank": 84,
+      "id": "widewail-com",
+      "name": "Widewail",
+      "url": "https://widewail.com/",
+      "country": "XX",
+      "score": 68.5,
+      "movement": "new",
+      "best_for": "marketing strategy and audience growth",
+      "reason": "Widewail concentrates on marketing strategy and audience growth, with clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://widewail.com/",
+        "https://www.widewail.com/company/about"
+      ]
+    },
+    {
+      "rank": 85,
+      "id": "blog-copify-com",
+      "name": "blog.copify.com",
+      "url": "https://blog.copify.com/",
+      "country": "XX",
+      "score": 67.3,
+      "movement": "new",
+      "best_for": "SEO and search-led growth",
+      "reason": "blog.copify.com concentrates on SEO and search-led growth, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Authorship and editorial-policy information is less visible than on higher-ranked publications.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://blog.copify.com/",
+        "https://blog.copify.com/comments/feed"
+      ]
+    },
+    {
+      "rank": 86,
+      "id": "thesocialjuice-substack-com",
+      "name": "The Social Juice",
+      "url": "https://thesocialjuice.substack.com/",
+      "country": "XX",
+      "score": 67.3,
+      "movement": "new",
+      "best_for": "marketing strategy and audience growth",
+      "reason": "The Social Juice concentrates on marketing strategy and audience growth, with a discoverable feed that makes its current publishing work easier to evaluate.",
+      "limitation": "Authorship and editorial-policy information is less visible than on higher-ranked publications.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://thesocialjuice.substack.com/",
+        "https://thesocialjuice.substack.com/feed"
+      ]
+    },
+    {
+      "rank": 87,
+      "id": "oncrawl-com",
+      "name": "Oncrawl - Technical SEO Data",
+      "url": "https://oncrawl.com/",
+      "country": "XX",
+      "score": 67.0,
+      "movement": "new",
+      "best_for": "SEO and search-led growth",
+      "reason": "Oncrawl - Technical SEO Data concentrates on SEO and search-led growth, with a clearly defined editorial focus that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://oncrawl.com/"
+      ]
+    },
+    {
+      "rank": 88,
+      "id": "tippingpointlabs-com",
+      "name": "Tippingpoint Labs",
+      "url": "https://tippingpointlabs.com/",
+      "country": "XX",
+      "score": 66.7,
+      "movement": "new",
+      "best_for": "SEO and search-led growth",
+      "reason": "Tippingpoint Labs concentrates on SEO and search-led growth, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://tippingpointlabs.com/",
+        "https://www.tippingpointlabs.com/comments/feed/",
+        "https://www.tippingpointlabs.com/about/"
+      ]
+    },
+    {
+      "rank": 89,
+      "id": "themarketingfix-substack-com",
+      "name": "Marketing Fix",
+      "url": "https://themarketingfix.substack.com/",
+      "country": "XX",
+      "score": 66.5,
+      "movement": "new",
+      "best_for": "marketing strategy and audience growth",
+      "reason": "Marketing Fix concentrates on marketing strategy and audience growth, with a discoverable feed that makes its current publishing work easier to evaluate.",
+      "limitation": "Authorship and editorial-policy information is less visible than on higher-ranked publications.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://themarketingfix.substack.com/",
+        "https://themarketingfix.substack.com/feed"
+      ]
+    },
+    {
+      "rank": 90,
+      "id": "blogmutt-com",
+      "name": "Verblio",
+      "url": "https://blogmutt.com/",
+      "country": "XX",
+      "score": 65.5,
+      "movement": "new",
+      "best_for": "copywriting and persuasive communication",
+      "reason": "Verblio concentrates on copywriting and persuasive communication, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://blogmutt.com/",
+        "https://www.verblio.com/comments/feed",
+        "https://www.verblio.com/join-our-writing-team"
+      ]
+    },
+    {
+      "rank": 91,
+      "id": "growthinreverse-substack-com",
+      "name": "Growth In Reverse",
+      "url": "https://growthinreverse.substack.com/",
+      "country": "XX",
+      "score": 65.2,
+      "movement": "new",
+      "best_for": "marketing strategy and audience growth",
+      "reason": "Growth In Reverse concentrates on marketing strategy and audience growth, with a discoverable feed that makes its current publishing work easier to evaluate.",
+      "limitation": "Authorship and editorial-policy information is less visible than on higher-ranked publications.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://growthinreverse.substack.com/",
+        "https://growthinreverse.substack.com/feed"
+      ]
+    },
+    {
+      "rank": 92,
+      "id": "bluethings-co",
+      "name": "Bluethings",
+      "url": "https://bluethings.co/",
+      "country": "XX",
+      "score": 65.2,
+      "movement": "new",
+      "best_for": "SEO and search-led growth",
+      "reason": "Bluethings concentrates on SEO and search-led growth, with clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://bluethings.co/",
+        "https://www.bluethings.co/about"
+      ]
+    },
+    {
+      "rank": 93,
+      "id": "ariyh-com",
+      "name": "Science-based AI and marketing insights",
+      "url": "https://ariyh.com/",
+      "country": "XX",
+      "score": 65.0,
+      "movement": "new",
+      "best_for": "SEO and search-led growth",
+      "reason": "Science-based AI and marketing insights concentrates on SEO and search-led growth, with clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://ariyh.com/",
+        "https://www.sciencesays.com/about"
+      ]
+    },
+    {
+      "rank": 94,
+      "id": "growthsprints-co",
+      "name": "AEO, SEO & Content Marketing Agency | Growth Sprints",
+      "url": "https://growthsprints.co/",
+      "country": "XX",
+      "score": 64.5,
+      "movement": "new",
+      "best_for": "SEO and search-led growth",
+      "reason": "AEO, SEO & Content Marketing Agency | Growth Sprints concentrates on SEO and search-led growth, with a discoverable feed that makes its current publishing work easier to evaluate.",
+      "limitation": "Authorship and editorial-policy information is less visible than on higher-ranked publications.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://growthsprints.co/",
+        "https://growthsprints.co/comments/feed/"
+      ]
+    },
+    {
+      "rank": 95,
+      "id": "aidastory-com",
+      "name": "Aida Story",
+      "url": "https://aidastory.com/",
+      "country": "XX",
+      "score": 64.0,
+      "movement": "new",
+      "best_for": "marketing strategy and audience growth",
+      "reason": "Aida Story concentrates on marketing strategy and audience growth, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://aidastory.com/",
+        "https://aidastory.com/10-marketing-newsletters-you-must-follow/feed/",
+        "https://aidastory.com/about-us/"
+      ]
+    },
+    {
+      "rank": 96,
+      "id": "clevercopywritingschool-com",
+      "name": "The Clever Copywriting School",
+      "url": "https://clevercopywritingschool.com/",
+      "country": "XX",
+      "score": 64.0,
+      "movement": "new",
+      "best_for": "copywriting and persuasive communication",
+      "reason": "The Clever Copywriting School concentrates on copywriting and persuasive communication, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://clevercopywritingschool.com/",
+        "https://www.clevercopywritingschool.com/becoming-a-confident-copywriter-with-emma-mcmillan-chat/feed/"
+      ]
+    },
+    {
+      "rank": 97,
+      "id": "kieranflanagan-io",
+      "name": "Kieran’s Substack",
+      "url": "https://kieranflanagan.io/",
+      "country": "XX",
+      "score": 63.1,
+      "movement": "new",
+      "best_for": "marketing strategy and audience growth",
+      "reason": "Kieran’s Substack concentrates on marketing strategy and audience growth, with a discoverable feed that makes its current publishing work easier to evaluate.",
+      "limitation": "Authorship and editorial-policy information is less visible than on higher-ranked publications.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://kieranflanagan.io/",
+        "https://www.kieranflanagan.io/feed"
+      ]
+    },
+    {
+      "rank": 98,
+      "id": "campaigndonut-com",
+      "name": "Campaign Donut",
+      "url": "https://campaigndonut.com/",
+      "country": "XX",
+      "score": 62.9,
+      "movement": "new",
+      "best_for": "copywriting and persuasive communication",
+      "reason": "Campaign Donut concentrates on copywriting and persuasive communication, with a discoverable feed that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://campaigndonut.com/",
+        "https://campaigndonut.com/comments/feed/"
+      ]
+    },
+    {
+      "rank": 99,
+      "id": "rohitsrivastav-substack-com",
+      "name": "Rohit Srivastav",
+      "url": "https://rohitsrivastav.substack.com/",
+      "country": "XX",
+      "score": 58.7,
+      "movement": "new",
+      "best_for": "marketing strategy and audience growth",
+      "reason": "Rohit Srivastav concentrates on marketing strategy and audience growth, with a discoverable feed that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://rohitsrivastav.substack.com/",
+        "https://rohitsrivastav.substack.com/feed"
+      ]
+    },
+    {
+      "rank": 100,
+      "id": "pmstarter-substack-com",
+      "name": "Product Marketing Starter",
+      "url": "https://pmstarter.substack.com/",
+      "country": "XX",
+      "score": 58.3,
+      "movement": "new",
+      "best_for": "marketing strategy and audience growth",
+      "reason": "Product Marketing Starter concentrates on marketing strategy and audience growth, with a discoverable feed that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://pmstarter.substack.com/",
+        "https://pmstarter.substack.com/feed"
       ]
     }
   ]

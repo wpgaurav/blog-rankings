@@ -1,0 +1,402 @@
+{
+  "schema_version": 1,
+  "project": "Gatilab Blog Rankings",
+  "edition": "2026-09",
+  "status": "final",
+  "generated_at": "2026-08-21T12:00:00Z",
+  "category": {
+    "slug": "food",
+    "name": "Food",
+    "description": "Recipes, culinary technique, restaurant culture, food history, and food science."
+  },
+  "tracks": {
+    "independent": {
+      "slug": "independent",
+      "label": "Independent Blogs",
+      "count": 100,
+      "items": [
+        {
+          "rank": 1,
+          "id": "smittenkitchen-com",
+          "name": "Smitten Kitchen",
+          "url": "https://smittenkitchen.com/",
+          "country": "XX",
+          "score": 98.0,
+          "movement": "new",
+          "best_for": "tested recipes and everyday cooking",
+          "reason": "Smitten Kitchen concentrates on tested recipes and everyday cooking, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+          "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+          "confidence": "standard",
+          "reviewed_at": "2026-08-21",
+          "evidence_urls": [
+            "https://smittenkitchen.com/",
+            "https://smittenkitchen.com/comments/feed/"
+          ]
+        },
+        {
+          "rank": 2,
+          "id": "pinchofyum-com",
+          "name": "Pinch of Yum",
+          "url": "https://pinchofyum.com/",
+          "country": "XX",
+          "score": 97.0,
+          "movement": "new",
+          "best_for": "health-aware recipes and practical cooking",
+          "reason": "Pinch of Yum concentrates on health-aware recipes and practical cooking, with a visible article archive, clear ownership context that makes its current publishing work easier to evaluate.",
+          "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+          "confidence": "standard",
+          "reviewed_at": "2026-08-21",
+          "evidence_urls": [
+            "https://pinchofyum.com/",
+            "https://pinchofyum.com/about"
+          ]
+        },
+        {
+          "rank": 3,
+          "id": "recipetineats-com",
+          "name": "RecipeTin Eats",
+          "url": "https://recipetineats.com/",
+          "country": "XX",
+          "score": 96.0,
+          "movement": "new",
+          "best_for": "tested recipes and everyday cooking",
+          "reason": "RecipeTin Eats concentrates on tested recipes and everyday cooking, with a discoverable feed that makes its current publishing work easier to evaluate.",
+          "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+          "confidence": "standard",
+          "reviewed_at": "2026-08-21",
+          "evidence_urls": [
+            "https://recipetineats.com/",
+            "https://www.recipetineats.com/comments/feed/",
+            "https://www.recipetineats.com/nagi-recipetin-eats/"
+          ]
+        },
+        {
+          "rank": 4,
+          "id": "cookieandkate-com",
+          "name": "Cookie and Kate",
+          "url": "https://cookieandkate.com/",
+          "country": "XX",
+          "score": 95.0,
+          "movement": "new",
+          "best_for": "health-aware recipes and practical cooking",
+          "reason": "Cookie and Kate concentrates on health-aware recipes and practical cooking, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+          "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+          "confidence": "standard",
+          "reviewed_at": "2026-08-21",
+          "evidence_urls": [
+            "https://cookieandkate.com/",
+            "https://cookieandkate.com/comments/feed/"
+          ]
+        },
+        {
+          "rank": 5,
+          "id": "skinnytaste-com",
+          "name": "Skinnytaste",
+          "url": "https://skinnytaste.com/",
+          "country": "XX",
+          "score": 94.0,
+          "movement": "new",
+          "best_for": "health-aware recipes and practical cooking",
+          "reason": "Skinnytaste concentrates on health-aware recipes and practical cooking, with a clearly defined editorial focus that makes its current publishing work easier to evaluate.",
+          "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+          "confidence": "standard",
+          "reviewed_at": "2026-08-21",
+          "evidence_urls": [
+            "https://skinnytaste.com/"
+          ]
+        },
+        {
+          "rank": 6,
+          "id": "ohsheglows-com",
+          "name": "Oh She Glows",
+          "url": "https://ohsheglows.com/",
+          "country": "XX",
+          "score": 93.0,
+          "movement": "new",
+          "best_for": "recipes, technique, and food culture",
+          "reason": "Oh She Glows concentrates on recipes, technique, and food culture, with a clearly defined editorial focus that makes its current publishing work easier to evaluate.",
+          "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+          "confidence": "standard",
+          "reviewed_at": "2026-08-21",
+          "evidence_urls": [
+            "https://ohsheglows.com/"
+          ]
+        },
+        {
+          "rank": 7,
+          "id": "mynewroots-org",
+          "name": "My New Roots",
+          "url": "https://mynewroots.org/",
+          "country": "XX",
+          "score": 92.0,
+          "movement": "new",
+          "best_for": "health-aware recipes and practical cooking",
+          "reason": "My New Roots concentrates on health-aware recipes and practical cooking, with a discoverable feed, clear ownership context that makes its current publishing work easier to evaluate.",
+          "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+          "confidence": "standard",
+          "reviewed_at": "2026-08-21",
+          "evidence_urls": [
+            "https://mynewroots.org/",
+            "https://www.mynewroots.org/comments/feed/",
+            "https://www.mynewroots.org/about/"
+          ]
+        },
+        {
+          "rank": 8,
+          "id": "jocooks-com",
+          "name": "Jo Cooks",
+          "url": "https://jocooks.com/",
+          "country": "XX",
+          "score": 91.0,
+          "movement": "new",
+          "best_for": "tested recipes and everyday cooking",
+          "reason": "Jo Cooks concentrates on tested recipes and everyday cooking, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+          "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+          "confidence": "standard",
+          "reviewed_at": "2026-08-21",
+          "evidence_urls": [
+            "https://jocooks.com/",
+            "https://www.jocooks.com/web-stories/feed/",
+            "https://www.jocooks.com/about/"
+          ]
+        },
+        {
+          "rank": 9,
+          "id": "carlsbadcravings-com",
+          "name": "Carlsbad Cravings",
+          "url": "https://carlsbadcravings.com/",
+          "country": "XX",
+          "score": 90.0,
+          "movement": "new",
+          "best_for": "health-aware recipes and practical cooking",
+          "reason": "Carlsbad Cravings concentrates on health-aware recipes and practical cooking, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+          "limitation": "Authorship and editorial-policy information is less visible than on higher-ranked publications.",
+          "confidence": "standard",
+          "reviewed_at": "2026-08-21",
+          "evidence_urls": [
+            "https://carlsbadcravings.com/",
+            "https://carlsbadcravings.com/comments/feed/",
+            "https://carlsbadcravings.com/about/"
+          ]
+        },
+        {
+          "rank": 10,
+          "id": "minimalistbaker-com",
+          "name": "Minimalist Baker",
+          "url": "https://minimalistbaker.com/",
+          "country": "XX",
+          "score": 89.0,
+          "movement": "new",
+          "best_for": "baking, pastry, and dependable technique",
+          "reason": "Minimalist Baker concentrates on baking, pastry, and dependable technique, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+          "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+          "confidence": "standard",
+          "reviewed_at": "2026-08-21",
+          "evidence_urls": [
+            "https://minimalistbaker.com/",
+            "https://minimalistbaker.com/comments/feed/",
+            "https://minimalistbaker.com/about/"
+          ]
+        }
+      ]
+    },
+    "publisher_company": {
+      "slug": "publisher_company",
+      "label": "Publisher and Company Blogs",
+      "count": 100,
+      "items": [
+        {
+          "rank": 1,
+          "id": "seriouseats-com",
+          "name": "Serious Eats",
+          "url": "https://seriouseats.com/",
+          "country": "XX",
+          "score": 98.0,
+          "movement": "new",
+          "best_for": "baking, pastry, and dependable technique",
+          "reason": "Serious Eats concentrates on baking, pastry, and dependable technique, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+          "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+          "confidence": "standard",
+          "reviewed_at": "2026-08-21",
+          "evidence_urls": [
+            "https://seriouseats.com/",
+            "https://feeds-api.dotdashmeredith.com/v1/rss/google/ad57d421-0ff5-41e7-a5da-f2167b6d7f7a",
+            "https://www.seriouseats.com/about-us-5120006"
+          ]
+        },
+        {
+          "rank": 2,
+          "id": "bonappetit-com",
+          "name": "Bon Appétit",
+          "url": "https://bonappetit.com/",
+          "country": "XX",
+          "score": 97.0,
+          "movement": "new",
+          "best_for": "restaurants, chefs, and food culture",
+          "reason": "Bon Appétit concentrates on restaurants, chefs, and food culture, with a discoverable feed, named authorship that makes its current publishing work easier to evaluate.",
+          "limitation": "The homepage is heavier and more commercially layered than a focused reading experience.",
+          "confidence": "standard",
+          "reviewed_at": "2026-08-21",
+          "evidence_urls": [
+            "https://bonappetit.com/",
+            "https://www.bonappetit.com/feed/rss",
+            "https://www.bonappetit.com/story/about-us"
+          ]
+        },
+        {
+          "rank": 3,
+          "id": "foodandwine-com",
+          "name": "Food & Wine",
+          "url": "https://foodandwine.com/",
+          "country": "XX",
+          "score": 96.0,
+          "movement": "new",
+          "best_for": "restaurants, chefs, and food culture",
+          "reason": "Food & Wine concentrates on restaurants, chefs, and food culture, with a discoverable feed, named authorship that makes its current publishing work easier to evaluate.",
+          "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+          "confidence": "standard",
+          "reviewed_at": "2026-08-21",
+          "evidence_urls": [
+            "https://foodandwine.com/",
+            "https://feeds-api.dotdashmeredith.com/v1/rss/google/fdd0cc60-6e85-462a-a071-58da5a17711f"
+          ]
+        },
+        {
+          "rank": 4,
+          "id": "thekitchn-com",
+          "name": "The Kitchn",
+          "url": "https://thekitchn.com/",
+          "country": "XX",
+          "score": 95.0,
+          "movement": "new",
+          "best_for": "culinary technique and food science",
+          "reason": "The Kitchn concentrates on culinary technique and food science, with a clearly defined editorial focus that makes its current publishing work easier to evaluate.",
+          "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+          "confidence": "standard",
+          "reviewed_at": "2026-08-21",
+          "evidence_urls": [
+            "https://thekitchn.com/"
+          ]
+        },
+        {
+          "rank": 5,
+          "id": "eatingwell-com",
+          "name": "EatingWell",
+          "url": "https://eatingwell.com/",
+          "country": "XX",
+          "score": 94.0,
+          "movement": "new",
+          "best_for": "health-aware recipes and practical cooking",
+          "reason": "EatingWell concentrates on health-aware recipes and practical cooking, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+          "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+          "confidence": "standard",
+          "reviewed_at": "2026-08-21",
+          "evidence_urls": [
+            "https://eatingwell.com/",
+            "https://feeds-api.dotdashmeredith.com/v1/rss/google/dcbd6d38-4ab3-42e8-a5f6-37a8a48ceb94",
+            "https://www.eatingwell.com/about-us-6743412"
+          ]
+        },
+        {
+          "rank": 6,
+          "id": "allrecipes-com",
+          "name": "Allrecipes",
+          "url": "https://allrecipes.com/",
+          "country": "XX",
+          "score": 93.0,
+          "movement": "new",
+          "best_for": "health-aware recipes and practical cooking",
+          "reason": "Allrecipes concentrates on health-aware recipes and practical cooking, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+          "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+          "confidence": "standard",
+          "reviewed_at": "2026-08-21",
+          "evidence_urls": [
+            "https://allrecipes.com/",
+            "https://feeds-api.dotdashmeredith.com/v1/rss/google/b7b38185-8fbc-47f4-b74d-c7f27b0b09c6",
+            "https://www.allrecipes.com/about-us-6648102"
+          ]
+        },
+        {
+          "rank": 7,
+          "id": "saveur-com",
+          "name": "Saveur",
+          "url": "https://saveur.com/",
+          "country": "XX",
+          "score": 92.0,
+          "movement": "new",
+          "best_for": "baking, pastry, and dependable technique",
+          "reason": "Saveur concentrates on baking, pastry, and dependable technique, with a discoverable feed, named authorship that makes its current publishing work easier to evaluate.",
+          "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+          "confidence": "standard",
+          "reviewed_at": "2026-08-21",
+          "evidence_urls": [
+            "https://saveur.com/",
+            "https://www.saveur.com/feed/",
+            "https://www.saveur.com/meet-the-team/"
+          ]
+        },
+        {
+          "rank": 8,
+          "id": "foodnetwork-com",
+          "name": "Food Network",
+          "url": "https://foodnetwork.com/",
+          "country": "XX",
+          "score": 91.0,
+          "movement": "new",
+          "best_for": "health-aware recipes and practical cooking",
+          "reason": "Food Network concentrates on health-aware recipes and practical cooking, with a clearly defined editorial focus that makes its current publishing work easier to evaluate.",
+          "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+          "confidence": "standard",
+          "reviewed_at": "2026-08-21",
+          "evidence_urls": [
+            "https://foodnetwork.com/"
+          ]
+        },
+        {
+          "rank": 9,
+          "id": "tastingtable-com",
+          "name": "Tasting Table",
+          "url": "https://tastingtable.com/",
+          "country": "XX",
+          "score": 90.0,
+          "movement": "new",
+          "best_for": "restaurants, chefs, and food culture",
+          "reason": "Tasting Table concentrates on restaurants, chefs, and food culture, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+          "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+          "confidence": "standard",
+          "reviewed_at": "2026-08-21",
+          "evidence_urls": [
+            "https://tastingtable.com/",
+            "https://www.tastingtable.com/category/restaurants/feed/",
+            "https://www.tastingtable.com/about/"
+          ]
+        },
+        {
+          "rank": 10,
+          "id": "southernliving-com",
+          "name": "Southern Living",
+          "url": "https://southernliving.com/",
+          "country": "XX",
+          "score": 89.0,
+          "movement": "new",
+          "best_for": "restaurants, chefs, and food culture",
+          "reason": "Southern Living concentrates on restaurants, chefs, and food culture, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+          "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+          "confidence": "standard",
+          "reviewed_at": "2026-08-21",
+          "evidence_urls": [
+            "https://southernliving.com/",
+            "https://feeds-api.dotdashmeredith.com/v1/rss/google/3b38970f-fdba-47da-810e-30d3d1921e9a",
+            "https://www.southernliving.com/about-us-6502349"
+          ]
+        }
+      ]
+    }
+  },
+  "links": {
+    "repository": "https://github.com/wpgaurav/blog-rankings",
+    "methodology": "https://github.com/wpgaurav/blog-rankings/blob/main/METHODOLOGY.md",
+    "independent_markdown": "https://github.com/wpgaurav/blog-rankings/blob/main/dist/markdown/2026-09/food/independent.md",
+    "publisher_company_markdown": "https://github.com/wpgaurav/blog-rankings/blob/main/dist/markdown/2026-09/food/publisher_company.md"
+  }
+}

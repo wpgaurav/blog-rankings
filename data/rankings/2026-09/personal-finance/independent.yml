@@ -1,0 +1,2099 @@
+schema_version: 1
+edition: 2026-09
+published_at: '2026-08-21T12:00:00Z'
+status: final
+category: personal-finance
+track: independent
+entries:
+- id: boomerandecho-com
+  name: Boomer & Echo
+  canonical_url: https://boomerandecho.com/
+  country: XX
+  best_for: financial independence and early retirement
+  reason: Boomer & Echo concentrates on financial independence and early retirement, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://boomerandecho.com/
+  - https://boomerandecho.com/comments/feed/
+  - https://boomerandecho.com/about/
+  scores:
+    editorial_quality: 90
+    trust: 89
+    reach: 88
+    freshness: 89
+    ux: 88
+    impact: 89
+- id: awealthofcommonsense-com
+  name: A Wealth of Common Sense
+  canonical_url: https://awealthofcommonsense.com/
+  country: XX
+  best_for: investing and long-term wealth decisions
+  reason: A Wealth of Common Sense concentrates on investing and long-term wealth decisions, with a discoverable feed, a visible
+    article archive that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://awealthofcommonsense.com/
+  - https://awealthofcommonsense.com/comments/feed/
+  - https://awealthofcommonsense.com/about-2/
+  scores:
+    editorial_quality: 94
+    trust: 93
+    reach: 92
+    freshness: 93
+    ux: 92
+    impact: 93
+- id: millennialmoney-com
+  name: Millennial Money
+  canonical_url: https://millennialmoney.com/
+  country: XX
+  best_for: investing and long-term wealth decisions
+  reason: Millennial Money concentrates on investing and long-term wealth decisions, with a visible article archive, named
+    authorship that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://millennialmoney.com/
+  - https://millennialmoney.com/fipreneur-webinar/
+  scores:
+    editorial_quality: 91
+    trust: 90
+    reach: 89
+    freshness: 90
+    ux: 89
+    impact: 90
+- id: jlcollinsnh-com
+  name: JLCollinsnh
+  canonical_url: https://jlcollinsnh.com/
+  country: XX
+  best_for: practical personal-finance decisions
+  reason: JLCollinsnh concentrates on practical personal-finance decisions, with a discoverable feed, a visible article archive
+    that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://jlcollinsnh.com/
+  - https://jlcollinsnh.com/comments/feed/
+  - https://jlcollinsnh.com/about/
+  scores:
+    editorial_quality: 99
+    trust: 98
+    reach: 97
+    freshness: 98
+    ux: 97
+    impact: 98
+- id: earlyretirementnow-com
+  name: Early Retirement Now
+  canonical_url: https://earlyretirementnow.com/
+  country: XX
+  best_for: investing and long-term wealth decisions
+  reason: Early Retirement Now concentrates on investing and long-term wealth decisions, with a discoverable feed, a visible
+    article archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://earlyretirementnow.com/
+  - https://earlyretirementnow.com/comments/feed/
+  scores:
+    editorial_quality: 92
+    trust: 91
+    reach: 90
+    freshness: 91
+    ux: 90
+    impact: 91
+- id: thehappysaver-com
+  name: The Happy Saver
+  canonical_url: https://thehappysaver.com/
+  country: XX
+  best_for: investing and long-term wealth decisions
+  reason: The Happy Saver concentrates on investing and long-term wealth decisions, with clear ownership context that makes
+    its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://thehappysaver.com/
+  scores:
+    editorial_quality: 93
+    trust: 92
+    reach: 91
+    freshness: 92
+    ux: 91
+    impact: 92
+- id: mrmoneymustache-com
+  name: Mr. Money Mustache
+  canonical_url: https://mrmoneymustache.com/
+  country: XX
+  best_for: practical personal-finance decisions
+  reason: Mr. Money Mustache concentrates on practical personal-finance decisions, with a clearly defined editorial focus
+    that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://mrmoneymustache.com/
+  scores:
+    editorial_quality: 95
+    trust: 94
+    reach: 93
+    freshness: 94
+    ux: 93
+    impact: 94
+- id: budgetsaresexy-com
+  name: Budgets Are Sexy
+  canonical_url: https://budgetsaresexy.com/
+  country: XX
+  best_for: financial independence and early retirement
+  reason: Budgets Are Sexy concentrates on financial independence and early retirement, with a discoverable feed, a visible
+    article archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://budgetsaresexy.com/
+  - https://budgetsaresexy.com/comments/feed/
+  - https://budgetsaresexy.com/about/
+  scores:
+    editorial_quality: 98
+    trust: 97
+    reach: 96
+    freshness: 97
+    ux: 96
+    impact: 97
+- id: affordanything-com
+  name: Afford Anything
+  canonical_url: https://affordanything.com/
+  country: XX
+  best_for: investing and long-term wealth decisions
+  reason: Afford Anything concentrates on investing and long-term wealth decisions, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://affordanything.com/
+  - https://affordanything.com/comments/feed/
+  - https://affordanything.com/about/
+  scores:
+    editorial_quality: 97
+    trust: 96
+    reach: 95
+    freshness: 96
+    ux: 95
+    impact: 96
+- id: financialsamurai-com
+  name: Financial Samurai
+  canonical_url: https://financialsamurai.com/
+  country: XX
+  best_for: investing and long-term wealth decisions
+  reason: Financial Samurai concentrates on investing and long-term wealth decisions, with a discoverable feed, a visible
+    article archive that makes its current publishing work easier to evaluate.
+  limitation: Authorship and editorial-policy information is less visible than on higher-ranked publications.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://financialsamurai.com/
+  - https://www.financialsamurai.com/comments/feed/
+  - https://www.financialsamurai.com/about/
+  scores:
+    editorial_quality: 96
+    trust: 95
+    reach: 94
+    freshness: 95
+    ux: 94
+    impact: 95
+- id: engineerseekingfire-com
+  name: Engineer Seeking FIRE
+  canonical_url: https://engineerseekingfire.com/
+  country: XX
+  best_for: financial independence and early retirement
+  reason: Engineer Seeking FIRE concentrates on financial independence and early retirement, with a discoverable feed, a visible
+    article archive that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://engineerseekingfire.com/
+  - https://engineerseekingfire.com/your-plan-to-achieve-financial-independence/feed/
+  - https://engineerseekingfire.com/about-me/
+  scores:
+    editorial_quality: 72
+    trust: 87
+    reach: 48
+    freshness: 45
+    ux: 84
+    impact: 61
+- id: eatsleepbreathefi-com
+  name: Eat Sleep Breathe FI
+  canonical_url: https://eatsleepbreathefi.com/
+  country: XX
+  best_for: financial independence and early retirement
+  reason: Eat Sleep Breathe FI concentrates on financial independence and early retirement, with a discoverable feed, a visible
+    article archive that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://eatsleepbreathefi.com/
+  - https://eatsleepbreathefi.com/web-stories/feed/
+  - https://eatsleepbreathefi.com/two-years-of-fire/#
+  scores:
+    editorial_quality: 68
+    trust: 87
+    reach: 52
+    freshness: 45
+    ux: 84
+    impact: 53
+- id: seedtime-com
+  name: 'SeedTime: Financial Freedom for Eternal Impact'
+  canonical_url: https://seedtime.com/
+  country: XX
+  best_for: debt, credit, and financial recovery
+  reason: 'SeedTime: Financial Freedom for Eternal Impact concentrates on debt, credit, and financial recovery, with a discoverable
+    feed, a visible article archive that makes its current publishing work easier to evaluate.'
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://seedtime.com/
+  - https://seedtime.com/debt-success-story/feed/
+  - https://seedtime.com/about/
+  scores:
+    editorial_quality: 72
+    trust: 87
+    reach: 84
+    freshness: 45
+    ux: 84
+    impact: 75
+- id: howtofire-com
+  name: How To FIRE
+  canonical_url: https://howtofire.com/
+  country: XX
+  best_for: financial independence and early retirement
+  reason: How To FIRE concentrates on financial independence and early retirement, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://howtofire.com/
+  - https://www.howtofire.com/fire-movement/feed/
+  - https://www.howtofire.com/about/
+  scores:
+    editorial_quality: 72
+    trust: 87
+    reach: 53
+    freshness: 78
+    ux: 84
+    impact: 68
+- id: ourlifeonfire-com
+  name: Our Life On FIRE
+  canonical_url: https://ourlifeonfire.com/
+  country: XX
+  best_for: financial independence and early retirement
+  reason: Our Life On FIRE concentrates on financial independence and early retirement, with a discoverable feed, a visible
+    article archive that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://ourlifeonfire.com/
+  - https://ourlifeonfire.com/comments/feed/
+  - https://ourlifeonfire.com/category/about/
+  scores:
+    editorial_quality: 76
+    trust: 89
+    reach: 46
+    freshness: 45
+    ux: 84
+    impact: 60
+- id: educatorfi-com
+  name: Educator FI
+  canonical_url: https://educatorfi.com/
+  country: XX
+  best_for: financial independence and early retirement
+  reason: Educator FI concentrates on financial independence and early retirement, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://educatorfi.com/
+  - https://educatorfi.com/lifestyle-inflation/feed/
+  - https://educatorfi.com/about/
+  scores:
+    editorial_quality: 72
+    trust: 87
+    reach: 54
+    freshness: 45
+    ux: 84
+    impact: 63
+- id: catchinguptofi-com
+  name: Catching up to FI
+  canonical_url: https://catchinguptofi.com/
+  country: XX
+  best_for: financial independence and early retirement
+  reason: Catching up to FI concentrates on financial independence and early retirement, with a discoverable feed, a visible
+    article archive that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://catchinguptofi.com/
+  - https://catchinguptofi.com/feed/
+  - https://catchinguptofi.com/about/
+  scores:
+    editorial_quality: 70
+    trust: 87
+    reach: 51
+    freshness: 45
+    ux: 84
+    impact: 59
+- id: latestarterfire-com
+  name: Latestarterfire
+  canonical_url: https://latestarterfire.com/
+  country: XX
+  best_for: financial independence and early retirement
+  reason: Latestarterfire concentrates on financial independence and early retirement, with a visible article archive, clear
+    ownership context that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://latestarterfire.com/
+  - https://www.latestarterfire.com/about/
+  scores:
+    editorial_quality: 65
+    trust: 82
+    reach: 47
+    freshness: 45
+    ux: 84
+    impact: 64
+- id: wealthyaccountant-com
+  name: The Wealthy Accountant
+  canonical_url: https://wealthyaccountant.com/
+  country: XX
+  best_for: financial independence and early retirement
+  reason: The Wealthy Accountant concentrates on financial independence and early retirement, with a discoverable feed, a
+    visible article archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://wealthyaccountant.com/
+  - https://www.wealthyaccountant.com/web-stories/feed/
+  - https://www.wealthyaccountant.com/tax-planning/
+  scores:
+    editorial_quality: 74
+    trust: 80
+    reach: 55
+    freshness: 83
+    ux: 84
+    impact: 58
+- id: altindex-com
+  name: Alternative Data for Investing
+  canonical_url: https://altindex.com/
+  country: XX
+  best_for: investing and long-term wealth decisions
+  reason: Alternative Data for Investing concentrates on investing and long-term wealth decisions, with a discoverable feed
+    that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://altindex.com/
+  - https://altindex.com/rss.xml
+  - https://altindex.com/news/walmart-consumer-warning-stock-data
+  scores:
+    editorial_quality: 66
+    trust: 75
+    reach: 88
+    freshness: 89
+    ux: 84
+    impact: 78
+- id: captainfi-com
+  name: Captain FI
+  canonical_url: https://captainfi.com/
+  country: XX
+  best_for: investing and long-term wealth decisions
+  reason: Captain FI concentrates on investing and long-term wealth decisions, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://captainfi.com/
+  - https://captainfi.com/finance-blogs/feed/
+  - https://captainfi.com/about/
+  scores:
+    editorial_quality: 72
+    trust: 89
+    reach: 60
+    freshness: 78
+    ux: 84
+    impact: 57
+- id: theretirementmanifesto-com
+  name: The Retirement Manifesto
+  canonical_url: https://theretirementmanifesto.com/
+  country: XX
+  best_for: financial independence and early retirement
+  reason: The Retirement Manifesto concentrates on financial independence and early retirement, with a discoverable feed,
+    a visible article archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://theretirementmanifesto.com/
+  - https://www.theretirementmanifesto.com/comments/feed/
+  - https://www.theretirementmanifesto.com/about/
+  scores:
+    editorial_quality: 70
+    trust: 75
+    reach: 66
+    freshness: 89
+    ux: 84
+    impact: 67
+- id: screwtheaverage-com
+  name: ScrewTheAverage.com
+  canonical_url: https://screwtheaverage.com/
+  country: XX
+  best_for: financial independence and early retirement
+  reason: ScrewTheAverage.com concentrates on financial independence and early retirement, with a discoverable feed, a visible
+    article archive that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://screwtheaverage.com/
+  - https://www.screwtheaverage.com/blog?format=rss
+  - https://www.screwtheaverage.com/about-us
+  scores:
+    editorial_quality: 70
+    trust: 89
+    reach: 53
+    freshness: 45
+    ux: 84
+    impact: 52
+- id: youngfireknight-com
+  name: Young FIRE Knight
+  canonical_url: https://youngfireknight.com/
+  country: XX
+  best_for: financial independence and early retirement
+  reason: Young FIRE Knight concentrates on financial independence and early retirement, with a discoverable feed, a visible
+    article archive that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://youngfireknight.com/
+  - https://youngfireknight.com/comments/feed/
+  - https://youngfireknight.com/about/
+  scores:
+    editorial_quality: 72
+    trust: 89
+    reach: 45
+    freshness: 45
+    ux: 84
+    impact: 50
+- id: fireaggregator-com
+  name: FIRE Aggregator
+  canonical_url: https://fireaggregator.com/
+  country: XX
+  best_for: financial independence and early retirement
+  reason: FIRE Aggregator concentrates on financial independence and early retirement, with a visible article archive, clear
+    ownership context that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://fireaggregator.com/
+  scores:
+    editorial_quality: 65
+    trust: 62
+    reach: 42
+    freshness: 89
+    ux: 84
+    impact: 49
+- id: apexmoney-com
+  name: Apex Money
+  canonical_url: https://apexmoney.com/
+  country: XX
+  best_for: practical personal-finance decisions
+  reason: Apex Money concentrates on practical personal-finance decisions, with a discoverable feed, a visible article archive
+    that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://apexmoney.com/
+  - https://apexmoney.com/favorite-money-blogs/feed/
+  scores:
+    editorial_quality: 70
+    trust: 62
+    reach: 55
+    freshness: 45
+    ux: 84
+    impact: 74
+- id: debtfreelab-com
+  name: Debtfreelab
+  canonical_url: https://debtfreelab.com/
+  country: XX
+  best_for: debt, credit, and financial recovery
+  reason: Debtfreelab concentrates on debt, credit, and financial recovery, with a discoverable feed, clear ownership context
+    that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://debtfreelab.com/
+  - https://debtfreelab.com/single-post/4-crucial-mindset-strategies-to-become-debt-free/feed/
+  - https://debtfreelab.com/about/
+  scores:
+    editorial_quality: 68
+    trust: 68
+    reach: 44
+    freshness: 45
+    ux: 84
+    impact: 59
+- id: practicalfire-com
+  name: Practical Fire
+  canonical_url: https://practicalfire.com/
+  country: XX
+  best_for: financial independence and early retirement
+  reason: Practical Fire concentrates on financial independence and early retirement, with a visible article archive, clear
+    ownership context that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://practicalfire.com/
+  - https://practicalfire.com/about/
+  scores:
+    editorial_quality: 65
+    trust: 75
+    reach: 42
+    freshness: 45
+    ux: 84
+    impact: 49
+- id: jackiebeck-com
+  name: JackieBeck.com
+  canonical_url: https://jackiebeck.com/
+  country: XX
+  best_for: debt, credit, and financial recovery
+  reason: JackieBeck.com concentrates on debt, credit, and financial recovery, with a discoverable feed, clear ownership context
+    that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://jackiebeck.com/
+  - https://www.jackiebeck.com/12-truths-about-getting-out-of-debt/feed/
+  - https://www.jackiebeck.com/12-truths-about-getting-out-of-debt/#comment-14652
+  scores:
+    editorial_quality: 66
+    trust: 87
+    reach: 67
+    freshness: 45
+    ux: 84
+    impact: 82
+- id: tawcan-com
+  name: Tawcan
+  canonical_url: https://tawcan.com/
+  country: XX
+  best_for: investing and long-term wealth decisions
+  reason: Tawcan concentrates on investing and long-term wealth decisions, with a discoverable feed, a visible article archive
+    that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://tawcan.com/
+  - https://tawcan.com/comments/feed/
+  - https://tawcan.com/about/
+  scores:
+    editorial_quality: 72
+    trust: 87
+    reach: 56
+    freshness: 89
+    ux: 84
+    impact: 76
+- id: taxgirl-com
+  name: Taxgirl | Tax News, IRS Updates, Scams & Financial Crime
+  canonical_url: https://taxgirl.com/
+  country: XX
+  best_for: tax and retirement planning
+  reason: Taxgirl | Tax News, IRS Updates, Scams & Financial Crime concentrates on tax and retirement planning, with a discoverable
+    feed, a visible article archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://taxgirl.com/
+  - https://www.taxgirl.com/feed/
+  - https://www.taxgirl.com/about-taxgirl/
+  scores:
+    editorial_quality: 70
+    trust: 80
+    reach: 66
+    freshness: 89
+    ux: 84
+    impact: 68
+- id: financeaid-net
+  name: My Blog
+  canonical_url: https://financeaid.net/
+  country: XX
+  best_for: investing and long-term wealth decisions
+  reason: My Blog concentrates on investing and long-term wealth decisions, with a discoverable feed, a visible article archive
+    that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://financeaid.net/
+  - https://financeaid.net/comments/feed/
+  - https://financeaid.net/about-us/
+  scores:
+    editorial_quality: 80
+    trust: 87
+    reach: 52
+    freshness: 62
+    ux: 84
+    impact: 54
+- id: investor-fm
+  name: The Intellectual Investor - Value Investing by Vitaliy Katsenelson
+  canonical_url: https://investor.fm/
+  country: XX
+  best_for: investing and long-term wealth decisions
+  reason: The Intellectual Investor - Value Investing by Vitaliy Katsenelson concentrates on investing and long-term wealth
+    decisions, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://investor.fm/
+  - https://investor.fm/feed/
+  - https://investor.fm/about/
+  scores:
+    editorial_quality: 70
+    trust: 89
+    reach: 59
+    freshness: 89
+    ux: 84
+    impact: 80
+- id: jessicamoorhouse-com
+  name: Jessica Moorhouse
+  canonical_url: https://jessicamoorhouse.com/
+  country: XX
+  best_for: practical personal-finance decisions
+  reason: Jessica Moorhouse concentrates on practical personal-finance decisions, with a discoverable feed, clear ownership
+    context that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://jessicamoorhouse.com/
+  - https://jessicamoorhouse.com/comments/feed/
+  - https://jessicamoorhouse.com/about
+  scores:
+    editorial_quality: 68
+    trust: 87
+    reach: 60
+    freshness: 88
+    ux: 84
+    impact: 72
+- id: christianpf-com
+  name: 'SeedTime: Financial Freedom for Eternal Impact'
+  canonical_url: https://christianpf.com/
+  country: XX
+  best_for: practical personal-finance decisions
+  reason: 'SeedTime: Financial Freedom for Eternal Impact concentrates on practical personal-finance decisions, with a discoverable
+    feed, a visible article archive that makes its current publishing work easier to evaluate.'
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://christianpf.com/
+  - https://seedtime.com/comments/feed/
+  - https://seedtime.com/about/
+  scores:
+    editorial_quality: 72
+    trust: 87
+    reach: 51
+    freshness: 89
+    ux: 84
+    impact: 78
+- id: myownadvisor-ca
+  name: My Own Advisor
+  canonical_url: https://myownadvisor.ca/
+  country: CA
+  best_for: investing and long-term wealth decisions
+  reason: My Own Advisor concentrates on investing and long-term wealth decisions, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://myownadvisor.ca/
+  - https://www.myownadvisor.ca/comments/feed/
+  scores:
+    editorial_quality: 70
+    trust: 74
+    reach: 58
+    freshness: 89
+    ux: 84
+    impact: 77
+- id: ruleoneinvesting-com
+  name: 'Rule #1 Investing'
+  canonical_url: https://ruleoneinvesting.com/
+  country: XX
+  best_for: investing and long-term wealth decisions
+  reason: 'Rule #1 Investing concentrates on investing and long-term wealth decisions, with clear ownership context that makes
+    its current publishing work easier to evaluate.'
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://ruleoneinvesting.com/
+  - https://ruleoneinvesting.com/#meet-our-experts
+  scores:
+    editorial_quality: 63
+    trust: 87
+    reach: 71
+    freshness: 58
+    ux: 84
+    impact: 64
+- id: refind-com
+  name: Refind
+  canonical_url: https://refind.com/
+  country: XX
+  best_for: investing and long-term wealth decisions
+  reason: Refind concentrates on investing and long-term wealth decisions, with clear ownership context that makes its current
+    publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://refind.com/
+  - https://refind.com/about
+  scores:
+    editorial_quality: 63
+    trust: 80
+    reach: 82
+    freshness: 62
+    ux: 84
+    impact: 82
+- id: guidancefs-com-au
+  name: Guidance Financial Services
+  canonical_url: https://guidancefs.com.au/
+  country: AU
+  best_for: investing and long-term wealth decisions
+  reason: Guidance Financial Services concentrates on investing and long-term wealth decisions, with a visible article archive,
+    clear ownership context that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://guidancefs.com.au/
+  - https://www.guidancefs.com.au/blog?format=rss
+  - https://www.guidancefs.com.au/about-us
+  scores:
+    editorial_quality: 71
+    trust: 87
+    reach: 46
+    freshness: 89
+    ux: 76
+    impact: 61
+- id: investmentzen-com
+  name: InvestmentZen
+  canonical_url: https://investmentzen.com/
+  country: XX
+  best_for: investing and long-term wealth decisions
+  reason: InvestmentZen concentrates on investing and long-term wealth decisions, with a discoverable feed, named authorship
+    that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://investmentzen.com/
+  - https://www.investmentzen.com/blog/home/feed
+  - https://investmentzen.com/about
+  scores:
+    editorial_quality: 70
+    trust: 89
+    reach: 73
+    freshness: 45
+    ux: 84
+    impact: 63
+- id: investmentmoats-com
+  name: Investment Moats
+  canonical_url: https://investmentmoats.com/
+  country: XX
+  best_for: investing and long-term wealth decisions
+  reason: Investment Moats concentrates on investing and long-term wealth decisions, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://investmentmoats.com/
+  - https://investmentmoats.com/comments/feed/
+  - https://investmentmoats.com/about/
+  scores:
+    editorial_quality: 72
+    trust: 75
+    reach: 64
+    freshness: 89
+    ux: 84
+    impact: 88
+- id: fitaxguy-com
+  name: The FI Tax Guy
+  canonical_url: https://fitaxguy.com/
+  country: XX
+  best_for: financial independence and early retirement
+  reason: The FI Tax Guy concentrates on financial independence and early retirement, with a discoverable feed, a visible
+    article archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://fitaxguy.com/
+  - https://fitaxguy.com/comments/feed/
+  - https://fitaxguy.com/about-me/
+  scores:
+    editorial_quality: 70
+    trust: 82
+    reach: 62
+    freshness: 88
+    ux: 84
+    impact: 56
+- id: obliviousinvestor-com
+  name: Oblivious Investor
+  canonical_url: https://obliviousinvestor.com/
+  country: XX
+  best_for: investing and long-term wealth decisions
+  reason: Oblivious Investor concentrates on investing and long-term wealth decisions, with a discoverable feed, clear ownership
+    context that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://obliviousinvestor.com/
+  - https://obliviousinvestor.com/comments/feed/
+  - https://obliviousinvestor.com/about/
+  scores:
+    editorial_quality: 66
+    trust: 82
+    reach: 77
+    freshness: 45
+    ux: 84
+    impact: 79
+- id: wealthpilgrim-com
+  name: Wealth Pilgrim
+  canonical_url: https://wealthpilgrim.com/
+  country: XX
+  best_for: practical personal-finance decisions
+  reason: Wealth Pilgrim concentrates on practical personal-finance decisions, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://wealthpilgrim.com/
+  - https://wealthpilgrim.com/comments/feed/
+  - https://wealthpilgrim.com/from-homeless-to-homeowner-how-i-did-it/
+  scores:
+    editorial_quality: 78
+    trust: 68
+    reach: 47
+    freshness: 45
+    ux: 84
+    impact: 73
+- id: sweetmoneybee-com
+  name: Sweet Money Bee
+  canonical_url: https://sweetmoneybee.com/
+  country: XX
+  best_for: budgeting, saving, and practical money habits
+  reason: Sweet Money Bee concentrates on budgeting, saving, and practical money habits, with a discoverable feed, a visible
+    article archive that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://sweetmoneybee.com/
+  - https://sweetmoneybee.com/comments/feed/
+  - https://sweetmoneybee.com/about-me/
+  scores:
+    editorial_quality: 72
+    trust: 68
+    reach: 63
+    freshness: 45
+    ux: 84
+    impact: 58
+- id: vitaldollar-com
+  name: Vital Dollar
+  canonical_url: https://vitaldollar.com/
+  country: XX
+  best_for: investing and long-term wealth decisions
+  reason: Vital Dollar concentrates on investing and long-term wealth decisions, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://vitaldollar.com/
+  - https://vitaldollar.com/personal-finance-blogs-to-follow/feed/
+  - https://vitaldollar.com/about/
+  scores:
+    editorial_quality: 72
+    trust: 89
+    reach: 69
+    freshness: 45
+    ux: 84
+    impact: 63
+- id: choosefi-com
+  name: ChooseFI
+  canonical_url: https://choosefi.com/
+  country: XX
+  best_for: investing and long-term wealth decisions
+  reason: ChooseFI concentrates on investing and long-term wealth decisions, with a visible article archive, clear ownership
+    context that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://choosefi.com/
+  - https://choosefi.com/about
+  scores:
+    editorial_quality: 73
+    trust: 87
+    reach: 84
+    freshness: 89
+    ux: 84
+    impact: 75
+- id: 20somethingfinance-com
+  name: 20somethingfinance.com
+  canonical_url: https://20somethingfinance.com/
+  country: XX
+  best_for: practical personal-finance decisions
+  reason: 20somethingfinance.com concentrates on practical personal-finance decisions, with a discoverable feed, a visible
+    article archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://20somethingfinance.com/
+  - https://20somethingfinance.com/comments/feed/
+  - https://20somethingfinance.com/about/
+  scores:
+    editorial_quality: 72
+    trust: 87
+    reach: 80
+    freshness: 88
+    ux: 84
+    impact: 81
+- id: moneythumb-com
+  name: MoneyThumb
+  canonical_url: https://moneythumb.com/
+  country: XX
+  best_for: financial independence and early retirement
+  reason: MoneyThumb concentrates on financial independence and early retirement, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://moneythumb.com/
+  - https://www.moneythumb.com/comments/feed/
+  - https://www.moneythumb.com/about-us/
+  scores:
+    editorial_quality: 72
+    trust: 89
+    reach: 65
+    freshness: 78
+    ux: 84
+    impact: 63
+- id: startamomblog-com
+  name: Start a Mom Blog
+  canonical_url: https://startamomblog.com/
+  country: XX
+  best_for: financial independence and early retirement
+  reason: Start a Mom Blog concentrates on financial independence and early retirement, with a discoverable feed, a visible
+    article archive that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://startamomblog.com/
+  - https://startamomblog.com/teacher-blogs/feed/
+  - https://startamomblog.com/who-is-suzi-whitford/
+  scores:
+    editorial_quality: 74
+    trust: 73
+    reach: 71
+    freshness: 45
+    ux: 84
+    impact: 68
+- id: milliondollarjourney-com
+  name: Million Dollar Journey
+  canonical_url: https://milliondollarjourney.com/
+  country: XX
+  best_for: investing and long-term wealth decisions
+  reason: Million Dollar Journey concentrates on investing and long-term wealth decisions, with a discoverable feed, a visible
+    article archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://milliondollarjourney.com/
+  - https://milliondollarjourney.com/comments/feed
+  - https://milliondollarjourney.com/about
+  scores:
+    editorial_quality: 74
+    trust: 89
+    reach: 70
+    freshness: 89
+    ux: 84
+    impact: 78
+- id: mystocksinvesting-com
+  name: My Stocks Investing
+  canonical_url: https://mystocksinvesting.com/
+  country: XX
+  best_for: investing and long-term wealth decisions
+  reason: My Stocks Investing concentrates on investing and long-term wealth decisions, with a discoverable feed, a visible
+    article archive that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://mystocksinvesting.com/
+  - https://mystocksinvesting.com/comments/feed/
+  - https://mystocksinvesting.com/about/
+  scores:
+    editorial_quality: 72
+    trust: 73
+    reach: 56
+    freshness: 45
+    ux: 84
+    impact: 73
+- id: ignitespot-com
+  name: Outsourced Accounting, Bookkeeping, and CFO Services
+  canonical_url: https://ignitespot.com/
+  country: XX
+  best_for: tax and retirement planning
+  reason: Outsourced Accounting, Bookkeeping, and CFO Services concentrates on tax and retirement planning, with clear ownership
+    context that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://ignitespot.com/
+  - https://www.ignitespot.com/about-us
+  scores:
+    editorial_quality: 61
+    trust: 75
+    reach: 72
+    freshness: 58
+    ux: 84
+    impact: 69
+- id: moneyning-com
+  name: MoneyNing
+  canonical_url: https://moneyning.com/
+  country: XX
+  best_for: investing and long-term wealth decisions
+  reason: MoneyNing concentrates on investing and long-term wealth decisions, with a discoverable feed, clear ownership context
+    that makes its current publishing work easier to evaluate.
+  limitation: Authorship and editorial-policy information is less visible than on higher-ranked publications.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://moneyning.com/
+  - https://feeds.feedburner.com/MoneyNing
+  - https://moneyning.com/about/
+  scores:
+    editorial_quality: 74
+    trust: 73
+    reach: 74
+    freshness: 89
+    ux: 84
+    impact: 82
+- id: thepersonalfinancepodcast-com
+  name: The Personal Finance Podcast
+  canonical_url: https://thepersonalfinancepodcast.com/
+  country: XX
+  best_for: investing and long-term wealth decisions
+  reason: The Personal Finance Podcast concentrates on investing and long-term wealth decisions, with a discoverable feed,
+    clear ownership context that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://thepersonalfinancepodcast.com/
+  - https://feeds.megaphone.fm/LLL5449685314
+  - https://www.thepersonalfinancepodcast.com/about/
+  scores:
+    editorial_quality: 70
+    trust: 80
+    reach: 77
+    freshness: 89
+    ux: 84
+    impact: 60
+- id: esimoney-com
+  name: ESI Money
+  canonical_url: https://esimoney.com/
+  country: XX
+  best_for: practical personal-finance decisions
+  reason: ESI Money concentrates on practical personal-finance decisions, with a discoverable feed, a visible article archive
+    that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://esimoney.com/
+  - https://esimoney.com/comments/feed/
+  - https://esimoney.com/about/
+  scores:
+    editorial_quality: 72
+    trust: 87
+    reach: 64
+    freshness: 89
+    ux: 84
+    impact: 73
+- id: letsreachsuccess-com
+  name: Let's Reach Success
+  canonical_url: https://letsreachsuccess.com/
+  country: XX
+  best_for: practical personal-finance decisions
+  reason: Let's Reach Success concentrates on practical personal-finance decisions, with a visible article archive, clear
+    ownership context that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://letsreachsuccess.com/
+  - https://letsreachsuccess.com/about/
+  scores:
+    editorial_quality: 67
+    trust: 87
+    reach: 74
+    freshness: 62
+    ux: 84
+    impact: 68
+- id: creditcanada-com
+  name: Non-Profit Debt Consolidation & Credit Counselling
+  canonical_url: https://creditcanada.com/
+  country: XX
+  best_for: debt, credit, and financial recovery
+  reason: Non-Profit Debt Consolidation & Credit Counselling concentrates on debt, credit, and financial recovery, with a
+    clearly defined editorial focus that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://creditcanada.com/
+  - https://www.creditcanada.com/who-we-are
+  scores:
+    editorial_quality: 65
+    trust: 80
+    reach: 72
+    freshness: 62
+    ux: 84
+    impact: 72
+- id: twinsmommy-com
+  name: Twins Mommy
+  canonical_url: https://twinsmommy.com/
+  country: XX
+  best_for: practical personal-finance decisions
+  reason: Twins Mommy concentrates on practical personal-finance decisions, with clear ownership context that makes its current
+    publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://twinsmommy.com/
+  - https://twinsmommy.com/about/
+  scores:
+    editorial_quality: 61
+    trust: 87
+    reach: 76
+    freshness: 45
+    ux: 84
+    impact: 68
+- id: stylehills-com
+  name: Stylehills
+  canonical_url: https://stylehills.com/
+  country: XX
+  best_for: investing and long-term wealth decisions
+  reason: Stylehills concentrates on investing and long-term wealth decisions, with a discoverable feed, clear ownership context
+    that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://stylehills.com/
+  - https://stylehills.com/comments/feed/
+  - https://stylehills.com/about/
+  scores:
+    editorial_quality: 70
+    trust: 80
+    reach: 53
+    freshness: 45
+    ux: 84
+    impact: 50
+- id: occaminvesting-co-uk
+  name: Occam Investing
+  canonical_url: https://occaminvesting.co.uk/
+  country: GB
+  best_for: investing and long-term wealth decisions
+  reason: Occam Investing concentrates on investing and long-term wealth decisions, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://occaminvesting.co.uk/
+  - https://occaminvesting.co.uk/comments/feed/
+  - https://occaminvesting.co.uk/about/
+  scores:
+    editorial_quality: 68
+    trust: 80
+    reach: 58
+    freshness: 45
+    ux: 84
+    impact: 55
+- id: fdic-gov
+  name: 'FDIC: Federal Deposit Insurance Corporation Follow the FDIC on X'
+  canonical_url: https://fdic.gov/
+  country: XX
+  best_for: practical personal-finance decisions
+  reason: 'FDIC: Federal Deposit Insurance Corporation Follow the FDIC on X concentrates on practical personal-finance decisions,
+    with a visible article archive, clear ownership context that makes its current publishing work easier to evaluate.'
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://fdic.gov/
+  - https://www.fdic.gov/about
+  scores:
+    editorial_quality: 65
+    trust: 82
+    reach: 89
+    freshness: 66
+    ux: 84
+    impact: 89
+- id: financialindependencecampaign-blog
+  name: Financial Independence Campaign
+  canonical_url: https://financialindependencecampaign.blog/
+  country: XX
+  best_for: financial independence and early retirement
+  reason: Financial Independence Campaign concentrates on financial independence and early retirement, with a discoverable
+    feed, a visible article archive that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://financialindependencecampaign.blog/
+  - https://financialindependencecampaign.blog/comments/feed/
+  - https://financialindependencecampaign.blog/about-fire/
+  scores:
+    editorial_quality: 68
+    trust: 75
+    reach: 42
+    freshness: 45
+    ux: 84
+    impact: 48
+- id: moneywithkatie-substack-com
+  name: Money with Katie
+  canonical_url: https://moneywithkatie.substack.com/
+  country: XX
+  best_for: practical personal-finance decisions
+  reason: Money with Katie concentrates on practical personal-finance decisions, with a discoverable feed that makes its current
+    publishing work easier to evaluate.
+  limitation: Authorship and editorial-policy information is less visible than on higher-ranked publications.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://moneywithkatie.substack.com/
+  - https://moneywithkatie.substack.com/feed
+  scores:
+    editorial_quality: 68
+    trust: 57
+    reach: 45
+    freshness: 89
+    ux: 84
+    impact: 59
+- id: investingforretirement-beehiiv-com
+  name: Investing for Retirement Newsletter
+  canonical_url: https://investingforretirement.beehiiv.com/
+  country: XX
+  best_for: investing and long-term wealth decisions
+  reason: Investing for Retirement Newsletter concentrates on investing and long-term wealth decisions, with a clearly defined
+    editorial focus that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://investingforretirement.beehiiv.com/
+  scores:
+    editorial_quality: 63
+    trust: 50
+    reach: 39
+    freshness: 58
+    ux: 84
+    impact: 56
+- id: moneywithkatie-com
+  name: Moneywithkatie
+  canonical_url: https://moneywithkatie.com/
+  country: XX
+  best_for: financial independence and early retirement
+  reason: Moneywithkatie concentrates on financial independence and early retirement, with clear ownership context that makes
+    its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://moneywithkatie.com/
+  - https://moneywithkatie.com/comments/feed/
+  - https://moneywithkatie.com/about
+  scores:
+    editorial_quality: 67
+    trust: 77
+    reach: 79
+    freshness: 62
+    ux: 84
+    impact: 74
+- id: ramseysolutions-com
+  name: Ramsey Solutions
+  canonical_url: https://ramseysolutions.com/
+  country: XX
+  best_for: debt, credit, and financial recovery
+  reason: Ramsey Solutions concentrates on debt, credit, and financial recovery, with a visible article archive, clear ownership
+    context that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://ramseysolutions.com/
+  - https://www.ramseysolutions.com/debt/the-truth-about-car-payments
+  scores:
+    editorial_quality: 69
+    trust: 70
+    reach: 89
+    freshness: 66
+    ux: 84
+    impact: 84
+- id: spaceship-com-au
+  name: Spaceship
+  canonical_url: https://spaceship.com.au/
+  country: AU
+  best_for: investing and long-term wealth decisions
+  reason: Spaceship concentrates on investing and long-term wealth decisions, with a discoverable feed, clear ownership context
+    that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://spaceship.com.au/
+  - https://www.spaceship.com.au:443/learn/rss.xml
+  - https://www.spaceship.com.au:443/about/
+  scores:
+    editorial_quality: 70
+    trust: 70
+    reach: 74
+    freshness: 89
+    ux: 84
+    impact: 62
+- id: dollarsanity-com
+  name: Dollarsanity
+  canonical_url: https://dollarsanity.com/
+  country: XX
+  best_for: investing and long-term wealth decisions
+  reason: Dollarsanity concentrates on investing and long-term wealth decisions, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://dollarsanity.com/
+  - https://dollarsanity.com/comments/feed/
+  scores:
+    editorial_quality: 72
+    trust: 76
+    reach: 80
+    freshness: 78
+    ux: 84
+    impact: 75
+- id: wallstreetzen-com
+  name: Stock market analysis for the serious part-time investor
+  canonical_url: https://wallstreetzen.com/
+  country: XX
+  best_for: investing and long-term wealth decisions
+  reason: Stock market analysis for the serious part-time investor concentrates on investing and long-term wealth decisions,
+    with clear ownership context that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://wallstreetzen.com/
+  - https://www.wallstreetzen.com/about
+  scores:
+    editorial_quality: 63
+    trust: 77
+    reach: 89
+    freshness: 58
+    ux: 84
+    impact: 85
+- id: financialfreedomcountdown-com
+  name: Financial Freedom Countdown
+  canonical_url: https://financialfreedomcountdown.com/
+  country: XX
+  best_for: practical personal-finance decisions
+  reason: Financial Freedom Countdown concentrates on practical personal-finance decisions, with a discoverable feed, a visible
+    article archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://financialfreedomcountdown.com/
+  - https://financialfreedomcountdown.com/web-stories/feed/
+  - https://financialfreedomcountdown.com/about/
+  scores:
+    editorial_quality: 70
+    trust: 77
+    reach: 69
+    freshness: 78
+    ux: 84
+    impact: 86
+- id: quietlysaving-co-uk
+  name: Quietly Saving
+  canonical_url: https://quietlysaving.co.uk/
+  country: GB
+  best_for: investing and long-term wealth decisions
+  reason: Quietly Saving concentrates on investing and long-term wealth decisions, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://quietlysaving.co.uk/
+  - https://quietlysaving.co.uk/comments/feed/
+  - https://quietlysaving.co.uk/about-me/
+  scores:
+    editorial_quality: 72
+    trust: 77
+    reach: 48
+    freshness: 89
+    ux: 84
+    impact: 62
+- id: philrosen-blog
+  name: Phil Rosen's Blog
+  canonical_url: https://philrosen.blog/
+  country: XX
+  best_for: investing and long-term wealth decisions
+  reason: Phil Rosen's Blog concentrates on investing and long-term wealth decisions, with a discoverable feed that makes
+    its current publishing work easier to evaluate.
+  limitation: Authorship and editorial-policy information is less visible than on higher-ranked publications.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://philrosen.blog/
+  - https://www.philrosen.blog/feed
+  scores:
+    editorial_quality: 68
+    trust: 57
+    reach: 70
+    freshness: 88
+    ux: 84
+    impact: 64
+- id: inboxreads-co
+  name: InboxReads
+  canonical_url: https://inboxreads.co/
+  country: XX
+  best_for: practical personal-finance decisions
+  reason: InboxReads concentrates on practical personal-finance decisions, with a visible article archive, clear ownership
+    context that makes its current publishing work easier to evaluate.
+  limitation: Some complete material may require registration, membership, or a paid subscription.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://inboxreads.co/
+  - https://inboxreads.co/changelog/message-multiple-newsletters-at-once
+  scores:
+    editorial_quality: 65
+    trust: 70
+    reach: 77
+    freshness: 66
+    ux: 84
+    impact: 67
+- id: mailbrew-com
+  name: Mailbrew
+  canonical_url: https://mailbrew.com/
+  country: XX
+  best_for: debt, credit, and financial recovery
+  reason: Mailbrew concentrates on debt, credit, and financial recovery, with a discoverable feed that makes its current publishing
+    work easier to evaluate.
+  limitation: Authorship and editorial-policy information is less visible than on higher-ranked publications.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://mailbrew.com/
+  - https://mailbrew.com/rss.xml
+  scores:
+    editorial_quality: 72
+    trust: 50
+    reach: 66
+    freshness: 70
+    ux: 84
+    impact: 72
+- id: moneyletter-com
+  name: MoneyLetter
+  canonical_url: https://moneyletter.com/
+  country: XX
+  best_for: practical personal-finance decisions
+  reason: MoneyLetter concentrates on practical personal-finance decisions, with a discoverable feed, a visible article archive
+    that makes its current publishing work easier to evaluate.
+  limitation: Authorship and editorial-policy information is less visible than on higher-ranked publications.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://moneyletter.com/
+  - https://moneyletter.com/comments/feed/
+  scores:
+    editorial_quality: 72
+    trust: 50
+    reach: 63
+    freshness: 89
+    ux: 84
+    impact: 57
+- id: aussiefirebug-com
+  name: Aussie Firebug
+  canonical_url: https://aussiefirebug.com/
+  country: XX
+  best_for: investing and long-term wealth decisions
+  reason: Aussie Firebug concentrates on investing and long-term wealth decisions, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://aussiefirebug.com/
+  - https://www.aussiefirebug.com/australia-fire-survey-results-2020/feed/
+  - https://www.aussiefirebug.com/about/
+  scores:
+    editorial_quality: 74
+    trust: 77
+    reach: 59
+    freshness: 45
+    ux: 84
+    impact: 72
+- id: thefioneers-com
+  name: The Fioneers
+  canonical_url: https://thefioneers.com/
+  country: XX
+  best_for: financial independence and early retirement
+  reason: The Fioneers concentrates on financial independence and early retirement, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://thefioneers.com/
+  - https://thefioneers.com/comments/feed/
+  - https://thefioneers.com/about/
+  scores:
+    editorial_quality: 70
+    trust: 77
+    reach: 64
+    freshness: 62
+    ux: 84
+    impact: 68
+- id: hulbertratings-com
+  name: From Mark Hulbert and Hulbert Financial Digest
+  canonical_url: https://hulbertratings.com/
+  country: XX
+  best_for: practical personal-finance decisions
+  reason: From Mark Hulbert and Hulbert Financial Digest concentrates on practical personal-finance decisions, with a discoverable
+    feed, clear ownership context that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://hulbertratings.com/
+  - https://hulbertratings.com/feed/
+  - https://hulbertratings.com/about/
+  scores:
+    editorial_quality: 66
+    trust: 70
+    reach: 64
+    freshness: 70
+    ux: 84
+    impact: 65
+- id: thenationalnews-com
+  name: The National
+  canonical_url: https://thenationalnews.com/
+  country: XX
+  best_for: financial independence and early retirement
+  reason: The National concentrates on financial independence and early retirement, with a visible article archive, named
+    authorship that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://thenationalnews.com/
+  - https://www.thenationalnews.com:443/about-us/
+  scores:
+    editorial_quality: 63
+    trust: 63
+    reach: 89
+    freshness: 45
+    ux: 76
+    impact: 84
+- id: playingwithfire-co
+  name: Playing With FIRE
+  canonical_url: https://playingwithfire.co/
+  country: XX
+  best_for: financial independence and early retirement
+  reason: Playing With FIRE concentrates on financial independence and early retirement, with a clearly defined editorial
+    focus that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://playingwithfire.co/
+  scores:
+    editorial_quality: 63
+    trust: 64
+    reach: 67
+    freshness: 58
+    ux: 84
+    impact: 61
+- id: subs-ft-com
+  name: Subscribe to the Financial Times
+  canonical_url: https://subs.ft.com/
+  country: XX
+  best_for: practical personal-finance decisions
+  reason: Subscribe to the Financial Times concentrates on practical personal-finance decisions, with clear ownership context
+    that makes its current publishing work easier to evaluate.
+  limitation: Some complete material may require registration, membership, or a paid subscription.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://subs.ft.com/
+  scores:
+    editorial_quality: 61
+    trust: 64
+    reach: 76
+    freshness: 58
+    ux: 84
+    impact: 81
+- id: mixedupmoney-com
+  name: Mixed Up Money
+  canonical_url: https://mixedupmoney.com/
+  country: XX
+  best_for: practical personal-finance decisions
+  reason: Mixed Up Money concentrates on practical personal-finance decisions, with clear ownership context that makes its
+    current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://mixedupmoney.com/
+  - https://mixedupmoney.com/about
+  scores:
+    editorial_quality: 63
+    trust: 70
+    reach: 59
+    freshness: 58
+    ux: 84
+    impact: 67
+- id: ourrichjourney-com
+  name: Our Rich Journey
+  canonical_url: https://ourrichjourney.com/
+  country: XX
+  best_for: financial independence and early retirement
+  reason: Our Rich Journey concentrates on financial independence and early retirement, with a discoverable feed, clear ownership
+    context that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://ourrichjourney.com/
+  - https://www.ourrichjourney.com/blog-feed.xml
+  - https://www.ourrichjourney.com/about
+  scores:
+    editorial_quality: 68
+    trust: 77
+    reach: 50
+    freshness: 62
+    ux: 76
+    impact: 66
+- id: snacks-robinhood-com
+  name: Sherwood News
+  canonical_url: https://snacks.robinhood.com/
+  country: XX
+  best_for: practical personal-finance decisions
+  reason: Sherwood News concentrates on practical personal-finance decisions, with a discoverable feed that makes its current
+    publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://snacks.robinhood.com/
+  - https://sherwood.news/rss.xml
+  scores:
+    editorial_quality: 66
+    trust: 64
+    reach: 46
+    freshness: 89
+    ux: 84
+    impact: 68
+- id: thefrugalcottage-com
+  name: The Frugal Cottage
+  canonical_url: https://thefrugalcottage.com/
+  country: XX
+  best_for: financial independence and early retirement
+  reason: The Frugal Cottage concentrates on financial independence and early retirement, with a discoverable feed, a visible
+    article archive that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://thefrugalcottage.com/
+  - https://www.thefrugalcottage.com/10-personal-finance-blogs-you-should-be-reading/feed/
+  - https://www.thefrugalcottage.com/about-me/
+  scores:
+    editorial_quality: 70
+    trust: 77
+    reach: 53
+    freshness: 45
+    ux: 84
+    impact: 61
+- id: twentyfree-co
+  name: lifestyle design + financial independence for twenty-somethings
+  canonical_url: https://twentyfree.co/
+  country: XX
+  best_for: financial independence and early retirement
+  reason: lifestyle design + financial independence for twenty-somethings concentrates on financial independence and early
+    retirement, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://twentyfree.co/
+  - https://www.twentyfree.co/pay-off-debt/feed/
+  - https://www.twentyfree.co/about/
+  scores:
+    editorial_quality: 70
+    trust: 84
+    reach: 51
+    freshness: 45
+    ux: 84
+    impact: 63
+- id: firelifestyle-co-uk
+  name: Financial Independence - Lifestyle
+  canonical_url: https://firelifestyle.co.uk/
+  country: GB
+  best_for: financial independence and early retirement
+  reason: Financial Independence - Lifestyle concentrates on financial independence and early retirement, with a discoverable
+    feed, a visible article archive that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://firelifestyle.co.uk/
+  - https://firelifestyle.co.uk/comments/feed/
+  - https://firelifestyle.co.uk/about-me/
+  scores:
+    editorial_quality: 70
+    trust: 84
+    reach: 42
+    freshness: 45
+    ux: 84
+    impact: 51
+- id: retirehacks-com
+  name: Retirehacks
+  canonical_url: https://retirehacks.com/
+  country: XX
+  best_for: investing and long-term wealth decisions
+  reason: Retirehacks concentrates on investing and long-term wealth decisions, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://retirehacks.com/
+  - https://retirehacks.com/comments/feed/
+  - https://retirehacks.com/#
+  scores:
+    editorial_quality: 72
+    trust: 70
+    reach: 47
+    freshness: 45
+    ux: 84
+    impact: 53
+- id: financially-independent-com
+  name: Financially Independent
+  canonical_url: https://financially-independent.com/
+  country: XX
+  best_for: investing and long-term wealth decisions
+  reason: Financially Independent concentrates on investing and long-term wealth decisions, with a discoverable feed, a visible
+    article archive that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://financially-independent.com/
+  - https://www.financially-independent.com/blog?format=rss
+  - https://www.financially-independent.com/new-page-1
+  scores:
+    editorial_quality: 70
+    trust: 63
+    reach: 50
+    freshness: 45
+    ux: 84
+    impact: 48
+- id: stiftelsenarken-no
+  name: Stiftelsen Arken
+  canonical_url: https://stiftelsenarken.no/
+  country: 'NO'
+  best_for: practical personal-finance decisions
+  reason: Stiftelsen Arken concentrates on practical personal-finance decisions, with a discoverable feed that makes its current
+    publishing work easier to evaluate.
+  limitation: Authorship and editorial-policy information is less visible than on higher-ranked publications.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://stiftelsenarken.no/
+  - https://stiftelsenarken.no/comments/feed/
+  scores:
+    editorial_quality: 64
+    trust: 50
+    reach: 47
+    freshness: 70
+    ux: 84
+    impact: 50
+- id: newsletters-onl
+  name: NewsletterHub
+  canonical_url: https://newsletters.onl/
+  country: XX
+  best_for: practical personal-finance decisions
+  reason: NewsletterHub concentrates on practical personal-finance decisions, with a clearly defined editorial focus that
+    makes its current publishing work easier to evaluate.
+  limitation: Some complete material may require registration, membership, or a paid subscription.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://newsletters.onl/
+  scores:
+    editorial_quality: 59
+    trust: 50
+    reach: 46
+    freshness: 58
+    ux: 84
+    impact: 48
+- id: letterwire-app
+  name: Letterwire
+  canonical_url: https://letterwire.app/
+  country: XX
+  best_for: practical personal-finance decisions
+  reason: Letterwire concentrates on practical personal-finance decisions, with a clearly defined editorial focus that makes
+    its current publishing work easier to evaluate.
+  limitation: Some complete material may require registration, membership, or a paid subscription.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://letterwire.app/
+  scores:
+    editorial_quality: 59
+    trust: 50
+    reach: 41
+    freshness: 58
+    ux: 84
+    impact: 48
+- id: wallethacks-com
+  name: Best Wallet Hacks
+  canonical_url: https://wallethacks.com/
+  country: XX
+  best_for: financial independence and early retirement
+  reason: Best Wallet Hacks concentrates on financial independence and early retirement, with a discoverable feed, a visible
+    article archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://wallethacks.com/
+  - https://wallethacks.com/feed/smartnews-article-wallethacks
+  - https://wallethacks.com/about-jim/
+  scores:
+    editorial_quality: 72
+    trust: 89
+    reach: 88
+    freshness: 89
+    ux: 84
+    impact: 77
+- id: snippet-finance
+  name: Snippet Finance
+  canonical_url: https://snippet.finance/
+  country: XX
+  best_for: investing and long-term wealth decisions
+  reason: Snippet Finance concentrates on investing and long-term wealth decisions, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://snippet.finance/
+  - https://snippet.finance/comments/feed/
+  - https://snippet.finance/about/
+  scores:
+    editorial_quality: 70
+    trust: 75
+    reach: 47
+    freshness: 78
+    ux: 84
+    impact: 54
+- id: foureyesfinance-com
+  name: Foureyesfinance
+  canonical_url: https://foureyesfinance.com/
+  country: XX
+  best_for: investing and long-term wealth decisions
+  reason: Foureyesfinance concentrates on investing and long-term wealth decisions, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: Authorship and editorial-policy information is less visible than on higher-ranked publications.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://foureyesfinance.com/
+  - https://foureyesfinance.com/comments/feed/
+  scores:
+    editorial_quality: 74
+    trust: 62
+    reach: 42
+    freshness: 75
+    ux: 76
+    impact: 48
+- id: apurplelife-com
+  name: A Purple Life
+  canonical_url: https://apurplelife.com/
+  country: XX
+  best_for: financial independence and early retirement
+  reason: A Purple Life concentrates on financial independence and early retirement, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://apurplelife.com/
+  - https://apurplelife.com/comments/feed/
+  scores:
+    editorial_quality: 72
+    trust: 64
+    reach: 73
+    freshness: 78
+    ux: 84
+    impact: 75
+- id: moneybliss-org
+  name: Money Bliss
+  canonical_url: https://moneybliss.org/
+  country: XX
+  best_for: budgeting, saving, and practical money habits
+  reason: Money Bliss concentrates on budgeting, saving, and practical money habits, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://moneybliss.org/
+  - https://moneybliss.org/comments/feed/
+  scores:
+    editorial_quality: 76
+    trust: 83
+    reach: 78
+    freshness: 78
+    ux: 84
+    impact: 78
+- id: savingk-com
+  name: SavingK
+  canonical_url: https://savingk.com/
+  country: XX
+  best_for: budgeting, saving, and practical money habits
+  reason: SavingK concentrates on budgeting, saving, and practical money habits, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://savingk.com/
+  - https://savingk.com/comments/feed/
+  scores:
+    editorial_quality: 76
+    trust: 83
+    reach: 74
+    freshness: 78
+    ux: 84
+    impact: 69
+- id: wallstreetsurvivor-com
+  name: Wall Street Survivor
+  canonical_url: https://wallstreetsurvivor.com/
+  country: XX
+  best_for: investing and long-term wealth decisions
+  reason: Wall Street Survivor concentrates on investing and long-term wealth decisions, with a discoverable feed, a visible
+    article archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://wallstreetsurvivor.com/
+  - https://www.wallstreetsurvivor.com/comments/feed/
+  scores:
+    editorial_quality: 72
+    trust: 76
+    reach: 86
+    freshness: 78
+    ux: 84
+    impact: 77

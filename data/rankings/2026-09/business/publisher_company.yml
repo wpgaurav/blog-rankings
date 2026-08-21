@@ -1,0 +1,2078 @@
+schema_version: 1
+edition: 2026-09
+published_at: '2026-08-21T12:00:00Z'
+status: final
+category: business
+track: publisher_company
+entries:
+- id: entrepreneur-com
+  name: Entrepreneur
+  canonical_url: https://entrepreneur.com/
+  country: XX
+  best_for: leadership, management, and organizational work
+  reason: Entrepreneur concentrates on leadership, management, and organizational work, with a visible article archive, named
+    authorship that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://entrepreneur.com/
+  - https://www.entrepreneur.com/topic/team-building
+  scores:
+    editorial_quality: 98
+    trust: 97
+    reach: 96
+    freshness: 97
+    ux: 96
+    impact: 97
+- id: businessinsider-com
+  name: Business Insider
+  canonical_url: https://businessinsider.com/
+  country: XX
+  best_for: startups, founders, and company building
+  reason: Business Insider concentrates on startups, founders, and company building, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://businessinsider.com/
+  - https://feeds.businessinsider.com/custom/all
+  - https://www.businessinsider.com/about-us
+  scores:
+    editorial_quality: 99
+    trust: 98
+    reach: 97
+    freshness: 98
+    ux: 97
+    impact: 98
+- id: techcrunch-com
+  name: TechCrunch
+  canonical_url: https://techcrunch.com/
+  country: XX
+  best_for: startups, founders, and company building
+  reason: TechCrunch concentrates on startups, founders, and company building, with a discoverable feed, named authorship
+    that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://techcrunch.com/
+  - https://techcrunch.com/feed/
+  - https://techcrunch.com/about-techcrunch/
+  scores:
+    editorial_quality: 94
+    trust: 93
+    reach: 92
+    freshness: 93
+    ux: 92
+    impact: 93
+- id: forbes-com
+  name: Forbes
+  canonical_url: https://forbes.com/
+  country: XX
+  best_for: leadership, management, and organizational work
+  reason: Forbes concentrates on leadership, management, and organizational work, with named authorship that makes its current
+    publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://forbes.com/
+  - https://www.forbes.com/entrepreneurs/feed/
+  scores:
+    editorial_quality: 93
+    trust: 92
+    reach: 91
+    freshness: 92
+    ux: 91
+    impact: 92
+- id: startupnation-com
+  name: StartupNation
+  canonical_url: https://startupnation.com/
+  country: XX
+  best_for: startups, founders, and company building
+  reason: StartupNation concentrates on startups, founders, and company building, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://startupnation.com/
+  - https://startupnation.com/comments/feed/
+  - https://startupnation.com/about-us/
+  scores:
+    editorial_quality: 91
+    trust: 90
+    reach: 89
+    freshness: 90
+    ux: 89
+    impact: 90
+- id: allbusiness-com
+  name: AllBusiness.com
+  canonical_url: https://allbusiness.com/
+  country: XX
+  best_for: startups, founders, and company building
+  reason: AllBusiness.com concentrates on startups, founders, and company building, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://allbusiness.com/
+  - https://www.allbusiness.com/feeds/feed.rss
+  - https://www.allbusiness.com/why-paranoia-about-ai-is-healthy-for-business-owners
+  scores:
+    editorial_quality: 90
+    trust: 89
+    reach: 88
+    freshness: 89
+    ux: 88
+    impact: 89
+- id: sloanreview-mit-edu
+  name: MIT Sloan Management Review
+  canonical_url: https://sloanreview.mit.edu/
+  country: XX
+  best_for: leadership, management, and organizational work
+  reason: MIT Sloan Management Review concentrates on leadership, management, and organizational work, with a discoverable
+    feed, a visible article archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://sloanreview.mit.edu/
+  - https://sloanreview.mit.edu/a-landing-page-home/feed/
+  - https://sloanreview.mit.edu/article/what-ceos-need-to-know-about-sovereign-ai/
+  scores:
+    editorial_quality: 92
+    trust: 91
+    reach: 90
+    freshness: 91
+    ux: 90
+    impact: 91
+- id: hbr-org
+  name: Harvard Business Review
+  canonical_url: https://hbr.org/
+  country: XX
+  best_for: leadership, management, and organizational work
+  reason: Harvard Business Review concentrates on leadership, management, and organizational work, with a visible article
+    archive, named authorship that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://hbr.org/
+  scores:
+    editorial_quality: 97
+    trust: 96
+    reach: 95
+    freshness: 96
+    ux: 95
+    impact: 96
+- id: smallbiztrends-com
+  name: Small Business Trends
+  canonical_url: https://smallbiztrends.com/
+  country: XX
+  best_for: small-business and entrepreneurial practice
+  reason: Small Business Trends concentrates on small-business and entrepreneurial practice, with a discoverable feed, a visible
+    article archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://smallbiztrends.com/
+  - https://smallbiztrends.com/feed/
+  - https://smallbiztrends.com/hubspots-new-agent-cli-transforms-operations-boosts-team-efficiency/
+  scores:
+    editorial_quality: 96
+    trust: 95
+    reach: 94
+    freshness: 95
+    ux: 94
+    impact: 95
+- id: review-firstround-com
+  name: First Round
+  canonical_url: https://review.firstround.com/
+  country: XX
+  best_for: startups, founders, and company building
+  reason: First Round concentrates on startups, founders, and company building, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://review.firstround.com/
+  - https://review.firstround.com/glossary/rss/
+  - https://review.firstround.com/firsthand-lovable/
+  scores:
+    editorial_quality: 95
+    trust: 94
+    reach: 93
+    freshness: 94
+    ux: 93
+    impact: 94
+- id: alumni-hbs-edu
+  name: Harvard Business School
+  canonical_url: https://alumni.hbs.edu/
+  country: XX
+  best_for: business building and entrepreneurial judgment
+  reason: Harvard Business School concentrates on business building and entrepreneurial judgment, with named authorship, clear
+    ownership context that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://alumni.hbs.edu/
+  scores:
+    editorial_quality: 61
+    trust: 76
+    reach: 46
+    freshness: 58
+    ux: 84
+    impact: 57
+- id: library-hbs-edu
+  name: Harvard Business School
+  canonical_url: https://library.hbs.edu/
+  country: XX
+  best_for: business building and entrepreneurial judgment
+  reason: Harvard Business School concentrates on business building and entrepreneurial judgment, with named authorship, clear
+    ownership context that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://library.hbs.edu/
+  - https://www.library.hbs.edu/about
+  scores:
+    editorial_quality: 61
+    trust: 82
+    reach: 42
+    freshness: 58
+    ux: 84
+    impact: 57
+- id: forgeandsmith-com
+  name: Forge and Smith | Vancouver Web Design, Development & SEO
+  canonical_url: https://forgeandsmith.com/
+  country: XX
+  best_for: small-business and entrepreneurial practice
+  reason: Forge and Smith | Vancouver Web Design, Development & SEO concentrates on small-business and entrepreneurial practice,
+    with a discoverable feed, named authorship that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://forgeandsmith.com/
+  - https://forgeandsmith.com/blog/blog-content-ideas-small-business/feed/
+  - https://forgeandsmith.com/about/
+  scores:
+    editorial_quality: 68
+    trust: 89
+    reach: 73
+    freshness: 88
+    ux: 84
+    impact: 87
+- id: benchmarkone-com
+  name: BenchmarkONE
+  canonical_url: https://benchmarkone.com/
+  country: XX
+  best_for: SaaS growth and operating decisions
+  reason: BenchmarkONE concentrates on SaaS growth and operating decisions, with clear ownership context that makes its current
+    publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://benchmarkone.com/
+  - https://www.benchmarkone.com/about/
+  scores:
+    editorial_quality: 63
+    trust: 87
+    reach: 72
+    freshness: 45
+    ux: 84
+    impact: 66
+- id: cloudways-com
+  name: Cloudways
+  canonical_url: https://cloudways.com/
+  country: XX
+  best_for: startups, founders, and company building
+  reason: Cloudways concentrates on startups, founders, and company building, with a visible article archive, clear ownership
+    context that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://cloudways.com/
+  - https://www.cloudways.com/en/features.php
+  scores:
+    editorial_quality: 69
+    trust: 80
+    reach: 89
+    freshness: 89
+    ux: 84
+    impact: 83
+- id: process-st
+  name: Process
+  canonical_url: https://process.st/
+  country: XX
+  best_for: startups, founders, and company building
+  reason: Process concentrates on startups, founders, and company building, with a discoverable feed, named authorship that
+    makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://process.st/
+  - https://www.process.st/startup-blogs/feed/
+  - https://www.process.st/outbound-sales-team/
+  scores:
+    editorial_quality: 68
+    trust: 80
+    reach: 84
+    freshness: 88
+    ux: 84
+    impact: 79
+- id: ccl-org
+  name: CCL
+  canonical_url: https://ccl.org/
+  country: XX
+  best_for: leadership, management, and organizational work
+  reason: CCL concentrates on leadership, management, and organizational work, with a discoverable feed, named authorship
+    that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://ccl.org/
+  - https://www.ccl.org/comments/feed/
+  - https://www.ccl.org/guides/human-ai-leadership/
+  scores:
+    editorial_quality: 64
+    trust: 89
+    reach: 89
+    freshness: 88
+    ux: 84
+    impact: 74
+- id: marketermilk-com
+  name: 'Marketer Milk: Stay ahead in marketing'
+  canonical_url: https://marketermilk.com/
+  country: XX
+  best_for: SaaS growth and operating decisions
+  reason: 'Marketer Milk: Stay ahead in marketing concentrates on SaaS growth and operating decisions, with clear ownership
+    context that makes its current publishing work easier to evaluate.'
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://marketermilk.com/
+  - https://www.marketermilk.com/blog/rss.xml
+  - https://www.marketermilk.com/about
+  scores:
+    editorial_quality: 63
+    trust: 80
+    reach: 85
+    freshness: 89
+    ux: 84
+    impact: 64
+- id: womenonbusiness-com
+  name: Women On Business
+  canonical_url: https://womenonbusiness.com/
+  country: XX
+  best_for: business building and entrepreneurial judgment
+  reason: Women On Business concentrates on business building and entrepreneurial judgment, with a discoverable feed, a visible
+    article archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://womenonbusiness.com/
+  - https://www.womenonbusiness.com/comments/feed/
+  - https://www.womenonbusiness.com/about/
+  scores:
+    editorial_quality: 70
+    trust: 89
+    reach: 66
+    freshness: 89
+    ux: 84
+    impact: 74
+- id: bvp-com
+  name: Bessemer Venture Partners
+  canonical_url: https://bvp.com/
+  country: XX
+  best_for: startups, founders, and company building
+  reason: Bessemer Venture Partners concentrates on startups, founders, and company building, with a visible article archive,
+    named authorship that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://bvp.com/
+  - https://www.bvp.com/team
+  scores:
+    editorial_quality: 67
+    trust: 87
+    reach: 83
+    freshness: 45
+    ux: 84
+    impact: 83
+- id: chicagobusiness-com
+  name: Crain's Chicago Business
+  canonical_url: https://chicagobusiness.com/
+  country: XX
+  best_for: business building and entrepreneurial judgment
+  reason: Crain's Chicago Business concentrates on business building and entrepreneurial judgment, with clear ownership context
+    that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://chicagobusiness.com/
+  - https://www.chicagobusiness.com:443/about-us
+  scores:
+    editorial_quality: 61
+    trust: 80
+    reach: 89
+    freshness: 58
+    ux: 76
+    impact: 85
+- id: michaelhyatt-com
+  name: Full Focus
+  canonical_url: https://michaelhyatt.com/
+  country: XX
+  best_for: leadership, management, and organizational work
+  reason: Full Focus concentrates on leadership, management, and organizational work, with a discoverable feed, clear ownership
+    context that makes its current publishing work easier to evaluate.
+  limitation: Authorship and editorial-policy information is less visible than on higher-ranked publications.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://michaelhyatt.com/
+  - https://fullfocus.co/feed/
+  - https://fullfocus.co/about/
+  scores:
+    editorial_quality: 68
+    trust: 73
+    reach: 60
+    freshness: 88
+    ux: 84
+    impact: 85
+- id: thestoryexchange-org
+  name: The Story Exchange
+  canonical_url: https://thestoryexchange.org/
+  country: XX
+  best_for: small-business and entrepreneurial practice
+  reason: The Story Exchange concentrates on small-business and entrepreneurial practice, with a visible article archive,
+    clear ownership context that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://thestoryexchange.org/
+  - https://thestoryexchange.org/about-us/
+  scores:
+    editorial_quality: 67
+    trust: 73
+    reach: 78
+    freshness: 45
+    ux: 84
+    impact: 73
+- id: smarthustle-com
+  name: ZenBusiness
+  canonical_url: https://smarthustle.com/
+  country: XX
+  best_for: business building and entrepreneurial judgment
+  reason: ZenBusiness concentrates on business building and entrepreneurial judgment, with a visible article archive, clear
+    ownership context that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://smarthustle.com/
+  - https://www.zenbusiness.com/about/
+  scores:
+    editorial_quality: 65
+    trust: 87
+    reach: 54
+    freshness: 66
+    ux: 84
+    impact: 66
+- id: killerstartups-com
+  name: KillerStartups
+  canonical_url: https://killerstartups.com/
+  country: XX
+  best_for: startups, founders, and company building
+  reason: KillerStartups concentrates on startups, founders, and company building, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://killerstartups.com/
+  - https://killerstartups.com/comments/feed/
+  - https://killerstartups.com/about/
+  scores:
+    editorial_quality: 72
+    trust: 80
+    reach: 56
+    freshness: 45
+    ux: 84
+    impact: 78
+- id: smallbizdaily-com
+  name: ZenBusiness
+  canonical_url: https://smallbizdaily.com/
+  country: XX
+  best_for: business building and entrepreneurial judgment
+  reason: ZenBusiness concentrates on business building and entrepreneurial judgment, with a visible article archive, clear
+    ownership context that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://smallbizdaily.com/
+  - https://www.smallbizdaily.com/feed/
+  - https://www.smallbizdaily.com/build-entrepreneurial-sales-team/
+  scores:
+    editorial_quality: 67
+    trust: 87
+    reach: 60
+    freshness: 45
+    ux: 84
+    impact: 75
+- id: businessblogshub-com
+  name: BusinessBlogs Hub
+  canonical_url: https://businessblogshub.com/
+  country: XX
+  best_for: leadership, management, and organizational work
+  reason: BusinessBlogs Hub concentrates on leadership, management, and organizational work, with a discoverable feed, clear
+    ownership context that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://businessblogshub.com/
+  - https://www.businessblogshub.com/feed/
+  - https://www.businessblogshub.com/about/
+  scores:
+    editorial_quality: 68
+    trust: 87
+    reach: 63
+    freshness: 89
+    ux: 84
+    impact: 62
+- id: smartbranding-com
+  name: Smart Branding
+  canonical_url: https://smartbranding.com/
+  country: XX
+  best_for: leadership, management, and organizational work
+  reason: Smart Branding concentrates on leadership, management, and organizational work, with a discoverable feed, named
+    authorship that makes its current publishing work easier to evaluate.
+  limitation: Some complete material may require registration, membership, or a paid subscription.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://smartbranding.com/
+  - https://smartbranding.com/feed/
+  - https://smartbranding.com/we-are-here-to-help-you-make-informed-decisions-about-your-brand/
+  scores:
+    editorial_quality: 70
+    trust: 89
+    reach: 67
+    freshness: 88
+    ux: 84
+    impact: 68
+- id: startupsavant-com
+  name: Startup Savant
+  canonical_url: https://startupsavant.com/
+  country: XX
+  best_for: startups, founders, and company building
+  reason: Startup Savant concentrates on startups, founders, and company building, with a visible article archive, clear ownership
+    context that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://startupsavant.com/
+  - https://startupsavant.com/about-us
+  scores:
+    editorial_quality: 69
+    trust: 89
+    reach: 82
+    freshness: 66
+    ux: 84
+    impact: 70
+- id: due-com
+  name: Due
+  canonical_url: https://due.com/
+  country: XX
+  best_for: small-business and entrepreneurial practice
+  reason: Due concentrates on small-business and entrepreneurial practice, with a discoverable feed, a visible article archive
+    that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://due.com/
+  - https://due.com/feed/
+  - https://due.com/about/
+  scores:
+    editorial_quality: 70
+    trust: 89
+    reach: 89
+    freshness: 89
+    ux: 84
+    impact: 74
+- id: startupoasis-co
+  name: Startup Oasis
+  canonical_url: https://startupoasis.co/
+  country: XX
+  best_for: startups, founders, and company building
+  reason: Startup Oasis concentrates on startups, founders, and company building, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://startupoasis.co/
+  - https://www.startupoasis.co/comments/feed/
+  - https://www.startupoasis.co/who-we-are/
+  scores:
+    editorial_quality: 74
+    trust: 87
+    reach: 54
+    freshness: 45
+    ux: 84
+    impact: 49
+- id: sba-gov
+  name: Small Business Administration
+  canonical_url: https://www.sba.gov/
+  country: XX
+  best_for: small-business and entrepreneurial practice
+  reason: Small Business Administration concentrates on small-business and entrepreneurial practice, with a discoverable feed,
+    clear ownership context that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://www.sba.gov/
+  - https://www.sba.gov/feed/
+  scores:
+    editorial_quality: 76
+    trust: 76
+    reach: 89
+    freshness: 70
+    ux: 84
+    impact: 89
+- id: tech-eu
+  name: Tech.eu
+  canonical_url: https://tech.eu/
+  country: XX
+  best_for: startups, founders, and company building
+  reason: Tech.eu concentrates on startups, founders, and company building, with named authorship, clear ownership context
+    that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://tech.eu/
+  - https://tech.eu/about-us/
+  scores:
+    editorial_quality: 61
+    trust: 89
+    reach: 74
+    freshness: 58
+    ux: 84
+    impact: 85
+- id: mollyg-substack-com
+  name: Lessons
+  canonical_url: https://mollyg.substack.com/
+  country: XX
+  best_for: startups, founders, and company building
+  reason: Lessons concentrates on startups, founders, and company building, with a discoverable feed that makes its current
+    publishing work easier to evaluate.
+  limitation: Authorship and editorial-policy information is less visible than on higher-ranked publications.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://mollyg.substack.com/
+  - https://mollyg.substack.com/feed
+  scores:
+    editorial_quality: 68
+    trust: 62
+    reach: 55
+    freshness: 89
+    ux: 84
+    impact: 60
+- id: smartbrief-com
+  name: SmartBrief
+  canonical_url: https://smartbrief.com/
+  country: XX
+  best_for: leadership, management, and organizational work
+  reason: SmartBrief concentrates on leadership, management, and organizational work, with a discoverable feed, clear ownership
+    context that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://smartbrief.com/
+  - https://www.smartbrief.com/originals/education/edtech/feed
+  - https://www.smartbrief.com/about-us
+  scores:
+    editorial_quality: 70
+    trust: 87
+    reach: 89
+    freshness: 89
+    ux: 84
+    impact: 88
+- id: blog-hubspot-com
+  name: HubSpot Blog
+  canonical_url: https://blog.hubspot.com/
+  country: XX
+  best_for: SaaS growth and operating decisions
+  reason: HubSpot Blog concentrates on SaaS growth and operating decisions, with a visible article archive, named authorship
+    that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://blog.hubspot.com/
+  - https://blog.hubspot.com/website/rss.xml
+  scores:
+    editorial_quality: 73
+    trust: 76
+    reach: 89
+    freshness: 89
+    ux: 84
+    impact: 89
+- id: startupblink-com
+  name: StartupBlink
+  canonical_url: https://startupblink.com/
+  country: XX
+  best_for: startups, founders, and company building
+  reason: StartupBlink concentrates on startups, founders, and company building, with clear ownership context that makes its
+    current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://startupblink.com/
+  - https://www.startupblink.com/blog/comments/feed/
+  - https://www.startupblink.com/blog/about
+  scores:
+    editorial_quality: 63
+    trust: 82
+    reach: 77
+    freshness: 89
+    ux: 84
+    impact: 69
+- id: wpbeginner-com
+  name: WPBeginner
+  canonical_url: https://wpbeginner.com/
+  country: XX
+  best_for: small-business and entrepreneurial practice
+  reason: WPBeginner concentrates on small-business and entrepreneurial practice, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://wpbeginner.com/
+  - https://www.wpbeginner.com/comments/feed/
+  - https://www.wpbeginner.com/about-wpbeginner/
+  scores:
+    editorial_quality: 70
+    trust: 87
+    reach: 89
+    freshness: 89
+    ux: 84
+    impact: 89
+- id: siegemedia-com
+  name: Siege Media
+  canonical_url: https://siegemedia.com/
+  country: XX
+  best_for: startups, founders, and company building
+  reason: Siege Media concentrates on startups, founders, and company building, with a visible article archive, clear ownership
+    context that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://siegemedia.com/
+  - https://www.siegemedia.com/about
+  scores:
+    editorial_quality: 65
+    trust: 75
+    reach: 80
+    freshness: 78
+    ux: 84
+    impact: 70
+- id: firstround-com
+  name: Firstround
+  canonical_url: https://firstround.com/
+  country: XX
+  best_for: startups, founders, and company building
+  reason: Firstround concentrates on startups, founders, and company building, with a visible article archive, named authorship
+    that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://firstround.com/
+  - https://www.firstround.com/team
+  scores:
+    editorial_quality: 71
+    trust: 75
+    reach: 87
+    freshness: 66
+    ux: 84
+    impact: 89
+- id: blog-bufferapp-com
+  name: 'Buffer: All-you-need social media toolkit for small businesses'
+  canonical_url: https://buffer.com/resources/
+  country: XX
+  best_for: business building and entrepreneurial judgment
+  reason: 'Buffer: All-you-need social media toolkit for small businesses concentrates on business building and entrepreneurial
+    judgment, with named authorship that makes its current publishing work easier to evaluate.'
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://buffer.com/resources/
+  - https://buffer.com/resources/tiktok-algorithm/
+  scores:
+    editorial_quality: 65
+    trust: 73
+    reach: 54
+    freshness: 89
+    ux: 76
+    impact: 85
+- id: newsletter-pragmaticengineer-com
+  name: The Pragmatic Engineer
+  canonical_url: https://newsletter.pragmaticengineer.com/
+  country: XX
+  best_for: startups, founders, and company building
+  reason: The Pragmatic Engineer concentrates on startups, founders, and company building, with a discoverable feed that makes
+    its current publishing work easier to evaluate.
+  limitation: Authorship and editorial-policy information is less visible than on higher-ranked publications.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://newsletter.pragmaticengineer.com/
+  - https://newsletter.pragmaticengineer.com/feed
+  scores:
+    editorial_quality: 66
+    trust: 62
+    reach: 83
+    freshness: 89
+    ux: 84
+    impact: 80
+- id: learn-g2crowd-com
+  name: Learn Hub
+  canonical_url: https://learn.g2crowd.com/
+  country: XX
+  best_for: leadership, management, and organizational work
+  reason: Learn Hub concentrates on leadership, management, and organizational work, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://learn.g2crowd.com/
+  - https://learn.g2.com/rss.xml
+  - https://learn.g2.com/contributor-network-guidelines
+  scores:
+    editorial_quality: 72
+    trust: 82
+    reach: 51
+    freshness: 89
+    ux: 84
+    impact: 67
+- id: maroonoak-com
+  name: Maroon Oak
+  canonical_url: https://maroonoak.com/
+  country: XX
+  best_for: startups, founders, and company building
+  reason: Maroon Oak concentrates on startups, founders, and company building, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://maroonoak.com/
+  - https://www.maroonoak.com/20-must-have-newsletters-for-every-entrepreneurs-inbox/feed/
+  - https://www.maroonoak.com/about/
+  scores:
+    editorial_quality: 70
+    trust: 82
+    reach: 60
+    freshness: 45
+    ux: 84
+    impact: 58
+- id: theygotacquired-com
+  name: They Got Acquired
+  canonical_url: https://theygotacquired.com/
+  country: XX
+  best_for: startups, founders, and company building
+  reason: They Got Acquired concentrates on startups, founders, and company building, with clear ownership context that makes
+    its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://theygotacquired.com/
+  - https://theygotacquired.com/about/
+  scores:
+    editorial_quality: 63
+    trust: 82
+    reach: 64
+    freshness: 45
+    ux: 84
+    impact: 66
+- id: creativeboom-com
+  name: Creative Boom
+  canonical_url: https://creativeboom.com/
+  country: XX
+  best_for: startups, founders, and company building
+  reason: Creative Boom concentrates on startups, founders, and company building, with a discoverable feed, clear ownership
+    context that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://creativeboom.com/
+  - https://www.creativeboom.com/feed/
+  - https://www.creativeboom.com/about-us/
+  scores:
+    editorial_quality: 64
+    trust: 87
+    reach: 85
+    freshness: 89
+    ux: 84
+    impact: 75
+- id: speedrun-substack-com
+  name: speedrun
+  canonical_url: https://speedrun.substack.com/
+  country: XX
+  best_for: startups, founders, and company building
+  reason: speedrun concentrates on startups, founders, and company building, with a discoverable feed that makes its current
+    publishing work easier to evaluate.
+  limitation: Authorship and editorial-policy information is less visible than on higher-ranked publications.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://speedrun.substack.com/
+  - https://speedrun.substack.com/feed
+  scores:
+    editorial_quality: 66
+    trust: 62
+    reach: 62
+    freshness: 89
+    ux: 84
+    impact: 58
+- id: hashcollision-substack-com
+  name: Hash Collision
+  canonical_url: https://hashcollision.substack.com/
+  country: XX
+  best_for: startups, founders, and company building
+  reason: Hash Collision concentrates on startups, founders, and company building, with a discoverable feed that makes its
+    current publishing work easier to evaluate.
+  limitation: Authorship and editorial-policy information is less visible than on higher-ranked publications.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://hashcollision.substack.com/
+  - https://hashcollision.substack.com/feed
+  scores:
+    editorial_quality: 66
+    trust: 62
+    reach: 46
+    freshness: 88
+    ux: 84
+    impact: 49
+- id: fundraisedd-substack-com
+  name: Fundraisedd
+  canonical_url: https://fundraisedd.substack.com/
+  country: XX
+  best_for: startups, founders, and company building
+  reason: Fundraisedd concentrates on startups, founders, and company building, with a discoverable feed that makes its current
+    publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://fundraisedd.substack.com/
+  - https://fundraisedd.substack.com/feed
+  scores:
+    editorial_quality: 66
+    trust: 62
+    reach: 40
+    freshness: 45
+    ux: 84
+    impact: 53
+- id: skyebelote-substack-com
+  name: Skye’s Newsletter
+  canonical_url: https://skyebelote.substack.com/
+  country: XX
+  best_for: startups, founders, and company building
+  reason: Skye’s Newsletter concentrates on startups, founders, and company building, with a discoverable feed that makes
+    its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://skyebelote.substack.com/
+  - https://skyebelote.substack.com/feed
+  scores:
+    editorial_quality: 66
+    trust: 62
+    reach: 40
+    freshness: 45
+    ux: 84
+    impact: 53
+- id: katcole-substack-com
+  name: Checking In with Kat Cole
+  canonical_url: https://katcole.substack.com/
+  country: XX
+  best_for: leadership, management, and organizational work
+  reason: Checking In with Kat Cole concentrates on leadership, management, and organizational work, with a discoverable feed
+    that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://katcole.substack.com/
+  - https://katcole.substack.com/feed
+  scores:
+    editorial_quality: 68
+    trust: 62
+    reach: 46
+    freshness: 45
+    ux: 84
+    impact: 56
+- id: thehustle-co
+  name: Subscribe to The Hustle Daily Newsletter
+  canonical_url: https://thehustle.co/
+  country: XX
+  best_for: business building and entrepreneurial judgment
+  reason: Subscribe to The Hustle Daily Newsletter concentrates on business building and entrepreneurial judgment, with a
+    visible article archive that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://thehustle.co/
+  scores:
+    editorial_quality: 73
+    trust: 62
+    reach: 89
+    freshness: 89
+    ux: 84
+    impact: 89
+- id: entrepreneur-nyu-edu
+  name: NYU Entrepreneurship
+  canonical_url: https://entrepreneur.nyu.edu/
+  country: XX
+  best_for: startups, founders, and company building
+  reason: NYU Entrepreneurship concentrates on startups, founders, and company building, with named authorship, clear ownership
+    context that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://entrepreneur.nyu.edu/
+  - https://entrepreneur.nyu.edu/about
+  scores:
+    editorial_quality: 63
+    trust: 75
+    reach: 62
+    freshness: 89
+    ux: 84
+    impact: 56
+- id: a16z-com
+  name: Andreessen Horowitz
+  canonical_url: https://a16z.com/
+  country: XX
+  best_for: startups, founders, and company building
+  reason: Andreessen Horowitz concentrates on startups, founders, and company building, with named authorship, clear ownership
+    context that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://a16z.com/
+  - https://a16z.com/team/
+  scores:
+    editorial_quality: 71
+    trust: 89
+    reach: 89
+    freshness: 45
+    ux: 84
+    impact: 89
+- id: community-thriveglobal-com
+  name: Thrive Global
+  canonical_url: https://community.thriveglobal.com/
+  country: XX
+  best_for: leadership, management, and organizational work
+  reason: Thrive Global concentrates on leadership, management, and organizational work, with a visible article archive, named
+    authorship that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://community.thriveglobal.com/
+  - https://community.thriveglobal.com/community-login
+  scores:
+    editorial_quality: 67
+    trust: 89
+    reach: 89
+    freshness: 45
+    ux: 84
+    impact: 78
+- id: womenentrepreneursgrowglobal-org
+  name: Women Entrepreneurs Grow Global
+  canonical_url: https://womenentrepreneursgrowglobal.org/
+  country: XX
+  best_for: small-business and entrepreneurial practice
+  reason: Women Entrepreneurs Grow Global concentrates on small-business and entrepreneurial practice, with a discoverable
+    feed, named authorship that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://womenentrepreneursgrowglobal.org/
+  - https://womenentrepreneursgrowglobal.org/comments/feed/
+  - https://womenentrepreneursgrowglobal.org/about/
+  scores:
+    editorial_quality: 68
+    trust: 89
+    reach: 58
+    freshness: 89
+    ux: 84
+    impact: 70
+- id: goodreviewservice-com
+  name: Good Review Service
+  canonical_url: https://goodreviewservice.com/
+  country: XX
+  best_for: startups, founders, and company building
+  reason: Good Review Service concentrates on startups, founders, and company building, with a discoverable feed, clear ownership
+    context that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://goodreviewservice.com/
+  - https://goodreviewservice.com/blog/blogs-for-businesses/feed/
+  - https://goodreviewservice.com/about-us/
+  scores:
+    editorial_quality: 70
+    trust: 82
+    reach: 52
+    freshness: 89
+    ux: 84
+    impact: 48
+- id: bizsugar-com
+  name: BizSugar
+  canonical_url: https://bizsugar.com/
+  country: XX
+  best_for: small-business and entrepreneurial practice
+  reason: BizSugar concentrates on small-business and entrepreneurial practice, with a discoverable feed, clear ownership
+    context that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://bizsugar.com/
+  - https://bizsugar.com/homepage/feed/
+  - https://bizsugar.com/about/
+  scores:
+    editorial_quality: 68
+    trust: 82
+    reach: 62
+    freshness: 88
+    ux: 84
+    impact: 78
+- id: allthatsaas-com
+  name: All That SaaS
+  canonical_url: https://allthatsaas.com/
+  country: XX
+  best_for: SaaS growth and operating decisions
+  reason: All That SaaS concentrates on SaaS growth and operating decisions, with a discoverable feed, a visible article archive
+    that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://allthatsaas.com/
+  - https://allthatsaas.com/comments/feed/
+  - https://allthatsaas.com/about/
+  scores:
+    editorial_quality: 76
+    trust: 82
+    reach: 61
+    freshness: 45
+    ux: 84
+    impact: 70
+- id: founderbounty-com
+  name: FounderBounty
+  canonical_url: https://founderbounty.com/
+  country: XX
+  best_for: startups, founders, and company building
+  reason: FounderBounty concentrates on startups, founders, and company building, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: Authorship and editorial-policy information is less visible than on higher-ranked publications.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://founderbounty.com/
+  - https://www.founderbounty.com/rss/
+  - https://www.founderbounty.com/watch-eric-us/
+  scores:
+    editorial_quality: 74
+    trust: 68
+    reach: 54
+    freshness: 89
+    ux: 84
+    impact: 49
+- id: startupgrind-com
+  name: Startup Grind
+  canonical_url: https://startupgrind.com/
+  country: XX
+  best_for: startups, founders, and company building
+  reason: Startup Grind concentrates on startups, founders, and company building, with a visible article archive, clear ownership
+    context that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://startupgrind.com/
+  - https://www.startupgrind.com/blog/feeds/atom/
+  scores:
+    editorial_quality: 69
+    trust: 62
+    reach: 83
+    freshness: 45
+    ux: 76
+    impact: 80
+- id: platoforms-com
+  name: PlatoForms - Online Fillable PDF Form
+  canonical_url: https://platoforms.com/
+  country: XX
+  best_for: leadership, management, and organizational work
+  reason: PlatoForms - Online Fillable PDF Form concentrates on leadership, management, and organizational work, with named
+    authorship, clear ownership context that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://platoforms.com/
+  - https://www.platoforms.com/workflow-make-pdf-fillable/
+  scores:
+    editorial_quality: 59
+    trust: 89
+    reach: 79
+    freshness: 58
+    ux: 84
+    impact: 68
+- id: bigideasforsmallbusiness-com
+  name: Barbara Weltman
+  canonical_url: https://bigideasforsmallbusiness.com/
+  country: XX
+  best_for: small-business and entrepreneurial practice
+  reason: Barbara Weltman concentrates on small-business and entrepreneurial practice, with a discoverable feed, a visible
+    article archive that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://bigideasforsmallbusiness.com/
+  - https://bigideasforsmallbusiness.com/comments/feed/
+  - https://bigideasforsmallbusiness.com/big-ideas-for-small-business/
+  scores:
+    editorial_quality: 72
+    trust: 82
+    reach: 65
+    freshness: 45
+    ux: 84
+    impact: 72
+- id: blogsaas-com
+  name: Blog SaaS
+  canonical_url: https://blogsaas.com/
+  country: XX
+  best_for: SaaS growth and operating decisions
+  reason: Blog SaaS concentrates on SaaS growth and operating decisions, with a discoverable feed, a visible article archive
+    that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://blogsaas.com/
+  - https://blogsaas.com/comments/feed/
+  - https://blogsaas.com/about/
+  scores:
+    editorial_quality: 72
+    trust: 82
+    reach: 47
+    freshness: 62
+    ux: 84
+    impact: 47
+- id: hacktheentrepreneur-com
+  name: HTE
+  canonical_url: https://hacktheentrepreneur.com/
+  country: XX
+  best_for: business building and entrepreneurial judgment
+  reason: HTE concentrates on business building and entrepreneurial judgment, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://hacktheentrepreneur.com/
+  - https://hacktheentrepreneur.com/blog/feed/
+  scores:
+    editorial_quality: 70
+    trust: 69
+    reach: 71
+    freshness: 45
+    ux: 84
+    impact: 64
+- id: saasholic-com
+  name: SaaSholic Ventures
+  canonical_url: https://www.saasholic.com/
+  country: XX
+  best_for: SaaS growth and operating decisions
+  reason: SaaSholic Ventures concentrates on SaaS growth and operating decisions, with named authorship that makes its current
+    publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://www.saasholic.com/
+  scores:
+    editorial_quality: 63
+    trust: 69
+    reach: 64
+    freshness: 58
+    ux: 84
+    impact: 75
+- id: loganix-com
+  name: Loganix
+  canonical_url: https://loganix.com/
+  country: XX
+  best_for: startups, founders, and company building
+  reason: Loganix concentrates on startups, founders, and company building, with a discoverable feed, named authorship that
+    makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://loganix.com/
+  - https://loganix.com/small-business-blogs/feed/
+  - https://loganix.com/about-us/
+  scores:
+    editorial_quality: 66
+    trust: 89
+    reach: 80
+    freshness: 45
+    ux: 84
+    impact: 68
+- id: youpreneur-com
+  name: Youpreneur
+  canonical_url: https://youpreneur.com/
+  country: XX
+  best_for: business building and entrepreneurial judgment
+  reason: Youpreneur concentrates on business building and entrepreneurial judgment, with a discoverable feed, clear ownership
+    context that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://youpreneur.com/
+  - https://youpreneur.com/comments/feed/
+  - https://youpreneur.com/about/
+  scores:
+    editorial_quality: 66
+    trust: 75
+    reach: 54
+    freshness: 45
+    ux: 84
+    impact: 63
+- id: noobpreneur-com
+  name: Noobpreneur.com
+  canonical_url: https://noobpreneur.com/
+  country: XX
+  best_for: small-business and entrepreneurial practice
+  reason: Noobpreneur.com concentrates on small-business and entrepreneurial practice, with a visible article archive, named
+    authorship that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://noobpreneur.com/
+  - https://noobpreneur.com/about/
+  scores:
+    editorial_quality: 75
+    trust: 89
+    reach: 69
+    freshness: 89
+    ux: 84
+    impact: 86
+- id: outsourceaccelerator-com
+  name: Outsource Accelerator
+  canonical_url: https://outsourceaccelerator.com/
+  country: XX
+  best_for: startups, founders, and company building
+  reason: Outsource Accelerator concentrates on startups, founders, and company building, with a discoverable feed, named
+    authorship that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://outsourceaccelerator.com/
+  - https://www.outsourceaccelerator.com/feed/podcast
+  - https://www.outsourceaccelerator.com/meet-oa-team/
+  scores:
+    editorial_quality: 72
+    trust: 82
+    reach: 83
+    freshness: 89
+    ux: 84
+    impact: 68
+- id: cmoe-com
+  name: CMOE
+  canonical_url: https://cmoe.com/
+  country: XX
+  best_for: leadership, management, and organizational work
+  reason: CMOE concentrates on leadership, management, and organizational work, with a discoverable feed, named authorship
+    that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://cmoe.com/
+  - https://cmoe.com/feed/
+  - https://cmoe.com/products-and-services/leading-groups-to-solutions-facilitation-skills-for-team-leaders/
+  scores:
+    editorial_quality: 70
+    trust: 89
+    reach: 80
+    freshness: 88
+    ux: 84
+    impact: 68
+- id: smallbizsurvival-com
+  name: Small Biz Survival
+  canonical_url: https://smallbizsurvival.com/
+  country: XX
+  best_for: business building and entrepreneurial judgment
+  reason: Small Biz Survival concentrates on business building and entrepreneurial judgment, with a discoverable feed, a visible
+    article archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://smallbizsurvival.com/
+  - https://smallbizsurvival.com/comments/feed
+  - https://smallbizsurvival.com/about.html
+  scores:
+    editorial_quality: 72
+    trust: 82
+    reach: 65
+    freshness: 88
+    ux: 84
+    impact: 75
+- id: basis365-com
+  name: Outsourced Accounting and Bookkeeping Company
+  canonical_url: https://basis365.com/
+  country: XX
+  best_for: startups, founders, and company building
+  reason: Outsourced Accounting and Bookkeeping Company concentrates on startups, founders, and company building, with a visible
+    article archive, clear ownership context that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://basis365.com/
+  - https://www.basis365.com/blog?format=rss
+  - https://www.basis365.com/about
+  scores:
+    editorial_quality: 69
+    trust: 82
+    reach: 58
+    freshness: 89
+    ux: 84
+    impact: 53
+- id: byrosanna-co-uk
+  name: byRosanna
+  canonical_url: https://byrosanna.co.uk/
+  country: GB
+  best_for: business building and entrepreneurial judgment
+  reason: byRosanna concentrates on business building and entrepreneurial judgment, with a visible article archive, clear
+    ownership context that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://byrosanna.co.uk/
+  - https://www.byrosanna.co.uk/blog?format=rss
+  - https://www.byrosanna.co.uk/about
+  scores:
+    editorial_quality: 65
+    trust: 82
+    reach: 65
+    freshness: 89
+    ux: 84
+    impact: 68
+- id: smallbusinessbonfire-com
+  name: Small Business Bonfire
+  canonical_url: https://smallbusinessbonfire.com/
+  country: XX
+  best_for: small-business and entrepreneurial practice
+  reason: Small Business Bonfire concentrates on small-business and entrepreneurial practice, with a discoverable feed, clear
+    ownership context that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://smallbusinessbonfire.com/
+  - https://smallbusinessbonfire.com/feed/
+  - https://smallbusinessbonfire.com/about/
+  scores:
+    editorial_quality: 68
+    trust: 82
+    reach: 54
+    freshness: 78
+    ux: 84
+    impact: 85
+- id: hostinger-com
+  name: Hostinger
+  canonical_url: https://hostinger.com/
+  country: XX
+  best_for: SaaS growth and operating decisions
+  reason: Hostinger concentrates on SaaS growth and operating decisions, with clear ownership context that makes its current
+    publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://hostinger.com/
+  - https://www.hostinger.com/tutorials/comments/feed/
+  - https://www.hostinger.com/hostinger-agent
+  scores:
+    editorial_quality: 67
+    trust: 82
+    reach: 89
+    freshness: 62
+    ux: 84
+    impact: 85
+- id: xfive-co
+  name: xfive
+  canonical_url: https://xfive.co/
+  country: XX
+  best_for: startups, founders, and company building
+  reason: xfive concentrates on startups, founders, and company building, with clear ownership context that makes its current
+    publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://xfive.co/
+  - https://www.xfive.co/about
+  scores:
+    editorial_quality: 65
+    trust: 82
+    reach: 65
+    freshness: 58
+    ux: 84
+    impact: 77
+- id: millo-co
+  name: Millo.co
+  canonical_url: https://millo.co/
+  country: XX
+  best_for: startups, founders, and company building
+  reason: Millo.co concentrates on startups, founders, and company building, with a discoverable feed, named authorship that
+    makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://millo.co/
+  - https://millo.co/comments/feed
+  - https://millo.co/about
+  scores:
+    editorial_quality: 72
+    trust: 89
+    reach: 74
+    freshness: 62
+    ux: 84
+    impact: 72
+- id: caycon-com
+  name: Cayenne Consulting
+  canonical_url: https://caycon.com/
+  country: XX
+  best_for: startups, founders, and company building
+  reason: Cayenne Consulting concentrates on startups, founders, and company building, with a visible article archive, clear
+    ownership context that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://caycon.com/
+  scores:
+    editorial_quality: 69
+    trust: 76
+    reach: 67
+    freshness: 66
+    ux: 84
+    impact: 61
+- id: masschallenge-org
+  name: Masschallenge
+  canonical_url: https://masschallenge.org/
+  country: XX
+  best_for: startups, founders, and company building
+  reason: Masschallenge concentrates on startups, founders, and company building, with a discoverable feed, named authorship
+    that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://masschallenge.org/
+  - https://masschallenge.org/comments/feed/
+  - https://masschallenge.org/about-us/
+  scores:
+    editorial_quality: 68
+    trust: 89
+    reach: 76
+    freshness: 45
+    ux: 76
+    impact: 71
+- id: pitchskills-com
+  name: Pitch Skills
+  canonical_url: https://pitchskills.com/
+  country: XX
+  best_for: startups, founders, and company building
+  reason: Pitch Skills concentrates on startups, founders, and company building, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://pitchskills.com/
+  - https://www.pitchskills.com/feed/
+  scores:
+    editorial_quality: 74
+    trust: 62
+    reach: 45
+    freshness: 45
+    ux: 84
+    impact: 48
+- id: businesstries-com
+  name: Businesstries
+  canonical_url: https://businesstries.com/
+  country: XX
+  best_for: startups, founders, and company building
+  reason: Businesstries concentrates on startups, founders, and company building, with a visible article archive, clear ownership
+    context that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://businesstries.com/
+  - https://www.businesstries.com/about-us/
+  scores:
+    editorial_quality: 69
+    trust: 82
+    reach: 46
+    freshness: 62
+    ux: 84
+    impact: 46
+- id: smallbiztipster-com
+  name: Small Biz Tipster
+  canonical_url: https://smallbiztipster.com/
+  country: XX
+  best_for: startups, founders, and company building
+  reason: Small Biz Tipster concentrates on startups, founders, and company building, with a discoverable feed, a visible
+    article archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://smallbiztipster.com/
+  - https://smallbiztipster.com/web-stories/feed/
+  - https://smallbiztipster.com/about/
+  scores:
+    editorial_quality: 72
+    trust: 89
+    reach: 54
+    freshness: 89
+    ux: 84
+    impact: 59
+- id: solvid-co-uk
+  name: Solvid
+  canonical_url: https://solvid.co.uk/
+  country: GB
+  best_for: small-business and entrepreneurial practice
+  reason: Solvid concentrates on small-business and entrepreneurial practice, with a discoverable feed, a visible article
+    archive that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://solvid.co.uk/
+  - https://solvid.co.uk/100-business-marketing-websites/feed/
+  - https://solvid.co.uk/about/
+  scores:
+    editorial_quality: 70
+    trust: 89
+    reach: 73
+    freshness: 45
+    ux: 84
+    impact: 70
+- id: bothsidesofthetable-com
+  name: Bothsidesofthetable
+  canonical_url: https://bothsidesofthetable.com/
+  country: XX
+  best_for: small-business and entrepreneurial practice
+  reason: Bothsidesofthetable concentrates on small-business and entrepreneurial practice, with a discoverable feed, clear
+    ownership context that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://bothsidesofthetable.com/
+  - https://medium.com/feed/both-sides-of-the-table
+  - https://medium.com/about?autoplay=1
+  scores:
+    editorial_quality: 74
+    trust: 75
+    reach: 60
+    freshness: 45
+    ux: 84
+    impact: 84
+- id: homebusinessmag-com
+  name: Home Business Magazine
+  canonical_url: https://homebusinessmag.com/
+  country: XX
+  best_for: startups, founders, and company building
+  reason: Home Business Magazine concentrates on startups, founders, and company building, with a discoverable feed, named
+    authorship that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://homebusinessmag.com/
+  - https://homebusinessmag.com/categories/businesses/blogging/feed/
+  - https://homebusinessmag.com/sales/online-selling/no-deposit-bonus-model-reveals-about-digital-customer-acquisition/
+  scores:
+    editorial_quality: 70
+    trust: 82
+    reach: 89
+    freshness: 89
+    ux: 84
+    impact: 72
+- id: resources-s45-ai
+  name: S45 Resources
+  canonical_url: https://resources.s45.ai/
+  country: XX
+  best_for: startups, founders, and company building
+  reason: S45 Resources concentrates on startups, founders, and company building, with a visible article archive, named authorship
+    that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://resources.s45.ai/
+  scores:
+    editorial_quality: 71
+    trust: 83
+    reach: 47
+    freshness: 66
+    ux: 76
+    impact: 46
+- id: profitwell-com
+  name: Paddle
+  canonical_url: https://profitwell.com/
+  country: XX
+  best_for: SaaS growth and operating decisions
+  reason: Paddle concentrates on SaaS growth and operating decisions, with clear ownership context that makes its current
+    publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://profitwell.com/
+  - https://www.paddle.com/help
+  scores:
+    editorial_quality: 63
+    trust: 75
+    reach: 65
+    freshness: 58
+    ux: 76
+    impact: 88
+- id: ducttapemarketing-com
+  name: Duct Tape Marketing
+  canonical_url: https://ducttapemarketing.com/
+  country: XX
+  best_for: business building and entrepreneurial judgment
+  reason: Duct Tape Marketing concentrates on business building and entrepreneurial judgment, with a discoverable feed, clear
+    ownership context that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://ducttapemarketing.com/
+  - https://ducttapemarketing.com/comments/feed/
+  - https://ducttapemarketing.com/about/company/
+  scores:
+    editorial_quality: 74
+    trust: 82
+    reach: 69
+    freshness: 89
+    ux: 84
+    impact: 88
+- id: chargebee-com
+  name: Chargebee
+  canonical_url: https://chargebee.com/
+  country: XX
+  best_for: SaaS growth and operating decisions
+  reason: Chargebee concentrates on SaaS growth and operating decisions, with a clearly defined editorial focus that makes
+    its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://chargebee.com/
+  - https://www.chargebee.com:443/events/beelieve/sf/2026/livestream/
+  scores:
+    editorial_quality: 67
+    trust: 75
+    reach: 89
+    freshness: 58
+    ux: 84
+    impact: 89
+- id: neilpatel-com
+  name: Neil Patel
+  canonical_url: https://neilpatel.com/
+  country: XX
+  best_for: business building and entrepreneurial judgment
+  reason: Neil Patel concentrates on business building and entrepreneurial judgment, with a visible article archive that makes
+    its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: standard
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://neilpatel.com/
+  - https://neilpatel.com/blog/chatgpt-query-source-preferences/
+  scores:
+    editorial_quality: 71
+    trust: 75
+    reach: 89
+    freshness: 89
+    ux: 84
+    impact: 89
+- id: semrush-com
+  name: Semrush
+  canonical_url: https://semrush.com/
+  country: XX
+  best_for: SaaS growth and operating decisions
+  reason: Semrush concentrates on SaaS growth and operating decisions, with a visible article archive, named authorship that
+    makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://semrush.com/
+  - https://www.semrush.com/company/
+  scores:
+    editorial_quality: 65
+    trust: 77
+    reach: 89
+    freshness: 66
+    ux: 84
+    impact: 89
+- id: vistaprint-com
+  name: 'VistaPrint Official Website: Online Printing Services'
+  canonical_url: https://vistaprint.com/
+  country: XX
+  best_for: business building and entrepreneurial judgment
+  reason: 'VistaPrint Official Website: Online Printing Services concentrates on business building and entrepreneurial judgment,
+    with named authorship that makes its current publishing work easier to evaluate.'
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://vistaprint.com/
+  - https://www.vistaprint.com/promotional-products/groups-teams
+  scores:
+    editorial_quality: 61
+    trust: 63
+    reach: 89
+    freshness: 58
+    ux: 84
+    impact: 89
+- id: cfe-umich-edu
+  name: Center for Entrepreneurship
+  canonical_url: https://cfe.umich.edu/
+  country: XX
+  best_for: startups, founders, and company building
+  reason: Center for Entrepreneurship concentrates on startups, founders, and company building, with a discoverable feed,
+    a visible article archive that makes its current publishing work easier to evaluate.
+  limitation: Its broad subject range can make depth and usefulness uneven across individual topics.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://cfe.umich.edu/
+  - https://cfe.umich.edu/comments/feed/
+  - https://cfe.umich.edu/about/
+  scores:
+    editorial_quality: 74
+    trust: 77
+    reach: 69
+    freshness: 88
+    ux: 84
+    impact: 54
+- id: scnsoft-com
+  name: Software Development Company
+  canonical_url: https://scnsoft.com/
+  country: XX
+  best_for: business building and entrepreneurial judgment
+  reason: Software Development Company concentrates on business building and entrepreneurial judgment, with a visible article
+    archive, named authorship that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://scnsoft.com/
+  - https://www.scnsoft.com/about/careers
+  scores:
+    editorial_quality: 65
+    trust: 89
+    reach: 89
+    freshness: 66
+    ux: 84
+    impact: 82
+- id: morethandigital-info
+  name: MoreThanDigital
+  canonical_url: https://morethandigital.info/
+  country: XX
+  best_for: business building and entrepreneurial judgment
+  reason: MoreThanDigital concentrates on business building and entrepreneurial judgment, with a discoverable feed, a visible
+    article archive that makes its current publishing work easier to evaluate.
+  limitation: The latest parseable public date is older than the normal 180-day activity window, so its status needs closer
+    review.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://morethandigital.info/
+  - https://morethandigital.info/en/comments/feed/
+  - https://morethandigital.info/en/about-morethandigital/bethechange/
+  scores:
+    editorial_quality: 70
+    trust: 89
+    reach: 75
+    freshness: 45
+    ux: 84
+    impact: 79
+- id: liveplan-com
+  name: LivePlan
+  canonical_url: https://liveplan.com/
+  country: XX
+  best_for: leadership, management, and organizational work
+  reason: LivePlan concentrates on leadership, management, and organizational work, with clear ownership context that makes
+    its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://liveplan.com/
+  scores:
+    editorial_quality: 63
+    trust: 69
+    reach: 89
+    freshness: 58
+    ux: 84
+    impact: 82
+- id: blog-hubstaff-com
+  name: Hubstaff Blog
+  canonical_url: https://blog.hubstaff.com/
+  country: XX
+  best_for: startups, founders, and company building
+  reason: Hubstaff Blog concentrates on startups, founders, and company building, with a visible article archive, clear ownership
+    context that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://blog.hubstaff.com/
+  - https://hubstaff.com/project-time-tracker
+  scores:
+    editorial_quality: 67
+    trust: 82
+    reach: 48
+    freshness: 89
+    ux: 84
+    impact: 68
+- id: 100poundsocial-com
+  name: 100 Pound Social - Effective Social Media And Blog Content
+  canonical_url: https://100poundsocial.com/
+  country: XX
+  best_for: leadership, management, and organizational work
+  reason: 100 Pound Social - Effective Social Media And Blog Content concentrates on leadership, management, and organizational
+    work, with a visible article archive, clear ownership context that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://100poundsocial.com/
+  - https://100poundsocial.com/about/contact/
+  scores:
+    editorial_quality: 65
+    trust: 82
+    reach: 65
+    freshness: 78
+    ux: 76
+    impact: 57
+- id: gsb-stanford-edu
+  name: Stanford Graduate School of Business
+  canonical_url: https://gsb.stanford.edu/
+  country: XX
+  best_for: leadership, management, and organizational work
+  reason: Stanford Graduate School of Business concentrates on leadership, management, and organizational work, with a visible
+    article archive, clear ownership context that makes its current publishing work easier to evaluate.
+  limitation: Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.
+  confidence: provisional
+  reviewed_at: '2026-08-21'
+  evidence_urls:
+  - https://gsb.stanford.edu/
+  scores:
+    editorial_quality: 69
+    trust: 71
+    reach: 46
+    freshness: 66
+    ux: 84
+    impact: 68

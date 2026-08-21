@@ -1,0 +1,1838 @@
+{
+  "schema_version": 1,
+  "edition": "2026-09",
+  "status": "final",
+  "category": {
+    "slug": "health",
+    "name": "Health and Wellness",
+    "description": "Evidence-aware publishing about public health, fitness, nutrition, mental health, and sustainable wellbeing.",
+    "subcategories": [
+      "public-health",
+      "fitness",
+      "nutrition",
+      "mental-health",
+      "wellbeing"
+    ]
+  },
+  "track": {
+    "slug": "independent",
+    "label": "Independent Blogs"
+  },
+  "count": 100,
+  "items": [
+    {
+      "rank": 1,
+      "id": "wellnessmama-com",
+      "name": "Wellness Mama",
+      "url": "https://wellnessmama.com/",
+      "country": "XX",
+      "score": 98.0,
+      "movement": "new",
+      "best_for": "health education and sustainable wellbeing",
+      "reason": "Wellness Mama concentrates on health education and sustainable wellbeing, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://wellnessmama.com/",
+        "https://wellnessmama.com/feed/podcast",
+        "https://wellnessmama.com/about/"
+      ]
+    },
+    {
+      "rank": 2,
+      "id": "blogilates-com",
+      "name": "Blogilates",
+      "url": "https://blogilates.com/",
+      "country": "XX",
+      "score": 97.0,
+      "movement": "new",
+      "best_for": "fitness, exercise, and sustainable training",
+      "reason": "Blogilates concentrates on fitness, exercise, and sustainable training, with a discoverable feed, named authorship that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://blogilates.com/",
+        "https://www.blogilates.com/comments/feed/",
+        "https://www.blogilates.com/blog/the-truth-about-running-a-fashion-brand/"
+      ]
+    },
+    {
+      "rank": 3,
+      "id": "runningonrealfood-com",
+      "name": "Running on Real Food",
+      "url": "https://runningonrealfood.com/",
+      "country": "XX",
+      "score": 96.0,
+      "movement": "new",
+      "best_for": "nutrition and evidence-aware food decisions",
+      "reason": "Running on Real Food concentrates on nutrition and evidence-aware food decisions, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://runningonrealfood.com/",
+        "https://runningonrealfood.com/comments/feed/",
+        "https://runningonrealfood.com/about/"
+      ]
+    },
+    {
+      "rank": 4,
+      "id": "katheats-com",
+      "name": "Kath Eats",
+      "url": "https://katheats.com/",
+      "country": "XX",
+      "score": 95.0,
+      "movement": "new",
+      "best_for": "nutrition and evidence-aware food decisions",
+      "reason": "Kath Eats concentrates on nutrition and evidence-aware food decisions, with a discoverable feed that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://katheats.com/",
+        "https://www.katheats.com/comments/feed",
+        "https://www.katheats.com/kathrd"
+      ]
+    },
+    {
+      "rank": 5,
+      "id": "nutritionstripped-com",
+      "name": "Nutrition Stripped",
+      "url": "https://nutritionstripped.com/",
+      "country": "XX",
+      "score": 94.0,
+      "movement": "new",
+      "best_for": "nutrition and evidence-aware food decisions",
+      "reason": "Nutrition Stripped concentrates on nutrition and evidence-aware food decisions, with clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://nutritionstripped.com/",
+        "https://nutritionstripped.com/recipe-blogs/feed/",
+        "https://nutritionstripped.com/about-nutrition-stripped/"
+      ]
+    },
+    {
+      "rank": 6,
+      "id": "eatingbirdfood-com",
+      "name": "Eating Bird Food",
+      "url": "https://eatingbirdfood.com/",
+      "country": "XX",
+      "score": 93.0,
+      "movement": "new",
+      "best_for": "health education and sustainable wellbeing",
+      "reason": "Eating Bird Food concentrates on health education and sustainable wellbeing, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://eatingbirdfood.com/",
+        "https://www.eatingbirdfood.com/web-stories/feed/",
+        "https://www.eatingbirdfood.com/about/"
+      ]
+    },
+    {
+      "rank": 7,
+      "id": "healthpopuli-com",
+      "name": "HealthPopuli.com",
+      "url": "https://healthpopuli.com/",
+      "country": "XX",
+      "score": 92.0,
+      "movement": "new",
+      "best_for": "public health and healthcare systems",
+      "reason": "HealthPopuli.com concentrates on public health and healthcare systems, with a discoverable feed, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://healthpopuli.com/",
+        "https://www.healthpopuli.com/feed/",
+        "https://www.healthpopuli.com/about-jane/"
+      ]
+    },
+    {
+      "rank": 8,
+      "id": "mamavation-com",
+      "name": "MAMAVATION",
+      "url": "https://mamavation.com/",
+      "country": "XX",
+      "score": 91.0,
+      "movement": "new",
+      "best_for": "mental health and psychological wellbeing",
+      "reason": "MAMAVATION concentrates on mental health and psychological wellbeing, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://mamavation.com/",
+        "https://mamavation.com/comments/feed",
+        "https://mamavation.com/about-leah-segedie"
+      ]
+    },
+    {
+      "rank": 9,
+      "id": "heavenlynnhealthy-com",
+      "name": "Heavenlynn Healthy",
+      "url": "https://heavenlynnhealthy.com/",
+      "country": "XX",
+      "score": 90.0,
+      "movement": "new",
+      "best_for": "nutrition and evidence-aware food decisions",
+      "reason": "Heavenlynn Healthy concentrates on nutrition and evidence-aware food decisions, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://heavenlynnhealthy.com/",
+        "https://www.heavenlynnhealthy.com/healthy-lifestyle/resources/feed/",
+        "https://www.heavenlynnhealthy.com/about-me/"
+      ]
+    },
+    {
+      "rank": 10,
+      "id": "thefrontierpsychiatrists-substack-com",
+      "name": "The Frontier Psychiatrists",
+      "url": "https://thefrontierpsychiatrists.substack.com/",
+      "country": "XX",
+      "score": 89.0,
+      "movement": "new",
+      "best_for": "health education and sustainable wellbeing",
+      "reason": "The Frontier Psychiatrists concentrates on health education and sustainable wellbeing, with a discoverable feed that makes its current publishing work easier to evaluate.",
+      "limitation": "Authorship and editorial-policy information is less visible than on higher-ranked publications.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://thefrontierpsychiatrists.substack.com/",
+        "https://thefrontierpsychiatrists.substack.com/feed"
+      ]
+    },
+    {
+      "rank": 11,
+      "id": "ama-assn-org",
+      "name": "American Medical Association",
+      "url": "https://ama-assn.org/",
+      "country": "XX",
+      "score": 82.9,
+      "movement": "new",
+      "best_for": "medicine and patient-facing health education",
+      "reason": "American Medical Association concentrates on medicine and patient-facing health education, with a visible article archive, named authorship that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://ama-assn.org/",
+        "https://www.ama-assn.org/about/publications-newsletters/ama-podcasts"
+      ]
+    },
+    {
+      "rank": 12,
+      "id": "cosmopolitan-com",
+      "name": "Cosmopolitan",
+      "url": "https://cosmopolitan.com/",
+      "country": "XX",
+      "score": 80.5,
+      "movement": "new",
+      "best_for": "nutrition and evidence-aware food decisions",
+      "reason": "Cosmopolitan concentrates on nutrition and evidence-aware food decisions, with named authorship, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://cosmopolitan.com/",
+        "https://www.cosmopolitan.com/about/a26950060/about-us-contact-information-masthead/"
+      ]
+    },
+    {
+      "rank": 13,
+      "id": "theroastedroot-net",
+      "name": "The Roasted Root",
+      "url": "https://theroastedroot.net/",
+      "country": "XX",
+      "score": 78.0,
+      "movement": "new",
+      "best_for": "health education and sustainable wellbeing",
+      "reason": "The Roasted Root concentrates on health education and sustainable wellbeing, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://theroastedroot.net/",
+        "https://www.theroastedroot.net/web-stories/feed/"
+      ]
+    },
+    {
+      "rank": 14,
+      "id": "athletechnews-com",
+      "name": "Athletech News",
+      "url": "https://athletechnews.com/",
+      "country": "XX",
+      "score": 77.5,
+      "movement": "new",
+      "best_for": "fitness, exercise, and sustainable training",
+      "reason": "Athletech News concentrates on fitness, exercise, and sustainable training, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://athletechnews.com/",
+        "https://athletechnews.com/feed/"
+      ]
+    },
+    {
+      "rank": 15,
+      "id": "rasmussen-edu",
+      "name": "Rasmussen University",
+      "url": "https://rasmussen.edu/",
+      "country": "XX",
+      "score": 77.3,
+      "movement": "new",
+      "best_for": "mental health and psychological wellbeing",
+      "reason": "Rasmussen University concentrates on mental health and psychological wellbeing, with named authorship, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://rasmussen.edu/",
+        "https://www.rasmussen.edu/about-rasmussen/careers/hire-a-grad/"
+      ]
+    },
+    {
+      "rank": 16,
+      "id": "breakingmuscle-com",
+      "name": "Breaking Muscle",
+      "url": "https://breakingmuscle.com/",
+      "country": "XX",
+      "score": 77.2,
+      "movement": "new",
+      "best_for": "fitness, exercise, and sustainable training",
+      "reason": "Breaking Muscle concentrates on fitness, exercise, and sustainable training, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://breakingmuscle.com/",
+        "https://breakingmuscle.com/comments/feed/"
+      ]
+    },
+    {
+      "rank": 17,
+      "id": "domino-com",
+      "name": "domino",
+      "url": "https://domino.com/",
+      "country": "XX",
+      "score": 77.1,
+      "movement": "new",
+      "best_for": "health education and sustainable wellbeing",
+      "reason": "domino concentrates on health education and sustainable wellbeing, with a discoverable feed, named authorship that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://domino.com/",
+        "https://www.domino.com/feed/"
+      ]
+    },
+    {
+      "rank": 18,
+      "id": "amafoundation-org",
+      "name": "The AMA Foundation",
+      "url": "https://amafoundation.org/",
+      "country": "XX",
+      "score": 77.0,
+      "movement": "new",
+      "best_for": "medicine and patient-facing health education",
+      "reason": "The AMA Foundation concentrates on medicine and patient-facing health education, with a visible article archive, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://amafoundation.org/",
+        "https://amafoundation.org/history"
+      ]
+    },
+    {
+      "rank": 19,
+      "id": "coachweb-com",
+      "name": "Coach",
+      "url": "https://coachweb.com/",
+      "country": "XX",
+      "score": 76.9,
+      "movement": "new",
+      "best_for": "fitness, exercise, and sustainable training",
+      "reason": "Coach concentrates on fitness, exercise, and sustainable training, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://coachweb.com/",
+        "https://www.coachweb.com/feeds.xml"
+      ]
+    },
+    {
+      "rank": 20,
+      "id": "mentalhealthathome-org",
+      "name": "Mental Health @ Home",
+      "url": "https://mentalhealthathome.org/",
+      "country": "XX",
+      "score": 76.7,
+      "movement": "new",
+      "best_for": "mental health and psychological wellbeing",
+      "reason": "Mental Health @ Home concentrates on mental health and psychological wellbeing, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://mentalhealthathome.org/",
+        "https://mentalhealthathome.org/comments/feed/",
+        "https://mentalhealthathome.org/about/"
+      ]
+    },
+    {
+      "rank": 21,
+      "id": "outsideonline-com",
+      "name": "Outside Online",
+      "url": "https://outsideonline.com/",
+      "country": "XX",
+      "score": 76.6,
+      "movement": "new",
+      "best_for": "fitness, exercise, and sustainable training",
+      "reason": "Outside Online concentrates on fitness, exercise, and sustainable training, with a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://outsideonline.com/",
+        "https://www.outsideonline.com/culture/feed/",
+        "https://www.outsideonline.com/culture/books-media/yesteryear-novel-homesteading-influencers-reality/"
+      ]
+    },
+    {
+      "rank": 22,
+      "id": "avocadu-com",
+      "name": "Avocadu",
+      "url": "https://avocadu.com/",
+      "country": "XX",
+      "score": 76.5,
+      "movement": "new",
+      "best_for": "nutrition and evidence-aware food decisions",
+      "reason": "Avocadu concentrates on nutrition and evidence-aware food decisions, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://avocadu.com/",
+        "https://avocadu.com/comments/feed/",
+        "https://avocadu.com/about-us/"
+      ]
+    },
+    {
+      "rank": 23,
+      "id": "snacknation-com",
+      "name": "SnackNation",
+      "url": "https://snacknation.com/",
+      "country": "XX",
+      "score": 76.2,
+      "movement": "new",
+      "best_for": "mental health and psychological wellbeing",
+      "reason": "SnackNation concentrates on mental health and psychological wellbeing, with a discoverable feed, named authorship that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://snacknation.com/",
+        "https://snacknation.com/office-snack-delivery/feed/"
+      ]
+    },
+    {
+      "rank": 24,
+      "id": "nutritiontwins-com",
+      "name": "Nutrition Twins",
+      "url": "https://nutritiontwins.com/",
+      "country": "XX",
+      "score": 76.1,
+      "movement": "new",
+      "best_for": "nutrition and evidence-aware food decisions",
+      "reason": "Nutrition Twins concentrates on nutrition and evidence-aware food decisions, with a visible article archive, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://nutritiontwins.com/",
+        "https://www.nutritiontwins.com/blog/#"
+      ]
+    },
+    {
+      "rank": 25,
+      "id": "mallorythedietitian-com",
+      "name": "Mallory the Dietitian",
+      "url": "https://mallorythedietitian.com/",
+      "country": "XX",
+      "score": 76.0,
+      "movement": "new",
+      "best_for": "nutrition and evidence-aware food decisions",
+      "reason": "Mallory the Dietitian concentrates on nutrition and evidence-aware food decisions, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The homepage is heavier and more commercially layered than a focused reading experience.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://mallorythedietitian.com/",
+        "https://mallorythedietitian.com/comments/feed/",
+        "https://mallorythedietitian.com/about-me/"
+      ]
+    },
+    {
+      "rank": 26,
+      "id": "cleaneatingkitchen-com",
+      "name": "Clean Eating Kitchen",
+      "url": "https://cleaneatingkitchen.com/",
+      "country": "XX",
+      "score": 76.0,
+      "movement": "new",
+      "best_for": "nutrition and evidence-aware food decisions",
+      "reason": "Clean Eating Kitchen concentrates on nutrition and evidence-aware food decisions, with a visible article archive, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://cleaneatingkitchen.com/",
+        "https://www.cleaneatingkitchen.com/about/"
+      ]
+    },
+    {
+      "rank": 27,
+      "id": "modded-com",
+      "name": "Modded",
+      "url": "https://modded.com/",
+      "country": "XX",
+      "score": 75.9,
+      "movement": "new",
+      "best_for": "fitness, exercise, and sustainable training",
+      "reason": "Modded concentrates on fitness, exercise, and sustainable training, with a visible article archive, named authorship that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://modded.com/",
+        "https://modded.com/fitness/keito-nakamura/"
+      ]
+    },
+    {
+      "rank": 28,
+      "id": "thehealthcareblog-com",
+      "name": "The Health Care Blog",
+      "url": "https://thehealthcareblog.com/",
+      "country": "XX",
+      "score": 75.8,
+      "movement": "new",
+      "best_for": "health education and sustainable wellbeing",
+      "reason": "The Health Care Blog concentrates on health education and sustainable wellbeing, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://thehealthcareblog.com/",
+        "https://thehealthcareblog.com/comments/feed/"
+      ]
+    },
+    {
+      "rank": 29,
+      "id": "topdoctormagazine-com",
+      "name": "TopDoctor Magazine",
+      "url": "https://topdoctormagazine.com/",
+      "country": "XX",
+      "score": 75.5,
+      "movement": "new",
+      "best_for": "medicine and patient-facing health education",
+      "reason": "TopDoctor Magazine concentrates on medicine and patient-facing health education, with a discoverable feed, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://topdoctormagazine.com/",
+        "https://topdoctormagazine.com/comments/feed/",
+        "https://topdoctormagazine.com/about-us/"
+      ]
+    },
+    {
+      "rank": 30,
+      "id": "journalofethics-ama-assn-org",
+      "name": "Journal of Ethics | American Medical Association",
+      "url": "https://journalofethics.ama-assn.org/",
+      "country": "XX",
+      "score": 74.4,
+      "movement": "new",
+      "best_for": "medicine and patient-facing health education",
+      "reason": "Journal of Ethics | American Medical Association concentrates on medicine and patient-facing health education, with a visible article archive, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://journalofethics.ama-assn.org/"
+      ]
+    },
+    {
+      "rank": 31,
+      "id": "beyondblue-org-au",
+      "name": "24/7 Support for Anxiety, Depression and Suicide Prevention.",
+      "url": "https://beyondblue.org.au/",
+      "country": "AU",
+      "score": 74.3,
+      "movement": "new",
+      "best_for": "mental health and psychological wellbeing",
+      "reason": "24/7 Support for Anxiety, Depression and Suicide Prevention. concentrates on mental health and psychological wellbeing, with clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://beyondblue.org.au/",
+        "https://www.beyondblue.org.au/mental-health"
+      ]
+    },
+    {
+      "rank": 32,
+      "id": "developgoodhabits-com",
+      "name": "Develop Good Habits | Helping Families Thrive",
+      "url": "https://developgoodhabits.com/",
+      "country": "XX",
+      "score": 74.2,
+      "movement": "new",
+      "best_for": "fitness, exercise, and sustainable training",
+      "reason": "Develop Good Habits | Helping Families Thrive concentrates on fitness, exercise, and sustainable training, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://developgoodhabits.com/",
+        "https://www.developgoodhabits.com/fitness-blogs/feed/",
+        "https://www.developgoodhabits.com/about-s-j-scott/"
+      ]
+    },
+    {
+      "rank": 33,
+      "id": "goop-com",
+      "name": "Goop",
+      "url": "https://goop.com/",
+      "country": "XX",
+      "score": 74.2,
+      "movement": "new",
+      "best_for": "public health and healthcare systems",
+      "reason": "Goop concentrates on public health and healthcare systems, with clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://goop.com/",
+        "https://goop.com/beauty/personal-care/roxana-saidi-tache-morning-routine?click=eyJpbmRleCI6InByb2R1Y3Rpb25fZ29vcF9wYXlsb2FkX3Bvc3RzIiwicG9zaXRpb24iOiIyIn0"
+      ]
+    },
+    {
+      "rank": 34,
+      "id": "sender-net",
+      "name": "Sender",
+      "url": "https://sender.net/",
+      "country": "XX",
+      "score": 74.1,
+      "movement": "new",
+      "best_for": "mental health and psychological wellbeing",
+      "reason": "Sender concentrates on mental health and psychological wellbeing, with clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://sender.net/"
+      ]
+    },
+    {
+      "rank": 35,
+      "id": "venngage-com",
+      "name": "Venngage",
+      "url": "https://venngage.com/",
+      "country": "XX",
+      "score": 74.0,
+      "movement": "new",
+      "best_for": "health education and sustainable wellbeing",
+      "reason": "Venngage concentrates on health education and sustainable wellbeing, with named authorship, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://venngage.com/",
+        "https://venngage.com/about"
+      ]
+    },
+    {
+      "rank": 36,
+      "id": "mytherapyapp-com",
+      "name": "Medication Reminder and Pill Tracker App 💊⏰📲– MyTherapy",
+      "url": "https://mytherapyapp.com/",
+      "country": "XX",
+      "score": 73.9,
+      "movement": "new",
+      "best_for": "mental health and psychological wellbeing",
+      "reason": "Medication Reminder and Pill Tracker App 💊⏰📲– MyTherapy concentrates on mental health and psychological wellbeing, with a visible article archive, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://mytherapyapp.com/",
+        "https://www.mytherapyapp.com/about"
+      ]
+    },
+    {
+      "rank": 37,
+      "id": "iawpwellnesscoach-com",
+      "name": "IAWP Holistic Wellness Coach",
+      "url": "https://iawpwellnesscoach.com/",
+      "country": "XX",
+      "score": 73.7,
+      "movement": "new",
+      "best_for": "health education and sustainable wellbeing",
+      "reason": "IAWP Holistic Wellness Coach concentrates on health education and sustainable wellbeing, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://iawpwellnesscoach.com/",
+        "https://iawpwellnesscoach.com/feed/"
+      ]
+    },
+    {
+      "rank": 38,
+      "id": "code-medical-ethics-ama-assn-org",
+      "name": "AMA Code of Medical Ethics",
+      "url": "https://code-medical-ethics.ama-assn.org/",
+      "country": "XX",
+      "score": 73.7,
+      "movement": "new",
+      "best_for": "medicine and patient-facing health education",
+      "reason": "AMA Code of Medical Ethics concentrates on medicine and patient-facing health education, with a visible article archive, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://code-medical-ethics.ama-assn.org/",
+        "https://code-medical-ethics.ama-assn.org/about"
+      ]
+    },
+    {
+      "rank": 39,
+      "id": "29secrets-com",
+      "name": "29Secrets",
+      "url": "https://29secrets.com/",
+      "country": "XX",
+      "score": 73.6,
+      "movement": "new",
+      "best_for": "fitness, exercise, and sustainable training",
+      "reason": "29Secrets concentrates on fitness, exercise, and sustainable training, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://29secrets.com/",
+        "https://29secrets.com/wellness/6-free-health-and-wellness-newsletters-you-should-definitely-subscribe-to/feed/",
+        "https://29secrets.com/wellness/rosie-odonnell-is-opening-up-about-getting-a-deep-plane-facelift/"
+      ]
+    },
+    {
+      "rank": 40,
+      "id": "blog-ochsner-org",
+      "name": "Ochsner Health System",
+      "url": "https://blog.ochsner.org/",
+      "country": "XX",
+      "score": 73.4,
+      "movement": "new",
+      "best_for": "nutrition and evidence-aware food decisions",
+      "reason": "Ochsner Health System concentrates on nutrition and evidence-aware food decisions, with a visible article archive, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://blog.ochsner.org/"
+      ]
+    },
+    {
+      "rank": 41,
+      "id": "freida-ama-assn-org",
+      "name": "FREIDA Residency Program Database | Medical Fellowship Database | AMA",
+      "url": "https://freida.ama-assn.org/",
+      "country": "XX",
+      "score": 73.0,
+      "movement": "new",
+      "best_for": "medicine and patient-facing health education",
+      "reason": "FREIDA Residency Program Database | Medical Fellowship Database | AMA concentrates on medicine and patient-facing health education, with a visible article archive, named authorship that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://freida.ama-assn.org/"
+      ]
+    },
+    {
+      "rank": 42,
+      "id": "healingandwellnessforyou-com",
+      "name": "Healing And Wellness For You",
+      "url": "https://healingandwellnessforyou.com/",
+      "country": "XX",
+      "score": 72.8,
+      "movement": "new",
+      "best_for": "mental health and psychological wellbeing",
+      "reason": "Healing And Wellness For You concentrates on mental health and psychological wellbeing, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://healingandwellnessforyou.com/",
+        "https://healingandwellnessforyou.com/web-stories/feed/"
+      ]
+    },
+    {
+      "rank": 43,
+      "id": "relentlesshealthvalue-com",
+      "name": "Relentlesshealthvalue",
+      "url": "https://relentlesshealthvalue.com/",
+      "country": "XX",
+      "score": 72.5,
+      "movement": "new",
+      "best_for": "health education and sustainable wellbeing",
+      "reason": "Relentlesshealthvalue concentrates on health education and sustainable wellbeing, with a discoverable feed, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://relentlesshealthvalue.com/",
+        "https://feeds.libsyn.com/54094/rss",
+        "https://relentlesshealthvalue.com/about"
+      ]
+    },
+    {
+      "rank": 44,
+      "id": "mountainmamacooks-com",
+      "name": "Mountain Mama Cooks",
+      "url": "https://mountainmamacooks.com/",
+      "country": "XX",
+      "score": 72.4,
+      "movement": "new",
+      "best_for": "nutrition and evidence-aware food decisions",
+      "reason": "Mountain Mama Cooks concentrates on nutrition and evidence-aware food decisions, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://mountainmamacooks.com/",
+        "https://mountainmamacooks.com/the-goods-favorite-healthy-food-blogs/feed/",
+        "https://mountainmamacooks.com/about/"
+      ]
+    },
+    {
+      "rank": 45,
+      "id": "blog-lafitness-com",
+      "name": "Living Healthy",
+      "url": "https://blog.lafitness.com/",
+      "country": "XX",
+      "score": 72.3,
+      "movement": "new",
+      "best_for": "fitness, exercise, and sustainable training",
+      "reason": "Living Healthy concentrates on fitness, exercise, and sustainable training, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://blog.lafitness.com/",
+        "https://blog.lafitness.com/comments/feed/",
+        "https://blog.lafitness.com/2024/09/20/what-to-know-about-protein-powder-and-supplements/"
+      ]
+    },
+    {
+      "rank": 46,
+      "id": "bestfitnessgyms-com",
+      "name": "Best Fitness Gyms | Gyms in Metro Boston for all your Fitness Needs",
+      "url": "https://bestfitnessgyms.com/",
+      "country": "XX",
+      "score": 72.3,
+      "movement": "new",
+      "best_for": "fitness, exercise, and sustainable training",
+      "reason": "Best Fitness Gyms | Gyms in Metro Boston for all your Fitness Needs concentrates on fitness, exercise, and sustainable training, with a discoverable feed, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://bestfitnessgyms.com/",
+        "https://bestfitnessgyms.com/comments/feed/",
+        "https://bestfitnessgyms.com/about-us/"
+      ]
+    },
+    {
+      "rank": 47,
+      "id": "fitbottomedgirls-com",
+      "name": "Fit Bottomed Girls",
+      "url": "https://fitbottomedgirls.com/",
+      "country": "XX",
+      "score": 72.0,
+      "movement": "new",
+      "best_for": "fitness, exercise, and sustainable training",
+      "reason": "Fit Bottomed Girls concentrates on fitness, exercise, and sustainable training, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://fitbottomedgirls.com/",
+        "https://fitbottomedgirls.com/web-stories/feed/",
+        "https://fitbottomedgirls.com/about-us/contact/"
+      ]
+    },
+    {
+      "rank": 48,
+      "id": "zotezo-com",
+      "name": "Zotezo.com",
+      "url": "https://zotezo.com/",
+      "country": "XX",
+      "score": 72.0,
+      "movement": "new",
+      "best_for": "mental health and psychological wellbeing",
+      "reason": "Zotezo.com concentrates on mental health and psychological wellbeing, with clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://zotezo.com/"
+      ]
+    },
+    {
+      "rank": 49,
+      "id": "keepitsimpelle-com",
+      "name": "keep it simpElle",
+      "url": "https://keepitsimpelle.com/",
+      "country": "XX",
+      "score": 71.5,
+      "movement": "new",
+      "best_for": "fitness, exercise, and sustainable training",
+      "reason": "keep it simpElle concentrates on fitness, exercise, and sustainable training, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://keepitsimpelle.com/",
+        "https://www.keepitsimpelle.com/web-stories/feed/",
+        "https://www.keepitsimpelle.com/#"
+      ]
+    },
+    {
+      "rank": 50,
+      "id": "blog-nasm-org",
+      "name": "Health & Fitness Blog",
+      "url": "https://blog.nasm.org/",
+      "country": "XX",
+      "score": 71.4,
+      "movement": "new",
+      "best_for": "fitness, exercise, and sustainable training",
+      "reason": "Health & Fitness Blog concentrates on fitness, exercise, and sustainable training, with a discoverable feed, named authorship that makes its current publishing work easier to evaluate.",
+      "limitation": "Authorship and editorial-policy information is less visible than on higher-ranked publications.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://blog.nasm.org/",
+        "https://blog.nasm.org/rss.xml"
+      ]
+    },
+    {
+      "rank": 51,
+      "id": "faim-org",
+      "name": "Foundation for Alternative and Integrative Medicine",
+      "url": "https://faim.org/",
+      "country": "XX",
+      "score": 71.2,
+      "movement": "new",
+      "best_for": "medicine and patient-facing health education",
+      "reason": "Foundation for Alternative and Integrative Medicine concentrates on medicine and patient-facing health education, with a visible article archive, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://faim.org/",
+        "https://faim.org/about-us"
+      ]
+    },
+    {
+      "rank": 52,
+      "id": "us-womensbest-com",
+      "name": "Women’s Best US",
+      "url": "https://us.womensbest.com/",
+      "country": "XX",
+      "score": 71.1,
+      "movement": "new",
+      "best_for": "fitness, exercise, and sustainable training",
+      "reason": "Women’s Best US concentrates on fitness, exercise, and sustainable training, with a clearly defined editorial focus that makes its current publishing work easier to evaluate.",
+      "limitation": "Some complete material may require registration, membership, or a paid subscription.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://us.womensbest.com/",
+        "https://us.womensbest.com/blogs/all.atom",
+        "https://us.womensbest.com/blogs/news/pastel-color-drop"
+      ]
+    },
+    {
+      "rank": 53,
+      "id": "thenutritioninsider-com",
+      "name": "The Nutrition Insider",
+      "url": "https://thenutritioninsider.com/",
+      "country": "XX",
+      "score": 71.0,
+      "movement": "new",
+      "best_for": "nutrition and evidence-aware food decisions",
+      "reason": "The Nutrition Insider concentrates on nutrition and evidence-aware food decisions, with a visible article archive, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://thenutritioninsider.com/"
+      ]
+    },
+    {
+      "rank": 54,
+      "id": "bloggingherway-com",
+      "name": "Blogging Her Way",
+      "url": "https://bloggingherway.com/",
+      "country": "XX",
+      "score": 70.5,
+      "movement": "new",
+      "best_for": "mental health and psychological wellbeing",
+      "reason": "Blogging Her Way concentrates on mental health and psychological wellbeing, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://bloggingherway.com/",
+        "https://www.bloggingherway.com/comments/feed/"
+      ]
+    },
+    {
+      "rank": 55,
+      "id": "muscleandstrength-com",
+      "name": "Muscle & Strength",
+      "url": "https://muscleandstrength.com/",
+      "country": "XX",
+      "score": 70.5,
+      "movement": "new",
+      "best_for": "fitness, exercise, and sustainable training",
+      "reason": "Muscle & Strength concentrates on fitness, exercise, and sustainable training, with a discoverable feed, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://muscleandstrength.com/",
+        "https://www.muscleandstrength.com/rss.xml",
+        "https://muscleandstrength.com/about"
+      ]
+    },
+    {
+      "rank": 56,
+      "id": "inboxreads-co",
+      "name": "InboxReads",
+      "url": "https://inboxreads.co/",
+      "country": "XX",
+      "score": 70.4,
+      "movement": "new",
+      "best_for": "health education and sustainable wellbeing",
+      "reason": "InboxReads concentrates on health education and sustainable wellbeing, with a visible article archive, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Some complete material may require registration, membership, or a paid subscription.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://inboxreads.co/",
+        "https://inboxreads.co/changelog/message-multiple-newsletters-at-once"
+      ]
+    },
+    {
+      "rank": 57,
+      "id": "startuphealth-com",
+      "name": "StartUp Health",
+      "url": "https://startuphealth.com/",
+      "country": "XX",
+      "score": 70.2,
+      "movement": "new",
+      "best_for": "health education and sustainable wellbeing",
+      "reason": "StartUp Health concentrates on health education and sustainable wellbeing, with a visible article archive, named authorship that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://startuphealth.com/",
+        "https://www.startuphealth.com/team"
+      ]
+    },
+    {
+      "rank": 58,
+      "id": "health2047-com",
+      "name": "Health2047",
+      "url": "https://health2047.com/",
+      "country": "XX",
+      "score": 69.5,
+      "movement": "new",
+      "best_for": "medicine and patient-facing health education",
+      "reason": "Health2047 concentrates on medicine and patient-facing health education, with a discoverable feed, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://health2047.com/",
+        "https://health2047.com/feed/"
+      ]
+    },
+    {
+      "rank": 59,
+      "id": "convertnow-co",
+      "name": "Convert Now",
+      "url": "https://convertnow.co/",
+      "country": "XX",
+      "score": 69.0,
+      "movement": "new",
+      "best_for": "medicine and patient-facing health education",
+      "reason": "Convert Now concentrates on medicine and patient-facing health education, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Authorship and editorial-policy information is less visible than on higher-ranked publications.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://convertnow.co/",
+        "https://convertnow.co/resources/feed/",
+        "https://convertnow.co/resources/health-newsletter-examples/#"
+      ]
+    },
+    {
+      "rank": 60,
+      "id": "anxiouslass-com",
+      "name": "Anxious Lass",
+      "url": "https://anxiouslass.com/",
+      "country": "XX",
+      "score": 68.7,
+      "movement": "new",
+      "best_for": "mental health and psychological wellbeing",
+      "reason": "Anxious Lass concentrates on mental health and psychological wellbeing, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://anxiouslass.com/",
+        "https://anxiouslass.com/comments/feed/"
+      ]
+    },
+    {
+      "rank": 61,
+      "id": "elainesir-com",
+      "name": "ELAINE SIR",
+      "url": "https://elainesir.com/",
+      "country": "XX",
+      "score": 68.5,
+      "movement": "new",
+      "best_for": "health education and sustainable wellbeing",
+      "reason": "ELAINE SIR concentrates on health education and sustainable wellbeing, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://elainesir.com/",
+        "https://elainesir.com/comments/feed/"
+      ]
+    },
+    {
+      "rank": 62,
+      "id": "healthapiguy-substack-com",
+      "name": "Health API Guy",
+      "url": "https://healthapiguy.substack.com/",
+      "country": "XX",
+      "score": 68.3,
+      "movement": "new",
+      "best_for": "health education and sustainable wellbeing",
+      "reason": "Health API Guy concentrates on health education and sustainable wellbeing, with a discoverable feed that makes its current publishing work easier to evaluate.",
+      "limitation": "Authorship and editorial-policy information is less visible than on higher-ranked publications.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://healthapiguy.substack.com/",
+        "https://healthapiguy.substack.com/feed"
+      ]
+    },
+    {
+      "rank": 63,
+      "id": "healthydose-co",
+      "name": "The Healthy Dose",
+      "url": "https://healthydose.co/",
+      "country": "XX",
+      "score": 68.3,
+      "movement": "new",
+      "best_for": "health education and sustainable wellbeing",
+      "reason": "The Healthy Dose concentrates on health education and sustainable wellbeing, with named authorship, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://healthydose.co/",
+        "https://healthydose.co/p/protein-isn-t-just-about-muscles"
+      ]
+    },
+    {
+      "rank": 64,
+      "id": "heallist-com",
+      "name": "Heallist",
+      "url": "https://heallist.com/",
+      "country": "XX",
+      "score": 68.2,
+      "movement": "new",
+      "best_for": "health education and sustainable wellbeing",
+      "reason": "Heallist concentrates on health education and sustainable wellbeing, with clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://heallist.com/",
+        "https://www.heallist.com/about"
+      ]
+    },
+    {
+      "rank": 65,
+      "id": "massivelybetterhealthcare-com",
+      "name": "Massively Better Healthcare",
+      "url": "https://massivelybetterhealthcare.com/",
+      "country": "XX",
+      "score": 67.3,
+      "movement": "new",
+      "best_for": "health education and sustainable wellbeing",
+      "reason": "Massively Better Healthcare concentrates on health education and sustainable wellbeing, with a visible article archive, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://massivelybetterhealthcare.com/",
+        "https://www.massivelybetterhealthcare.com/resources?format=rss",
+        "https://www.massivelybetterhealthcare.com/about"
+      ]
+    },
+    {
+      "rank": 66,
+      "id": "behavioralhealthtech-com",
+      "name": "The Behavioral Health Tech Conference",
+      "url": "https://behavioralhealthtech.com/",
+      "country": "XX",
+      "score": 67.2,
+      "movement": "new",
+      "best_for": "mental health and psychological wellbeing",
+      "reason": "The Behavioral Health Tech Conference concentrates on mental health and psychological wellbeing, with clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://behavioralhealthtech.com/",
+        "https://www.behavioralhealthtech.com/about-us"
+      ]
+    },
+    {
+      "rank": 67,
+      "id": "visanahealth-com",
+      "name": "Comprehensive Women's Healthcare",
+      "url": "https://visanahealth.com/",
+      "country": "XX",
+      "score": 67.2,
+      "movement": "new",
+      "best_for": "health education and sustainable wellbeing",
+      "reason": "Comprehensive Women's Healthcare concentrates on health education and sustainable wellbeing, with clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://visanahealth.com/",
+        "https://www.visanahealth.com/about-us"
+      ]
+    },
+    {
+      "rank": 68,
+      "id": "amandagracenutrition-com",
+      "name": "Amanda Grace Nutrition",
+      "url": "https://amandagracenutrition.com/",
+      "country": "XX",
+      "score": 67.0,
+      "movement": "new",
+      "best_for": "nutrition and evidence-aware food decisions",
+      "reason": "Amanda Grace Nutrition concentrates on nutrition and evidence-aware food decisions, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://amandagracenutrition.com/",
+        "https://www.amandagracenutrition.com/comments/feed/"
+      ]
+    },
+    {
+      "rank": 69,
+      "id": "commerce-ama-assn-org",
+      "name": "American Medical Association",
+      "url": "https://commerce.ama-assn.org/",
+      "country": "XX",
+      "score": 67.0,
+      "movement": "new",
+      "best_for": "medicine and patient-facing health education",
+      "reason": "American Medical Association concentrates on medicine and patient-facing health education, with named authorship, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://commerce.ama-assn.org/"
+      ]
+    },
+    {
+      "rank": 70,
+      "id": "healthtransformation-net",
+      "name": "Health Transformation",
+      "url": "https://healthtransformation.net/",
+      "country": "XX",
+      "score": 66.9,
+      "movement": "new",
+      "best_for": "nutrition and evidence-aware food decisions",
+      "reason": "Health Transformation concentrates on nutrition and evidence-aware food decisions, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://healthtransformation.net/",
+        "https://www.healthtransformation.net/comments/feed/",
+        "https://www.healthtransformation.net/about-our-website/"
+      ]
+    },
+    {
+      "rank": 71,
+      "id": "trythis-dhrupurohit-com",
+      "name": "Try This",
+      "url": "https://trythis.dhrupurohit.com/",
+      "country": "XX",
+      "score": 66.8,
+      "movement": "new",
+      "best_for": "health education and sustainable wellbeing",
+      "reason": "Try This concentrates on health education and sustainable wellbeing, with a discoverable feed, named authorship that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://trythis.dhrupurohit.com/",
+        "https://rss.beehiiv.com/feeds/x0uaGkraEX.xml"
+      ]
+    },
+    {
+      "rank": 72,
+      "id": "longyearhealth-substack-com",
+      "name": "Health Tech Happy Hour",
+      "url": "https://longyearhealth.substack.com/",
+      "country": "XX",
+      "score": 66.5,
+      "movement": "new",
+      "best_for": "health education and sustainable wellbeing",
+      "reason": "Health Tech Happy Hour concentrates on health education and sustainable wellbeing, with a discoverable feed that makes its current publishing work easier to evaluate.",
+      "limitation": "Authorship and editorial-policy information is less visible than on higher-ranked publications.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://longyearhealth.substack.com/",
+        "https://longyearhealth.substack.com/feed"
+      ]
+    },
+    {
+      "rank": 73,
+      "id": "nubeginningsfrance-com",
+      "name": "Fresh Start Health France",
+      "url": "https://nubeginningsfrance.com/",
+      "country": "XX",
+      "score": 65.8,
+      "movement": "new",
+      "best_for": "medicine and patient-facing health education",
+      "reason": "Fresh Start Health France concentrates on medicine and patient-facing health education, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Authorship and editorial-policy information is less visible than on higher-ranked publications.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://nubeginningsfrance.com/",
+        "https://nubeginningsfrance.com/feed/atom"
+      ]
+    },
+    {
+      "rank": 74,
+      "id": "mentalhappy-com",
+      "name": "Find & Host Online Support Groups That Actually Fill Up",
+      "url": "https://mentalhappy.com/",
+      "country": "XX",
+      "score": 65.8,
+      "movement": "new",
+      "best_for": "mental health and psychological wellbeing",
+      "reason": "Find & Host Online Support Groups That Actually Fill Up concentrates on mental health and psychological wellbeing, with clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://mentalhappy.com/",
+        "https://www.mentalhappy.com/about-us"
+      ]
+    },
+    {
+      "rank": 75,
+      "id": "mind-potenciaeducation-com",
+      "name": "🧠 Potencia Mind Newsletter",
+      "url": "https://mind.potenciaeducation.com/",
+      "country": "XX",
+      "score": 65.6,
+      "movement": "new",
+      "best_for": "mental health and psychological wellbeing",
+      "reason": "🧠 Potencia Mind Newsletter concentrates on mental health and psychological wellbeing, with a discoverable feed, named authorship that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://mind.potenciaeducation.com/",
+        "https://rss.beehiiv.com/feeds/oDoOkJMEXv.xml"
+      ]
+    },
+    {
+      "rank": 76,
+      "id": "clearfocustraining-co-uk",
+      "name": "Clearfocus Training",
+      "url": "https://clearfocustraining.co.uk/",
+      "country": "GB",
+      "score": 65.5,
+      "movement": "new",
+      "best_for": "mental health and psychological wellbeing",
+      "reason": "Clearfocus Training concentrates on mental health and psychological wellbeing, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://clearfocustraining.co.uk/",
+        "https://www.clearfocustraining.co.uk/comments/feed/",
+        "https://www.clearfocustraining.co.uk/about/"
+      ]
+    },
+    {
+      "rank": 77,
+      "id": "my-toneitup-com",
+      "name": "Tone It Up",
+      "url": "https://my.toneitup.com/",
+      "country": "XX",
+      "score": 65.5,
+      "movement": "new",
+      "best_for": "fitness, exercise, and sustainable training",
+      "reason": "Tone It Up concentrates on fitness, exercise, and sustainable training, with a clearly defined editorial focus that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://my.toneitup.com/",
+        "https://my.toneitup.com/pages/our-story"
+      ]
+    },
+    {
+      "rank": 78,
+      "id": "outofpocket-health",
+      "name": "Out-Of-Pocket: Making healthcare easy to understand.",
+      "url": "https://outofpocket.health/",
+      "country": "XX",
+      "score": 65.5,
+      "movement": "new",
+      "best_for": "health education and sustainable wellbeing",
+      "reason": "Out-Of-Pocket: Making healthcare easy to understand. concentrates on health education and sustainable wellbeing, with a clearly defined editorial focus that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://outofpocket.health/"
+      ]
+    },
+    {
+      "rank": 79,
+      "id": "healthcaredealflow-com",
+      "name": "Healthcaredealflow",
+      "url": "https://healthcaredealflow.com/",
+      "country": "XX",
+      "score": 64.8,
+      "movement": "new",
+      "best_for": "health education and sustainable wellbeing",
+      "reason": "Healthcaredealflow concentrates on health education and sustainable wellbeing, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Authorship and editorial-policy information is less visible than on higher-ranked publications.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://healthcaredealflow.com/",
+        "https://healthcaredealflow.com/comments/feed/"
+      ]
+    },
+    {
+      "rank": 80,
+      "id": "ashleygish-com",
+      "name": "Ashley Gish",
+      "url": "https://ashleygish.com/",
+      "country": "XX",
+      "score": 64.2,
+      "movement": "new",
+      "best_for": "nutrition and evidence-aware food decisions",
+      "reason": "Ashley Gish concentrates on nutrition and evidence-aware food decisions, with a discoverable feed, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://ashleygish.com/",
+        "https://www.ashleygish.com/blog?format=rss",
+        "https://www.ashleygish.com/about"
+      ]
+    },
+    {
+      "rank": 81,
+      "id": "gymtalk-com",
+      "name": "Gymtalk",
+      "url": "https://gymtalk.com/",
+      "country": "XX",
+      "score": 63.8,
+      "movement": "new",
+      "best_for": "fitness, exercise, and sustainable training",
+      "reason": "Gymtalk concentrates on fitness, exercise, and sustainable training, with a discoverable feed, named authorship that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://gymtalk.com/",
+        "https://gymtalk.com/comments/feed/",
+        "https://gymtalk.com/#"
+      ]
+    },
+    {
+      "rank": 82,
+      "id": "hhhealthassociates-com",
+      "name": "H&H Health Associates",
+      "url": "https://hhhealthassociates.com/",
+      "country": "XX",
+      "score": 63.4,
+      "movement": "new",
+      "best_for": "health education and sustainable wellbeing",
+      "reason": "H&H Health Associates concentrates on health education and sustainable wellbeing, with clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://hhhealthassociates.com/"
+      ]
+    },
+    {
+      "rank": 83,
+      "id": "fitness-allwomenstalk-com",
+      "name": "Allwomenstalk",
+      "url": "https://fitness.allwomenstalk.com/",
+      "country": "XX",
+      "score": 63.3,
+      "movement": "new",
+      "best_for": "fitness, exercise, and sustainable training",
+      "reason": "Allwomenstalk concentrates on fitness, exercise, and sustainable training, with a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://fitness.allwomenstalk.com/"
+      ]
+    },
+    {
+      "rank": 84,
+      "id": "healthcarehuddle-com",
+      "name": "Healthcare Huddle",
+      "url": "https://healthcarehuddle.com/",
+      "country": "XX",
+      "score": 63.2,
+      "movement": "new",
+      "best_for": "health education and sustainable wellbeing",
+      "reason": "Healthcare Huddle concentrates on health education and sustainable wellbeing, with clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://healthcarehuddle.com/",
+        "https://www.healthcarehuddle.com/about-healthcare-huddle"
+      ]
+    },
+    {
+      "rank": 85,
+      "id": "purehealthharbor-medium-com",
+      "name": "Purehealthharbor",
+      "url": "https://purehealthharbor.medium.com/",
+      "country": "XX",
+      "score": 63.0,
+      "movement": "new",
+      "best_for": "mental health and psychological wellbeing",
+      "reason": "Purehealthharbor concentrates on mental health and psychological wellbeing, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://purehealthharbor.medium.com/",
+        "https://medium.com/feed/@purehealthharbor"
+      ]
+    },
+    {
+      "rank": 86,
+      "id": "contentedfeet-com",
+      "name": "Contented Feet",
+      "url": "https://contentedfeet.com/",
+      "country": "XX",
+      "score": 63.0,
+      "movement": "new",
+      "best_for": "fitness, exercise, and sustainable training",
+      "reason": "Contented Feet concentrates on fitness, exercise, and sustainable training, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://contentedfeet.com/",
+        "https://contentedfeet.com/fitness-blogs/feed/",
+        "https://contentedfeet.com/about/"
+      ]
+    },
+    {
+      "rank": 87,
+      "id": "illtobetterhealth-com",
+      "name": "Ill To Better Health",
+      "url": "https://illtobetterhealth.com/",
+      "country": "XX",
+      "score": 62.7,
+      "movement": "new",
+      "best_for": "health education and sustainable wellbeing",
+      "reason": "Ill To Better Health concentrates on health education and sustainable wellbeing, with a visible article archive, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://illtobetterhealth.com/"
+      ]
+    },
+    {
+      "rank": 88,
+      "id": "sidestack-io",
+      "name": "Integrate Discord with Substack",
+      "url": "https://sidestack.io/",
+      "country": "XX",
+      "score": 62.6,
+      "movement": "new",
+      "best_for": "health education and sustainable wellbeing",
+      "reason": "Integrate Discord with Substack concentrates on health education and sustainable wellbeing, with a clearly defined editorial focus that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://sidestack.io/"
+      ]
+    },
+    {
+      "rank": 89,
+      "id": "neshco-org",
+      "name": "NESHCo",
+      "url": "https://neshco.org/",
+      "country": "XX",
+      "score": 62.3,
+      "movement": "new",
+      "best_for": "health education and sustainable wellbeing",
+      "reason": "NESHCo concentrates on health education and sustainable wellbeing, with clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://neshco.org/",
+        "https://neshco.org/about-membership"
+      ]
+    },
+    {
+      "rank": 90,
+      "id": "docs-tellescope-com",
+      "name": "Tellescope",
+      "url": "https://docs.tellescope.com/",
+      "country": "XX",
+      "score": 62.2,
+      "movement": "new",
+      "best_for": "health education and sustainable wellbeing",
+      "reason": "Tellescope concentrates on health education and sustainable wellbeing, with named authorship, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://docs.tellescope.com/"
+      ]
+    },
+    {
+      "rank": 91,
+      "id": "careops-org",
+      "name": "CareOps",
+      "url": "https://careops.org/",
+      "country": "XX",
+      "score": 62.1,
+      "movement": "new",
+      "best_for": "health education and sustainable wellbeing",
+      "reason": "CareOps concentrates on health education and sustainable wellbeing, with clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://careops.org/",
+        "https://www.careops.org/about"
+      ]
+    },
+    {
+      "rank": 92,
+      "id": "healthtechnerds-com",
+      "name": "Health Tech Nerds",
+      "url": "https://healthtechnerds.com/",
+      "country": "XX",
+      "score": 62.0,
+      "movement": "new",
+      "best_for": "health education and sustainable wellbeing",
+      "reason": "Health Tech Nerds concentrates on health education and sustainable wellbeing, with clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://healthtechnerds.com/",
+        "https://www.healthtechnerds.com/about-htn-pro"
+      ]
+    },
+    {
+      "rank": 93,
+      "id": "5ht-com",
+      "name": "5HT | 5 Healthyish Things by Derek Flanzraich",
+      "url": "https://5ht.com/",
+      "country": "XX",
+      "score": 61.7,
+      "movement": "new",
+      "best_for": "health education and sustainable wellbeing",
+      "reason": "5HT | 5 Healthyish Things by Derek Flanzraich concentrates on health education and sustainable wellbeing, with clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://5ht.com/",
+        "https://www.5ht.com/about-5ht"
+      ]
+    },
+    {
+      "rank": 94,
+      "id": "vanesia-io",
+      "name": "Vanesia IO",
+      "url": "https://vanesia.io/",
+      "country": "XX",
+      "score": 61.6,
+      "movement": "new",
+      "best_for": "fitness, exercise, and sustainable training",
+      "reason": "Vanesia IO concentrates on fitness, exercise, and sustainable training, with a discoverable feed that makes its current publishing work easier to evaluate.",
+      "limitation": "Authorship and editorial-policy information is less visible than on higher-ranked publications.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://vanesia.io/",
+        "https://vanesia.io/comments/feed/"
+      ]
+    },
+    {
+      "rank": 95,
+      "id": "beastbody-org",
+      "name": "Beast Body Fitness",
+      "url": "https://beastbody.org/",
+      "country": "XX",
+      "score": 59.8,
+      "movement": "new",
+      "best_for": "fitness, exercise, and sustainable training",
+      "reason": "Beast Body Fitness concentrates on fitness, exercise, and sustainable training, with a discoverable feed that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://beastbody.org/",
+        "https://www.beastbody.org/blog-feed.xml",
+        "https://www.beastbody.org"
+      ]
+    },
+    {
+      "rank": 96,
+      "id": "todays-ajenda-beehiiv-com",
+      "name": "Today's Ajenda",
+      "url": "https://todays-ajenda.beehiiv.com/",
+      "country": "XX",
+      "score": 59.8,
+      "movement": "new",
+      "best_for": "health education and sustainable wellbeing",
+      "reason": "Today's Ajenda concentrates on health education and sustainable wellbeing, with a clearly defined editorial focus that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://todays-ajenda.beehiiv.com/"
+      ]
+    },
+    {
+      "rank": 97,
+      "id": "boxlife-beehiiv-com",
+      "name": "Boxlife Mag",
+      "url": "https://boxlife.beehiiv.com/",
+      "country": "XX",
+      "score": 58.5,
+      "movement": "new",
+      "best_for": "fitness, exercise, and sustainable training",
+      "reason": "Boxlife Mag concentrates on fitness, exercise, and sustainable training, with named authorship that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://boxlife.beehiiv.com/"
+      ]
+    },
+    {
+      "rank": 98,
+      "id": "newsletters-onl",
+      "name": "NewsletterHub",
+      "url": "https://newsletters.onl/",
+      "country": "XX",
+      "score": 58.2,
+      "movement": "new",
+      "best_for": "fitness, exercise, and sustainable training",
+      "reason": "NewsletterHub concentrates on fitness, exercise, and sustainable training, with a clearly defined editorial focus that makes its current publishing work easier to evaluate.",
+      "limitation": "Some complete material may require registration, membership, or a paid subscription.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://newsletters.onl/"
+      ]
+    },
+    {
+      "rank": 99,
+      "id": "newsletter-drstevenlin-com",
+      "name": "Dr. Steven Lin",
+      "url": "https://newsletter.drstevenlin.com/",
+      "country": "XX",
+      "score": 56.9,
+      "movement": "new",
+      "best_for": "health education and sustainable wellbeing",
+      "reason": "Dr. Steven Lin concentrates on health education and sustainable wellbeing, with named authorship that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://newsletter.drstevenlin.com/"
+      ]
+    },
+    {
+      "rank": 100,
+      "id": "hihpoint-com",
+      "name": "HIHpoint",
+      "url": "https://hihpoint.com/",
+      "country": "XX",
+      "score": 56.6,
+      "movement": "new",
+      "best_for": "health education and sustainable wellbeing",
+      "reason": "HIHpoint concentrates on health education and sustainable wellbeing, with a clearly defined editorial focus that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://hihpoint.com/"
+      ]
+    }
+  ]
+}

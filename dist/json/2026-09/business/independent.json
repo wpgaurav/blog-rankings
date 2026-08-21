@@ -1,0 +1,1836 @@
+{
+  "schema_version": 1,
+  "edition": "2026-09",
+  "status": "final",
+  "category": {
+    "slug": "business",
+    "name": "Business and Entrepreneurship",
+    "description": "Practical publishing about companies, startups, SaaS, leadership, operations, and creator businesses.",
+    "subcategories": [
+      "startups",
+      "saas",
+      "leadership",
+      "operations",
+      "creator-business"
+    ]
+  },
+  "track": {
+    "slug": "independent",
+    "label": "Independent Blogs"
+  },
+  "count": 100,
+  "items": [
+    {
+      "rank": 1,
+      "id": "tim-blog",
+      "name": "Tim Ferriss",
+      "url": "https://tim.blog/",
+      "country": "XX",
+      "score": 98.0,
+      "movement": "new",
+      "best_for": "business building and entrepreneurial judgment",
+      "reason": "Tim Ferriss concentrates on business building and entrepreneurial judgment, with a discoverable feed, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://tim.blog/",
+        "https://tim.blog/comments/feed/",
+        "https://tim.blog/about/"
+      ]
+    },
+    {
+      "rank": 2,
+      "id": "feld-com",
+      "name": "Feld Thoughts",
+      "url": "https://feld.com/",
+      "country": "XX",
+      "score": 97.0,
+      "movement": "new",
+      "best_for": "startups, founders, and company building",
+      "reason": "Feld Thoughts concentrates on startups, founders, and company building, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Authorship and editorial-policy information is less visible than on higher-ranked publications.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://feld.com/",
+        "https://feld.com/index.xml",
+        "https://feld.com/about/"
+      ]
+    },
+    {
+      "rank": 3,
+      "id": "chrisducker-com",
+      "name": "ChrisDucker.com",
+      "url": "https://chrisducker.com/",
+      "country": "XX",
+      "score": 96.0,
+      "movement": "new",
+      "best_for": "leadership, management, and organizational work",
+      "reason": "ChrisDucker.com concentrates on leadership, management, and organizational work, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://chrisducker.com/",
+        "https://chrisducker.com/comments/feed/",
+        "https://chrisducker.com/about/"
+      ]
+    },
+    {
+      "rank": 4,
+      "id": "forentrepreneurs-com",
+      "name": "For Entrepreneurs",
+      "url": "https://forentrepreneurs.com/",
+      "country": "XX",
+      "score": 95.0,
+      "movement": "new",
+      "best_for": "SaaS growth and operating decisions",
+      "reason": "For Entrepreneurs concentrates on SaaS growth and operating decisions, with a discoverable feed, named authorship that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://forentrepreneurs.com/",
+        "https://www.forentrepreneurs.com/comments/feed/",
+        "https://www.forentrepreneurs.com/about/"
+      ]
+    },
+    {
+      "rank": 5,
+      "id": "davidcummings-org",
+      "name": "David Cummings on Startups",
+      "url": "https://davidcummings.org/",
+      "country": "XX",
+      "score": 94.0,
+      "movement": "new",
+      "best_for": "startups, founders, and company building",
+      "reason": "David Cummings on Startups concentrates on startups, founders, and company building, with a discoverable feed, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Authorship and editorial-policy information is less visible than on higher-ranked publications.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://davidcummings.org/",
+        "https://davidcummings.org/comments/feed/",
+        "https://davidcummings.org/about/"
+      ]
+    },
+    {
+      "rank": 6,
+      "id": "kellblog-com",
+      "name": "Kellblog",
+      "url": "https://kellblog.com/",
+      "country": "XX",
+      "score": 93.0,
+      "movement": "new",
+      "best_for": "startups, founders, and company building",
+      "reason": "Kellblog concentrates on startups, founders, and company building, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Authorship and editorial-policy information is less visible than on higher-ranked publications.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://kellblog.com/",
+        "https://www.kellblog.com/rss/",
+        "https://www.kellblog.com/about-dave-kellogg/"
+      ]
+    },
+    {
+      "rank": 7,
+      "id": "noahkagan-com",
+      "name": "Noah Kagan",
+      "url": "https://noahkagan.com/",
+      "country": "XX",
+      "score": 92.0,
+      "movement": "new",
+      "best_for": "business building and entrepreneurial judgment",
+      "reason": "Noah Kagan concentrates on business building and entrepreneurial judgment, with a discoverable feed, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://noahkagan.com/",
+        "https://noahkagan.com/5-reflections-from-million-dollar-weekend/feed/",
+        "https://noahkagan.com/about/"
+      ]
+    },
+    {
+      "rank": 8,
+      "id": "yaro-blog",
+      "name": "Yaro.Blog",
+      "url": "https://yaro.blog/",
+      "country": "XX",
+      "score": 91.0,
+      "movement": "new",
+      "best_for": "small-business and entrepreneurial practice",
+      "reason": "Yaro.Blog concentrates on small-business and entrepreneurial practice, with a visible article archive, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://yaro.blog/",
+        "https://yaro.blog/about/"
+      ]
+    },
+    {
+      "rank": 9,
+      "id": "learn-justinwelsh-me",
+      "name": "Justin Welsh",
+      "url": "https://learn.justinwelsh.me/",
+      "country": "XX",
+      "score": 90.0,
+      "movement": "new",
+      "best_for": "startups, founders, and company building",
+      "reason": "Justin Welsh concentrates on startups, founders, and company building, with a clearly defined editorial focus that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://learn.justinwelsh.me/"
+      ]
+    },
+    {
+      "rank": 10,
+      "id": "2hourblogger-substack-com",
+      "name": "The 2-Hour Blogger",
+      "url": "https://2hourblogger.substack.com/",
+      "country": "XX",
+      "score": 89.0,
+      "movement": "new",
+      "best_for": "business building and entrepreneurial judgment",
+      "reason": "The 2-Hour Blogger concentrates on business building and entrepreneurial judgment, with a discoverable feed that makes its current publishing work easier to evaluate.",
+      "limitation": "Authorship and editorial-policy information is less visible than on higher-ranked publications.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://2hourblogger.substack.com/",
+        "https://2hourblogger.substack.com/feed",
+        "https://2hourblogger.substack.com/about"
+      ]
+    },
+    {
+      "rank": 11,
+      "id": "ycombinator-com",
+      "name": "Y Combinator",
+      "url": "https://ycombinator.com/",
+      "country": "XX",
+      "score": 80.0,
+      "movement": "new",
+      "best_for": "startups, founders, and company building",
+      "reason": "Y Combinator concentrates on startups, founders, and company building, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://ycombinator.com/",
+        "https://www.ycombinator.com/blog/feed"
+      ]
+    },
+    {
+      "rank": 12,
+      "id": "blog-shift4shop-com",
+      "name": "Shift4Shop eCommerce Blog",
+      "url": "https://blog.shift4shop.com/",
+      "country": "XX",
+      "score": 78.5,
+      "movement": "new",
+      "best_for": "small-business and entrepreneurial practice",
+      "reason": "Shift4Shop eCommerce Blog concentrates on small-business and entrepreneurial practice, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://blog.shift4shop.com/",
+        "https://blog.shift4shop.com/rss.xml"
+      ]
+    },
+    {
+      "rank": 13,
+      "id": "growthlist-co",
+      "name": "GrowthList",
+      "url": "https://growthlist.co/",
+      "country": "XX",
+      "score": 78.0,
+      "movement": "new",
+      "best_for": "SaaS growth and operating decisions",
+      "reason": "GrowthList concentrates on SaaS growth and operating decisions, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://growthlist.co/",
+        "https://growthlist.co/feed/",
+        "https://growthlist.co/contact/"
+      ]
+    },
+    {
+      "rank": 14,
+      "id": "marketinginsidergroup-com",
+      "name": "Marketing Insider Group",
+      "url": "https://marketinginsidergroup.com/",
+      "country": "XX",
+      "score": 78.0,
+      "movement": "new",
+      "best_for": "small-business and entrepreneurial practice",
+      "reason": "Marketing Insider Group concentrates on small-business and entrepreneurial practice, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://marketinginsidergroup.com/",
+        "https://marketinginsidergroup.com/comments/feed/",
+        "https://marketinginsidergroup.com/about-us/"
+      ]
+    },
+    {
+      "rank": 15,
+      "id": "jootoor-com",
+      "name": "Jootoor Designs",
+      "url": "https://jootoor.com/",
+      "country": "XX",
+      "score": 77.0,
+      "movement": "new",
+      "best_for": "small-business and entrepreneurial practice",
+      "reason": "Jootoor Designs concentrates on small-business and entrepreneurial practice, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://jootoor.com/",
+        "https://www.jootoor.com/feed/"
+      ]
+    },
+    {
+      "rank": 16,
+      "id": "thebootstrappedfounder-com",
+      "name": "The Bootstrapped Founder",
+      "url": "https://thebootstrappedfounder.com/",
+      "country": "XX",
+      "score": 76.5,
+      "movement": "new",
+      "best_for": "startups, founders, and company building",
+      "reason": "The Bootstrapped Founder concentrates on startups, founders, and company building, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://thebootstrappedfounder.com/",
+        "https://thebootstrappedfounder.com/comments/feed/",
+        "https://thebootstrappedfounder.com/about-me/"
+      ]
+    },
+    {
+      "rank": 17,
+      "id": "steveblank-com",
+      "name": "Steve Blank",
+      "url": "https://steveblank.com/",
+      "country": "XX",
+      "score": 76.4,
+      "movement": "new",
+      "best_for": "small-business and entrepreneurial practice",
+      "reason": "Steve Blank concentrates on small-business and entrepreneurial practice, with a discoverable feed, named authorship that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://steveblank.com/",
+        "https://steveblank.com/comments/feed/",
+        "https://steveblank.com/about/"
+      ]
+    },
+    {
+      "rank": 18,
+      "id": "lennysnewsletter-com",
+      "name": "Lenny's Newsletter",
+      "url": "https://lennysnewsletter.com/",
+      "country": "XX",
+      "score": 76.3,
+      "movement": "new",
+      "best_for": "startups, founders, and company building",
+      "reason": "Lenny's Newsletter concentrates on startups, founders, and company building, with a discoverable feed that makes its current publishing work easier to evaluate.",
+      "limitation": "Authorship and editorial-policy information is less visible than on higher-ranked publications.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://lennysnewsletter.com/",
+        "https://www.lennysnewsletter.com/feed"
+      ]
+    },
+    {
+      "rank": 19,
+      "id": "parsintl-com",
+      "name": "PARS",
+      "url": "https://parsintl.com/",
+      "country": "XX",
+      "score": 76.2,
+      "movement": "new",
+      "best_for": "business building and entrepreneurial judgment",
+      "reason": "PARS concentrates on business building and entrepreneurial judgment, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Some complete material may require registration, membership, or a paid subscription.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://parsintl.com/",
+        "https://www.parsintl.com/comments/feed/",
+        "https://www.parsintl.com/about-pars/"
+      ]
+    },
+    {
+      "rank": 20,
+      "id": "stratechery-com",
+      "name": "Stratechery by Ben Thompson",
+      "url": "https://stratechery.com/",
+      "country": "XX",
+      "score": 76.0,
+      "movement": "new",
+      "best_for": "business building and entrepreneurial judgment",
+      "reason": "Stratechery by Ben Thompson concentrates on business building and entrepreneurial judgment, with named authorship, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://stratechery.com/",
+        "https://stratechery.com/about/"
+      ]
+    },
+    {
+      "rank": 21,
+      "id": "profitbooks-net",
+      "name": "ProfitBooks",
+      "url": "https://profitbooks.net/",
+      "country": "XX",
+      "score": 75.9,
+      "movement": "new",
+      "best_for": "small-business and entrepreneurial practice",
+      "reason": "ProfitBooks concentrates on small-business and entrepreneurial practice, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://profitbooks.net/",
+        "https://profitbooks.net/comments/feed/",
+        "https://profitbooks.net/invoicing-software/"
+      ]
+    },
+    {
+      "rank": 22,
+      "id": "socialmediatoday-com",
+      "name": "Social Media News",
+      "url": "https://socialmediatoday.com/",
+      "country": "XX",
+      "score": 75.9,
+      "movement": "new",
+      "best_for": "startups, founders, and company building",
+      "reason": "Social Media News concentrates on startups, founders, and company building, with a discoverable feed, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://socialmediatoday.com/",
+        "https://www.socialmediatoday.com/feeds/news/"
+      ]
+    },
+    {
+      "rank": 23,
+      "id": "om-co",
+      "name": "On my Om",
+      "url": "https://om.co/",
+      "country": "XX",
+      "score": 75.5,
+      "movement": "new",
+      "best_for": "business building and entrepreneurial judgment",
+      "reason": "On my Om concentrates on business building and entrepreneurial judgment, with a discoverable feed, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Some complete material may require registration, membership, or a paid subscription.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://om.co/",
+        "https://om.co/feed/podcast",
+        "https://om.co/about/"
+      ]
+    },
+    {
+      "rank": 24,
+      "id": "franchise-neighborly-com",
+      "name": "Premier Home Services Franchise Opportunities",
+      "url": "https://franchise.neighborly.com/",
+      "country": "XX",
+      "score": 75.2,
+      "movement": "new",
+      "best_for": "small-business and entrepreneurial practice",
+      "reason": "Premier Home Services Franchise Opportunities concentrates on small-business and entrepreneurial practice, with a visible article archive, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://franchise.neighborly.com/",
+        "https://franchise.neighborly.com/the-neighborly-benefits/about-neighborly/"
+      ]
+    },
+    {
+      "rank": 25,
+      "id": "indiehackers-com",
+      "name": "Indie Hackers",
+      "url": "https://indiehackers.com/",
+      "country": "XX",
+      "score": 75.0,
+      "movement": "new",
+      "best_for": "startups, founders, and company building",
+      "reason": "Indie Hackers concentrates on startups, founders, and company building, with clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://indiehackers.com/",
+        "https://www.indiehackers.com/post/4-founders-told-me-the-same-thing-about-launch-platforms-so-i-m-changing-what-i-m-building-7424714b3b"
+      ]
+    },
+    {
+      "rank": 26,
+      "id": "jasonfeifer-com",
+      "name": "Jason Feifer",
+      "url": "https://jasonfeifer.com/",
+      "country": "XX",
+      "score": 74.2,
+      "movement": "new",
+      "best_for": "startups, founders, and company building",
+      "reason": "Jason Feifer concentrates on startups, founders, and company building, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://jasonfeifer.com/",
+        "https://www.jasonfeifer.com/comments/feed/",
+        "https://www.jasonfeifer.com/about/"
+      ]
+    },
+    {
+      "rank": 27,
+      "id": "readtheprofile-com",
+      "name": "The Profile",
+      "url": "https://readtheprofile.com/",
+      "country": "XX",
+      "score": 74.2,
+      "movement": "new",
+      "best_for": "business building and entrepreneurial judgment",
+      "reason": "The Profile concentrates on business building and entrepreneurial judgment, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://readtheprofile.com/",
+        "https://readtheprofile.com/home?format=rss",
+        "https://readtheprofile.com/about"
+      ]
+    },
+    {
+      "rank": 28,
+      "id": "jotform-com",
+      "name": "Free Online Form Builder & Form Creator for 2026",
+      "url": "https://jotform.com/",
+      "country": "XX",
+      "score": 74.2,
+      "movement": "new",
+      "best_for": "small-business and entrepreneurial practice",
+      "reason": "Free Online Form Builder & Form Creator for 2026 concentrates on small-business and entrepreneurial practice, with named authorship, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://jotform.com/"
+      ]
+    },
+    {
+      "rank": 29,
+      "id": "guptadeepak-com",
+      "name": "Deepak Gupta: Identity, AI Security, CIAM & GEO Essays",
+      "url": "https://guptadeepak.com/",
+      "country": "XX",
+      "score": 74.1,
+      "movement": "new",
+      "best_for": "startups, founders, and company building",
+      "reason": "Deepak Gupta: Identity, AI Security, CIAM & GEO Essays concentrates on startups, founders, and company building, with clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://guptadeepak.com/",
+        "https://guptadeepak.com/about/"
+      ]
+    },
+    {
+      "rank": 30,
+      "id": "yourstory-com",
+      "name": "YourStory.com",
+      "url": "https://yourstory.com/",
+      "country": "XX",
+      "score": 73.8,
+      "movement": "new",
+      "best_for": "startups, founders, and company building",
+      "reason": "YourStory.com concentrates on startups, founders, and company building, with named authorship, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://yourstory.com/",
+        "https://yourstory.com/author/webmaster"
+      ]
+    },
+    {
+      "rank": 31,
+      "id": "thetotalentrepreneurs-com",
+      "name": "The Total Entrepreneurs",
+      "url": "https://thetotalentrepreneurs.com/",
+      "country": "XX",
+      "score": 73.7,
+      "movement": "new",
+      "best_for": "startups, founders, and company building",
+      "reason": "The Total Entrepreneurs concentrates on startups, founders, and company building, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://thetotalentrepreneurs.com/",
+        "https://thetotalentrepreneurs.com/comments/feed/"
+      ]
+    },
+    {
+      "rank": 32,
+      "id": "adammendler-com",
+      "name": "Adam Mendler",
+      "url": "https://adammendler.com/",
+      "country": "XX",
+      "score": 73.7,
+      "movement": "new",
+      "best_for": "startups, founders, and company building",
+      "reason": "Adam Mendler concentrates on startups, founders, and company building, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://adammendler.com/",
+        "https://www.adammendler.com/comments/feed/"
+      ]
+    },
+    {
+      "rank": 33,
+      "id": "thebestcolleges-org",
+      "name": "TheBestColleges.org",
+      "url": "https://thebestcolleges.org/",
+      "country": "XX",
+      "score": 73.2,
+      "movement": "new",
+      "best_for": "leadership, management, and organizational work",
+      "reason": "TheBestColleges.org concentrates on leadership, management, and organizational work, with a visible article archive, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://thebestcolleges.org/"
+      ]
+    },
+    {
+      "rank": 34,
+      "id": "tldr-tech",
+      "name": "TLDR",
+      "url": "https://tldr.tech/",
+      "country": "XX",
+      "score": 72.7,
+      "movement": "new",
+      "best_for": "startups, founders, and company building",
+      "reason": "TLDR concentrates on startups, founders, and company building, with named authorship that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://tldr.tech/"
+      ]
+    },
+    {
+      "rank": 35,
+      "id": "optimizely-com",
+      "name": "Optimizely",
+      "url": "https://optimizely.com/",
+      "country": "XX",
+      "score": 72.6,
+      "movement": "new",
+      "best_for": "leadership, management, and organizational work",
+      "reason": "Optimizely concentrates on leadership, management, and organizational work, with a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://optimizely.com/",
+        "https://www.optimizely.com/company"
+      ]
+    },
+    {
+      "rank": 36,
+      "id": "taalk-com",
+      "name": "taalk",
+      "url": "https://taalk.com/",
+      "country": "XX",
+      "score": 72.5,
+      "movement": "new",
+      "best_for": "startups, founders, and company building",
+      "reason": "taalk concentrates on startups, founders, and company building, with a discoverable feed, named authorship that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://taalk.com/",
+        "https://taalk.com/comments/feed/",
+        "https://taalk.com/about-us/"
+      ]
+    },
+    {
+      "rank": 37,
+      "id": "accountingdepartment-com",
+      "name": "Outsourced Bookkeeping and Controller Services",
+      "url": "https://accountingdepartment.com/",
+      "country": "XX",
+      "score": 72.5,
+      "movement": "new",
+      "best_for": "startups, founders, and company building",
+      "reason": "Outsourced Bookkeeping and Controller Services concentrates on startups, founders, and company building, with a visible article archive, named authorship that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://accountingdepartment.com/",
+        "https://www.accountingdepartment.com/the-entire-team"
+      ]
+    },
+    {
+      "rank": 38,
+      "id": "geotab-com",
+      "name": "Geotab",
+      "url": "https://geotab.com/",
+      "country": "XX",
+      "score": 72.4,
+      "movement": "new",
+      "best_for": "leadership, management, and organizational work",
+      "reason": "Geotab concentrates on leadership, management, and organizational work, with clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://geotab.com/",
+        "https://www.geotab.com/about/corporate-sustainability/"
+      ]
+    },
+    {
+      "rank": 39,
+      "id": "chaotic-flow-com",
+      "name": "Chaotic Flow",
+      "url": "https://chaotic-flow.com/",
+      "country": "XX",
+      "score": 72.3,
+      "movement": "new",
+      "best_for": "SaaS growth and operating decisions",
+      "reason": "Chaotic Flow concentrates on SaaS growth and operating decisions, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://chaotic-flow.com/",
+        "https://chaotic-flow.com/comments/feed/",
+        "https://chaotic-flow.com/about-me/"
+      ]
+    },
+    {
+      "rank": 40,
+      "id": "highsignal-io",
+      "name": "High Signal",
+      "url": "https://highsignal.io/",
+      "country": "XX",
+      "score": 72.1,
+      "movement": "new",
+      "best_for": "startups, founders, and company building",
+      "reason": "High Signal concentrates on startups, founders, and company building, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Authorship and editorial-policy information is less visible than on higher-ranked publications.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://highsignal.io/",
+        "https://www.highsignal.io/rss/",
+        "https://www.highsignal.io/about/"
+      ]
+    },
+    {
+      "rank": 41,
+      "id": "nateliason-com",
+      "name": "Nat Eliason",
+      "url": "https://nateliason.com/",
+      "country": "XX",
+      "score": 71.9,
+      "movement": "new",
+      "best_for": "startups, founders, and company building",
+      "reason": "Nat Eliason concentrates on startups, founders, and company building, with a discoverable feed, named authorship that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://nateliason.com/",
+        "https://nateliason.com/blog/rss.xml",
+        "https://www.nateliason.com/blog/olympus-dao"
+      ]
+    },
+    {
+      "rank": 42,
+      "id": "maxwellleadership-org",
+      "name": "Maxwell Leadership Foundation",
+      "url": "https://maxwellleadership.org/",
+      "country": "XX",
+      "score": 71.5,
+      "movement": "new",
+      "best_for": "leadership, management, and organizational work",
+      "reason": "Maxwell Leadership Foundation concentrates on leadership, management, and organizational work, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://maxwellleadership.org/",
+        "https://www.maxwellleadership.org/comments/feed/"
+      ]
+    },
+    {
+      "rank": 43,
+      "id": "sahilbloom-com",
+      "name": "Sahil Bloom",
+      "url": "https://sahilbloom.com/",
+      "country": "XX",
+      "score": 71.4,
+      "movement": "new",
+      "best_for": "small-business and entrepreneurial practice",
+      "reason": "Sahil Bloom concentrates on small-business and entrepreneurial practice, with named authorship, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://sahilbloom.com/",
+        "https://www.sahilbloom.com/about"
+      ]
+    },
+    {
+      "rank": 44,
+      "id": "mikemichalowicz-com",
+      "name": "Mike Michalowicz",
+      "url": "https://mikemichalowicz.com/",
+      "country": "XX",
+      "score": 70.8,
+      "movement": "new",
+      "best_for": "small-business and entrepreneurial practice",
+      "reason": "Mike Michalowicz concentrates on small-business and entrepreneurial practice, with named authorship that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://mikemichalowicz.com/"
+      ]
+    },
+    {
+      "rank": 45,
+      "id": "10web-io",
+      "name": "10Web",
+      "url": "https://10web.io/",
+      "country": "XX",
+      "score": 70.8,
+      "movement": "new",
+      "best_for": "SaaS growth and operating decisions",
+      "reason": "10Web concentrates on SaaS growth and operating decisions, with clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://10web.io/"
+      ]
+    },
+    {
+      "rank": 46,
+      "id": "newcomer-co",
+      "name": "Newcomer",
+      "url": "https://newcomer.co/",
+      "country": "XX",
+      "score": 70.4,
+      "movement": "new",
+      "best_for": "startups, founders, and company building",
+      "reason": "Newcomer concentrates on startups, founders, and company building, with a discoverable feed that makes its current publishing work easier to evaluate.",
+      "limitation": "Authorship and editorial-policy information is less visible than on higher-ranked publications.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://newcomer.co/",
+        "https://www.newcomer.co/feed"
+      ]
+    },
+    {
+      "rank": 47,
+      "id": "sparringmind-com",
+      "name": "Sparring Mind",
+      "url": "https://sparringmind.com/",
+      "country": "XX",
+      "score": 70.3,
+      "movement": "new",
+      "best_for": "startups, founders, and company building",
+      "reason": "Sparring Mind concentrates on startups, founders, and company building, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Authorship and editorial-policy information is less visible than on higher-ranked publications.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://sparringmind.com/",
+        "https://www.sparringmind.com/feed/"
+      ]
+    },
+    {
+      "rank": 48,
+      "id": "kalungi-com",
+      "name": "B2B SaaS Marketing Agency for Predictable Pipeline and Growth",
+      "url": "https://kalungi.com/",
+      "country": "XX",
+      "score": 70.2,
+      "movement": "new",
+      "best_for": "SaaS growth and operating decisions",
+      "reason": "B2B SaaS Marketing Agency for Predictable Pipeline and Growth concentrates on SaaS growth and operating decisions, with named authorship that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://kalungi.com/"
+      ]
+    },
+    {
+      "rank": 49,
+      "id": "leadershipnow-com",
+      "name": "LeadershipNow",
+      "url": "https://leadershipnow.com/",
+      "country": "XX",
+      "score": 70.2,
+      "movement": "new",
+      "best_for": "leadership, management, and organizational work",
+      "reason": "LeadershipNow concentrates on leadership, management, and organizational work, with clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://leadershipnow.com/",
+        "https://www.leadershipnow.com/about.html"
+      ]
+    },
+    {
+      "rank": 50,
+      "id": "annettestepanian-com",
+      "name": "Annette Stepanian",
+      "url": "https://annettestepanian.com/",
+      "country": "XX",
+      "score": 69.9,
+      "movement": "new",
+      "best_for": "small-business and entrepreneurial practice",
+      "reason": "Annette Stepanian concentrates on small-business and entrepreneurial practice, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://annettestepanian.com/",
+        "https://annettestepanian.com/comments/feed/",
+        "https://annettestepanian.com/about/"
+      ]
+    },
+    {
+      "rank": 51,
+      "id": "scotthyoung-com",
+      "name": "Scott H. Young",
+      "url": "https://scotthyoung.com/",
+      "country": "XX",
+      "score": 69.8,
+      "movement": "new",
+      "best_for": "small-business and entrepreneurial practice",
+      "reason": "Scott H. Young concentrates on small-business and entrepreneurial practice, with a discoverable feed that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://scotthyoung.com/",
+        "https://www.scotthyoung.com/blog/comments/feed/",
+        "https://www.scotthyoung.com/blog/about/"
+      ]
+    },
+    {
+      "rank": 52,
+      "id": "failory-com",
+      "name": "Failory: 90% of Startups Fail",
+      "url": "https://failory.com/",
+      "country": "XX",
+      "score": 69.8,
+      "movement": "new",
+      "best_for": "startups, founders, and company building",
+      "reason": "Failory: 90% of Startups Fail concentrates on startups, founders, and company building, with clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://failory.com/"
+      ]
+    },
+    {
+      "rank": 53,
+      "id": "blog-close-io",
+      "name": "Close",
+      "url": "https://close.com/blog/",
+      "country": "XX",
+      "score": 69.6,
+      "movement": "new",
+      "best_for": "small-business and entrepreneurial practice",
+      "reason": "Close concentrates on small-business and entrepreneurial practice, with a visible article archive, named authorship that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://close.com/blog/",
+        "https://close.com/automation"
+      ]
+    },
+    {
+      "rank": 54,
+      "id": "newsletter-failory-com",
+      "name": "Failory",
+      "url": "https://newsletter.failory.com/",
+      "country": "XX",
+      "score": 69.5,
+      "movement": "new",
+      "best_for": "startups, founders, and company building",
+      "reason": "Failory concentrates on startups, founders, and company building, with a discoverable feed, named authorship that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://newsletter.failory.com/",
+        "https://rss.beehiiv.com/feeds/CMAErwx9LW.xml"
+      ]
+    },
+    {
+      "rank": 55,
+      "id": "startupblogpost-com",
+      "name": "Startup Blogpost",
+      "url": "https://startupblogpost.com/",
+      "country": "XX",
+      "score": 69.4,
+      "movement": "new",
+      "best_for": "startups, founders, and company building",
+      "reason": "Startup Blogpost concentrates on startups, founders, and company building, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://startupblogpost.com/",
+        "https://startupblogpost.com/home/feed/"
+      ]
+    },
+    {
+      "rank": 56,
+      "id": "opensourceceo-com",
+      "name": "Open Source CEO by Bill Kerr",
+      "url": "https://opensourceceo.com/",
+      "country": "XX",
+      "score": 69.4,
+      "movement": "new",
+      "best_for": "startups, founders, and company building",
+      "reason": "Open Source CEO by Bill Kerr concentrates on startups, founders, and company building, with a discoverable feed, named authorship that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://opensourceceo.com/",
+        "https://rss.beehiiv.com/feeds/lk7bn7r8tu.xml"
+      ]
+    },
+    {
+      "rank": 57,
+      "id": "cleverleverage-com",
+      "name": "CleverLeverage.com - Helping You Get Going Online",
+      "url": "https://cleverleverage.com/",
+      "country": "XX",
+      "score": 69.3,
+      "movement": "new",
+      "best_for": "small-business and entrepreneurial practice",
+      "reason": "CleverLeverage.com - Helping You Get Going Online concentrates on small-business and entrepreneurial practice, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://cleverleverage.com/",
+        "https://cleverleverage.com/comments/feed/",
+        "https://cleverleverage.com/about"
+      ]
+    },
+    {
+      "rank": 58,
+      "id": "leadershipfreak-blog",
+      "name": "Leadership Freak",
+      "url": "https://leadershipfreak.blog/",
+      "country": "XX",
+      "score": 69.2,
+      "movement": "new",
+      "best_for": "leadership, management, and organizational work",
+      "reason": "Leadership Freak concentrates on leadership, management, and organizational work, with a discoverable feed, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://leadershipfreak.blog/",
+        "https://leadershipfreak.blog/feed/podcast"
+      ]
+    },
+    {
+      "rank": 59,
+      "id": "clarity-fm",
+      "name": "Clarity",
+      "url": "https://clarity.fm/",
+      "country": "XX",
+      "score": 69.0,
+      "movement": "new",
+      "best_for": "small-business and entrepreneurial practice",
+      "reason": "Clarity concentrates on small-business and entrepreneurial practice, with a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://clarity.fm/"
+      ]
+    },
+    {
+      "rank": 60,
+      "id": "thevccorner-com",
+      "name": "The VC Corner",
+      "url": "https://thevccorner.com/",
+      "country": "XX",
+      "score": 69.0,
+      "movement": "new",
+      "best_for": "startups, founders, and company building",
+      "reason": "The VC Corner concentrates on startups, founders, and company building, with a discoverable feed that makes its current publishing work easier to evaluate.",
+      "limitation": "Authorship and editorial-policy information is less visible than on higher-ranked publications.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://thevccorner.com/",
+        "https://www.thevccorner.com/feed"
+      ]
+    },
+    {
+      "rank": 61,
+      "id": "chiefmartec-com",
+      "name": "chiefmartec",
+      "url": "https://chiefmartec.com/",
+      "country": "XX",
+      "score": 68.7,
+      "movement": "new",
+      "best_for": "leadership, management, and organizational work",
+      "reason": "chiefmartec concentrates on leadership, management, and organizational work, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://chiefmartec.com/",
+        "https://chiefmartec.com/comments/feed/",
+        "https://chiefmartec.com/about/"
+      ]
+    },
+    {
+      "rank": 62,
+      "id": "erikduncan-com",
+      "name": "Erik Duncan",
+      "url": "https://erikduncan.com/",
+      "country": "XX",
+      "score": 68.5,
+      "movement": "new",
+      "best_for": "small-business and entrepreneurial practice",
+      "reason": "Erik Duncan concentrates on small-business and entrepreneurial practice, with a visible article archive, named authorship that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://erikduncan.com/",
+        "https://erikduncan.com/about-erik/"
+      ]
+    },
+    {
+      "rank": 63,
+      "id": "flyerone-vc",
+      "name": "Flyer One Ventures",
+      "url": "https://flyerone.vc/",
+      "country": "XX",
+      "score": 68.0,
+      "movement": "new",
+      "best_for": "SaaS growth and operating decisions",
+      "reason": "Flyer One Ventures concentrates on SaaS growth and operating decisions, with a visible article archive, named authorship that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://flyerone.vc/"
+      ]
+    },
+    {
+      "rank": 64,
+      "id": "suitcaseentrepreneur-com",
+      "name": "The Suitcase Entrepreneur",
+      "url": "https://suitcaseentrepreneur.com/",
+      "country": "XX",
+      "score": 67.7,
+      "movement": "new",
+      "best_for": "small-business and entrepreneurial practice",
+      "reason": "The Suitcase Entrepreneur concentrates on small-business and entrepreneurial practice, with a visible article archive, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://suitcaseentrepreneur.com/",
+        "https://suitcaseentrepreneur.com/about"
+      ]
+    },
+    {
+      "rank": 65,
+      "id": "baos-pub",
+      "name": "Baos",
+      "url": "https://baos.pub/",
+      "country": "XX",
+      "score": 67.7,
+      "movement": "new",
+      "best_for": "startups, founders, and company building",
+      "reason": "Baos concentrates on startups, founders, and company building, with a discoverable feed, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://baos.pub/",
+        "https://baos.pub/feed"
+      ]
+    },
+    {
+      "rank": 66,
+      "id": "chriswinfield-com",
+      "name": "Chris Winfield",
+      "url": "https://chriswinfield.com/",
+      "country": "XX",
+      "score": 67.4,
+      "movement": "new",
+      "best_for": "small-business and entrepreneurial practice",
+      "reason": "Chris Winfield concentrates on small-business and entrepreneurial practice, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://chriswinfield.com/",
+        "https://www.chriswinfield.com/comments/feed/",
+        "https://www.chriswinfield.com/about/"
+      ]
+    },
+    {
+      "rank": 67,
+      "id": "500-co",
+      "name": "500 Global",
+      "url": "https://500.co/",
+      "country": "XX",
+      "score": 67.2,
+      "movement": "new",
+      "best_for": "startups, founders, and company building",
+      "reason": "500 Global concentrates on startups, founders, and company building, with a clearly defined editorial focus that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://500.co/"
+      ]
+    },
+    {
+      "rank": 68,
+      "id": "brianbalfour-com",
+      "name": "Brian Balfour",
+      "url": "https://brianbalfour.com/",
+      "country": "XX",
+      "score": 67.0,
+      "movement": "new",
+      "best_for": "business building and entrepreneurial judgment",
+      "reason": "Brian Balfour concentrates on business building and entrepreneurial judgment, with named authorship, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://brianbalfour.com/",
+        "https://brianbalfour.com/about"
+      ]
+    },
+    {
+      "rank": 69,
+      "id": "chrisneumann-com",
+      "name": "Chris Neumann",
+      "url": "https://chrisneumann.com/",
+      "country": "XX",
+      "score": 66.7,
+      "movement": "new",
+      "best_for": "startups, founders, and company building",
+      "reason": "Chris Neumann concentrates on startups, founders, and company building, with a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://chrisneumann.com/",
+        "https://chrisneumann.com/archives?format=rss"
+      ]
+    },
+    {
+      "rank": 70,
+      "id": "frugalentrepreneur-com",
+      "name": "Frugal Entrepreneur",
+      "url": "https://frugalentrepreneur.com/",
+      "country": "XX",
+      "score": 66.5,
+      "movement": "new",
+      "best_for": "small-business and entrepreneurial practice",
+      "reason": "Frugal Entrepreneur concentrates on small-business and entrepreneurial practice, with a visible article archive, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://frugalentrepreneur.com/",
+        "https://frugalentrepreneur.com/about/"
+      ]
+    },
+    {
+      "rank": 71,
+      "id": "epirus-vc",
+      "name": "Epirus Ventures",
+      "url": "https://epirus.vc/",
+      "country": "XX",
+      "score": 66.2,
+      "movement": "new",
+      "best_for": "startups, founders, and company building",
+      "reason": "Epirus Ventures concentrates on startups, founders, and company building, with clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://epirus.vc/",
+        "https://www.epirus.vc/about-the-blog"
+      ]
+    },
+    {
+      "rank": 72,
+      "id": "startupdigest-com",
+      "name": "Techstars",
+      "url": "https://startupdigest.com/",
+      "country": "XX",
+      "score": 66.2,
+      "movement": "new",
+      "best_for": "startups, founders, and company building",
+      "reason": "Techstars concentrates on startups, founders, and company building, with clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://startupdigest.com/",
+        "https://www.techstars.com/about"
+      ]
+    },
+    {
+      "rank": 73,
+      "id": "marcwayshak-com",
+      "name": "Sales Insights Lab",
+      "url": "https://marcwayshak.com/",
+      "country": "XX",
+      "score": 65.8,
+      "movement": "new",
+      "best_for": "business building and entrepreneurial judgment",
+      "reason": "Sales Insights Lab concentrates on business building and entrepreneurial judgment, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://marcwayshak.com/",
+        "https://salesinsightslab.com/5-critical-tips-selling-c-suite-buyer/feed/",
+        "https://salesinsightslab.com/lab-team/"
+      ]
+    },
+    {
+      "rank": 74,
+      "id": "venturehacks-com",
+      "name": "Venture Hacks",
+      "url": "https://venturehacks.com/",
+      "country": "XX",
+      "score": 65.8,
+      "movement": "new",
+      "best_for": "startups, founders, and company building",
+      "reason": "Venture Hacks concentrates on startups, founders, and company building, with a discoverable feed, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Authorship and editorial-policy information is less visible than on higher-ranked publications.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://venturehacks.com/",
+        "https://venturehacks.com/feed"
+      ]
+    },
+    {
+      "rank": 75,
+      "id": "basetemplates-com",
+      "name": "BaseTemplates: Pitch Deck & Fundraising Templates",
+      "url": "https://basetemplates.com/",
+      "country": "XX",
+      "score": 65.5,
+      "movement": "new",
+      "best_for": "startups, founders, and company building",
+      "reason": "BaseTemplates: Pitch Deck & Fundraising Templates concentrates on startups, founders, and company building, with a clearly defined editorial focus that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://basetemplates.com/"
+      ]
+    },
+    {
+      "rank": 76,
+      "id": "monique-vc",
+      "name": "monique.vc",
+      "url": "https://monique.vc/",
+      "country": "XX",
+      "score": 65.4,
+      "movement": "new",
+      "best_for": "startups, founders, and company building",
+      "reason": "monique.vc concentrates on startups, founders, and company building, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://monique.vc/",
+        "https://www.monique.vc/why-startup-founders-should-blog-even-if-they-dont-have-the-time/feed/",
+        "https://www.monique.vc/income-inequality-is-bad-for-startupsand-vcs-should-be-pissed-off-about-it/"
+      ]
+    },
+    {
+      "rank": 77,
+      "id": "getlighthouse-com",
+      "name": "Lighthouse Lessons - Management training programs for leaders",
+      "url": "https://getlighthouse.com/",
+      "country": "XX",
+      "score": 65.4,
+      "movement": "new",
+      "best_for": "leadership, management, and organizational work",
+      "reason": "Lighthouse Lessons - Management training programs for leaders concentrates on leadership, management, and organizational work, with named authorship that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://getlighthouse.com/",
+        "https://getlighthouse.com/blog/feed/",
+        "https://getlighthouse.com/blog/managing-expectations/"
+      ]
+    },
+    {
+      "rank": 78,
+      "id": "thevccorner-substack-com",
+      "name": "The VC Corner",
+      "url": "https://thevccorner.substack.com/",
+      "country": "XX",
+      "score": 65.2,
+      "movement": "new",
+      "best_for": "startups, founders, and company building",
+      "reason": "The VC Corner concentrates on startups, founders, and company building, with a discoverable feed that makes its current publishing work easier to evaluate.",
+      "limitation": "Authorship and editorial-policy information is less visible than on higher-ranked publications.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://thevccorner.substack.com/",
+        "https://www.thevccorner.com/feed"
+      ]
+    },
+    {
+      "rank": 79,
+      "id": "foundrmag-com",
+      "name": "Foundr",
+      "url": "https://foundrmag.com/",
+      "country": "XX",
+      "score": 64.9,
+      "movement": "new",
+      "best_for": "business building and entrepreneurial judgment",
+      "reason": "Foundr concentrates on business building and entrepreneurial judgment, with a discoverable feed, named authorship that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://foundrmag.com/",
+        "https://foundr.com/comments/feed",
+        "https://foundr.com/articles/leadership/founding-team"
+      ]
+    },
+    {
+      "rank": 80,
+      "id": "articles-bplans-com",
+      "name": "LivePlan",
+      "url": "https://articles.bplans.com/",
+      "country": "XX",
+      "score": 64.8,
+      "movement": "new",
+      "best_for": "leadership, management, and organizational work",
+      "reason": "LivePlan concentrates on leadership, management, and organizational work, with clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://articles.bplans.com/"
+      ]
+    },
+    {
+      "rank": 81,
+      "id": "mailbrew-com",
+      "name": "Mailbrew",
+      "url": "https://mailbrew.com/",
+      "country": "XX",
+      "score": 64.4,
+      "movement": "new",
+      "best_for": "small-business and entrepreneurial practice",
+      "reason": "Mailbrew concentrates on small-business and entrepreneurial practice, with a discoverable feed that makes its current publishing work easier to evaluate.",
+      "limitation": "Authorship and editorial-policy information is less visible than on higher-ranked publications.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://mailbrew.com/",
+        "https://mailbrew.com/rss.xml"
+      ]
+    },
+    {
+      "rank": 82,
+      "id": "live-businessinsider-com",
+      "name": "Live",
+      "url": "https://live.businessinsider.com/",
+      "country": "XX",
+      "score": 64.3,
+      "movement": "new",
+      "best_for": "business building and entrepreneurial judgment",
+      "reason": "Live concentrates on business building and entrepreneurial judgment, with named authorship, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://live.businessinsider.com/"
+      ]
+    },
+    {
+      "rank": 83,
+      "id": "mediasing-com",
+      "name": "MediaSing.com",
+      "url": "https://mediasing.com/",
+      "country": "XX",
+      "score": 64.2,
+      "movement": "new",
+      "best_for": "small-business and entrepreneurial practice",
+      "reason": "MediaSing.com concentrates on small-business and entrepreneurial practice, with a discoverable feed, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Its broad subject range can make depth and usefulness uneven across individual topics.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://mediasing.com/",
+        "https://mediasing.com/comments/feed/",
+        "https://mediasing.com/all-about-creativity-and-inspiration/"
+      ]
+    },
+    {
+      "rank": 84,
+      "id": "businesssecretsclub-com",
+      "name": "Business Secrets Club",
+      "url": "https://businesssecretsclub.com/",
+      "country": "XX",
+      "score": 64.0,
+      "movement": "new",
+      "best_for": "business building and entrepreneurial judgment",
+      "reason": "Business Secrets Club concentrates on business building and entrepreneurial judgment, with clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://businesssecretsclub.com/",
+        "https://www.businesssecretsclub.com/about"
+      ]
+    },
+    {
+      "rank": 85,
+      "id": "ebizfacts-beehiiv-com",
+      "name": "eBiz Insider – Business Ideas Newsletter",
+      "url": "https://ebizfacts.beehiiv.com/",
+      "country": "XX",
+      "score": 63.6,
+      "movement": "new",
+      "best_for": "business building and entrepreneurial judgment",
+      "reason": "eBiz Insider – Business Ideas Newsletter concentrates on business building and entrepreneurial judgment, with named authorship that makes its current publishing work easier to evaluate.",
+      "limitation": "Some complete material may require registration, membership, or a paid subscription.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://ebizfacts.beehiiv.com/"
+      ]
+    },
+    {
+      "rank": 86,
+      "id": "myfriendjanine-medium-com",
+      "name": "Myfriendjanine",
+      "url": "https://myfriendjanine.medium.com/",
+      "country": "XX",
+      "score": 63.1,
+      "movement": "new",
+      "best_for": "startups, founders, and company building",
+      "reason": "Myfriendjanine concentrates on startups, founders, and company building, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://myfriendjanine.medium.com/",
+        "https://medium.com/feed/@myfriendjanine"
+      ]
+    },
+    {
+      "rank": 87,
+      "id": "raohacker-com",
+      "name": "arun rao",
+      "url": "https://raohacker.com/",
+      "country": "XX",
+      "score": 63.1,
+      "movement": "new",
+      "best_for": "startups, founders, and company building",
+      "reason": "arun rao concentrates on startups, founders, and company building, with a discoverable feed, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Some complete material may require registration, membership, or a paid subscription.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://raohacker.com/",
+        "https://raohacker.com/comments/feed/"
+      ]
+    },
+    {
+      "rank": 88,
+      "id": "okdork-com",
+      "name": "Noah Kagan",
+      "url": "https://okdork.com/",
+      "country": "XX",
+      "score": 63.0,
+      "movement": "new",
+      "best_for": "business building and entrepreneurial judgment",
+      "reason": "Noah Kagan concentrates on business building and entrepreneurial judgment, with a discoverable feed, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://okdork.com/",
+        "https://noahkagan.com/comments/feed/"
+      ]
+    },
+    {
+      "rank": 89,
+      "id": "sujanpatel-com",
+      "name": "Sujan Patel",
+      "url": "https://sujanpatel.com/",
+      "country": "XX",
+      "score": 62.8,
+      "movement": "new",
+      "best_for": "small-business and entrepreneurial practice",
+      "reason": "Sujan Patel concentrates on small-business and entrepreneurial practice, with a discoverable feed, clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://sujanpatel.com/",
+        "https://sujanpatel.com/business/hard-work-lessons/feed/",
+        "https://sujanpatel.com/about/"
+      ]
+    },
+    {
+      "rank": 90,
+      "id": "robbierichards-com",
+      "name": "Robbie Richards",
+      "url": "https://robbierichards.com/",
+      "country": "XX",
+      "score": 61.8,
+      "movement": "new",
+      "best_for": "startups, founders, and company building",
+      "reason": "Robbie Richards concentrates on startups, founders, and company building, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://robbierichards.com/",
+        "https://www.robbierichards.com/comments/feed/"
+      ]
+    },
+    {
+      "rank": 91,
+      "id": "hackernewsletter-com",
+      "name": "Hacker Newsletter",
+      "url": "https://hackernewsletter.com/",
+      "country": "XX",
+      "score": 61.8,
+      "movement": "new",
+      "best_for": "startups, founders, and company building",
+      "reason": "Hacker Newsletter concentrates on startups, founders, and company building, with clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://hackernewsletter.com/"
+      ]
+    },
+    {
+      "rank": 92,
+      "id": "moneylab-co",
+      "name": "Recommendations",
+      "url": "https://moneylab.co/",
+      "country": "XX",
+      "score": 61.6,
+      "movement": "new",
+      "best_for": "business building and entrepreneurial judgment",
+      "reason": "Recommendations concentrates on business building and entrepreneurial judgment, with a clearly defined editorial focus that makes its current publishing work easier to evaluate.",
+      "limitation": "Some complete material may require registration, membership, or a paid subscription.",
+      "confidence": "standard",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://moneylab.co/"
+      ]
+    },
+    {
+      "rank": 93,
+      "id": "trends-co",
+      "name": "Trends by HubSpot",
+      "url": "https://trends.co/",
+      "country": "XX",
+      "score": 61.2,
+      "movement": "new",
+      "best_for": "small-business and entrepreneurial practice",
+      "reason": "Trends by HubSpot concentrates on small-business and entrepreneurial practice, with a clearly defined editorial focus that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://trends.co/"
+      ]
+    },
+    {
+      "rank": 94,
+      "id": "mavenadvisory-wordpress-com",
+      "name": "Maven Advisory",
+      "url": "https://mavenadvisory.wordpress.com/",
+      "country": "XX",
+      "score": 60.5,
+      "movement": "new",
+      "best_for": "startups, founders, and company building",
+      "reason": "Maven Advisory concentrates on startups, founders, and company building, with a discoverable feed, a visible article archive that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://mavenadvisory.wordpress.com/",
+        "https://mavenadvisory.wordpress.com/2016/08/24/the-10-blogs-all-entrepreneurs-should-be-reading/feed/",
+        "https://mavenadvisory.wordpress.com/about/"
+      ]
+    },
+    {
+      "rank": 95,
+      "id": "advertising-businessinsider-com",
+      "name": "Business Insider Advertising Right A",
+      "url": "https://advertising.businessinsider.com/",
+      "country": "XX",
+      "score": 59.7,
+      "movement": "new",
+      "best_for": "business building and entrepreneurial judgment",
+      "reason": "Business Insider Advertising Right A concentrates on business building and entrepreneurial judgment, with a clearly defined editorial focus that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://advertising.businessinsider.com/"
+      ]
+    },
+    {
+      "rank": 96,
+      "id": "newsletter-storytellingforentrepreneurs-com",
+      "name": "The Storytelling for Entrepreneurs Newsletter",
+      "url": "https://newsletter.storytellingforentrepreneurs.com/",
+      "country": "XX",
+      "score": 59.6,
+      "movement": "new",
+      "best_for": "startups, founders, and company building",
+      "reason": "The Storytelling for Entrepreneurs Newsletter concentrates on startups, founders, and company building, with clear ownership context that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://newsletter.storytellingforentrepreneurs.com/",
+        "https://newsletter.storytellingforentrepreneurs.com/p/what-teaching-skiing-taught-me-about-pitching"
+      ]
+    },
+    {
+      "rank": 97,
+      "id": "janine-substack-com",
+      "name": "Let's Start Up",
+      "url": "https://janine.substack.com/",
+      "country": "XX",
+      "score": 58.0,
+      "movement": "new",
+      "best_for": "startups, founders, and company building",
+      "reason": "Let's Start Up concentrates on startups, founders, and company building, with a discoverable feed that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://janine.substack.com/",
+        "https://janine.substack.com/feed"
+      ]
+    },
+    {
+      "rank": 98,
+      "id": "join-houck-news",
+      "name": "Houck's Newsletter",
+      "url": "https://join.houck.news/",
+      "country": "XX",
+      "score": 57.9,
+      "movement": "new",
+      "best_for": "startups, founders, and company building",
+      "reason": "Houck's Newsletter concentrates on startups, founders, and company building, with a clearly defined editorial focus that makes its current publishing work easier to evaluate.",
+      "limitation": "Publishing cadence is harder to verify because the site does not expose a discoverable RSS or Atom feed.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://join.houck.news/"
+      ]
+    },
+    {
+      "rank": 99,
+      "id": "foundingjourney-com",
+      "name": "Founding Journey",
+      "url": "https://foundingjourney.com/",
+      "country": "XX",
+      "score": 57.7,
+      "movement": "new",
+      "best_for": "startups, founders, and company building",
+      "reason": "Founding Journey concentrates on startups, founders, and company building, with named authorship that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://foundingjourney.com/"
+      ]
+    },
+    {
+      "rank": 100,
+      "id": "bloomingfounders-com",
+      "name": "Blooming Founders",
+      "url": "https://bloomingfounders.com/",
+      "country": "XX",
+      "score": 56.8,
+      "movement": "new",
+      "best_for": "startups, founders, and company building",
+      "reason": "Blooming Founders concentrates on startups, founders, and company building, with a discoverable feed that makes its current publishing work easier to evaluate.",
+      "limitation": "The latest parseable public date is older than the normal 180-day activity window, so its status needs closer review.",
+      "confidence": "provisional",
+      "reviewed_at": "2026-08-21",
+      "evidence_urls": [
+        "https://bloomingfounders.com/",
+        "https://bloomingfounders.com/comments/feed/"
+      ]
+    }
+  ]
+}
