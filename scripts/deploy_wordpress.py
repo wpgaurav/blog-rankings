@@ -4,6 +4,7 @@
 from __future__ import annotations
 
 import argparse
+import hashlib
 import json
 import shlex
 import subprocess
@@ -115,6 +116,24 @@ def remote_run(command: str, env: dict[str, str]) -> str:
     return result.stdout.strip()
 
 
+def install_server_cron(wp_root: str, backup: str, env: dict[str, str]) -> bool:
+    """Install one idempotent hourly runner while preserving the prior crontab."""
+    cron_line = (
+        f"17 * * * * {PHP} {WP} --path={wp_root} cron event run --due-now --quiet "
+        ">/dev/null 2>&1 # gatilab_blog_rankings_hourly"
+    )
+    previous = f"{backup}/crontab.before"
+    command = (
+        f"(crontab -l 2>/dev/null || true) > {shlex.quote(previous)} && "
+        f"chmod 600 {shlex.quote(previous)} && "
+        f"if ! grep -q gatilab_blog_rankings_hourly {shlex.quote(previous)}; then "
+        f"{{ cat {shlex.quote(previous)}; printf '%s\\n' {shlex.quote(cron_line)}; }} | crontab -; fi && "
+        "crontab -l 2>/dev/null | grep -q gatilab_blog_rankings_hourly"
+    )
+    remote_run(command, env)
+    return True
+
+
 def main() -> None:
     parser = argparse.ArgumentParser()
     parser.add_argument("--source-ref", required=True, help="Immutable Git commit used for preview JSON")
@@ -132,7 +151,8 @@ def main() -> None:
         raise RuntimeError("md-new is not the single active Gatilab theme")
 
     current_loader = remote_run(f"sha256sum {shlex.quote(theme + '/loader.php')} | cut -d' ' -f1", env)
-    if current_loader != EXPECTED_LOADER_SHA256:
+    desired_loader = hashlib.sha256((ROOT / "wordpress" / "md-new" / "loader.php").read_bytes()).hexdigest()
+    if current_loader not in {EXPECTED_LOADER_SHA256, desired_loader}:
         raise RuntimeError(f"Active loader.php changed since inspection: {current_loader}")
 
     stamp = time.strftime("%Y%m%d-%H%M%S")
@@ -178,6 +198,7 @@ def main() -> None:
     wp_command(["option", "update", "gatilab_br_source_base", source_base, "--autoload=no"], env)
     provision = wp_command(["eval-file", f"{remote_temp}/provision-pages.php"], env)
     refresh = wp_command(["eval", "$result = gatilab_br_refresh_all(); echo wp_json_encode($result);"], env)
+    server_cron = install_server_cron(wp_root, backup, env)
     wp_command(["cache", "flush"], env)
 
     verification = wp_command(
@@ -197,6 +218,7 @@ def main() -> None:
         "active_theme": active,
         "provision": json.loads(provision),
         "refresh": json.loads(refresh),
+        "server_cron": server_cron,
         "verification": json.loads(verification),
     }
     args.output.parent.mkdir(parents=True, exist_ok=True)
