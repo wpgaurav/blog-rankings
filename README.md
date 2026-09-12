@@ -1,5 +1,7 @@
 # Gatilab Blog Rankings
 
+[![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=flat&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/gauravtiwari)
+
 Gatilab Blog Rankings is a transparent, versioned award and research project for notable blogs worldwide.
 
 Each category has two separate tracks:
@@ -73,6 +75,16 @@ The compression manifest records dimensions, color channels, byte sizes, and SHA
 ## Independence
 
 Ranking positions are not sold, reserved, exchanged, or promised. Sponsorship may support the project only when it is clearly separated from the ranking system.
+
+## Support This Project
+
+The complete Top 100 for every Gatilab Blog Rankings track is in this repo and free to reuse under CC BY 4.0, along with the methodology, source records and monthly movement. Human reviewers score eligible finalists against the published rubric and every monthly edition goes through schema and link validation plus a reviewed pull request.
+
+If the full Top 100 lists helped you find blogs worth reading in a category you follow, you can buy me a coffee and it won't change where any blog ranks.
+
+<a href="https://buymeacoffee.com/gauravtiwari"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy me a coffee" height="50"></a>
+
+Starring the repo helps, and if you spot a wrong link or a blog that belongs in one of the categories, you can send a correction or a nomination through the issue forms.
 
 ## License
 
